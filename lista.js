@@ -74,7 +74,7 @@ if(document.getElementById("title").innerHTML == "Anunturi"){
   // ignore first 10 teachers
   for(var i=10; i<profesori.length; i++){
 	  var continut = document.getElementById("continut");
-    continut.innerHTML += '<div class="table-responsive tabel_lista" ><table class="table"><thead><tr><th scope="col">'+profesori[i][1]+'</th><th scope="col" class="stanga">Ofera meditatii la</th><th scope="col">Oras</th></tr></thead><tbody><tr><td rowspan="3"><a href="profil_profesori/profesor'+profesori[i][0]+'.html"><img src="img-profesori/'+profesori[i][14]+'" class="avatar_prof"></a></td> <td class="stanga">'+profesori[i][3]+'</td><td>'+profesori[i][10]+'</td></tr><tr><td class="stanga sus">Experienta: '+profesori[i][4]+'</td><td class="sus">Pret / 2h: '+profesori[i][7]+' lei</td></tr><tr><td class="stanga">Telefon: <a href="'+profesori[i][12]+'">'+profesori[i][12]+'</a></td><td>'+profesori[i][9]+'</td></tr></tbody></table></div>';
+    continut.innerHTML += '<div class="table-responsive tabel_lista" ><table class="table"><thead><tr><th scope="col">'+profesori[i][1]+'</th><th scope="col" class="stanga">Ofera meditatii la</th><th scope="col">Oras</th></tr></thead><tbody><tr><td rowspan="3"><a href="profil_profesori/profesor'+profesori[i][0]+'.html"><img src="img-profesori/'+profesori[i][14]+'" class="avatar_prof"></a></td> <td class="stanga">'+profesori[i][3]+'</td><td>'+profesori[i][10]+'</td></tr><tr><td class="stanga sus">Experienta: '+profesori[i][4]+'</td><td class="sus">Pret / 2h: '+profesori[i][7]+' lei</td></tr><tr><td class="stanga">Telefon: <span>'+profesori[i][12]+'</span></td><td>'+profesori[i][9]+'</td></tr></tbody></table></div>';
   }
 }
 
