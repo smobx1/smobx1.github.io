@@ -9,10 +9,10 @@
 	display:inline-block !important;
 }
 .new_pica{
-	
+	display:inline-block !important;
 }
 .new_anunturi{
-	
+	display:inline-block !important;
 }
 .new_uman{
 	
@@ -26,25 +26,26 @@
 .new_geografie{
 	
 }
-.new_info{
-	
-}
-.new_logica{
-	
-}
-.new_sociologie{
-	
-}
-.new_vegetala{
-	
-}
-.new_anato{
-	
-}
 .new_psiho{
 	
 }
 
+
+.new_info{
+	display:inline-block !important;
+}
+.new_logica{
+	display:inline-block !important;
+}
+.new_sociologie{
+	display:inline-block !important;
+}
+.new_vegetala{
+	display:inline-block !important;
+}
+.new_anato{
+	display:inline-block !important;
+}
 .new_economie{
-	
+	display:inline-block !important;
 }
