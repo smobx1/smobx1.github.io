@@ -3,26 +3,7 @@
 /*} */
 
 
-.new_lectii,
-.new_pica,
-.new_anunturi,
-.new_uman,
-.new_real,
-.new_istorie,
-.new_geografie,
-.new_info,
-.new_logica,
-.new_sociologie,
-.new_anato,
-.new_vegetala,
-.new_economie,
-.new_psiho{
-	border-radius:5px;
-	padding:1px;
-	height:36px;
-	margin-top:-5.5px;
-	margin-left:-32.5px;
-}
+
 
 .new_lectii{
 	
