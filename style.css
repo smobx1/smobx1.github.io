@@ -6,13 +6,13 @@
 
 
 .new_lectii{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_pica{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_anunturi{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_uman{
 	
@@ -32,20 +32,20 @@
 
 
 .new_info{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_logica{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_sociologie{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_vegetala{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_anato{
-	display:inline-block !important;
+	visibility: visible !important;
 }
 .new_economie{
-	display:inline-block !important;
+	visibility: visible !important;
 }
