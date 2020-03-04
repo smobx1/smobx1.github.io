@@ -1,6 +1,6 @@
-/*.lista_materii_index > li:nth-child(3){*/
-/*	display:none !important;*/
-/*} */
+.lista_materii_index > li:nth-child(3){
+	display:none !important;
+} 
 
 
 
