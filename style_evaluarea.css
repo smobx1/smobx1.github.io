@@ -1,1 +1,71 @@
-style_evaluarea.css
+.lista_materii_index > li:nth-child(3){
+	display:none !important;
+} 
+/* 3 = anunturi med */
+/* 6 = mate */
+/* 12 = economie */
+/* 13 = info */
+
+
+
+
+.new_lectii{
+	visibility: visible !important;
+}
+.new_pica{
+	/*visibility: visible !important;*/
+}
+.new_anunturi{
+	visibility: visible !important;
+}
+.new_uman{
+	/*visibility: visible !important;*/
+}
+.new_real{
+	/*visibility: visible !important;*/
+}
+.new_istorie{
+	/*visibility: visible !important;*/
+}
+.new_geografie{
+	/*visibility: visible !important;*/
+}
+.new_psiho{
+	visibility: visible !important;
+}
+.new_mate_m1{
+	visibility: visible !important;
+}
+.new_mate_m2_m3{
+	visibility: visible !important;
+}
+.new_chimie_organica{
+	visibility: visible !important;
+}
+.new_chimie_anorganica{
+	visibility: visible !important;
+}
+.new_info{
+	visibility: visible !important;
+}
+.new_logica{
+	visibility: visible !important;
+}
+.new_sociologie{
+	visibility: visible !important;
+}
+.new_vegetala{
+	visibility: visible !important;
+}
+.new_anato{
+	visibility: visible !important;
+}
+.new_economie{
+	visibility: visible !important;
+}
+.new_fizica{
+	visibility: visible !important;
+}
+.new_filosofie{
+	visibility: visible !important;
+}
