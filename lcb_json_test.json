@@ -4,7 +4,7 @@
     "previous": null, 
     "results": [
         {
-            "name": "20:38", 
+            "name": "merge?", 
             "height": "172", 
             "mass": "77", 
             "hair_color": "brunet", 
@@ -50,13 +50,6 @@
                 "http://swapi.dev/api/films/5/", 
                 "http://swapi.dev/api/films/6/"
             ], 
-            "species": [
-                "http://swapi.dev/api/species/2/"
-            ], 
-            "vehicles": [], 
-            "starships": [], 
-            "created": "2014-12-10T15:10:51.357000Z", 
-            "edited": "2014-12-20T21:17:50.309000Z", 
             "url": "http://swapi.dev/api/people/2/"
         }, 
         {
@@ -180,28 +173,7 @@
             "edited": "2014-12-20T21:17:50.319000Z", 
             "url": "http://swapi.dev/api/people/7/"
         }, 
-        {
-            "name": "R5-D4", 
-            "height": "97", 
-            "mass": "32", 
-            "hair_color": "n/a", 
-            "skin_color": "white, red", 
-            "eye_color": "red", 
-            "birth_year": "unknown", 
-            "gender": "n/a", 
-            "homeworld": "http://swapi.dev/api/planets/1/", 
-            "films": [
-                "http://swapi.dev/api/films/1/"
-            ], 
-            "species": [
-                "http://swapi.dev/api/species/2/"
-            ], 
-            "vehicles": [], 
-            "starships": [], 
-            "created": "2014-12-10T15:57:50.959000Z", 
-            "edited": "2014-12-20T21:17:50.321000Z", 
-            "url": "http://swapi.dev/api/people/8/"
-        }, 
+        
         {
             "name": "Biggs Darklighter", 
             "height": "183", 
