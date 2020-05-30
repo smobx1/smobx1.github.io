@@ -4,7 +4,7 @@
     "previous": null, 
     "results": [
         {
-            "name": "merge?", 
+            "name": "Label 1", 
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
@@ -14,7 +14,7 @@
             "url": "http://swapi.dev/api/people/1/"
         }, 
         {
-            "name": "merge?", 
+            "name": "Label 2", 
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
@@ -24,7 +24,7 @@
             "url": "http://swapi.dev/api/people/1/"
         }, 
         {
-            "name": "merge?", 
+            "name": "Label 3", 
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
@@ -34,7 +34,7 @@
             "url": "http://swapi.dev/api/people/1/"
         }, 
         {
-            "name": "merge?", 
+            "name": "Label 4", 
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
