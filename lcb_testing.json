@@ -12,7 +12,7 @@ Allow: GET, HEAD, OPTIONS
             "name": "Luke Skywalker", 
             "height": "172", 
             "mass": "77", 
-            "hair_color": "blond", 
+            "hair_color": "brunet", 
             "skin_color": "fair", 
             "eye_color": "blue", 
             "birth_year": "19BBY", 
