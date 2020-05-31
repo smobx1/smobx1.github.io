@@ -6,46 +6,41 @@
         {
             "name": "Label 1", 
             "probability": 50,
-            "starships": [
-                "http://swapi.dev/api/starships/12/", 
-                "http://swapi.dev/api/starships/22/"
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
             ], 
-            "created": "2014-12-09T13:50:51.644000Z", 
-            "edited": "2014-12-20T21:17:56.891000Z", 
-            "url": "http://swapi.dev/api/people/1/"
+            "past_5_years": "2"
         }, 
         {
-            "name": "Label 2", 
-            "probability": 25,
-            "starships": [
-                "http://swapi.dev/api/starships/12/", 
-                "http://swapi.dev/api/starships/22/"
+            
+            "name": "Label 1", 
+            "probability": 50,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
             ], 
-            "created": "2014-12-09T13:50:51.644000Z", 
-            "edited": "2014-12-20T21:17:56.891000Z", 
-            "url": "http://swapi.dev/api/people/1/"
+            "past_5_years": "2"
         }, 
         {
-            "name": "Label 3", 
-            "probability": 66,
-            "starships": [
-                "http://swapi.dev/api/starships/12/", 
-                "http://swapi.dev/api/starships/22/"
+            
+            "name": "Label 1", 
+            "probability": 50,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
             ], 
-            "created": "2014-12-09T13:50:51.644000Z", 
-            "edited": "2014-12-20T21:17:56.891000Z", 
-            "url": "http://swapi.dev/api/people/1/"
+            "past_5_years": "2"
         }, 
         {
-            "name": "Label 4", 
-            "probability": 10,
-            "starships": [
-                "http://swapi.dev/api/starships/12/", 
-                "http://swapi.dev/api/starships/22/"
+            
+            "name": "Label 1", 
+            "probability": 50,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
             ], 
-            "created": "2014-12-09T13:50:51.644000Z", 
-            "edited": "2014-12-20T21:17:56.891000Z", 
-            "url": "http://swapi.dev/api/people/1/"
+            "past_5_years": "2"
         }
     ]
 }
