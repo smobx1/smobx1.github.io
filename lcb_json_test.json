@@ -5,7 +5,7 @@
     "results": [
         {
             "name": "Label 1", 
-            "probability": 50,
+            "probability": 75,
             "question_type": [
                 "Roman interbelic", 
                 "Opera Eminescu"
@@ -15,7 +15,7 @@
         {
             
             "name": "Label 1", 
-            "probability": 50,
+            "probability": 22,
             "question_type": [
                 "Roman interbelic", 
                 "Opera Eminescu"
@@ -25,7 +25,7 @@
         {
             
             "name": "Label 1", 
-            "probability": 50,
+            "probability": 99,
             "question_type": [
                 "Roman interbelic", 
                 "Opera Eminescu"
@@ -35,7 +35,7 @@
         {
             
             "name": "Label 1", 
-            "probability": 50,
+            "probability": 5,
             "question_type": [
                 "Roman interbelic", 
                 "Opera Eminescu"
