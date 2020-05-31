@@ -5,7 +5,7 @@
     "results": [
         {
             "name": "Label 1", 
-            "probability": "98%",
+            "probability": 98,
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
@@ -16,7 +16,7 @@
         }, 
         {
             "name": "Label 2", 
-            "probability": "98%",
+            "probability": 98,
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
@@ -38,7 +38,7 @@
         }, 
         {
             "name": "Label 4", 
-            "probability": "98%",
+            "probability": 98,
             "starships": [
                 "http://swapi.dev/api/starships/12/", 
                 "http://swapi.dev/api/starships/22/"
