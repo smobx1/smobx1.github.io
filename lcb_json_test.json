@@ -2,16 +2,10 @@
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
     "previous": null, 
-    "altele": [
-        {
-            "epic": 40, 
-            "liric": 60
-        }
-    ],
     "results": [
         {
-            "epic": 25,
-            "liric": 75
+            "epic": 75, // asta se ia in app
+            "liric": 25 // degeaba
         }, 
         {
             "name": "Label 1", 
