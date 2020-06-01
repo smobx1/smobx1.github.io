@@ -2,7 +2,7 @@
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
     "previous": null, 
-    "results": [
+    "stats1": [
         {
             "epic": 75, 
             "liric": 25 
