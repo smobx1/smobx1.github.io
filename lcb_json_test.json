@@ -4,8 +4,8 @@
     "previous": null, 
     "results": [
         {
-            "epic": 75, // asta se ia in app
-            "liric": 25 // degeaba
+            "epic": 75, 
+            "liric": 25 
         }, 
         {
             "name": "Label 1", 
