@@ -2,6 +2,8 @@
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
     "previous": null, 
+    "epic":40,
+    "liric":60,
     "results": [
         {
             "name": "Label 1", 
