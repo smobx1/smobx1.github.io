@@ -1,32 +1,32 @@
 .ro1{width:90%;}
 .ro2{width:10%;}
-.ro3{width:14%;}
-.ro4{width:76%;}
+.ro3{width:46%;}
+.ro4{width:6%;}
 .ro5{width:65%;}
 .ro6{width:23%;}
 .ro7{width:40%;}
-.ro8{width:60%;}
-.ro9{width:40%;}
-.ro10{width:40%;}
-.ro11{width:22%;}
-.ro12{width:30%;}
+.ro8{width:75%;}
+.ro9{width:17%;}
+.ro10{width:40%;} /* Omonimia */
+.ro11{width:12%;}
+.ro12{width:60%;}
 .ro13{width:40%;}
-.ro14{width:30%;}
-.ro15{width:60%;}
+.ro14{width:80%;}
+.ro15{width:67%;}
 .ro16{width:50%;}
-.ro17{width:30%;}
+.ro17{width:60%;}
 .ro18{width:20%;}
-.ro19{width:30%;}
-.ro20{width:40%;}
-.ro21{width:10%;}
-.ro22{width:10%;}
+.ro19{width:4%;}
+.ro20{width:80%;} /* Genul Epic */
+.ro21{width:30%;} /* Genul Liric */
+.ro22{width:90%;} /* Substantivul */
 .ro23{width:40%;}
-.ro24{width:0%;}
-.ro25{width:40%;}
-.ro26{width:40%;}
+.ro24{width:33%;}  /* Pronumele */
+.ro25{width:8%;}
+.ro26{width:70%;}
 .ro27{width:40%;}
 .ro28{width:31%;}
-.ro29{width:12%;}
+.ro29{width:6%;}
 .ro30{width:40%;}
 .ro31{width:10%;}
 .ro32{width:30%;}
@@ -34,5 +34,5 @@
 .ro34{width:40%;}
 .ro35{width:45%;}
 .ro36{width:33%;}
-.ro37{width:87%;}
+.ro37{width:87%;} /* Propozitii subordonate */
 .ro38{width:80%;}
