@@ -10,6 +10,10 @@
     ],
     "results": [
         {
+            "epic": 25,
+            "liric": 75
+        }, 
+        {
             "name": "Label 1", 
             "probability": 75,
             "question_type": [
