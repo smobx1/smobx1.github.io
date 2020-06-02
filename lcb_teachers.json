@@ -8,7 +8,7 @@
             "first_name": "Mihnea",
             "last_name": "Moldoveanu",
             "age": 24,
-            "description": "lorem ipsum description",
+            "description": "lorem ipsum description MNM",
             "teaches":"Math, physics and chemistry",
             "experience":4,
             "phone":"+40729029010",
@@ -19,17 +19,17 @@
         },
         {
             "id": 2, 
-            "first_name": "Mihnea",
-            "last_name": "Moldoveanu",
-            "age": 24,
-            "description": "lorem ipsum description",
-            "teaches":"Math, physics and chemistry",
-            "experience":4,
-            "phone":"+40729029010",
+            "first_name": "Ana",
+            "last_name": "Liza",
+            "age": 23,
+            "description": "lorem ipsum description ANA LIZA",
+            "teaches":"English",
+            "experience":5,
+            "phone":"+40729029022",
             "city":"Bucharest",
             "location":"Domiciliul meu sau al tau",
             "online":"Disponibil si online",
-            "price": 120
+            "price": 150
         }
         
     ]
