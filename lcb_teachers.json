@@ -15,7 +15,7 @@
             "phone":"+40729029010",
             "city":"Bucharest",
             "location":"Domiciliul meu sau al tau",
-            "online":"Disponibil si online",
+            "online":"Da",
             "price": "120 / doua ore"
         },
         {
@@ -30,7 +30,7 @@
             "phone":"+40729029022",
             "city":"Bucharest",
             "location":"Domiciliul meu sau al tau",
-            "online":"Disponibil si online",
+            "online":"Nu",
             "price": "150 / ora"
         }
         
