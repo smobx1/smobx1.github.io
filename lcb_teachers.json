@@ -15,7 +15,7 @@
             "city":"Bucharest",
             "location":"Domiciliul meu sau al tau",
             "online":"Disponibil si online",
-            "price": 120
+            "price": "120 / doua ore"
         },
         {
             "id": 2, 
@@ -29,7 +29,7 @@
             "city":"Bucharest",
             "location":"Domiciliul meu sau al tau",
             "online":"Disponibil si online",
-            "price": 150
+            "price": "150 / ora"
         }
         
     ]
