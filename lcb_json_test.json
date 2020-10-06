@@ -2,7 +2,11 @@
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
     "previous": null, 
-    "dataExamen": "2021-06-06", 
+    "altele": [
+        {
+            "dataExamen": "2021-04-04" 
+        }
+    ], 
     "stats1": [
         {
             "epic": 75, 
