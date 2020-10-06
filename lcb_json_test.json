@@ -2,6 +2,7 @@
     "count": 82, 
     "next": "http://swapi.dev/api/people/?page=2", 
     "previous": null, 
+    "dataExamen": '2021-06-06', 
     "stats1": [
         {
             "epic": 75, 
@@ -139,5 +140,6 @@
             "past_5_years": "2"
         }
     ]
+    
     
 }
