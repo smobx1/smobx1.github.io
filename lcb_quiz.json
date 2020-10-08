@@ -7,97 +7,27 @@
             "dataExamen": "2021-07-01" 
         }
     ], 
-    "stats1": [
+    "c1_quiz1": [
         {
-            "epic": 75, 
-            "liric": 25 
+            "Question1": "Cat fac 2+2?", 
+            "Choice 1": "2",
+            "Choice 2": "3",             
+            "Choice 3": "5",
+            "Choice 4": "4",
+            "Choice 5": "8",
+            "Answer":"4"
         }, 
         {
-            "name": "Label 1", 
-            "probability": 75,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
+            "Question2": "Cat fac 10*10?", 
+            "Choice 1": "100",
+            "Choice 2": "3",              
+            "Choice 3": "5",
+            "Choice 4": "4",
+            "Choice 5": "8",
+            "Answer":"100"
         }, 
-        {
-            
-            "name": "Label 1", 
-            "probability": 22,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Label 1", 
-            "probability": 99,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Label 1", 
-            "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }
     ],
     
-    "stats2": [
-        {
-            "epic": 33, 
-            "liric": 67 
-        }, 
-        {
-            "name": "Stats 2", 
-            "probability": 75,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Stats 2", 
-            "probability": 22,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Label 1", 
-            "probability": 99,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Stats 2", 
-            "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
-            "past_5_years": "2"
-        }
-    ],
     
     "stats3": [
         {
