@@ -1,0 +1,149 @@
+{
+    "count": 82, 
+    "next": "http://swapi.dev/api/people/?page=2", 
+    "previous": null, 
+    "altele": [
+        {
+            "dataExamen": "2021-07-01" 
+        }
+    ], 
+    "stats1": [
+        {
+            "epic": 75, 
+            "liric": 25 
+        }, 
+        {
+            "name": "Label 1", 
+            "probability": 75,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Label 1", 
+            "probability": 22,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Label 1", 
+            "probability": 99,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Label 1", 
+            "probability": 5,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }
+    ],
+    
+    "stats2": [
+        {
+            "epic": 33, 
+            "liric": 67 
+        }, 
+        {
+            "name": "Stats 2", 
+            "probability": 75,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Stats 2", 
+            "probability": 22,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Label 1", 
+            "probability": 99,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Stats 2", 
+            "probability": 5,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }
+    ],
+    
+    "stats3": [
+        {
+            "epic": 50, 
+            "liric": 50 
+        }, 
+        {
+            "name": "Stats 3", 
+            "probability": 20,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Stats 3", 
+            "probability": 22,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Label 1", 
+            "probability": 99,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Stats 3", 
+            "probability": 5,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        }
+    ]
+    
+    
+}
