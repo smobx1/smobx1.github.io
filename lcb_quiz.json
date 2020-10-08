@@ -1,12 +1,4 @@
 {
-    "count": 82, 
-    "next": "http://swapi.dev/api/people/?page=2", 
-    "previous": null, 
-    "altele": [
-        {
-            "dataExamen": "2021-07-01" 
-        }
-    ], 
     "c1_quiz1": [
         {
             "Question1": "Cat fac 2+2?", 
