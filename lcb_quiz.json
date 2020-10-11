@@ -29,15 +29,65 @@
         {
             "c1_quiz1": [
                 {
-                    "question1": "Asta e cursul doi? buuun", 
+                    "question1": "Asta e cursul 1? buuun", 
                     "choice1":"1",
                     "choice2":"2",
                     "choice3":"3",
                     "choice4":"4",
                     "choice5":"5",
                     "answer":"4"
-                }
+                },
+                {
+                    "question2": "Asta e intrebarea 2?", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                },
+                {
+                    "question3": "Asta e intrebarea 3!", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                },
+                
+            ],
+            "c2_quiz1": [
+                {
+                    "question1": "Asta e cursul doi!!", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                },
+                {
+                    "question2": "Cursul doi intrebarea 2", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                },
+                {
+                    "question3": "Asta e intrebarea 3!", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                },
+                
             ]
+            
         }
         
     ]
