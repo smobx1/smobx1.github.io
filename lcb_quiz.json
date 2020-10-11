@@ -24,8 +24,23 @@
             "answer":"4"
         }
         
+    ],
+    "quizzes": [
+        {
+            "c1_quiz1": [
+                {
+                    "question1": "Asta e cursul doi? buuun", 
+                    "choice1":"1",
+                    "choice2":"2",
+                    "choice3":"3",
+                    "choice4":"4",
+                    "choice5":"5",
+                    "answer":"4"
+                }
+            ]
+        }
+        
     ]
-    
     
     
 }
