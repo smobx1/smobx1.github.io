@@ -13,17 +13,13 @@
             "liric": 20 
         }, 
         {
-            "name": "Label 1", 
+            "name": "Luceafărul / Floare albastră", 
             "probability": 75,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
             "past_5_years": "2"
         }, 
         {
             
-            "name": "Label 1", 
+            "name": "", 
             "probability": 22,
             "question_type": [
                 "Roman interbelic", 
@@ -33,17 +29,43 @@
         }, 
         {
             
-            "name": "Label 1", 
-            "probability": 99,
+            "name": "Plumb / Lacustră", 
+            "probability": 34,
+            "past_5_years": "2"
+        }, 
+        {
+            
+            "name": "Flori de mucigai / Testament / Riga Crypto și lapona Enigel", 
+            "probability": 5,
             "question_type": [
                 "Roman interbelic", 
                 "Opera Eminescu"
             ], 
             "past_5_years": "2"
-        }, 
+        },
         {
             
-            "name": "Label 1", 
+            "name": "Flori de mucigai / Testament / Riga Crypto și lapona Enigel", 
+            "probability": 5,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        },
+        {
+            
+            "name": "Eu nu strivesc corola de minuni a lumii", 
+            "probability": 5,
+            "question_type": [
+                "Roman interbelic", 
+                "Opera Eminescu"
+            ], 
+            "past_5_years": "2"
+        },
+        {
+            
+            "name": "Leoaică tânără, iubirea... ", 
             "probability": 5,
             "question_type": [
                 "Roman interbelic", 
@@ -59,7 +81,7 @@
             "liric": 67 
         }, 
         {
-            "name": "Stats 2", 
+            "name": "", 
             "probability": 75,
             "question_type": [
                 "Roman interbelic", 
@@ -69,7 +91,7 @@
         }, 
         {
             
-            "name": "Stats 2", 
+            "name": "", 
             "probability": 22,
             "question_type": [
                 "Roman interbelic", 
