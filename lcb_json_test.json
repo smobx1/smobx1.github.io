@@ -10,7 +10,8 @@
     "stats1": [
         {
             "epic": 80, 
-            "liric": 20
+            "liric": 20,
+            "probability":10
         }, 
         {
             "name": "Luceafărul / Floare albastră", 
