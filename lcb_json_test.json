@@ -11,98 +11,20 @@
         {
             "epic": 80, 
             "liric": 20,
-            "probability": 0
+            probability: 0
         }, 
         {
             "name": "Luceafărul / Floare albastră", 
-            "probability": 75,
+            probability: 75,
             "past_5_years": "2"
         }, 
         {
             
             "name": "Alexandru Lăpușneanul", 
-            "probability": 22,
-            "past_5_years": "2"
-        }, 
-        { 
-            "name": "Plumb", 
-            "probability": 34,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Harap Alb", 
-            "probability": 66,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Enigma Otiliei", 
-            "probability": 3,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Aci sosi pe vremuri", 
-            "probability": 34,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Moromeții", 
-            "probability": 34,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Patul lui Procust", 
-            "probability": 64,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Baltagul", 
-            "probability": 34,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Moara cu Noroc", 
-            "probability": 87,
-            "past_5_years": "2"
-        },
-        { 
-            "name": "Lacustră", 
-            "probability": 34,
-            "past_5_years": "2"
-        },
-        {  
-            "name": "Flori de mucigai", 
-            "probability": 5,
-            "past_5_years": "2"
-        },
-        {
-            
-            "name": "Testament", 
-            "probability": 5,
-            "past_5_years": "2"
-        },
-        {  
-            "name": "Riga Crypto și lapona Enigel", 
-            "probability": 5,
-            "past_5_years": "2"
-        },
-        {
-            
-            "name": "Ion", 
-            "probability": 5,
-            "past_5_years": "2"
-        },
-        {
-            
-            "name": "Eu nu strivesc corola de minuni a lumii", 
-            "probability": 5,
-            "past_5_years": "2"
-        },
-        {
-            
-            "name": "Leoaică tânără, iubirea... ", 
-            "probability": 5,
+            probability: 22,
             "past_5_years": "2"
         }
+        
     ],
     
     "stats2": [
