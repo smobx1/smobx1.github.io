@@ -30,12 +30,12 @@
         },
         { 
             "name": "Harap Alb", 
-            "probability": 34,
+            "probability": 66,
             "past_5_years": "2"
         },
         { 
             "name": "Enigma Otiliei", 
-            "probability": 34,
+            "probability": 3,
             "past_5_years": "2"
         },
         { 
@@ -50,7 +50,7 @@
         },
         { 
             "name": "Patul lui Procust", 
-            "probability": 34,
+            "probability": 64,
             "past_5_years": "2"
         },
         { 
@@ -60,7 +60,7 @@
         },
         { 
             "name": "Moara cu Noroc", 
-            "probability": 34,
+            "probability": 87,
             "past_5_years": "2"
         },
         { 
