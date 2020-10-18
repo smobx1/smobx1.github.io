@@ -21,56 +21,85 @@
             
             "name": "", 
             "probability": 22,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
             "past_5_years": "2"
         }, 
-        {
-            
-            "name": "Plumb / Lacustră", 
+        { 
+            "name": "Plumb", 
             "probability": 34,
             "past_5_years": "2"
-        }, 
-        {
-            
-            "name": "Flori de mucigai / Testament / Riga Crypto și lapona Enigel", 
+        },
+        { 
+            "name": "Harap Alb", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Enigma Otiliei", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Aci sosi pe vremuri", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Moromeții", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Patul lui Procust", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Baltagul", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Moara cu Noroc", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        { 
+            "name": "Lacustră", 
+            "probability": 34,
+            "past_5_years": "2"
+        },
+        {  
+            "name": "Flori de mucigai", 
             "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
             "past_5_years": "2"
         },
         {
             
-            "name": "Flori de mucigai / Testament / Riga Crypto și lapona Enigel", 
+            "name": "Testament", 
             "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
+            "past_5_years": "2"
+        },
+        {  
+            "name": "Riga Crypto și lapona Enigel", 
+            "probability": 5,
+            "past_5_years": "2"
+        },
+        {
+            
+            "name": "Ion", 
+            "probability": 5,
             "past_5_years": "2"
         },
         {
             
             "name": "Eu nu strivesc corola de minuni a lumii", 
             "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
             "past_5_years": "2"
         },
         {
             
             "name": "Leoaică tânără, iubirea... ", 
             "probability": 5,
-            "question_type": [
-                "Roman interbelic", 
-                "Opera Eminescu"
-            ], 
             "past_5_years": "2"
         }
     ],
