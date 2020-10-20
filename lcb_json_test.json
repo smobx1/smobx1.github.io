@@ -14,6 +14,13 @@
       "probability": 100
     },
     {
+      "2019-uman": 'Varianta 1',
+      "2019-real": 'Varianta 3',
+      "2018-uman": 'Varianta 2',
+      "2018-real": 'Varianta 4',
+      "probability": 100
+    },
+    {
       "name": "Luceafărul / Floare albastră",
       "probability": 34,
       "past_2_years": "1",
