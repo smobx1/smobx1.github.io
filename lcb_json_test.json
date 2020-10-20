@@ -9,6 +9,16 @@
   ],
   "history": [
     {
+      "an": "2020",
+      "statistica": "Romana Uman",
+      "varianta": "1"
+    },
+    {
+      "an": "2020",
+      "statistica": "Romana Real",
+      "varianta": "2"
+    },
+    {
       "an": "2019",
       "statistica": "Romana Uman",
       "varianta": "1"
@@ -16,17 +26,27 @@
     {
       "an": "2019",
       "statistica": "Romana Real",
-      "varianta": "2"
+      "varianta": "4"
     },
     {
       "an": "2018",
       "statistica": "Romana Uman",
-      "varianta": "3"
+      "varianta": "2"
     },
     {
       "an": "2018",
       "statistica": "Romana Real",
-      "varianta": "4"
+      "varianta": "1"
+    },
+    {
+      "an": "2017",
+      "statistica": "Romana Uman",
+      "varianta": "3"
+    },
+    {
+      "an": "2017",
+      "statistica": "Romana Real",
+      "varianta": "2"
     }
   ],
   "stats1": [
