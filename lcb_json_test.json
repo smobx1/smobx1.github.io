@@ -13,11 +13,11 @@
       "liric": 20,
       "history": [
         {
-        "2019-uman": "Varianta 1",
-        "2019-real": "Varianta 3",
-        "2018-uman": "Varianta 2",
-        "2018-real": "Varianta 4"
-        },
+          "2019-uman": "Varianta 1",
+          "2019-real": "Varianta 3",
+          "2018-uman": "Varianta 2",
+          "2018-real": "Varianta 4"
+        }
       ],
       "probability": 100
     },
