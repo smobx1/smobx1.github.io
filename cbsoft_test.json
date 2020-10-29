@@ -1,0 +1,10 @@
+{
+  "count": 82,
+  "next": "http://swapi.dev/api/people/?page=2",
+  "previous": null,
+  "altele": [
+    {
+      "dataExamen": "2021-07-01"
+    }
+  ]
+}
