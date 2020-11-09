@@ -1,127 +1,124 @@
 {
-    "app_name": "Cocosul Rosu",
-    "identifier": "uuid",
-    "colours":{
-        "primary": "#asdasd",
-        "secondary": "#asdasd"
+  "app_name": "Cocosul Rosu",
+  "identifier": "uuid",
+  "colours":{
+    "primary": "#asdasd",
+    "secondary": "#asdasd"
+  },
+  "features": [
+    {
+      "welcome_screen_images" : [
+        {
+          "url1": "https://test.com"
+        },
+        {
+          "url2": "https://test.com"
+        },
+        {
+          "url3": "https://test.com"
+        }
+      ]
     },
-    "features": [
+    {
+      "pages": [
         {
-            "welcome_screen_images" : [
-                {
-                    "url1": "https://test.com"
-                },
-                {
-                    "url2": "https://test.com"
-                },
-                {
-                    "url3": "https://test.com"
-                }
-            ]
-        },
-        {
-            "pages": [
-                {
-                    "name" : "Termeni si conditii",
-                    "content": "raw html"
-                }
-            ]
-        },
-        {
-            "free_transport":"yes"
+          "name" : "Termeni si conditii",
+          "content": "raw html"
         }
+      ]
+    },
+    {
+      "free_transport":"yes"
+    }
 
-    ],
-    "brands":[
+  ],
+  "brands":[
+    {
+      "name": "Cocosul Rosu",
+      "logo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
+      "description": "",
+      "available_hours": {
+        "1": "9:00-24:00",
+        "2": "9:00-24:00",
+        "3": "9:00-24:00",
+        "4": "9:00-24:00",
+        "5": "9:00-24:00",
+        "6": "9:00-24:00",
+        "7": "9:00-24:00"
+      },
+      "offers": ["url1", "url2"],
+      "phone": "000",
+      "estimated_delivery_time": "30:00",
+      "menu":[
         {
-            "name": "Cocosul Rosu",
-            "logo": "url",
-            "description": "",
-            "available_hours": {
-                "1": "9:00-24:00",
-                "2": "9:00-24:00",
-                "3": "9:00-24:00",
-                "4": "9:00-24:00",
-                "5": "9:00-24:00",
-                "6": "9:00-24:00",
-                "7": "9:00-24:00"
-            },
-            "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
-            "offers": ["url1", "url2"],
-            "phone": "000",
-            "estimated_delivery_time": "30:00",
-            "menu":[
-                {
-                    "name": "Category 1",
-                    "photo": "url",
-                    "description": "description",
-                    "items": [
-                        {
-                            "name": "Product name",
-                            "image": "url",
-                            "variations": {
-                                "#TBD": "todo"
-                            },
-                            "price": "20.02"
+          "name": "Category 1",
+          "photo": "url",
+          "description": "description",
+          "items": [
+            {
+              "name": "Product name",
+              "image": "url",
+              "variations": {
+                "#TBD": "todo"
+              },
+              "price": "20.02"
 
-                        }
-                    ]
-                },
-                {
-                    "name": "Category 2",
-                    "photo": "url",
-                    "description": "description",
-                    "items": [
-
-                    ]
-                }
-            ]
+            }
+          ]
         },
         {
-            "name": "Cocosul Rosu 2 TEST",
-            "logo": "url",
-            "description": "",
-            "available_hours": {
-                "1": "9:00-24:00",
-                "2": "9:00-24:00",
-                "3": "9:00-24:00",
-                "4": "9:00-24:00",
-                "5": "9:00-24:00",
-                "6": "9:00-24:00",
-                "7": "9:00-24:00"
-            },
-            "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
-            "offers": ["url1", "url2"],
-            "phone": "000",
-            "estimated_delivery_time": "30:00",
-            "menu":[
-                {
-                    "name": "Category 1",
-                    "photo": "url",
-                    "description": "description",
-                    "items": [
-                        {
-                            "name": "Product name",
-                            "image": "url",
-                            "variations": {
-                                "#TBD": "todo"
-                            },
-                            "price": "20.02"
+          "name": "Category 2",
+          "photo": "url",
+          "description": "description",
+          "items": [
 
-                        }
-                    ]
-                },
-                {
-                    "name": "Category 2",
-                    "photo": "url",
-                    "description": "description",
-                    "items": [
-
-                    ]
-                }
-            ]
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "name": "Cocosul Rosu 2 TEST",
+      "logo": "url",
+      "description": "",
+      "available_hours": {
+        "1": "9:00-24:00",
+        "2": "9:00-24:00",
+        "3": "9:00-24:00",
+        "4": "9:00-24:00",
+        "5": "9:00-24:00",
+        "6": "9:00-24:00",
+        "7": "9:00-24:00"
+      },
+      "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
+      "offers": ["url1", "url2"],
+      "phone": "000",
+      "estimated_delivery_time": "30:00",
+      "menu":[
+        {
+          "name": "Category 1",
+          "photo": "url",
+          "description": "description",
+          "items": [
+            {
+              "name": "Product name",
+              "image": "url",
+              "variations": {
+                "#TBD": "todo"
+              },
+              "price": "20.02"
+
+            }
+          ]
+        },
+        {
+          "name": "Category 2",
+          "photo": "url",
+          "description": "description",
+          "items": [
+
+          ]
+        }
+      ]
+    }
+  ]
 }
-
-
