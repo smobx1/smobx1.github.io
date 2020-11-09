@@ -46,6 +46,7 @@
                 "6": "9:00-24:00",
                 "7": "9:00-24:00"
             },
+            "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
             "offers": ["url1", "url2"],
             "phone": "000",
             "estimated_delivery_time": "30:00",
