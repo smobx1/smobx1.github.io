@@ -46,7 +46,7 @@
         "6": "9:00-24:00",
         "7": "9:00-24:00"
       },
-      "offers": ["url1", "url2"],
+      "offers": ["https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg", "https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg"],
       "phone": "000",
       "estimated_delivery_time": "30:00",
       "menu":[
