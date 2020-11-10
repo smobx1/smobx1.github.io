@@ -59,6 +59,7 @@
             {
               "name": "Product name 1",
               "image": "url",
+              "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
               },
@@ -68,6 +69,7 @@
             {
               "name": "Product name 2",
               "image": "url",
+              "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
               },
@@ -77,6 +79,7 @@
             {
               "name": "Product name 3",
               "image": "url",
+              "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
               },
