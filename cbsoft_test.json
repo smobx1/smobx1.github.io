@@ -57,7 +57,25 @@
           "description": "description",
           "items": [
             {
-              "name": "Product name",
+              "name": "Product name 1",
+              "image": "url",
+              "variations": {
+                "#TBD": "todo"
+              },
+              "price": "20.02"
+
+            },
+            {
+              "name": "Product name 2",
+              "image": "url",
+              "variations": {
+                "#TBD": "todo"
+              },
+              "price": "20.02"
+
+            },
+            {
+              "name": "Product name 3",
               "image": "url",
               "variations": {
                 "#TBD": "todo"
