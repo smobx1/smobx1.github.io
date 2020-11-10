@@ -52,8 +52,8 @@
       "estimated_delivery_time": "30:00",
       "menu":[
         {
-          "name": "Category 1",
-          "photo": "url",
+          "name": "Burgers",
+          "photo": "https://twisper.com/wp-content/uploads/2020/03/close-up-photo-of-burger-3915906-scaled.jpg",
           "description": "description",
           "items": [
             {
@@ -89,8 +89,8 @@
           ]
         },
         {
-          "name": "Category 2",
-          "photo": "url",
+          "name": "Pasta",
+          "photo": "https://hips.hearstapps.com/delish/assets/17/36/1504715566-delish-fettuccine-alfredo.jpg",
           "description": "description",
           "items": [
 
