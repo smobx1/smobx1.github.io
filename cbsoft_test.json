@@ -58,7 +58,7 @@
           "items": [
             {
               "name": "Product name 1",
-              "image": "url",
+              "image": "https://www.slashgear.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-4.23.54-PM-980x420.png",
               "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
@@ -68,7 +68,7 @@
             },
             {
               "name": "Product name 2",
-              "image": "url",
+              "image": "https://www.slashgear.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-4.23.54-PM-980x420.png",
               "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
@@ -78,7 +78,7 @@
             },
             {
               "name": "Product name 3",
-              "image": "url",
+              "image": "https://www.slashgear.com/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-4.23.54-PM-980x420.png",
               "description": "salt, cheese, pepper",
               "variations": {
                 "#TBD": "todo"
