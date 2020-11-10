@@ -35,6 +35,7 @@
   "brands":[
     {
       "name": "Cocosul Rosu",
+      "id": 1,
       "logo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
       "description": "",
       "available_hours": {
@@ -78,6 +79,7 @@
     },
     {
       "name": "Cocosul Rosu 2 TEST",
+      "id": 2,
       "logo": "url",
       "description": "",
       "available_hours": {
@@ -122,3 +124,7 @@
     }
   ]
 }
+
+
+
+
