@@ -112,7 +112,6 @@
         "6": "9:00-24:00",
         "7": "9:00-24:00"
       },
-      "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
       "offers": ["url1", "url2"],
       "phone": "000",
       "estimated_delivery_time": "30:00",
@@ -157,19 +156,18 @@
         "6": "9:00-24:00",
         "7": "9:00-24:00"
       },
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/1200px-McDonald%27s_logo.svg.png",
-      "offers": ["url1", "url2"],
-      "phone": "000",
+      "offers": [],
+      "phone": "+40722022010",
       "estimated_delivery_time": "30:00",
       "menu":[
         {
           "name": "Category 1",
-          "photo": "url",
+          "photo": "https://twisper.com/wp-content/uploads/2020/03/close-up-photo-of-burger-3915906-scaled.jpg",
           "description": "description",
           "items": [
             {
               "name": "Product name",
-              "image": "url",
+              "image": "https://twisper.com/wp-content/uploads/2020/03/close-up-photo-of-burger-3915906-scaled.jpg",
               "variations": {
                 "#TBD": "todo"
               },
@@ -180,7 +178,7 @@
         },
         {
           "name": "Category 2",
-          "photo": "url",
+          "photo": "https://twisper.com/wp-content/uploads/2020/03/close-up-photo-of-burger-3915906-scaled.jpg",
           "description": "description",
           "items": [
 
