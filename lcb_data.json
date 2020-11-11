@@ -1,0 +1,15 @@
+{
+  "app_name": "Liceu cu Brio",
+  "course1": [
+    {
+      "lesson1": [
+        {
+          "part_1": "lorem ipsum"
+        },
+        {
+          "part_2": "lorem ipsum"
+        }
+      ]
+    }
+  ]
+}
