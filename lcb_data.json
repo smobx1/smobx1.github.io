@@ -2,48 +2,44 @@
   "app_name": "Liceu cu Brio",
   "courses": [
     {
-      "course1": [
+      "name": "Course 1",
+      "lessons": [
         {
-          "name":"Romana real",
-          "lessons": [
+          "lesson1": [
             {
-              "lesson1": [
-                {
-                  "part1": "lorem ipsum",
-                  "part2": "lorem ipsum",
-                  "part3": "lorem ipsum"
-                }
-              ],
-              "lesson2": [
-                {
-                  "part1": "lorem ipsum 1",
-                  "part2": "lorem ipsum 2",
-                  "part3": "lorem ipsum 3"
-                }
-              ]
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
             }
           ]
         }
-      ],
-      "course2": [
+      ]
+    },
+    {
+      "name": "Course 2",
+      "lessons": [
         {
-          "name":"Romana uman",
-          "lessons": [
+          "lesson1": [
             {
-              "lesson1": [
-                {
-                  "part1": "lorem ipsum",
-                  "part2": "lorem ipsum",
-                  "part3": "lorem ipsum"
-                }
-              ],
-              "lesson2": [
-                {
-                  "part1": "lorem ipsum 1",
-                  "part2": "lorem ipsum 2",
-                  "part3": "lorem ipsum 3"
-                }
-              ]
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
             }
           ]
         }
