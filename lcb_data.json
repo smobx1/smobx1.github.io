@@ -1,13 +1,51 @@
 {
   "app_name": "Liceu cu Brio",
-  "course1": [
+  "courses": [
     {
-      "lesson1": [
+      "course1": [
         {
-          "part_1": "lorem ipsum"
-        },
+          "name":"Romana real",
+          "lessons": [
+            {
+              "lesson1": [
+                {
+                  "part1": "lorem ipsum",
+                  "part2": "lorem ipsum",
+                  "part3": "lorem ipsum"
+                }
+              ],
+              "lesson2": [
+                {
+                  "part1": "lorem ipsum 1",
+                  "part2": "lorem ipsum 2",
+                  "part3": "lorem ipsum 3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "course2": [
         {
-          "part_2": "lorem ipsum"
+          "name":"Romana uman",
+          "lessons": [
+            {
+              "lesson1": [
+                {
+                  "part1": "lorem ipsum",
+                  "part2": "lorem ipsum",
+                  "part3": "lorem ipsum"
+                }
+              ],
+              "lesson2": [
+                {
+                  "part1": "lorem ipsum 1",
+                  "part2": "lorem ipsum 2",
+                  "part3": "lorem ipsum 3"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
