@@ -37,7 +37,7 @@
       "name": "Cocosul Rosu",
       "id": 0,
       "logo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
-      "description": "",
+      "description": "Un restaurant cu specific romanesc deosebit ce va astepta!",
       "available_hours": {
         "1": "9:00-24:00",
         "2": "9:00-24:00",
@@ -102,7 +102,7 @@
       "name": "Cocosul Rosu 2 TEST",
       "id": 1,
       "logo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
-      "description": "",
+      "description": "Cocosul Rosu 2 este un restaurant deosebit!",
       "available_hours": {
         "1": "9:00-24:00",
         "2": "9:00-24:00",
