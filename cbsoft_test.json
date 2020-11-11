@@ -142,6 +142,51 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Mc Donald's",
+      "id": 1,
+      "logo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
+      "description": "",
+      "available_hours": {
+        "1": "9:00-24:00",
+        "2": "9:00-24:00",
+        "3": "9:00-24:00",
+        "4": "9:00-24:00",
+        "5": "9:00-24:00",
+        "6": "9:00-24:00",
+        "7": "9:00-24:00"
+      },
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/1200px-McDonald%27s_logo.svg.png",
+      "offers": ["url1", "url2"],
+      "phone": "000",
+      "estimated_delivery_time": "30:00",
+      "menu":[
+        {
+          "name": "Category 1",
+          "photo": "url",
+          "description": "description",
+          "items": [
+            {
+              "name": "Product name",
+              "image": "url",
+              "variations": {
+                "#TBD": "todo"
+              },
+              "price": "20.02"
+
+            }
+          ]
+        },
+        {
+          "name": "Category 2",
+          "photo": "url",
+          "description": "description",
+          "items": [
+
+          ]
+        }
+      ]
     }
   ]
 }
