@@ -44,6 +44,94 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Course 3",
+      "lessons": [
+        {
+          "lesson1": [
+            {
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course 4",
+      "lessons": [
+        {
+          "lesson1": [
+            {
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course 5",
+      "lessons": [
+        {
+          "lesson1": [
+            {
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course 6",
+      "lessons": [
+        {
+          "lesson1": [
+            {
+              "title": "Title Lesson 1",
+              "part1": "lorem ipsum",
+              "part2": "lorem ipsum",
+              "part3": "lorem ipsum"
+            }
+          ],
+          "lesson2": [
+            {
+              "part1": "lorem ipsum 1",
+              "part2": "lorem ipsum 2",
+              "part3": "lorem ipsum 3"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
