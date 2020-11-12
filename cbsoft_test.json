@@ -156,7 +156,7 @@
         "6": "9:00-24:00",
         "7": "9:00-24:00"
       },
-      "offers": [],
+      "offers": [null],
       "phone": "+40722022010",
       "estimated_delivery_time": "30:00",
       "menu":[
