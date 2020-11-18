@@ -2,8 +2,8 @@
   "app_name": "Cocosul Rosu",
   "identifier": "uuid",
   "colours":{
-    "primary": "c38587",
-    "secondary": "d427f2"
+    "primary": "0xFFc38587",
+    "secondary": "0xFFd427f2"
   },
   "features": [
     {
