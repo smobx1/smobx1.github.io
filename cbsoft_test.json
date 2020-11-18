@@ -48,21 +48,31 @@
         "7": "9:00-24:00"
       },
       "offers": ["https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg", "https://static.modlet.ro/c/162-categorie_img_mare/1plus1-cadou.jpg"],
-      "phone": "000",
-      "estimated_delivery_time": "30:00",
+      "phone": "+40729029011",
+      "estimated_delivery_time": "30",
       "menu":[
         {
           "name": "Burgers",
           "photo": "https://twisper.com/wp-content/uploads/2020/03/close-up-photo-of-burger-3915906-scaled.jpg",
-          "description": "description",
+          "description": "Descriere categorie",
           "items": [
             {
               "name": "Product name 1",
               "image": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_pigtelhx/def_height/950/def_width/950/version/100011/type/1",
               "description": "salt, cheese, pepper",
-              "variations": {
-                "#TBD": "todo"
-              },
+              "variations":
+                [
+                  {
+                    "required": "true",
+                    "maxSelected": "1",
+                    "title": "Alege bautura din meniu",
+                    "option1": "Cola",
+                    "option2": "Fanta",
+                    "option3": "Sprite",
+                    "option4": "Nestie de Piersici",
+                    "option5": "Cappy de piersici"
+                  }
+                ],
               "price": "15.02"
 
             },
@@ -127,12 +137,12 @@
       "menu":[
         {
           "name": "Category 1",
-          "photo": "url",
+          "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
           "description": "description",
           "items": [
             {
               "name": "Product name",
-              "image": "url",
+              "image": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
               "variations": {
                 "#TBD": "todo"
               },
@@ -143,7 +153,7 @@
         },
         {
           "name": "Category 2",
-          "photo": "url",
+          "photo": "https://i.pinimg.com/originals/b9/ae/a9/b9aea94ed36ca40df2e2f42b84104c21.png",
           "description": "description",
           "items": [
 
