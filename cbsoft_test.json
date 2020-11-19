@@ -37,7 +37,7 @@
       "name": "Cocosul Rosu",
       "id": 0,
       "logo": "http://cocosurosu.ro/wp-content/uploads/2015/02/LOGOjpeg.png",
-      "description": "Un restaurant cu specific romanesc deosebit ce va astepta!",
+      "description": "“O rețetă tradițională de succes!”",
       "available_hours": {
         "1": "9:00-24:00",
         "2": "9:00-24:00",
@@ -48,7 +48,7 @@
         "7": "9:00-24:00"
       },
       "offers": ["https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg", "https://static.modlet.ro/c/162-categorie_img_mare/1plus1-cadou.jpg"],
-      "phone": "+40729029011",
+      "phone": "+40 747 059 315",
       "estimated_delivery_time": "30",
       "menu":[
         {
@@ -121,7 +121,7 @@
       "name": "Cocosul Rosu",
       "id": 0,
       "logo": "http://cocosurosu.ro/wp-content/uploads/2015/02/LOGOjpeg.png",
-      "description": "Un restaurant cu specific romanesc deosebit ce va astepta!",
+      "description": "“O rețetă tradițională de succes!”",
       "available_hours": {
         "1": "9:00-24:00",
         "2": "9:00-24:00",
@@ -132,7 +132,7 @@
         "7": "9:00-24:00"
       },
       "offers": ["https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg", "https://static.modlet.ro/c/162-categorie_img_mare/1plus1-cadou.jpg"],
-      "phone": "+40729029011",
+      "phone": "+40 747 059 315",
       "estimated_delivery_time": "30",
       "menu":[
         {
@@ -205,7 +205,7 @@
       "name": "Cocosul Rosu",
       "id": 0,
       "logo": "http://cocosurosu.ro/wp-content/uploads/2015/02/LOGOjpeg.png",
-      "description": "Un restaurant cu specific romanesc deosebit ce va astepta!",
+      "description": "“O rețetă tradițională de succes!”",
       "available_hours": {
         "1": "9:00-24:00",
         "2": "9:00-24:00",
@@ -216,7 +216,7 @@
         "7": "9:00-24:00"
       },
       "offers": ["https://static.modlet.ro/c/304-categorie_img_mare/1plus1-2-cadou.jpg", "https://static.modlet.ro/c/162-categorie_img_mare/1plus1-cadou.jpg"],
-      "phone": "+40729029011",
+      "phone": "+40 747 059 315",
       "estimated_delivery_time": "30",
       "menu":[
         {
