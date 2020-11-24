@@ -66,6 +66,7 @@
                     "required": "true",
                     "maxSelected": "1",
                     "title": "Alege bautura din meniu",
+                    "option0": "Cartofi Prajiti",
                     "option1": "Cola",
                     "option2": "Fanta",
                     "option3": "Sprite",
@@ -76,6 +77,7 @@
                     "required": "true",
                     "maxSelected": "1",
                     "title": "Alege side",
+                    "option0": "Cartofi Prajiti",
                     "option1": "Cartofi Prajiti",
                     "option2": "Salata",
                     "option3": "Rucola"
@@ -85,6 +87,7 @@
                     "required": "false",
                     "maxSelected": "1",
                     "title": "Alege sos",
+                    "option0": "Cartofi Prajiti",
                     "option1": "Sos sour",
                     "option2": "Sos dulce acrisor"
 
