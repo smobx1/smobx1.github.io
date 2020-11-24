@@ -78,19 +78,16 @@
                     "title": "Alege bautura din meniu",
                     "option1": "Cola",
                     "option2": "Fanta",
-                    "option3": "Sprite",
-                    "option4": "Nestie de Piersici",
-                    "option5": "Cappy de piersici"
+                    "option3": "Sprite"
+
                   },
                   {
                     "required": "true",
                     "maxSelected": "1",
                     "title": "Alege bautura din meniu",
                     "option1": "Cola",
-                    "option2": "Fanta",
-                    "option3": "Sprite",
-                    "option4": "Nestie de Piersici",
-                    "option5": "Cappy de piersici"
+                    "option2": "Fanta"
+
                   }
                 ],
               "price": "15.02"
