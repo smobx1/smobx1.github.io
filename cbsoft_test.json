@@ -75,18 +75,18 @@
                   {
                     "required": "true",
                     "maxSelected": "1",
-                    "title": "Alege bautura din meniu",
-                    "option1": "Cola",
-                    "option2": "Fanta",
-                    "option3": "Sprite"
+                    "title": "Alege size",
+                    "option1": "Cartofi Prajiti",
+                    "option2": "Salata",
+                    "option3": "Rucola"
 
                   },
                   {
-                    "required": "true",
+                    "required": "false",
                     "maxSelected": "1",
-                    "title": "Alege bautura din meniu",
-                    "option1": "Cola",
-                    "option2": "Fanta"
+                    "title": "Alege sos",
+                    "option1": "Sos sour",
+                    "option2": "Sos dulce acrisor"
 
                   }
                 ],
