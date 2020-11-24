@@ -57,7 +57,7 @@
           "description": "Descriere categorie",
           "items": [
             {
-              "name": "Product name 1",
+              "name": "Product name 1 WITH VAR",
               "image": "https://www.asiaone.com/sites/default/files/original_images/Feb2016/20160211_pizza_shutterstock.jpg",
               "description": "salt, cheese, pepper",
               "variations":
@@ -107,12 +107,23 @@
 
             },
             {
-              "name": "Product name 3",
+              "name": "Product name 3 WITH VAR",
               "image": "https://www.asiaone.com/sites/default/files/original_images/Feb2016/20160211_pizza_shutterstock.jpg",
               "description": "salt, cheese, pepper",
-              "variations": {
-                "#TBD": "todo"
-              },
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                }
+              ],
               "price": "7.02"
 
             },
