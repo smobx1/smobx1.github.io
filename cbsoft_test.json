@@ -75,7 +75,7 @@
                   {
                     "required": "true",
                     "maxSelected": "1",
-                    "title": "Alege size",
+                    "title": "Alege side",
                     "option1": "Cartofi Prajiti",
                     "option2": "Salata",
                     "option3": "Rucola"
