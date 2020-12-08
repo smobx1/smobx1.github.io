@@ -1,6 +1,7 @@
 {
   "app_name": "Cocosul Rosu",
   "identifier": "uuid",
+  "test_color": "0xff123456",
   "colours":{
     "primary": "0xFFc38587",
     "secondary": "0xFFd427f2"
@@ -565,7 +566,7 @@
               "name": "Product name 3",
               "image": "https://www.asiaone.com/sites/default/files/original_images/Feb2016/20160211_pizza_shutterstock.jpg",
               "description": "salt, cheese, pepper",
-              "variations": 
+              "variations":
               [
 
               ],
