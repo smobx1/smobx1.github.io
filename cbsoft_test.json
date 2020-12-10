@@ -54,7 +54,7 @@
       "menu":[
         {
           "name": "Burgers",
-          "photo": "https://www.asiaone.com/sites/default/files/original_images/Feb2016/20160211_pizza_shutterstock.jpg",
+          "photo": "https://burgrfactory.ro/wp-content/uploads/2018/11/burger-delivery-constanta-king-elvis-burger.png",
           "description": "Descriere categorie",
           "items": [
             {
@@ -94,6 +94,507 @@
 
                   }
                 ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 2",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3 var",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                }
+              ],
+              "price": "20.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "11.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "49.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "19.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "34.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "14.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "18.99"
+
+            }
+          ]
+        },
+        {
+          "name": "Feluri Principale",
+          "photo": "https://img2.pngio.com/pizza-cartoon-main-dish-png-900_440.png",
+          "description": "Descriere categorie",
+          "items": [
+            {
+              "name": "Product name 1 (var)",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                },
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege side",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cartofi Prajiti",
+                  "option2": "Salata",
+                  "option3": "Rucola"
+
+                },
+                {
+                  "required": "false",
+                  "maxSelected": "1",
+                  "title": "Alege sos",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Sos sour",
+                  "option2": "Sos dulce acrisor"
+
+                }
+              ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 2",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3 var",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                }
+              ],
+              "price": "20.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "11.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "49.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "19.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "34.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "14.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "18.99"
+
+            }
+          ]
+        },
+        {
+          "name": "Favoritele Noastre",
+          "photo": "https://img.favpng.com/9/4/20/hummus-recipe-main-course-meat-cuisine-png-favpng-MVDvfkajWy9C2gVQt5S2zav6L.jpg",
+          "description": "Descriere categorie",
+          "items": [
+            {
+              "name": "Product name 1 (var)",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                },
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege side",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cartofi Prajiti",
+                  "option2": "Salata",
+                  "option3": "Rucola"
+
+                },
+                {
+                  "required": "false",
+                  "maxSelected": "1",
+                  "title": "Alege sos",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Sos sour",
+                  "option2": "Sos dulce acrisor"
+
+                }
+              ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 2",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3 var",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                }
+              ],
+              "price": "20.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "11.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "22.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "49.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "19.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "34.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "15.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "14.99"
+
+            },
+            {
+              "name": "Product name 3",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+
+              ],
+              "price": "18.99"
+
+            }
+          ]
+        },
+        {
+          "name": "Ciorbe si Supe",
+          "photo": "https://pngimg.com/uploads/soup/soup_PNG109.png",
+          "description": "Descriere categorie",
+          "items": [
+            {
+              "name": "Product name 1 (var)",
+              "image": "https://content.instructables.com/ORIG/FYJ/GFKS/J7RS7L2O/FYJGFKSJ7RS7L2O.jpg?auto=webp&frame=1&fit=bounds&md=7832da9387bce521bcdac5650e570754",
+              "description": "salt, cheese, pepper",
+              "variations":
+              [
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege bautura din meniu",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cola",
+                  "option2": "Fanta",
+                  "option3": "Sprite",
+                  "option4": "Nestie de Piersici",
+                  "option5": "Cappy de piersici"
+                },
+                {
+                  "required": "true",
+                  "maxSelected": "1",
+                  "title": "Alege side",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Cartofi Prajiti",
+                  "option2": "Salata",
+                  "option3": "Rucola"
+
+                },
+                {
+                  "required": "false",
+                  "maxSelected": "1",
+                  "title": "Alege sos",
+                  "option0": "Cartofi Prajiti",
+                  "option1": "Sos sour",
+                  "option2": "Sos dulce acrisor"
+
+                }
+              ],
               "price": "15.99"
 
             },
