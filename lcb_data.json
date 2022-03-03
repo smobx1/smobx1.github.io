@@ -1,140 +1,27 @@
-{
-  "app_name": "Liceu cu Brio",
-  "courses": [
-    {
-      "id": 1,
-      "name": "Course 1",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Course 2",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Course 3",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Course 4",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Course 5",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Course 6",
-      "lessons": [
-        {
-          "lesson1": [
-            {
-              "title": "Title Lesson 1",
-              "part1": "lorem ipsum",
-              "part2": "lorem ipsum",
-              "part3": "lorem ipsum"
-            }
-          ],
-          "lesson2": [
-            {
-              "part1": "lorem ipsum 1",
-              "part2": "lorem ipsum 2",
-              "part3": "lorem ipsum 3"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Course 1",
+    "subtitle": "Romana",
+    "description": "large description",
+    "lessons": [
+
+      {
+        "id": 1,
+        "title": "Title Lesson 1",
+        "subtitle": "Subtitle Lesson 1",
+        "part1": "lorem ipsum",
+        "part2": "lorem ipsum",
+        "part3": "lorem ipsum"
+      },
+      {
+        "id": 1,
+        "title": "Title Lesson 2",
+        "subtitle": "Subtitle Lesson 2",
+        "part1": "lorem ipsum",
+        "part2": "lorem ipsum",
+        "part3": "lorem ipsum"
+      }
+    ]
+  }
+]
