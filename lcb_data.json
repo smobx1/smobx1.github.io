@@ -23,5 +23,30 @@
         "part3": "lorem ipsum"
       }
     ]
+  },
+  {
+    "id": 2,
+    "title": "Course 2",
+    "subtitle": "Romana",
+    "description": "large description",
+    "lessons": [
+
+      {
+        "id": 1,
+        "title": "Title Lesson 1",
+        "subtitle": "Subtitle Lesson 1",
+        "part1": "lorem ipsum",
+        "part2": "lorem ipsum",
+        "part3": "lorem ipsum"
+      },
+      {
+        "id": 1,
+        "title": "Title Lesson 2",
+        "subtitle": "Subtitle Lesson 2",
+        "part1": "lorem ipsum",
+        "part2": "lorem ipsum",
+        "part3": "lorem ipsum"
+      }
+    ]
   }
 ]
