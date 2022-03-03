@@ -8,7 +8,7 @@
 
       {
         "id": 1,
-        "title": "Title Lesson 1",
+        "title": "C1 Lesson 1",
         "subtitle": "Subtitle Lesson 1",
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
@@ -16,16 +16,6 @@
           {"title": "part3","body": "lorem ipsum"},
           {"title": "part4","body": "lorem ipsum"},
           {"title": "part5","body": "lorem ipsum"}
-        ]
-      },
-      {
-        "id": 1,
-        "title": "Title Lesson 2",
-        "subtitle": "Subtitle Lesson 2",
-        "parts": [
-          {"title": "part1","body": "lorem ipsum"},
-          {"title": "part2","body": "lorem ipsum"},
-          {"title": "part3","body": "lorem ipsum"}
         ]
       }
     ]
@@ -39,7 +29,7 @@
 
       {
         "id": 1,
-        "title": "Title Lesson 1",
+        "title": "C2 Lesson 1",
         "subtitle": "Subtitle Lesson 1",
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
@@ -51,7 +41,7 @@
       },
       {
         "id": 1,
-        "title": "Title Lesson 2",
+        "title": "C2 Lesson 2",
         "subtitle": "Subtitle Lesson 2",
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
@@ -70,7 +60,7 @@
 
       {
         "id": 1,
-        "title": "Title Lesson 1",
+        "title": "C3 Lesson 1",
         "subtitle": "Subtitle Lesson 1",
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
@@ -82,7 +72,17 @@
       },
       {
         "id": 1,
-        "title": "Title Lesson 2",
+        "title": "C3 Lesson 2",
+        "subtitle": "Subtitle Lesson 2",
+        "parts": [
+          {"title": "part1","body": "lorem ipsum"},
+          {"title": "part2","body": "lorem ipsum"},
+          {"title": "part3","body": "lorem ipsum"}
+        ]
+      },
+      {
+        "id": 1,
+        "title": "C3 Lesson 3",
         "subtitle": "Subtitle Lesson 2",
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
