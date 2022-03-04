@@ -1,19 +1,19 @@
 [
   {
     "id": 0,
-    "title": "Course 1",
-    "subtitle": "Romana",
+    "title": "Limba si Literatura Romana",
+    "subtitle": "Uman",
     "description": "large description",
     "lessons": [
 
       {
         "id": 0,
-        "title": "C1 Lesson 1",
-        "subtitle": "Subtitle Lesson 1",
+        "title": "Alexandru Lăpuşneanul",
+        "subtitle": "de Costache Negruzzi",
         "parts": [
-          {"title": "part1","body": "lorem ipsum"},
-          {"title": "part2","body": "lorem ipsum"},
-          {"title": "part3","body": "lorem ipsum"},
+          {"title": "","body": "Scriitor pașoptist, Costache Negruzzi, este ctitorul nuvelei istorice românești. Nuvela romantică “Alexandru Lăpușneanul“ apare în primul număr al “Daciei Literare“ şi aduce în prim-plan un personaj istoric surprins în a doua sa domnie."},
+          {"title": "part2","body": "Acţiunea se concentrează în jurul personajului principal, iar conflictele în centrul cărora se află protagonistul sunt puternice. Nuvela aparține prozei romantice prin abordarea temei istoriei. Structura este clasică: patru capitole echilibrate cu un motto care sintetizează acțiunea. În centrul fiecărui capitol se află Alexandru Lăpușneanul, aflat în conflict cu celelalte personaje."},
+          {"title": "part3","body": "Fixează locul şi timpul: Moldavia, a doua domnie a lui Alexandru Lăpuşneanul. Aduce în prim-plan conflictul exterior al nuvelei: dintre Lăpuşneanul şi boierii care doresc să-l alunge. Dintre boieri se distinge Moțoc, care îi comunică domnitorului că norodul nu-l “vre“ şi “nu-l iubește“; Prin replica domnitorului: “Dacă voi nu mă vreți, eu vă vreu“, este configurată psihologia acestuia: domn autoritar, care îşi impune cu orice preț voința şi care are un statut mesianic."},
           {"title": "part4","body": "lorem ipsum"},
           {"title": "part5","body": "lorem ipsum"}
         ]
