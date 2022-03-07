@@ -1,37 +1,25 @@
 [
   {
     "id": 0,
-    "title": "Course 1",
-    "subtitle": "subtitlu primului curs",
-    "description": "large description",
+    "title": "Limba si Literatura Romana - Uman",
+    "subtitle": "Romana Uman",
+    "description": "Limba si Literatura Romana - Uman. Sectii umaniste.",
     "lessons": [
-
       {
         "id": 0,
+        "category": "Epic",
         "title": "C1 Lesson 1",
         "subtitle": "Subtitle Lesson 1",
-        "read_time": "8 min",
         "left_subtitle1": "1940",
         "left_subtitle2": "",
         "right_subtitle1": "",
         "right_subtitle2": "de Costache Negruzzi",
-        "parts": [
-          {"title": "part1","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "part4","body": "lorem ipsum"},
-          {"title": "part5","body": "lorem ipsum"}
-        ]
-      },
-      {
-        "id": 1,
-        "title": "C1 Lesson 2",
-        "subtitle": "Subtitle Lesson 2",
-        "read_time": "8 min",
-        "left_subtitle1": "18494",
-        "left_subtitle2": "",
-        "right_subtitle1": "",
-        "right_subtitle2": "de Sadoveanu",
+        "weight": 74,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
           {"title": "","body": "lorem ipsum"},
@@ -40,26 +28,6 @@
           {"title": "part5","body": "lorem ipsum"}
         ]
       }
-    ]
-  },
-  {
-    "id": 1,
-    "title": "Course 2",
-    "subtitle": "Romana",
-    "description": "large description",
-    "lessons": [
-
-
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Course 3",
-    "subtitle": "Romana",
-    "description": "large description",
-    "lessons": [
-
-
     ]
   }
 ]
