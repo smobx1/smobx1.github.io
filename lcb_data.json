@@ -31,7 +31,7 @@
       },
       {
         "id": 1,
-        "category": "",
+        "category": null,
         "title": "C1 Lesson 1",
         "subtitle": "Subtitle Lesson 1",
         "left_subtitle1": "1940",
