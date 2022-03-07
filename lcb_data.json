@@ -23,54 +23,8 @@
         ],
         "parts": [
           {"title": "part1","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "part4","body": "lorem ipsum"},
-          {"title": "part5","body": "lorem ipsum"}
-        ]
-      },
-      {
-        "id": 1,
-        "category": null,
-        "title": "C1 Lesson 1",
-        "subtitle": "Subtitle Lesson 1",
-        "left_subtitle1": "1940",
-        "left_subtitle2": "",
-        "right_subtitle1": "",
-        "right_subtitle2": "de Costache Negruzzi",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "part4","body": "lorem ipsum"},
-          {"title": "part5","body": "lorem ipsum"}
-        ]
-      },
-      {
-        "id": 2,
-        "category": "Liric",
-        "title": "C1 Lesson 1",
-        "subtitle": "Subtitle Lesson 1",
-        "left_subtitle1": "1940",
-        "left_subtitle2": "",
-        "right_subtitle1": "",
-        "right_subtitle2": "de Costache Negruzzi",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
-          {"title": "","body": "lorem ipsum"},
+          {"title": null,"body": "lorem ipsum"},
+          {"title": null,"body": "lorem ipsum"},
           {"title": "part4","body": "lorem ipsum"},
           {"title": "part5","body": "lorem ipsum"}
         ]
