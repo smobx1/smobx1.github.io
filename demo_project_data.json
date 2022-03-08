@@ -30,5 +30,37 @@
         ]
       }
     ]
+  },
+  {
+    "id": 0,
+    "title": "Course 1",
+    "full_title": "Course 1 full title",
+    "subtitle": "c1 subtitle",
+    "description": "Description of C1.",
+    "lessons": [
+      {
+        "id": 0,
+        "category": "category",
+        "title": "title",
+        "subtitle": "subtitle",
+        "left_subtitle1": "year",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "lorem ipsum"},
+          {"title": "part1","body": "lorem ipsum"},
+          {"title": "part1","body": "lorem ipsum"},
+          {"title": "part1","body": "lorem ipsum"},
+          {"title": "part1","body": "lorem ipsum"}
+        ]
+      }
+    ]
   }
 ]
