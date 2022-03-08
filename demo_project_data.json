@@ -1,10 +1,10 @@
 [
   {
     "id": 0,
-    "title": "Limba Romana - Uman",
-    "full_title": "Limba si Literatura Romana - Uman",
-    "subtitle": "Romana Uman",
-    "description": "Limba si Literatura Romana - Uman.",
+    "title": "Course 1",
+    "full_title": "Course 1 full title",
+    "subtitle": "c1 subtitle",
+    "description": "Description of C1.",
     "lessons": [
       {
         "id": 0,
