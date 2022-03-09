@@ -496,9 +496,170 @@
         ]
       },
       {
-        "id": 1948,
+        "id": 21,
         "category": null,
-        "title": "title",
+        "title": "Plumb",
+        "subtitle": "",
+        "left_subtitle1": "Simbolism",
+        "left_subtitle2": "1916",
+        "right_subtitle1": "",
+        "right_subtitle2": "de George Bacovia",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 22,
+        "category": null,
+        "title": "Riga Crypto şi Lapona Enigel",
+        "subtitle": "",
+        "left_subtitle1": "Poem Alegoric / Modernist",
+        "left_subtitle2": "1924/1930",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Ion Barbu",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 23,
+        "category": null,
+        "title": "Testament",
+        "subtitle": "",
+        "left_subtitle1": "Artă Poetică / Modernistă",
+        "left_subtitle2": "1927",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Tudor Arghezi",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 24,
+        "category": "Dramatic",
+        "title": "Iona",
+        "subtitle": "",
+        "left_subtitle1": "Tragedie, teatru modern",
+        "left_subtitle2": "1968",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Marin Sorescu",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 25,
+        "category": null,
+        "title": "O noapte furtunoasă",
+        "subtitle": "",
+        "left_subtitle1": "Comedie de moravuri",
+        "left_subtitle2": "1879",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Ion Luca Caragiale",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 26,
+        "category": null,
+        "title": "O scrisoare pierdută",
+        "subtitle": "",
+        "left_subtitle1": "Dramatic / comedie de moravuri",
+        "left_subtitle2": "1884/1885",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Ion Luca Caragiale",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 27,
+        "category": "Critică si Istorie literară",
+        "title": "Dacia Literară",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "1840",
+        "right_subtitle1": "",
+        "right_subtitle2": "sub redacția lui Mihail Kogălniceanu",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 28,
+        "category": null,
+        "title": "Junimea şi Junimismul",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "year",
@@ -519,14 +680,14 @@
         ]
       },
       {
-        "id": 1948,
+        "id": 29,
         "category": null,
-        "title": "title",
+        "title": "Iluminismul",
         "subtitle": "",
         "left_subtitle1": "",
-        "left_subtitle2": "year",
+        "left_subtitle2": "",
         "right_subtitle1": "",
-        "right_subtitle2": "author",
+        "right_subtitle2": "",
         "priority": 4,
         "read_time": 8,
         "related_lessons": [
@@ -542,14 +703,198 @@
         ]
       },
       {
-        "id": 1948,
+        "id": 30,
+        "category": null,
+        "title": "Pașoptismul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "1970",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 31,
+        "category": "Curente literare",
+        "title": "Clasicism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 32,
         "category": null,
         "title": "title",
         "subtitle": "",
         "left_subtitle1": "",
-        "left_subtitle2": "year",
+        "left_subtitle2": "",
         "right_subtitle1": "",
-        "right_subtitle2": "author",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 33,
+        "category": null,
+        "title": "Romantism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 34,
+        "category": null,
+        "title": "Simbolism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 35,
+        "category": null,
+        "title": "Realism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 36,
+        "category": null,
+        "title": "Neomodernism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 37,
+        "category": null,
+        "title": "Modernism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 38,
+        "category": null,
+        "title": "Tradiționalism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
         "priority": 4,
         "read_time": 8,
         "related_lessons": [
