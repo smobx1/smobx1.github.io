@@ -33,7 +33,7 @@
       },
       {
         "id": 1,
-        "category": "",
+        "category": null,
         "title": "Baltagul",
         "subtitle": "",
         "left_subtitle1": "",
