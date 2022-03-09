@@ -8,7 +8,7 @@
     "lessons": [
       {
         "id": 0,
-        "category": "Epic",
+        "category": "Epicccc",
         "title": "Alexandru Lăpuşneanul",
         "subtitle": "",
         "left_subtitle1": "",
@@ -58,7 +58,7 @@
       },
       {
         "id": 2,
-        "category": "",
+        "category": null,
         "title": "Cel mai iubit dintre pământeni",
         "subtitle": "",
         "left_subtitle1": "",
@@ -83,7 +83,7 @@
       },
       {
         "id": 3,
-        "category": "",
+        "category": null,
         "title": "Enigma Otiliei",
         "subtitle": "",
         "left_subtitle1": "Roman Balzacian/Modernist/Obiectiv/Clasic",
@@ -106,7 +106,7 @@
       },
       {
         "id": 4,
-        "category": "",
+        "category": null,
         "title": "Fântâna dintre plopi",
         "subtitle": "",
         "left_subtitle1": "year",
@@ -129,7 +129,7 @@
       },
       {
         "id": 5,
-        "category": "",
+        "category": null,
         "title": "În vreme de război",
         "subtitle": "",
         "left_subtitle1": "",
@@ -150,10 +150,9 @@
           {"title": "part1","body": "wwwwwwwww"}
         ]
       },
-
       {
         "id": 6,
-        "category": "",
+        "category": null,
         "title": "Ion",
         "subtitle": "",
         "left_subtitle1": "",
