@@ -751,7 +751,7 @@
       {
         "id": 32,
         "category": null,
-        "title": "title",
+        "title": "Romantism",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "",
@@ -774,7 +774,7 @@
       {
         "id": 33,
         "category": null,
-        "title": "Romantism",
+        "title": "Simbolism",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "",
@@ -797,7 +797,7 @@
       {
         "id": 34,
         "category": null,
-        "title": "Simbolism",
+        "title": "Realism",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "",
@@ -820,7 +820,7 @@
       {
         "id": 35,
         "category": null,
-        "title": "Realism",
+        "title": "Neomodernism",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "",
@@ -843,29 +843,6 @@
       {
         "id": 36,
         "category": null,
-        "title": "Neomodernism",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "",
-        "right_subtitle1": "",
-        "right_subtitle2": "",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 37,
-        "category": null,
         "title": "Modernism",
         "subtitle": "",
         "left_subtitle1": "",
@@ -887,7 +864,7 @@
         ]
       },
       {
-        "id": 38,
+        "id": 37,
         "category": null,
         "title": "Tradiționalism",
         "subtitle": "",
