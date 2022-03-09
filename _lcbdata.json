@@ -8,7 +8,7 @@
     "lessons": [
       {
         "id": 0,
-        "category": "Epicccc",
+        "category": "Epic",
         "title": "Alexandru Lăpuşneanul",
         "subtitle": "",
         "left_subtitle1": "",
@@ -175,7 +175,7 @@
       },
       {
         "id": 7,
-        "category": "",
+        "category": null,
         "title": "La țigănci",
         "subtitle": "",
         "left_subtitle1": "",
@@ -198,7 +198,7 @@
       },
       {
         "id": 8,
-        "category": "",
+        "category": null,
         "title": "Mara",
         "subtitle": "",
         "left_subtitle1": "Roman realist/social",
@@ -221,7 +221,7 @@
       },
       {
         "id": 9,
-        "category": "",
+        "category": null,
         "title": "Maitreyi",
         "subtitle": "",
         "left_subtitle1": "",
@@ -244,7 +244,7 @@
       },
       {
         "id": 10,
-        "category": "",
+        "category": null,
         "title": "Moara cu noroc",
         "subtitle": "",
         "left_subtitle1": "",
@@ -267,7 +267,7 @@
       },
       {
         "id": 11,
-        "category": "",
+        "category": null,
         "title": "Moromeții",
         "subtitle": "",
         "left_subtitle1": "Roman obiectiv/realist",
@@ -290,7 +290,7 @@
       },
       {
         "id": 12,
-        "category": "",
+        "category": null,
         "title": "Patul lui Procust",
         "subtitle": "",
         "left_subtitle1": "",
@@ -312,8 +312,192 @@
         ]
       },
       {
+        "id": 13,
+        "category": null,
+        "title": "Povestea lui Harap Alb",
+        "subtitle": "",
+        "left_subtitle1": "Basm cult",
+        "left_subtitle2": "1877",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Ion Creanga",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Ultima noapte de dragoste, întâia noapte de război",
+        "subtitle": "",
+        "left_subtitle1": "Roman modern/psihilogic/al experientei/realist subiectiv",
+        "left_subtitle2": "1930",
+        "right_subtitle1": "",
+        "right_subtitle2": "TODO",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 15,
+        "category": "Liric",
+        "title": "Luceăfarul",
+        "subtitle": "",
+        "left_subtitle1": "Poezie filosofică, romantică, alegorică",
+        "left_subtitle2": "1883",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Mihai Eminescu",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Aci sosi pe vremuri",
+        "subtitle": "",
+        "left_subtitle1": "Poezie tradiționalistă",
+        "left_subtitle2": "1923",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Ion Pillat",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 17,
+        "category": null,
+        "title": "Din ceas, dedus... (Joc secund)",
+        "subtitle": "",
+        "left_subtitle1": "Artă Poetică / Modernistă",
+        "left_subtitle2": "1930",
+        "right_subtitle1": "",
+        "right_subtitle2": "todo",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 18,
+        "category": null,
+        "title": "Eu nu strivesc corola de minuni a lumii",
+        "subtitle": "",
+        "left_subtitle1": "Artă Poetică / Modernistă",
+        "left_subtitle2": "1919",
+        "right_subtitle1": "",
+        "right_subtitle2": "todo",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 19,
+        "category": null,
+        "title": "Flori de mucigai",
+        "subtitle": "",
+        "left_subtitle1": "Artă Poetică / Expresionism",
+        "left_subtitle2": "1931",
+        "right_subtitle1": "",
+        "right_subtitle2": "de Tudor Arghezi",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 20,
+        "category": null,
+        "title": "Leoaică tânără, iubirea",
+        "subtitle": "",
+        "left_subtitle1": "Artă Poetică / Neomodernistă",
+        "left_subtitle2": "1964",
+        "right_subtitle1": "",
+        "right_subtitle2": "Nichita Stănescu",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"},
+          {"title": "part1","body": "wwwwwwwww"}
+        ]
+      },
+      {
         "id": 1948,
-        "category": "category",
+        "category": null,
         "title": "title",
         "subtitle": "",
         "left_subtitle1": "",
@@ -336,7 +520,7 @@
       },
       {
         "id": 1948,
-        "category": "category",
+        "category": null,
         "title": "title",
         "subtitle": "",
         "left_subtitle1": "",
@@ -359,7 +543,7 @@
       },
       {
         "id": 1948,
-        "category": "category",
+        "category": null,
         "title": "title",
         "subtitle": "",
         "left_subtitle1": "",
@@ -382,237 +566,7 @@
       },
       {
         "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
-        ],
-        "parts": [
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"},
-          {"title": "part1","body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 1948,
-        "category": "category",
+        "category": null,
         "title": "title",
         "subtitle": "",
         "left_subtitle1": "",
@@ -633,7 +587,6 @@
           {"title": "part1","body": "wwwwwwwww"}
         ]
       }
-
     ]
   }
 ]
