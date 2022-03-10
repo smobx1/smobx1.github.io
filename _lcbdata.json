@@ -944,6 +944,26 @@
   },
   {
     "id": 2,
+    "title": "Matematica M1",
+    "full_title": "Matematica M1",
+    "subtitle": "Matematica M1",
+    "description": "Matematica M1",
+    "lessons": [
+
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Matematica M2",
+    "full_title": "Matematica M2",
+    "subtitle": "Matematica M2",
+    "description": "Matematica M2",
+    "lessons": [
+
+    ]
+  },
+  {
+    "id": 4,
     "title": "Istorie",
     "full_title": "Istorie",
     "subtitle": "Istorie",
@@ -975,7 +995,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Geografie",
     "full_title": "Geografie",
     "subtitle": "Geografie",
@@ -1007,7 +1027,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Biologie Vegetala",
     "full_title": "Biologie Vegetala",
     "subtitle": "Biologie Vegetala",
@@ -1039,7 +1059,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Biologie Anatomie",
     "full_title": "Biologie Anatomie",
     "subtitle": "Biologie Anatomie",
@@ -1071,7 +1091,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Psihologie",
     "full_title": "Psihologie",
     "subtitle": "Psihologie",
@@ -1103,7 +1123,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Logica",
     "full_title": "Logica",
     "subtitle": "Logica",
@@ -1135,7 +1155,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "Sociologie",
     "full_title": "Sociologie",
     "subtitle": "Sociologie",
@@ -1167,11 +1187,43 @@
     ]
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "Filosofie",
     "full_title": "Filosofie",
     "subtitle": "Filosofie",
     "description": "Filosofie",
+    "lessons": [
+      {
+        "id": 1948,
+        "category": null,
+        "title": "title",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Economie",
+    "full_title": "Economie",
+    "subtitle": "Economie",
+    "description": "Economie",
     "lessons": [
       {
         "id": 1948,
