@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "title": "Limba Romana ",
+    "full_title": "Limba si Literatura Romana",
+    "subtitle": "Romana",
+    "description": "Limba si Literatura Romana.",
+    "lessons": [
+      {
+        "id": 1948,
+        "category": null,
+        "title": "title",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Matematica",
+    "full_title": "Matematica",
+    "subtitle": "Matematica",
+    "description": "Matematica",
+    "lessons": [
+      {
+        "id": 1948,
+        "category": null,
+        "title": "title",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      }
+    ]
+  }
+]
