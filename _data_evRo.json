@@ -7,23 +7,1280 @@
     "description": "Limba si Literatura Romana.",
     "lessons": [
       {
-        "id": 1948,
-        "category": null,
-        "title": "title",
+        "id": 1,
+        "category": "Fonetica",
+        "title": "Despre fonetică",
         "subtitle": "",
         "left_subtitle1": "",
-        "left_subtitle2": "year",
+        "left_subtitle2": "",
         "right_subtitle1": "",
-        "right_subtitle2": "author",
+        "right_subtitle2": "",
         "priority": 4,
         "read_time": 8,
         "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
+
         ],
         "parts": [
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Sunetele",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Diftongii",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Triftongii",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Hiatul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 6,
+        "category": null,
+        "title": "Silaba",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Accentul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 8,
+        "category": "Lexicul sau vocabularul",
+        "title": "Structura vocabularului",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Arhaismele și neologismele",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Termenii științifici și tehnici",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Regionalismele",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "Cuvintele de argou și de jargon",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 13,
+        "category": "Cuvantul. Definitia cuvantului.",
+        "title": "Cuvântul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Tipuri de sens. Sensuri proprii și sensuri figurate.",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 15,
+        "category": "Relatiile dintre cuvinte si categoriile semantice",
+        "title": "Sinonimia",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Antonimia",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 17,
+        "category": null,
+        "title": "Omonimia",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 18,
+        "category": null,
+        "title": "Paronimia",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 19,
+        "category": "Structura morfologica a cuvantului",
+        "title": "Rădăcina",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 20,
+        "category": null,
+        "title": "Cuvânt de bază",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 21,
+        "category": null,
+        "title": "Prefixul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 22,
+        "category": null,
+        "title": "Sufixul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 23,
+        "category": null,
+        "title": "Tema lexicala",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 24,
+        "category": null,
+        "title": "Cuvant derivat",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 25,
+        "category": null,
+        "title": "Familia de cuvinte",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 26,
+        "category": "Îmbogătirea vocabularului",
+        "title": "Formarea cuvintelor",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 27,
+        "category": null,
+        "title": "Formațiile parasintetice",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 28,
+        "category": "Notiuni de teorie literara",
+        "title": "Notiuni de teorie literara",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 29,
+        "category": null,
+        "title": "Genuri și specii literare",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 30,
+        "category": null,
+        "title": "Genul epic",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 31,
+        "category": null,
+        "title": "Instanţele textului epic",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 32,
+        "category": null,
+        "title": "Specii literare ale genului epic",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 33,
+        "category": null,
+        "title": "Basmul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 34,
+        "category": null,
+        "title": "Moduri de expunere",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 35,
+        "category": null,
+        "title": "Genul liric",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 36,
+        "category": null,
+        "title": "Instanțele textului liric",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 37,
+        "category": null,
+        "title": "Specii literare ale genului liric",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 38,
+        "category": "Părțile de vorbire",
+        "title": "Substantivul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 39,
+        "category": null,
+        "title": "Verbul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 40,
+        "category": null,
+        "title": "Pronumele",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 41,
+        "category": null,
+        "title": "Articolul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 42,
+        "category": null,
+        "title": "Adjectivul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 43,
+        "category": null,
+        "title": "Numeralul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 44,
+        "category": null,
+        "title": "Adverbul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 45,
+        "category": null,
+        "title": "Prepoziția",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 46,
+        "category": null,
+        "title": "Interjecția",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 47,
+        "category": null,
+        "title": "Conjuncția",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 48,
+        "category": "Parțile de propoziție",
+        "title": "Subiectul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 49,
+        "category": null,
+        "title": "Predicatul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 50,
+        "category": null,
+        "title": "Atributul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 51,
+        "category": null,
+        "title": "Complementul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 52,
+        "category": null,
+        "title": "Fraza",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 53,
+        "category": null,
+        "title": "Propoziţia subordonată subiectivă (SB)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 54,
+        "category": null,
+        "title": "Propoziţia subordonată subiectivă (SB)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 55,
+        "category": null,
+        "title": "Propoziţia subordonată predicativă (PR)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 56,
+        "category": null,
+        "title": "Propoziţia subordonată atributivă (AT)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 57,
+        "category": null,
+        "title": "Propoziţia subordonată completivă directă (CD)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 58,
+        "category": null,
+        "title": "Propoziţia subordonată completivă indirectă (CI)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 59,
+        "category": null,
+        "title": "Propoziţia subordonată circumstanţială de loc (CL)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 60,
+        "category": null,
+        "title": "Propoziţia subordonată circumstanţială de timp (CT)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 61,
+        "category": null,
+        "title": "Propoziţia subordonată circumstanţială de mod (CM)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 62,
+        "category": null,
+        "title": "Propoziţia subordonată circumstanţială de cauză (CZ)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 63,
+        "category": null,
+        "title": "Prop. sub. circumstanţială de scop/finală (CS,CF)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 64,
+        "category": null,
+        "title": "Rolul semnelor de punctuatie",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"}
@@ -33,29 +1290,906 @@
   },
   {
     "id": 1,
-    "title": "Matematica",
-    "full_title": "Matematica",
-    "subtitle": "Matematica",
-    "description": "Matematica",
+    "title": "Matematică",
+    "full_title": "Matematică",
+    "subtitle": "Matematică",
+    "description": "Matematică",
     "lessons": [
       {
-        "id": 1948,
-        "category": null,
-        "title": "title",
+        "id": 1,
+        "category": "Aritmetică și algebră",
+        "title": "Mulțimi numerice",
         "subtitle": "",
         "left_subtitle1": "",
-        "left_subtitle2": "year",
+        "left_subtitle2": "",
         "right_subtitle1": "",
-        "right_subtitle2": "author",
+        "right_subtitle2": "",
         "priority": 4,
         "read_time": 8,
         "related_lessons": [
-          {"id": 1, "title": "titlu lectie similara"},
-          {"id": 2, "title": "titlu lectie similara"}
+
         ],
         "parts": [
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Intervale",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Operații cu mulțimi",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Modulul unui număr real",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Cum rezolvam?",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 6,
+        "category": null,
+        "title": "Puțină aritmetică",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Divizibilitatea",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "Criterii de divizibilitate",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Cel mai mare divizor comun = (a,b)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Cel mai mic multiplu comun = [a,b]",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Transformări de fracții zecimale în fracții ordinare",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "Partea întreagă și fracționară a unui număr real",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "Rapoarte și proporții",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Rapoarte deosebite",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "Așa nu",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Reține!",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 17,
+        "category": null,
+        "title": "Puteri",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 18,
+        "category": null,
+        "title": "Radicalul de ordinul doi",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 19,
+        "category": null,
+        "title": "Medii",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 20,
+        "category": null,
+        "title": "Metode de comparare a numerelor a,b (Reale)",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 21,
+        "category": null,
+        "title": "Formule de calcul prescurtat",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 22,
+        "category": null,
+        "title": "Descompunerea in factori",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 23,
+        "category": null,
+        "title": "Ecuații",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 24,
+        "category": null,
+        "title": "Funcții",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 25,
+        "category": "Geometrie 1",
+        "title": "Unități de măsură",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 26,
+        "category": null,
+        "title": "Unghi",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 27,
+        "category": null,
+        "title": "Tipuri de unghiuri",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 28,
+        "category": null,
+        "title": "Poligoane",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 29,
+        "category": null,
+        "title": "Triunghiul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 30,
+        "category": null,
+        "title": "Linii importante în triunghi",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 31,
+        "category": null,
+        "title": "Arii și perimetre",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 32,
+        "category": null,
+        "title": "Relații metrice în triunghi",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 33,
+        "category": null,
+        "title": "Elemente de trigonometrie",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 34,
+        "category": null,
+        "title": "Cercul",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 35,
+        "category": "Geometrie 2",
+        "title": "Puncte. Drepte. Plane.",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 36,
+        "category": null,
+        "title": "Relații între puncte, drepte și plane.",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 37,
+        "category": null,
+        "title": "Teoreme de paralelism",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 38,
+        "category": null,
+        "title": "Tereme de perpendicularitate",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 39,
+        "category": null,
+        "title": "Poliedre",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 40,
+        "category": null,
+        "title": "Prisma",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 41,
+        "category": null,
+        "title": "Piramida",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 42,
+        "category": null,
+        "title": "Trunchiul de piramida",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 43,
+        "category": null,
+        "title": "Corpuri rotunde",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 44,
+        "category": null,
+        "title": "Secțiuni paralele cu baza într-o piramidă, într-un con",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 45,
+        "category": null,
+        "title": "Reprezentarea punctelor într-un sistem de axe ortogonale",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"},
           {"title": null,"body": "wwwwwwwww"}
