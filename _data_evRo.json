@@ -1,6 +1,4 @@
-{
-  "name": "Evaluarea Nationala",
-  "courses":[
+[
     {
       "id": 0,
       "title": "Limba Română ",
@@ -2239,5 +2237,5 @@
         }
       ]
     }
-  ]
-}
+]
+
