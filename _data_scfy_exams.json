@@ -2,28 +2,28 @@
   {
     "language_code": "ro",
     "language": "Romana",
-    "code": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json",
+    "code": "ro_bac",
     "name": "Bacalaureat",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   },
   {
     "language_code": "ro",
     "language": "Romana",
-    "code": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json",
+    "code": "ro_ev",
     "name": "Evaluarea Nationala",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json"
   },
   {
     "language_code": "tk",
     "language": "Turkish",
-    "code": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json",
+    "code": "tk_bac",
     "name": "Turkish Baccalaureate",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   },
   {
     "language_code": "fr",
     "language": "Francais",
-    "code": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json",
+    "code": "fr_bac",
     "name": "French Baccalaureate",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   }
