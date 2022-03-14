@@ -1,16 +1,19 @@
 [
   {
     "language": "ro",
+    "code": "ro_bac",
     "name": "Bacalaureat",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   },
   {
     "language": "ro",
+    "code": "ro_ev",
     "name": "Evaluarea Nationala",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json"
   },
   {
     "language": "bg",
+    "code": "bg_tr",
     "name": "Thracian Cliffs",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   }
