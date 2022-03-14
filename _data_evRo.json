@@ -5,6 +5,7 @@
       "full_title": "Evaluarea Nationala",
       "subtitle": "Română",
       "description": "Limba si Literatura Română.",
+      "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
       "lessons": [
         {
           "id": 1,
@@ -1334,6 +1335,7 @@
       "full_title": "Matematică",
       "subtitle": "Matematică",
       "description": "Matematică",
+      "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
       "lessons": [
         {
           "id": 1,
