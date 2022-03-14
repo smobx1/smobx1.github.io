@@ -1,0 +1,17 @@
+[
+  {
+    "language": "ro",
+    "name": "Bacalaureat",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
+  },
+  {
+    "language": "ro",
+    "name": "Evaluarea Nationala",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json"
+  },
+  {
+    "language": "bg",
+    "name": "Thracian Cliffs",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
+  }
+]
