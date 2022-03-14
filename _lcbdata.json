@@ -5,6 +5,7 @@
     "full_title": "Bacalaureat",
     "subtitle": "Romana Uman",
     "description": "Limba si Literatura Romana - Uman.",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 0,
@@ -938,6 +939,7 @@
     "full_title": "Limba si Literatura Romana - Real",
     "subtitle": "Romana Real",
     "description": "Limba si Literatura Romana - Real.",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
 
     ]
@@ -948,6 +950,7 @@
     "full_title": "Matematica M1",
     "subtitle": "Matematica M1",
     "description": "Matematica M1",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1,
@@ -1977,6 +1980,7 @@
     "full_title": "Matematica M2",
     "subtitle": "Matematica M2",
     "description": "Matematica M2",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
 
     ]
@@ -1987,6 +1991,7 @@
     "full_title": "Istorie",
     "subtitle": "Istorie",
     "description": "Istorie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1,
@@ -2664,6 +2669,7 @@
     "full_title": "Geografie",
     "subtitle": "Geografie",
     "description": "Geografie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1948,
@@ -2696,6 +2702,7 @@
     "full_title": "Biologie Vegetala",
     "subtitle": "Biologie Vegetala",
     "description": "Biologie Vegetala",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1,
@@ -3398,6 +3405,7 @@
     "full_title": "Biologie Anatomie",
     "subtitle": "Biologie Anatomie",
     "description": "Biologie Anatomie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1948,
@@ -3430,6 +3438,7 @@
     "full_title": "Psihologie",
     "subtitle": "Psihologie",
     "description": "Psihologie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1948,
@@ -3462,6 +3471,7 @@
     "full_title": "Logica",
     "subtitle": "Logica",
     "description": "Logica",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1948,
@@ -3494,6 +3504,7 @@
     "full_title": "Sociologie",
     "subtitle": "Sociologie",
     "description": "Sociologie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1948,
@@ -3526,6 +3537,7 @@
     "full_title": "Filosofie",
     "subtitle": "Filosofie",
     "description": "Filosofie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1,
@@ -3733,6 +3745,7 @@
     "full_title": "Economie",
     "subtitle": "Economie",
     "description": "Economie",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
         "id": 1,
