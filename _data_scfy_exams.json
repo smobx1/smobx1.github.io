@@ -12,9 +12,9 @@
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json"
   },
   {
-    "language": "bg",
-    "code": "bg_tr",
-    "name": "Bulgarian Baccalaureate",
+    "language": "tk",
+    "code": "tk_bac",
+    "name": "Turkish Baccalaureate",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
   }
 ]
