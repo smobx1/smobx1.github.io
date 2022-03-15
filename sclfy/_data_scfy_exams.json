@@ -4,41 +4,41 @@
     "language": "🇷🇴 Romana",
     "code": "ro_bac",
     "name": "Bacalaureat",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_bac.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_bac.json"
   },
   {
     "language_code": "ro",
     "language": "🇷🇴 Romana",
     "code": "ro_ev",
     "name": "Evaluarea Nationala",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_ro_ev.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_ev.json"
   },
   {
     "language_code": "tk",
     "language": "🇹🇷 Turkish",
     "code": "tk_bac",
     "name": "Turkish Baccalaureate",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_tk_bac.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_tk_bac.json"
   },
   {
     "language_code": "fr",
     "language": "🇫🇷 Francais",
     "code": "fr_bac",
     "name": "French Baccalaureate",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
   },
   {
     "language_code": "uk",
     "language": "🇬🇧 United Kingdom",
     "code": "uk_bac",
     "name": "UK Baccalaureat",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
   },
   {
     "language_code": "us",
     "language": "🇺🇸 United States",
     "code": "us_bac",
     "name": "US Baccalaureat",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
   }
 ]
