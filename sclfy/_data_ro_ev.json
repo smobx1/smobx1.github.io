@@ -1,6 +1,7 @@
 [
     {
       "id": 0,
+      "code": "ro_ev_ro",
       "title": "Limba Română ",
       "full_title": "Limba Română ",
       "subtitle": "Română",
@@ -1331,6 +1332,7 @@
     },
     {
       "id": 1,
+      "code": "ro_ev_ma",
       "title": "Matematică",
       "full_title": "Matematică",
       "subtitle": "Matematică",
