@@ -9,6 +9,26 @@
       "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
       "lessons": [
         {
+          "id": 0,
+          "category": null,
+          "title": "Cuvant inainte",
+          "subtitle": "",
+          "left_subtitle1": "",
+          "left_subtitle2": "",
+          "right_subtitle1": "",
+          "right_subtitle2": "",
+          "priority": 4,
+          "read_time": 8,
+          "related_lessons": [
+
+          ],
+          "parts": [
+            {"title": null,"body": "wwwwwwwww"},
+            {"title": null,"body": "wwwwwwwww"},
+            {"title": null,"body": "wwwwwwwww"}
+          ]
+        },
+        {
           "id": 1,
           "category": "Fonetica",
           "title": "Despre fonetică",
@@ -1339,6 +1359,26 @@
       "description": "Matematică",
       "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
       "lessons": [
+        {
+          "id": 0,
+          "category": null,
+          "title": "Cuvant inainte",
+          "subtitle": "",
+          "left_subtitle1": "",
+          "left_subtitle2": "",
+          "right_subtitle1": "",
+          "right_subtitle2": "",
+          "priority": 4,
+          "read_time": 8,
+          "related_lessons": [
+
+          ],
+          "parts": [
+            {"title": null,"body": "wwwwwwwww"},
+            {"title": null,"body": "wwwwwwwww"},
+            {"title": null,"body": "wwwwwwwww"}
+          ]
+        },
         {
           "id": 1,
           "category": "Aritmetică și algebră",
