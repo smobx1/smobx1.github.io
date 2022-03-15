@@ -26,5 +26,19 @@
     "code": "fr_bac",
     "name": "French Baccalaureate",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
+  },
+  {
+    "language_code": "uk",
+    "language": "🇬🇧 United Kingdon",
+    "code": "uk_bac",
+    "name": "UK Baccalaureat",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
+  },
+  {
+    "language_code": "us",
+    "language": "🇺🇸 United States",
+    "code": "us_bac",
+    "name": "US Baccalaureat",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/_data_fr_bac.json"
   }
 ]
