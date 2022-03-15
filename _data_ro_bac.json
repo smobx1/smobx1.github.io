@@ -1994,7 +1994,7 @@
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_ist.png",
     "lessons": [
       {
-        "id": 1,
+        "id": 0,
         "category": "1.Popoare și spații istorice",
         "title": "Etnogeneza românească",
         "subtitle": "",
@@ -2012,7 +2012,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "category": null,
         "title": "Istoricii, despre romanitatea românilor",
         "subtitle": "",
@@ -2030,7 +2030,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "category": "2. Oamenii, societatea și lumea ideilor",
         "title": "Tendinţe şi politici în cultura europeană a secolului al XIX-lea",
         "subtitle": "",
@@ -2048,7 +2048,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "category": null,
         "title": "Curente şi politici culturale în secolul al XX-lea Medii şi politici culturale europene în secolul al XX-lea",
         "subtitle": "",
@@ -2066,7 +2066,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "category": null,
         "title": "Ideologii şi practici politice democratice",
         "subtitle": "",
@@ -2084,7 +2084,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "category": null,
         "title": "Ideologii şi practici politice totalitare. Fascismul şi nazismul Caracteristici comune ale regimurilor politice totalitare",
         "subtitle": "",
@@ -2102,7 +2102,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "category": null,
         "title": "Ideologii şi practici politice totalitare. Comunismul",
         "subtitle": "",
@@ -2120,7 +2120,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "category": null,
         "title": "Ideologii şi practici politice în România Ideologii şi practici politice în România până în anul 1918",
         "subtitle": "",
@@ -2138,7 +2138,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "category": null,
         "title": "Ideologii şi practici politice după Primul Război Mondial",
         "subtitle": "",
@@ -2156,7 +2156,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "category": null,
         "title": "Documente constituţionale din secolul al XIX-lea",
         "subtitle": "",
@@ -2174,7 +2174,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "category": null,
         "title": "Constituţiile României în secolul al XX-lea",
         "subtitle": "",
@@ -2192,7 +2192,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "category": null,
         "title": "Constituţiile României din perioada comunistă",
         "subtitle": "",
@@ -2210,7 +2210,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "category": null,
         "title": "Constituţia României din anul 1991",
         "subtitle": "",
@@ -2228,7 +2228,7 @@
         ]
       },
       {
-        "id": 14,
+        "id": 13,
         "category": "3. Statul și politica",
         "title": "Evoluţia statelor medievale în spaţiul românesc",
         "subtitle": "",
@@ -2246,7 +2246,7 @@
         ]
       },
       {
-        "id": 15,
+        "id": 14,
         "category": null,
         "title": "Construcţia statală în spaţiul românesc",
         "subtitle": "",
@@ -2264,7 +2264,7 @@
         ]
       },
       {
-        "id": 16,
+        "id": 15,
         "category": null,
         "title": "Instituţii centrale şi locale (sec. IX – XVIII)",
         "subtitle": "",
@@ -2282,7 +2282,7 @@
         ]
       },
       {
-        "id": 17,
+        "id": 16,
         "category": null,
         "title": "Proiecte politice în secolul al XVIII-lea şi în prima jumătate a secolului al XIX-lea",
         "subtitle": "",
@@ -2300,7 +2300,7 @@
         ]
       },
       {
-        "id": 18,
+        "id": 17,
         "category": null,
         "title": "Unitate şi independenţă în secolul al XIX-lea",
         "subtitle": "",
@@ -2318,7 +2318,7 @@
         ]
       },
       {
-        "id": 19,
+        "id": 18,
         "category": null,
         "title": "Constituirea statului naţional unitar român",
         "subtitle": "",
@@ -2336,7 +2336,7 @@
         ]
       },
       {
-        "id": 20,
+        "id": 19,
         "category": null,
         "title": "Etapele instaurării regimului politic comunist în România",
         "subtitle": "",
@@ -2354,7 +2354,7 @@
         ]
       },
       {
-        "id": 21,
+        "id": 20,
         "category": null,
         "title": "Regimul stalinist al lui Gheorghe Gheorghiu-Dej (1948-1965)",
         "subtitle": "",
@@ -2372,7 +2372,7 @@
         ]
       },
       {
-        "id": 22,
+        "id": 21,
         "category": null,
         "title": "Naţional–comunismul – regimul politic al lui Nicolae Ceauşescu (1965-1989)",
         "subtitle": "",
@@ -2390,7 +2390,7 @@
         ]
       },
       {
-        "id": 23,
+        "id": 22,
         "category": null,
         "title": "Represiunea politică în timpul regimului comunist",
         "subtitle": "",
@@ -2408,8 +2408,26 @@
         ]
       },
       {
-        "id": 24,
+        "id": 23,
         "category": "4. Relațiile internaționale",
+        "title": "Spaţiul românesc, între diplomaţie şi conflict în Evul Mediu şi la începuturile modernităţii",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "",
+        "right_subtitle1": "",
+        "right_subtitle2": "",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "Începând din secolul al XIV-lea, o nouă putere politică şi militară se afirmă în Europa: statul otoman. \n- Spre sfârşitul secolului al XIV-lea, acesta ajunge în expansiunea sa până la Dunăre, ameninţând direct Ţările Române. \n- În general, acestea au adoptat o atitudine defensivă, evitând transformarea în paşalâcuri turceşti. \n- Statutul lor politico-juridic evoluează de la independenţă la autonomie, relaţiile cu Imperiul Otoman fiind reglementate prin documentele numite Capitulaţii\n\nTotodată, situaţia Ţărilor Române a fost influenţată şi de jocul de interese al marilor puteri creştine vecine: Ungaria, Polonia şi, din secolul al XVI-lea, Imperiul Romano-German (Habsburgic). \n- Alături de statele creştine europene, Ţările Române au participat la cruciadele antiotomane, devenind adevărate 'Porţi ale creştinătăţii'. \n- Spre sfârşitul secolului al XIV-lea, voievodul Ţării Româneşti, Mircea cel Bătrân (1386-1418), a inaugurat politica de alianţă cu Regatul Ungariei împotriva otomanilor. La 7 martie 1395, la Braşov, acesta semna, cu regele Ungariei, Sigismund de Luxemburg un tratat cu caracter antiotoman . \n- Voievodul Petru I Muşat (1375 – 1391) inaugura, la rândul său, tradiţia bunelor relaţii ale Moldovei cu Polonia, pentru a contrabalansa pericolul reprezentat de Ungaria. Această politică a fost continuată şi de alţi voievozi moldoveni, ca Alexandru cel Bun (1400-1432) sau Ştefan cel Mare (1457-1504).\n\nDe la sfârşitul secolului al XIV-lea, românii au fost implicaţi direct în lupta antiotomană, participând la susţinerea politicii de „cruciadă târzie”. Astfel, Mircea cel Bătrân a obţinut victoria, la Rovine (1395), împotriva oştilor conduse de sultanul Baiazid I şi a participat, alături de Sigismund de Luxemburg, la cruciada de la Nicopole (1396), unde însă creştinii au fost înfrânţi de otomani."}
+        ]
+      },
+      {
+        "id": 24,
+        "category": null,
         "title": "Spaţiul românesc, între diplomaţie şi conflict în Evul Mediu şi la începuturile modernităţii",
         "subtitle": "",
         "left_subtitle1": "",
@@ -2428,24 +2446,6 @@
       {
         "id": 25,
         "category": null,
-        "title": "Spaţiul românesc, între diplomaţie şi conflict în Evul Mediu şi la începuturile modernităţii",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "",
-        "right_subtitle1": "",
-        "right_subtitle2": "",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-
-        ],
-        "parts": [
-          {"title": null,"body": "Începând din secolul al XIV-lea, o nouă putere politică şi militară se afirmă în Europa: statul otoman. \n- Spre sfârşitul secolului al XIV-lea, acesta ajunge în expansiunea sa până la Dunăre, ameninţând direct Ţările Române. \n- În general, acestea au adoptat o atitudine defensivă, evitând transformarea în paşalâcuri turceşti. \n- Statutul lor politico-juridic evoluează de la independenţă la autonomie, relaţiile cu Imperiul Otoman fiind reglementate prin documentele numite Capitulaţii\n\nTotodată, situaţia Ţărilor Române a fost influenţată şi de jocul de interese al marilor puteri creştine vecine: Ungaria, Polonia şi, din secolul al XVI-lea, Imperiul Romano-German (Habsburgic). \n- Alături de statele creştine europene, Ţările Române au participat la cruciadele antiotomane, devenind adevărate 'Porţi ale creştinătăţii'. \n- Spre sfârşitul secolului al XIV-lea, voievodul Ţării Româneşti, Mircea cel Bătrân (1386-1418), a inaugurat politica de alianţă cu Regatul Ungariei împotriva otomanilor. La 7 martie 1395, la Braşov, acesta semna, cu regele Ungariei, Sigismund de Luxemburg un tratat cu caracter antiotoman . \n- Voievodul Petru I Muşat (1375 – 1391) inaugura, la rândul său, tradiţia bunelor relaţii ale Moldovei cu Polonia, pentru a contrabalansa pericolul reprezentat de Ungaria. Această politică a fost continuată şi de alţi voievozi moldoveni, ca Alexandru cel Bun (1400-1432) sau Ştefan cel Mare (1457-1504).\n\nDe la sfârşitul secolului al XIV-lea, românii au fost implicaţi direct în lupta antiotomană, participând la susţinerea politicii de „cruciadă târzie”. Astfel, Mircea cel Bătrân a obţinut victoria, la Rovine (1395), împotriva oştilor conduse de sultanul Baiazid I şi a participat, alături de Sigismund de Luxemburg, la cruciada de la Nicopole (1396), unde însă creştinii au fost înfrânţi de otomani."}
-        ]
-      },
-      {
-        "id": 26,
-        "category": null,
         "title": "Românii, între diplomaţie şi conflict în secolele al XV-lea şi al XVI-lea",
         "subtitle": "",
         "left_subtitle1": "",
@@ -2462,7 +2462,7 @@
         ]
       },
       {
-        "id": 27,
+        "id": 26,
         "category": null,
         "title": "Ţările Române în context european, în timpul domniei lui Mihai Viteazul",
         "subtitle": "",
@@ -2480,7 +2480,7 @@
         ]
       },
       {
-        "id": 28,
+        "id": 27,
         "category": null,
         "title": "Spaţiul românesc şi marile puteri în secolul al XVII-lea",
         "subtitle": "",
@@ -2498,7 +2498,7 @@
         ]
       },
       {
-        "id": 29,
+        "id": 28,
         "category": null,
         "title": "Acţiuni de politică externă ale domnitorilor fanarioţi (secolul al XVIII-lea)",
         "subtitle": "",
@@ -2516,7 +2516,7 @@
         ]
       },
       {
-        "id": 30,
+        "id": 29,
         "category": null,
         "title": "“Criza orientală” şi spaţiul românesc",
         "subtitle": "",
@@ -2534,7 +2534,7 @@
         ]
       },
       {
-        "id": 31,
+        "id": 30,
         "category": null,
         "title": "Transformarea problemei româneşti în problemă europeană",
         "subtitle": "",
@@ -2552,7 +2552,7 @@
         ]
       },
       {
-        "id": 32,
+        "id": 31,
         "category": null,
         "title": "Acţiunile diplomatice ale României înainte de recunoaşterea independenţei de stat",
         "subtitle": "",
@@ -2570,7 +2570,7 @@
         ]
       },
       {
-        "id": 33,
+        "id": 32,
         "category": null,
         "title": "Relaţiile externe ale României după obţinerea independenţei de stat",
         "subtitle": "",
@@ -2588,7 +2588,7 @@
         ]
       },
       {
-        "id": 34,
+        "id": 33,
         "category": null,
         "title": "Principiile politicii externe a României după Marea Unire",
         "subtitle": "",
@@ -2606,7 +2606,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 34,
         "category": null,
         "title": "Politica externă a României în perioada 1930 - 1944",
         "subtitle": "",
@@ -2624,7 +2624,7 @@
         ]
       },
       {
-        "id": 36,
+        "id": 35,
         "category": null,
         "title": "România în relaţiile internaţionale, în perioada maximei confruntări din timpul Războiului Rece",
         "subtitle": "",
@@ -2642,7 +2642,7 @@
         ]
       },
       {
-        "id": 37,
+        "id": 36,
         "category": null,
         "title": "Politica externă a României în perioada destinderii şi a coexistenţei paşnice.",
         "subtitle": "",
@@ -2705,7 +2705,7 @@
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_bioV.png",
     "lessons": [
       {
-        "id": 1,
+        "id": 0,
         "category": null,
         "title": "Celula",
         "subtitle": "",
@@ -2724,7 +2724,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "category": null,
         "title": "Celula Procariotă",
         "subtitle": "",
@@ -2744,7 +2744,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "category": null,
         "title": "Celula Eucariotă",
         "subtitle": "",
@@ -2764,7 +2764,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "category": null,
         "title": "Celula Eucariotă",
         "subtitle": "",
@@ -2786,7 +2786,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "category": null,
         "title": "Diviziune Celulara",
         "subtitle": "",
@@ -2808,7 +2808,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "category": null,
         "title": "Concepte: ereditate si variabilitate",
         "subtitle": "",
@@ -2826,7 +2826,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "category": null,
         "title": "Mecanismele transmiterii caracterelor ereditare",
         "subtitle": "",
@@ -2846,7 +2846,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "category": null,
         "title": "Recombinare genetica prin schimb reciproc de gene",
         "subtitle": "",
@@ -2864,7 +2864,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "category": null,
         "title": "Determinism cromozomal al sexelor",
         "subtitle": "",
@@ -2882,7 +2882,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "category": null,
         "title": "Influenta mediului asupra ereditatii",
         "subtitle": "",
@@ -2901,7 +2901,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "category": null,
         "title": "Genetica umana",
         "subtitle": "",
@@ -2919,7 +2919,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "category": null,
         "title": "Notiuni introductive",
         "subtitle": "",
@@ -2940,7 +2940,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "category": null,
         "title": "Conservarea biodiversitatii in Romania",
         "subtitle": "",
@@ -2955,6 +2955,28 @@
         ],
         "parts": [
           {"title": null,"body": "Animale ocrotite în România: cocoşul de munte, corbul, striga, ciuful, dropia,egretamare, lopătarul,pelicanul comun,pelicanul creţ,piciorongul, broasca ţestoasă de uscat dobrogeană, capra neagră, marmota, lupul, râsul, ursul carpatinet etc.\nPlantele ocrotite în România: larice, tisa, laleaua pestriţă, bujorul românesc,floarea de colţ, papucul doamnei,garofiţa."}
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "title",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
         ]
       },
       {
@@ -3355,28 +3377,6 @@
       },
       {
         "id": 32,
-        "category": null,
-        "title": "title",
-        "subtitle": "",
-        "left_subtitle1": "",
-        "left_subtitle2": "year",
-        "right_subtitle1": "",
-        "right_subtitle2": "author",
-        "priority": 4,
-        "read_time": 8,
-        "related_lessons": [
-
-        ],
-        "parts": [
-          {"title": null,"body": "wwwwwwwww"},
-          {"title": null,"body": "wwwwwwwww"},
-          {"title": null,"body": "wwwwwwwww"},
-          {"title": null,"body": "wwwwwwwww"},
-          {"title": null,"body": "wwwwwwwww"}
-        ]
-      },
-      {
-        "id": 33,
         "category": null,
         "title": "title",
         "subtitle": "",
@@ -3540,7 +3540,7 @@
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_filo.png",
     "lessons": [
       {
-        "id": 1,
+        "id": 0,
         "category": "Omul",
         "title": "Problematica naturii umane",
         "subtitle": "",
@@ -3558,7 +3558,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "category": null,
         "title": "Sensul vieţii",
         "subtitle": "",
@@ -3576,7 +3576,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "category": "Morala",
         "title": "Teorii morale",
         "subtitle": "",
@@ -3594,7 +3594,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "category": null,
         "title": "Probleme de etică aplicată",
         "subtitle": "",
@@ -3612,7 +3612,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "category": "Politica",
         "title": "Libertate şi responsabilitate social-politică",
         "subtitle": "",
@@ -3630,7 +3630,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "category": null,
         "title": "Egalitate şi dreptate",
         "subtitle": "",
@@ -3648,7 +3648,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "category": null,
         "title": "Teorii politice moderne şi contemporane",
         "subtitle": "",
@@ -3666,7 +3666,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "category": null,
         "title": "Drepturile omului",
         "subtitle": "",
@@ -3684,7 +3684,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "category": "Cunoaşterea",
         "title": "Forme de cunoaştere şi tipuri de adevăr",
         "subtitle": "",
@@ -3702,7 +3702,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "category": null,
         "title": "Adevăr şi eroare",
         "subtitle": "",
@@ -3720,7 +3720,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "category": "Filosofia",
         "title": "Filosofie şi viaţă",
         "subtitle": "",
@@ -3748,7 +3748,7 @@
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_ec.png",
     "lessons": [
       {
-        "id": 1,
+        "id": 0,
         "category": "Noţiuni introductive",
         "title": "Economia și perspectiva sa asupra realităţii",
         "subtitle": "",
@@ -3766,7 +3766,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "category": "1. Consumatorul şi comportamentul său raţional",
         "title": "Nevoi şi resurse",
         "subtitle": "",
@@ -3784,7 +3784,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "category": null,
         "title": "Cererea todo are poza",
         "subtitle": "",
@@ -3802,7 +3802,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "category": null,
         "title": "Consumatorul şi comportamentul său (costul de oportunitate, utilitatea economică)",
         "subtitle": "",
@@ -3820,7 +3820,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "category": "2. Producătorul/întreprinzătorul şi comportamentul său raţional",
         "title": "Proprietatea şi libera iniţiativă",
         "subtitle": "",
@@ -3838,7 +3838,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "category": null,
         "title": "Oferta",
         "subtitle": "",
@@ -3856,7 +3856,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "category": null,
         "title": "Factorii de producţie şi combinarea acestora",
         "subtitle": "",
@@ -3874,7 +3874,7 @@
         ]
       },
       {
-        "id": 8,
+        "id": 7,
         "category": null,
         "title": "Costuri, productivitate, profit, eficienţă economică",
         "subtitle": "",
@@ -3892,7 +3892,7 @@
         ]
       },
       {
-        "id": 9,
+        "id": 8,
         "category": "3. Piaţa - întâlnire a agenţilor economici",
         "title": "Relaţia cerere-ofertă-preţ în economia de piaţă",
         "subtitle": "",
@@ -3910,7 +3910,7 @@
         ]
       },
       {
-        "id": 10,
+        "id": 9,
         "category": null,
         "title": "Mecanismul concurenţial",
         "subtitle": "",
@@ -3928,7 +3928,7 @@
         ]
       },
       {
-        "id": 11,
+        "id": 10,
         "category": null,
         "title": "Piaţa monetară",
         "subtitle": "",
@@ -3946,7 +3946,7 @@
         ]
       },
       {
-        "id": 12,
+        "id": 11,
         "category": null,
         "title": "Piaţa capitalurilor",
         "subtitle": "",
@@ -3964,7 +3964,7 @@
         ]
       },
       {
-        "id": 13,
+        "id": 12,
         "category": null,
         "title": "Piaţa muncii",
         "subtitle": "",
