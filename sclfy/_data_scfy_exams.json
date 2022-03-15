@@ -14,6 +14,13 @@
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_ev.json"
   },
   {
+    "language_code": "ro",
+    "language": "🇷🇴 Romana",
+    "code": "ro_rez",
+    "name": "Rezidentiat",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_rezi.json"
+  },
+  {
     "language_code": "tk",
     "language": "🇹🇷 Turkish",
     "code": "tk_bac",
