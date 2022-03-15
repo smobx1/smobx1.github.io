@@ -1,6 +1,7 @@
 [
   {
     "id": 0,
+    "code": "ro_bac_roUm",
     "title": "Romana - Uman",
     "full_title": "Romana - Uman",
     "subtitle": "Romana Uman",
@@ -935,6 +936,7 @@
   },
   {
     "id": 1,
+    "code": "ro_bac_roRe",
     "title": "Romana - Real",
     "full_title": "Limba si Literatura Romana - Real",
     "subtitle": "Romana Real",
@@ -946,6 +948,7 @@
   },
   {
     "id": 2,
+    "code": "ro_bac_mam1",
     "title": "Matematica M1",
     "full_title": "Matematica M1",
     "subtitle": "Matematica M1",
@@ -1976,6 +1979,7 @@
   },
   {
     "id": 3,
+    "code": "ro_bac_mam2",
     "title": "Matematica M2",
     "full_title": "Matematica M2",
     "subtitle": "Matematica M2",
@@ -1987,6 +1991,7 @@
   },
   {
     "id": 4,
+    "code": "ro_bac_ist",
     "title": "Istorie",
     "full_title": "Istorie",
     "subtitle": "Istorie",
@@ -2665,6 +2670,7 @@
   },
   {
     "id": 5,
+    "code": "ro_bac_geo",
     "title": "Geografie",
     "full_title": "Geografie",
     "subtitle": "Geografie",
@@ -2698,6 +2704,7 @@
   },
   {
     "id": 6,
+    "code": "ro_bac_bioV",
     "title": "Biologie Vegetala",
     "full_title": "Biologie Vegetala",
     "subtitle": "Biologie Vegetala",
@@ -3401,6 +3408,7 @@
   },
   {
     "id": 7,
+    "code": "ro_bac_bioA",
     "title": "Biologie Anatomie",
     "full_title": "Biologie Anatomie",
     "subtitle": "Biologie Anatomie",
@@ -3434,6 +3442,7 @@
   },
   {
     "id": 8,
+    "code": "ro_bac_psi",
     "title": "Psihologie",
     "full_title": "Psihologie",
     "subtitle": "Psihologie",
@@ -3467,6 +3476,7 @@
   },
   {
     "id": 9,
+    "code": "ro_bac_lo",
     "title": "Logica",
     "full_title": "Logica",
     "subtitle": "Logica",
@@ -3500,6 +3510,7 @@
   },
   {
     "id": 10,
+    "code": "ro_bac_so",
     "title": "Sociologie",
     "full_title": "Sociologie",
     "subtitle": "Sociologie",
@@ -3533,6 +3544,7 @@
   },
   {
     "id": 11,
+    "code": "ro_bac_filo",
     "title": "Filosofie",
     "full_title": "Filosofie",
     "subtitle": "Filosofie",
@@ -3741,6 +3753,7 @@
   },
   {
     "id": 12,
+    "code": "ro_bac_eco",
     "title": "Economie",
     "full_title": "Economie",
     "subtitle": "Economie",
