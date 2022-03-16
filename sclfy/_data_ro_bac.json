@@ -2809,16 +2809,85 @@
   {
     "id": 5,
     "code": "ro_bac_geo",
-    "title": "Geografie",
-    "full_title": "Geografie",
-    "subtitle": "Geografie",
-    "description": "Geografie",
+    "title": "Geografie titlu",
+    "full_title": "Geografie titlu full",
+    "subtitle": "Geografie subtitlu",
+    "description": "Geografie descriere",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_geo.png",
     "lessons": [
       {
         "id": 0,
+        "category": "Cuvant inainte",
+        "title": "Geografie lectie 1",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 1,
         "category": null,
-        "title": "title",
+        "title": "Geografie lectie 2",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Geografie lectie 3",
+        "subtitle": "",
+        "left_subtitle1": "",
+        "left_subtitle2": "year",
+        "right_subtitle1": "",
+        "right_subtitle2": "author",
+        "priority": 4,
+        "read_time": 8,
+        "related_lessons": [
+          {"id": 1, "title": "titlu lectie similara"},
+          {"id": 2, "title": "titlu lectie similara"}
+        ],
+        "parts": [
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"},
+          {"title": null,"body": "wwwwwwwww"}
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Geografie lectie 4",
         "subtitle": "",
         "left_subtitle1": "",
         "left_subtitle2": "year",
