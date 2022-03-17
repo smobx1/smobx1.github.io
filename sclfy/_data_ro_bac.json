@@ -4323,8 +4323,8 @@
     "lessons": [
       {
         "id": 0,
-        "category": "Cuvant inainte",
-        "title": "Geografie lectie 1",
+        "category": null,
+        "title": "wwwwwwww",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4333,33 +4333,8 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -4369,7 +4344,7 @@
       {
         "id": 1,
         "category": null,
-        "title": "Geografie lectie 2",
+        "title": "wwwwwwww",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4378,33 +4353,8 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -4414,7 +4364,7 @@
       {
         "id": 2,
         "category": null,
-        "title": "Geografie lectie 3",
+        "title": "wwwwwwww",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4423,33 +4373,8 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -4459,7 +4384,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "Geografie lectie 4",
+        "title": "wwwwwwww",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4468,33 +4393,248 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "wwwwwwww",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -5660,7 +5800,7 @@
       {
         "id": 2,
         "category": "Funcţiile fundamentale ale organismului uman\n- Funcţiile de relatie",
-        "title": "title",
+        "title": "Sistemul nervos",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -5705,7 +5845,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "Sistemul nervos",
+        "title": "Sistemul nervos extra TODO",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -6064,7 +6204,7 @@
       },
       {
         "id": 11,
-        "category": "- Analizatorii",
+        "category": "Analizatorii",
         "title": "Segmentele unui analizator",
         "subtitle": null,
         "left_subtitle1": null,
@@ -6739,7 +6879,7 @@
       },
       {
         "id": 26,
-        "category": null,
+        "category": "Funcţiile de nutriţie",
         "title": "Hipofiza-glanda pituitară",
         "subtitle": null,
         "left_subtitle1": null,
@@ -7099,7 +7239,7 @@
       },
       {
         "id": 34,
-        "category": null,
+        "category": "Funcţiile de nutriţie",
         "title": "Digestia şi absorbţia",
         "subtitle": null,
         "left_subtitle1": null,
@@ -7459,7 +7599,7 @@
       },
       {
         "id": 42,
-        "category": null,
+        "category": "Circulaţia",
         "title": "Grupele sanguine",
         "subtitle": null,
         "left_subtitle1": null,
@@ -7684,7 +7824,7 @@
       },
       {
         "id": 47,
-        "category": null,
+        "category": "Respiraţia",
         "title": "Respiraţia",
         "subtitle": null,
         "left_subtitle1": null,
@@ -8314,7 +8454,7 @@
       },
       {
         "id": 61,
-        "category": null,
+        "category": "Genetică şi ecologie umană",
         "title": "Genetică moleculară",
         "subtitle": null,
         "left_subtitle1": null,
@@ -8956,8 +9096,8 @@
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "title",
+        "category": "Procese psihice senzoriale",
+        "title": "Senzațiile",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -8966,33 +9106,348 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "category": null,
+        "title": "Percepțiile",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Reprezentările",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Procese psihice cognitive",
+        "title": "Gândirea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Inteligența",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Limbajul",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": null,
+        "title": "Memoria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Imaginația",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "Motivația",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Afectivitatea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Voința",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Deprinderile",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "Atenția",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "Personalitatea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Temperamentul",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "Aptitudinile",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Caracterul",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "category": null,
+        "title": "Creativitatea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -9012,8 +9467,8 @@
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "title",
+        "category": "Logică si argumentare",
+        "title": "Noțiuni introductive",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -9022,33 +9477,308 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "category": null,
+        "title": "Principiile logicii tradiționale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Termenii",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Clasificarea termenilor",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Raporturi logice Între termeni",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Definirea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": null,
+        "title": "Clasificarea",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Propoziții categorice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "Pătratul lui Boethius",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Inferențe imediate cu propoziții categorice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Raționamente",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Silogismul",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "Figuri si moduri silogistice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "Metoda Venn la silogism",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Argumente nedeductive",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "Sofisme și paralogisme",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -9068,8 +9798,8 @@
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "title",
+        "category": "Sociologie",
+        "title": "Definiția sociologiei",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -9078,33 +9808,308 @@
         "priority": 4,
         "read_time": 8,
         "videoURL": null,
-        "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
-        ],
+        "related_lessons": [],
         "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "category": null,
+        "title": "Funcțiile sociologiei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Diferenta dintre cunoastere comuna si cunoastere stiintifica",
+        "title": "Cunoașterea comună",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Cunoașterea științifică",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Metodologia cercetări sociologice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Statul și rol social",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Grupurile sociale",
+        "title": "Grupul social",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Grupurile primare și grupuri secundare",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "Grupuri formale și grupuri informale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Grupuri de apartenentă și de referintă",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Înăuntru și în afara grupului (in-group și out-group)",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Formarea grupurilor",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "category": null,
+        "title": "Clase sociale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "category": "Instituțiile sociale",
+        "title": "Instituția",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Familia ca instituție socială",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "Tipologia familiei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
