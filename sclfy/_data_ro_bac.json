@@ -2029,17 +2029,17 @@
   },
   {
     "id": 2,
-    "code": "ro_bac_mam1",
+    "code": "ro_bac_geo",
     "title": "Matematica M1",
     "full_title": "Matematica M1",
     "subtitle": "Matematica M1",
     "description": "Matematica M1",
-    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_geo.png",
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "title",
+        "category": "Algebra",
+        "title": "Mulțimi de numere",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2050,14 +2050,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2067,7 +2059,7 @@
       {
         "id": 1,
         "category": null,
-        "title": "title",
+        "title": "Numere reale și ecuații",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2078,14 +2070,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2095,7 +2079,7 @@
       {
         "id": 2,
         "category": null,
-        "title": "title",
+        "title": "Funcții. Noțiuni de bază.",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2106,14 +2090,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2123,7 +2099,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "title",
+        "title": "→ Compunerea functiilor",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2134,14 +2110,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2151,7 +2119,7 @@
       {
         "id": 4,
         "category": null,
-        "title": "title",
+        "title": "→ Inversa unei functii",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2162,14 +2130,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2179,7 +2139,7 @@
       {
         "id": 5,
         "category": null,
-        "title": "title",
+        "title": "→ Functii injective, surjective, bijective",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2190,14 +2150,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2207,7 +2159,7 @@
       {
         "id": 6,
         "category": null,
-        "title": "title",
+        "title": "→ Functii convexe si concave",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2218,14 +2170,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2235,7 +2179,7 @@
       {
         "id": 7,
         "category": null,
-        "title": "title",
+        "title": "→ Funcția exponențială",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2246,14 +2190,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2263,7 +2199,7 @@
       {
         "id": 8,
         "category": null,
-        "title": "title",
+        "title": "→ Funcția logaritmică",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2274,14 +2210,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2291,7 +2219,7 @@
       {
         "id": 9,
         "category": null,
-        "title": "title",
+        "title": "Progresii",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2302,14 +2230,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2319,7 +2239,7 @@
       {
         "id": 10,
         "category": null,
-        "title": "title",
+        "title": "Permutări, aranjamente, combinări",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2330,14 +2250,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2347,7 +2259,7 @@
       {
         "id": 11,
         "category": null,
-        "title": "title",
+        "title": "Mulțimea numerelor complexe",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2358,14 +2270,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2375,7 +2279,7 @@
       {
         "id": 12,
         "category": null,
-        "title": "title",
+        "title": "Matrici",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2386,14 +2290,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2403,7 +2299,7 @@
       {
         "id": 13,
         "category": null,
-        "title": "title",
+        "title": "Legi de compoziție",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2414,14 +2310,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2431,7 +2319,7 @@
       {
         "id": 14,
         "category": null,
-        "title": "title",
+        "title": "Parte stabilă",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2442,14 +2330,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2459,7 +2339,7 @@
       {
         "id": 15,
         "category": null,
-        "title": "title",
+        "title": "Monoizi",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2470,14 +2350,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2487,7 +2359,7 @@
       {
         "id": 16,
         "category": null,
-        "title": "title",
+        "title": "Grupuri. Subgrupuri",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2498,14 +2370,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2515,7 +2379,7 @@
       {
         "id": 17,
         "category": null,
-        "title": "title",
+        "title": "Inele. Corpuri.",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2526,14 +2390,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2543,7 +2399,7 @@
       {
         "id": 18,
         "category": null,
-        "title": "title",
+        "title": "Spații vectoriale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2554,14 +2410,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2570,8 +2418,8 @@
       },
       {
         "id": 19,
-        "category": null,
-        "title": "title",
+        "category": "Analiza",
+        "title": "Elemente de analiză matematică",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2582,14 +2430,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2599,7 +2439,7 @@
       {
         "id": 20,
         "category": null,
-        "title": "title",
+        "title": "Mulțimi mărginite. Vecinități",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2610,14 +2450,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2627,7 +2459,7 @@
       {
         "id": 21,
         "category": null,
-        "title": "title",
+        "title": "Șiruri. Noțiuni de bază",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2638,14 +2470,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2655,7 +2479,7 @@
       {
         "id": 22,
         "category": null,
-        "title": "title",
+        "title": "Șiruri. Noțiuni suplimentare",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2666,14 +2490,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2683,7 +2499,7 @@
       {
         "id": 23,
         "category": null,
-        "title": "title",
+        "title": "Limite de funcții",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2694,14 +2510,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2711,7 +2519,7 @@
       {
         "id": 24,
         "category": null,
-        "title": "title",
+        "title": "Funcții continue",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2722,14 +2530,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2739,7 +2539,7 @@
       {
         "id": 25,
         "category": null,
-        "title": "title",
+        "title": "Funcții derivabile",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2750,14 +2550,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2767,7 +2559,7 @@
       {
         "id": 26,
         "category": null,
-        "title": "title",
+        "title": "Reprezentarea grafică a funcțiilor",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2778,14 +2570,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2795,7 +2579,7 @@
       {
         "id": 27,
         "category": null,
-        "title": "title",
+        "title": "Primitive",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2806,14 +2590,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2823,7 +2599,7 @@
       {
         "id": 28,
         "category": null,
-        "title": "title",
+        "title": "Metode de integrare",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2834,14 +2610,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2851,7 +2619,7 @@
       {
         "id": 29,
         "category": null,
-        "title": "title",
+        "title": "Integrala definita. Aplicații",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2862,14 +2630,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2878,8 +2638,8 @@
       },
       {
         "id": 30,
-        "category": null,
-        "title": "title",
+        "category": "Geometrie & Trigonometrie",
+        "title": "Vectori",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2890,14 +2650,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2907,7 +2659,7 @@
       {
         "id": 31,
         "category": null,
-        "title": "title",
+        "title": "Noțiuni de geometrie analitică",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2918,14 +2670,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2935,7 +2679,7 @@
       {
         "id": 32,
         "category": null,
-        "title": "title",
+        "title": "Transformări geometrice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2946,14 +2690,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2963,7 +2699,7 @@
       {
         "id": 33,
         "category": null,
-        "title": "title",
+        "title": "Produsul scalar",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2974,14 +2710,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -2991,7 +2719,7 @@
       {
         "id": 34,
         "category": null,
-        "title": "title",
+        "title": "Geometrie analitică",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3002,14 +2730,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3018,8 +2738,8 @@
       },
       {
         "id": 35,
-        "category": null,
-        "title": "title",
+        "category": "Elemente de geometrie",
+        "title": "Triunghiul",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3030,14 +2750,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3047,7 +2759,7 @@
       {
         "id": 36,
         "category": null,
-        "title": "title",
+        "title": "Patrulaterul",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3058,14 +2770,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3075,7 +2779,7 @@
       {
         "id": 37,
         "category": null,
-        "title": "title",
+        "title": "Hexagonul",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3086,14 +2790,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3102,8 +2798,8 @@
       },
       {
         "id": 38,
-        "category": null,
-        "title": "title",
+        "category": "Corpuri geometrice",
+        "title": "Prisma",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3114,14 +2810,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3131,7 +2819,7 @@
       {
         "id": 39,
         "category": null,
-        "title": "title",
+        "title": "Piramida",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3142,14 +2830,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3159,7 +2839,7 @@
       {
         "id": 40,
         "category": null,
-        "title": "title",
+        "title": "Corpuri rotunde",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3170,14 +2850,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3187,7 +2859,7 @@
       {
         "id": 41,
         "category": null,
-        "title": "title",
+        "title": "Elemente de geometrie 3",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3198,14 +2870,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3215,7 +2879,7 @@
       {
         "id": 42,
         "category": null,
-        "title": "title",
+        "title": "Relații metrice cu triunghiul",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3226,14 +2890,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3243,7 +2899,7 @@
       {
         "id": 43,
         "category": null,
-        "title": "title",
+        "title": "Funcții trigonometrice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3254,14 +2910,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3271,7 +2919,7 @@
       {
         "id": 44,
         "category": null,
-        "title": "title",
+        "title": "Funcții trigonometrice inverse",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3282,14 +2930,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3298,8 +2938,8 @@
       },
       {
         "id": 45,
-        "category": null,
-        "title": "title",
+        "category": "Altele",
+        "title": "Valorile funcțiilor trigonometrice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3310,182 +2950,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 46,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 47,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 48,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 49,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 50,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 51,
-        "category": null,
-        "title": "title",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3496,17 +2960,17 @@
   },
   {
     "id": 3,
-    "code": "ro_bac_mam2",
+    "code": "ro_bac_geo",
     "title": "Matematica M2",
     "full_title": "Matematica M2",
     "subtitle": "Matematica M2",
     "description": "Matematica M2",
-    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_geo.png",
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "title",
+        "category": "Europa și România - Elemente Geografice de bază",
+        "title": "Spatiul European: Notiuni Generale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3517,14 +2981,6 @@
         "videoURL": null,
         "related_lessons": [],
         "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
           {
             "title": null,
             "body": "wwwwwwwww"
@@ -3533,8 +2989,8 @@
       },
       {
         "id": 1,
-        "category": null,
-        "title": "title",
+        "category": "Elemente fizico-geografice definitorii ale Europei și ale României",
+        "title": "Relieful major",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3548,17 +3004,990 @@
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "title": "Clima – factorii genetici, elementele climatice şi regionarea climatică",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
-          },
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": null,
+        "title": "Hidrografia europei – aspecte generale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": null,
+        "title": "Învelişul biopedogeografic al europei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": null,
+        "title": "Resursele naturale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Elemente de geografie umană ale Europei si Romaniei",
+        "title": "Harta politica a Europei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": null,
+        "title": "Populația și caracteristicile ei geodemografice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": null,
+        "title": "Sistemul de orașe al europei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": null,
+        "title": "Analiza unor ramuri industriale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": null,
+        "title": "Sisteme de transport",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "category": null,
+        "title": "Mediul inconjurator si peisaje",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "category": "Ţările vecine României",
+        "title": "Republica Moldova",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "category": null,
+        "title": "Ucraina",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "category": null,
+        "title": "Ungaria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "category": null,
+        "title": "Serbia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Bulgaria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "category": "State ale Europei",
+        "title": "Franța",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "category": null,
+        "title": "Germania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "category": null,
+        "title": "Italia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "category": null,
+        "title": "Marea Britanie",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "category": null,
+        "title": "Portugalia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "category": null,
+        "title": "Spania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "category": null,
+        "title": "Grecia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "category": null,
+        "title": "Austria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "category": null,
+        "title": "Belgia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "category": null,
+        "title": "Olanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "category": null,
+        "title": "Luxemburg",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "category": null,
+        "title": "Irlanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "category": null,
+        "title": "Danemarca",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "category": null,
+        "title": "Suedia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "category": null,
+        "title": "Finlanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "category": null,
+        "title": "Țările baltice: Estonia, Letonia, Lituania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "category": null,
+        "title": "Polonia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "category": null,
+        "title": "Cehia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "category": null,
+        "title": "Slovacia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "category": null,
+        "title": "Malta",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "category": null,
+        "title": "Cipru",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "category": "Uniunea europeană",
+        "title": "Formarea uniunii europene și evoluția integrării europene",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "category": null,
+        "title": "Caracteristici Geografice, Politice si Economice actuale ale Uniunii Europene",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "category": "România",
+        "title": "Spațiul Românesc",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "category": null,
+        "title": "Trepte de relief",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "category": null,
+        "title": "Unități morfostructurale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "category": null,
+        "title": "România - Stat al Europei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "category": null,
+        "title": "Populația și caracteristicile ei geodemografice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "category": null,
+        "title": "Analiza unor ramuri industriale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "category": null,
+        "title": "Hidrografia Romaniei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "category": null,
+        "title": "România – Județe",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "category": null,
+        "title": "Capitalele țărilor din Europa",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "category": null,
+        "title": "De reținut",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "category": null,
+        "title": "Hărți",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
           {
             "title": null,
             "body": "wwwwwwwww"
           }
         ]
       }
+
     ]
   },
   {
@@ -4315,10 +4744,10 @@
   {
     "id": 5,
     "code": "ro_bac_geo",
-    "title": "Geografie titlu",
-    "full_title": "Geografie titlu full",
-    "subtitle": "Geografie subtitlu",
-    "description": "Geografie descriere",
+    "title": "Geografie",
+    "full_title": "Geografie",
+    "subtitle": "Geografie",
+    "description": "Geografie",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_geo.png",
     "lessons": [
       {
