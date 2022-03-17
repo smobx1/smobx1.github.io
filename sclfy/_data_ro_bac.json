@@ -2961,16 +2961,16 @@
   {
     "id": 3,
     "code": "ro_bac_geo",
-    "title": "Matematica M2",
-    "full_title": "Matematica M2",
-    "subtitle": "Matematica M2",
-    "description": "Matematica M2",
+    "title": "Matematica M2, M3",
+    "full_title": "Matematica M2, M3",
+    "subtitle": "Matematica M2, M3",
+    "description": "Matematica M2, M3",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_geo.png",
     "lessons": [
       {
         "id": 0,
-        "category": "Europa și România - Elemente Geografice de bază",
-        "title": "Spatiul European: Notiuni Generale",
+        "category": "Analiza",
+        "title": "Asimptote",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2989,8 +2989,8 @@
       },
       {
         "id": 1,
-        "category": "Elemente fizico-geografice definitorii ale Europei și ale României",
-        "title": "Relieful major",
+        "category": null,
+        "title": "Reguli de derivare",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3010,7 +3010,7 @@
       {
         "id": 2,
         "category": null,
-        "title": "Clima – factorii genetici, elementele climatice şi regionarea climatică",
+        "title": "Tabel cu derivatele unor functii uzuale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3030,7 +3030,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "Hidrografia europei – aspecte generale",
+        "title": "Tabel cu derivatele functiilor compuse",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3050,7 +3050,7 @@
       {
         "id": 4,
         "category": null,
-        "title": "Învelişul biopedogeografic al europei",
+        "title": "Tabel cu integrale nedefinite",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3070,7 +3070,7 @@
       {
         "id": 5,
         "category": null,
-        "title": "Resursele naturale",
+        "title": "Integrare prin parti",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3089,8 +3089,8 @@
       },
       {
         "id": 6,
-        "category": "Elemente de geografie umană ale Europei si Romaniei",
-        "title": "Harta politica a Europei",
+        "category": "Algebra",
+        "title": "Ecuatia de gradul doi",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3110,7 +3110,7 @@
       {
         "id": 7,
         "category": null,
-        "title": "Populația și caracteristicile ei geodemografice",
+        "title": "Functia de gradul doi",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3130,7 +3130,7 @@
       {
         "id": 8,
         "category": null,
-        "title": "Sistemul de orașe al europei",
+        "title": "Progresii aritmetice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3150,7 +3150,7 @@
       {
         "id": 9,
         "category": null,
-        "title": "Analiza unor ramuri industriale",
+        "title": "Progresii geometrice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3170,7 +3170,7 @@
       {
         "id": 10,
         "category": null,
-        "title": "Sisteme de transport",
+        "title": "Numere complexe",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3190,7 +3190,7 @@
       {
         "id": 11,
         "category": null,
-        "title": "Mediul inconjurator si peisaje",
+        "title": "Elemente de combinatorica",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3209,8 +3209,8 @@
       },
       {
         "id": 12,
-        "category": "Ţările vecine României",
-        "title": "Republica Moldova",
+        "category": null,
+        "title": "Formule cu logaritmi",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3230,7 +3230,7 @@
       {
         "id": 13,
         "category": null,
-        "title": "Ucraina",
+        "title": "Probabilitați",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3250,7 +3250,7 @@
       {
         "id": 14,
         "category": null,
-        "title": "Ungaria",
+        "title": "Legi de compoziție",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3270,7 +3270,7 @@
       {
         "id": 15,
         "category": null,
-        "title": "Serbia",
+        "title": "Relațiile lui Viețe pentru ecuația de gradul trei",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3290,7 +3290,7 @@
       {
         "id": 16,
         "category": null,
-        "title": "Bulgaria",
+        "title": "Relațiile lui Viețe pentru ecuația de gradul patru",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3309,8 +3309,8 @@
       },
       {
         "id": 17,
-        "category": "State ale Europei",
-        "title": "Franța",
+        "category": "Trigonometrie",
+        "title": " Formule trigonometrice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3330,7 +3330,7 @@
       {
         "id": 18,
         "category": null,
-        "title": "Germania",
+        "title": "Formule pentru transformarea sumelor in produse",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3350,7 +3350,7 @@
       {
         "id": 19,
         "category": null,
-        "title": "Italia",
+        "title": "Formule pentru transformarea produselor in sume",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3370,7 +3370,7 @@
       {
         "id": 20,
         "category": null,
-        "title": "Marea Britanie",
+        "title": "Ecuatii trigonometrice fundamentale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3389,8 +3389,8 @@
       },
       {
         "id": 21,
-        "category": null,
-        "title": "Portugalia",
+        "category": "Geometrie",
+        "title": "Teorema lui Pitagora",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3410,7 +3410,7 @@
       {
         "id": 22,
         "category": null,
-        "title": "Spania",
+        "title": "Arii",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3430,7 +3430,7 @@
       {
         "id": 23,
         "category": null,
-        "title": "Grecia",
+        "title": "Teorema sinusurilor",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3450,7 +3450,7 @@
       {
         "id": 24,
         "category": null,
-        "title": "Austria",
+        "title": "Distanta dintre doua puncte",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3470,507 +3470,7 @@
       {
         "id": 25,
         "category": null,
-        "title": "Belgia",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 26,
-        "category": null,
-        "title": "Olanda",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 27,
-        "category": null,
-        "title": "Luxemburg",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 28,
-        "category": null,
-        "title": "Irlanda",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 29,
-        "category": null,
-        "title": "Danemarca",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 30,
-        "category": null,
-        "title": "Suedia",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 31,
-        "category": null,
-        "title": "Finlanda",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 32,
-        "category": null,
-        "title": "Țările baltice: Estonia, Letonia, Lituania",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 33,
-        "category": null,
-        "title": "Polonia",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 34,
-        "category": null,
-        "title": "Cehia",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 35,
-        "category": null,
-        "title": "Slovacia",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 36,
-        "category": null,
-        "title": "Malta",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 37,
-        "category": null,
-        "title": "Cipru",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 38,
-        "category": "Uniunea europeană",
-        "title": "Formarea uniunii europene și evoluția integrării europene",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 39,
-        "category": null,
-        "title": "Caracteristici Geografice, Politice si Economice actuale ale Uniunii Europene",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 40,
-        "category": "România",
-        "title": "Spațiul Românesc",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 41,
-        "category": null,
-        "title": "Trepte de relief",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 42,
-        "category": null,
-        "title": "Unități morfostructurale",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 43,
-        "category": null,
-        "title": "România - Stat al Europei",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 44,
-        "category": null,
-        "title": "Populația și caracteristicile ei geodemografice",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 45,
-        "category": null,
-        "title": "Analiza unor ramuri industriale",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 46,
-        "category": null,
-        "title": "Hidrografia Romaniei",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 47,
-        "category": null,
-        "title": "România – Județe",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 48,
-        "category": null,
-        "title": "Capitalele țărilor din Europa",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 49,
-        "category": null,
-        "title": "De reținut",
-        "subtitle": null,
-        "left_subtitle1": null,
-        "left_subtitle2": null,
-        "top_image": null,
-        "right_subtitle2": null,
-        "priority": 4,
-        "read_time": 8,
-        "videoURL": null,
-        "related_lessons": [],
-        "parts": [
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          }
-        ]
-      },
-      {
-        "id": 50,
-        "category": null,
-        "title": "Hărți",
+        "title": "Gaseste solutie pt nume de lectii pot formulele astea",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -3987,7 +3487,6 @@
           }
         ]
       }
-
     ]
   },
   {
