@@ -4323,8 +4323,8 @@
     "lessons": [
       {
         "id": 0,
-        "category": null,
-        "title": "wwwwwwww",
+        "category": "Europa și România - Elemente Geografice de bază",
+        "title": "Spatiul European: Notiuni Generale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4343,8 +4343,8 @@
       },
       {
         "id": 1,
-        "category": null,
-        "title": "wwwwwwww",
+        "category": "Elemente fizico-geografice definitorii ale Europei și ale României",
+        "title": "Relieful major",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4364,7 +4364,7 @@
       {
         "id": 2,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Clima – factorii genetici, elementele climatice şi regionarea climatică",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4384,7 +4384,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Hidrografia europei – aspecte generale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4404,7 +4404,7 @@
       {
         "id": 4,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Învelişul biopedogeografic al europei",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4424,7 +4424,7 @@
       {
         "id": 5,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Resursele naturale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4443,8 +4443,8 @@
       },
       {
         "id": 6,
-        "category": null,
-        "title": "wwwwwwww",
+        "category": "Elemente de geografie umană ale Europei si Romaniei",
+        "title": "Harta politica a Europei",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4464,7 +4464,7 @@
       {
         "id": 7,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Populația și caracteristicile ei geodemografice",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4484,7 +4484,7 @@
       {
         "id": 8,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Sistemul de orașe al europei",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4504,7 +4504,7 @@
       {
         "id": 9,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Analiza unor ramuri industriale",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4524,7 +4524,7 @@
       {
         "id": 10,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Sisteme de transport",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4544,7 +4544,7 @@
       {
         "id": 11,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Mediul inconjurator si peisaje",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4563,8 +4563,8 @@
       },
       {
         "id": 12,
-        "category": null,
-        "title": "wwwwwwww",
+        "category": "Ţările vecine României",
+        "title": "Republica Moldova",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4584,7 +4584,7 @@
       {
         "id": 13,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Ucraina",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4604,7 +4604,7 @@
       {
         "id": 14,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Ungaria",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4624,7 +4624,707 @@
       {
         "id": 15,
         "category": null,
-        "title": "wwwwwwww",
+        "title": "Serbia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "category": null,
+        "title": "Bulgaria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "category": "State ale Europei",
+        "title": "Franța",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "category": null,
+        "title": "Germania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "category": null,
+        "title": "Italia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "category": null,
+        "title": "Marea Britanie",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "category": null,
+        "title": "Portugalia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "category": null,
+        "title": "Spania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "category": null,
+        "title": "Grecia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "category": null,
+        "title": "Austria",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "category": null,
+        "title": "Belgia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "category": null,
+        "title": "Olanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "category": null,
+        "title": "Luxemburg",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "category": null,
+        "title": "Irlanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "category": null,
+        "title": "Danemarca",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "category": null,
+        "title": "Suedia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "category": null,
+        "title": "Finlanda",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "category": null,
+        "title": "Țările baltice: Estonia, Letonia, Lituania",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "category": null,
+        "title": "Polonia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "category": null,
+        "title": "Cehia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "category": null,
+        "title": "Slovacia",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "category": null,
+        "title": "Malta",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "category": null,
+        "title": "Cipru",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "category": "Uniunea europeană",
+        "title": "Formarea uniunii europene și evoluția integrării europene",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "category": null,
+        "title": "Caracteristici Geografice, Politice si Economice actuale ale Uniunii Europene",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "category": "România",
+        "title": "Spațiul Românesc",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "category": null,
+        "title": "Trepte de relief",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "category": null,
+        "title": "Unități morfostructurale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "category": null,
+        "title": "România - Stat al Europei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "category": null,
+        "title": "Populația și caracteristicile ei geodemografice",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "category": null,
+        "title": "Analiza unor ramuri industriale",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "category": null,
+        "title": "Hidrografia Romaniei",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "category": null,
+        "title": "România – Județe",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "category": null,
+        "title": "Capitalele țărilor din Europa",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "category": null,
+        "title": "De reținut",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "priority": 4,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "wwwwwwwww"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "category": null,
+        "title": "Hărți",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -4641,6 +5341,7 @@
           }
         ]
       }
+
     ]
   },
   {
