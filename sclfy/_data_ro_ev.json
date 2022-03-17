@@ -2087,7 +2087,7 @@
         "parts": [
           {
             "title": null,
-            "body": "\"body\": \"<img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/mate/lectie1/img1.png' alt='wwwwww'>\\n<img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/mate/lectie1/img2.png' alt='wwwwww'>\""
+            "body": "<img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/mate/lectie1/img1.png' alt='wwwwww'>\n<img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/mate/lectie1/img2.png' alt='wwwwww'>"
           }
         ]
       },
