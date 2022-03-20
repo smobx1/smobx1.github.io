@@ -2,10 +2,10 @@
   {
     "id": 0,
     "code": "ro_bac_roUm",
-    "title": "Romana - Uman",
-    "full_title": "Romana - Uman",
-    "subtitle": "Romana Uman",
-    "description": "Limba si Literatura Romana - Uman.",
+    "title": "Română - Uman",
+    "full_title": "Română - Uman",
+    "subtitle": "Română Uman",
+    "description": "Limba și Literatură Română - Uman.",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
     "lessons": [
       {
@@ -1907,10 +1907,10 @@
   {
     "id": 1,
     "code": "ro_bac_roRe",
-    "title": "Romana - Real",
-    "full_title": "Limba si Literatura Romana - Real",
-    "subtitle": "Romana Real",
-    "description": "Limba si Literatura Romana - Real.",
+    "title": "Română - Real",
+    "full_title": "Limba și Literatură Română - Real",
+    "subtitle": "Română Real",
+    "description": "Limba și Literatură Română - Real.",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
     "lessons": [
       {
@@ -2030,10 +2030,10 @@
   {
     "id": 2,
     "code": "ro_bac_geo",
-    "title": "Matematica M1",
-    "full_title": "Matematica M1",
-    "subtitle": "Matematica M1",
-    "description": "Matematica M1",
+    "title": "Matematică M1",
+    "full_title": "Matematică M1",
+    "subtitle": "Matematică M1",
+    "description": "Matematică M1",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
@@ -2961,10 +2961,10 @@
   {
     "id": 3,
     "code": "ro_bac_geo",
-    "title": "Matematica M2, M3",
-    "full_title": "Matematica M2, M3",
-    "subtitle": "Matematica M2, M3",
-    "description": "Matematica M2, M3",
+    "title": "Matematică M2, M3",
+    "full_title": "Matematică M2, M3",
+    "subtitle": "Matematică M2, M3",
+    "description": "Matematică M2, M3",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ma.png",
     "lessons": [
       {
@@ -5275,10 +5275,10 @@
   {
     "id": 6,
     "code": "ro_bac_bioV",
-    "title": "Biologie Vegetala",
-    "full_title": "Biologie Vegetala",
-    "subtitle": "Biologie Vegetala",
-    "description": "Biologie Vegetala",
+    "title": "Biologie Vegetală",
+    "full_title": "Biologie Vegetală",
+    "subtitle": "Biologie Vegetală",
+    "description": "Biologie Vegetală",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_bioV.png",
     "lessons": [
       {
@@ -6399,7 +6399,7 @@
       {
         "id": 3,
         "category": null,
-        "title": "Sistemul nervos extra TODO",
+        "title": "Sistemul nervos extra",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -8357,10 +8357,10 @@
   {
     "id": 9,
     "code": "ro_bac_lo",
-    "title": "Logica",
-    "full_title": "Logica",
-    "subtitle": "Logica",
-    "description": "Logica",
+    "title": "Logică",
+    "full_title": "Logică",
+    "subtitle": "Logică",
+    "description": "Logică",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_lo.png",
     "lessons": [
       {
