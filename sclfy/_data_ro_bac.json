@@ -19,16 +19,9 @@
         "right_subtitle2": "de Costache Negruzzi",
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": "wZpphjiOVkk",
+        "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -74,14 +67,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -127,14 +113,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -180,14 +159,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -233,14 +205,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -286,14 +251,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -337,16 +295,9 @@
         "right_subtitle2": "de Liviu Rebreanu",
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": "wZpphjiOVkk",
+        "videoURL": "RkrQA6Snf7o",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -392,14 +343,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -445,14 +389,7 @@
         "read_time": 8,
         "videoURL": "wZpphjiOVkk",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -498,14 +435,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -551,14 +481,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -602,16 +525,9 @@
         "right_subtitle2": "de Marin Preda",
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": null,
+        "videoURL": "qgYuA-v2Q04",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -657,14 +573,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -710,14 +619,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -758,19 +660,12 @@
         "left_subtitle1": "Roman modern/psihilogic/al experientei/realist subiectiv",
         "left_subtitle2": "1930",
         "top_image": "https://i.ytimg.com/vi/gRbQ8J1EMdg/maxresdefault.jpg",
-        "right_subtitle2": "TODO",
+        "right_subtitle2": "",
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": null,
+        "videoURL": "avBW3YIduMw",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -814,16 +709,8 @@
         "right_subtitle2": "de Mihai Eminescu",
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": null,
+        "videoURL": "BCaODB8l3u0",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
         ],
         "parts": [
           {
@@ -869,14 +756,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -922,14 +802,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -975,14 +848,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1028,14 +894,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1081,14 +940,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1134,14 +986,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1187,14 +1032,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1240,14 +1078,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1293,14 +1124,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1346,14 +1170,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1399,14 +1216,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1456,14 +1266,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1509,14 +1312,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1562,14 +1358,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1603,14 +1392,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1652,14 +1434,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1691,16 +1466,9 @@
         "right_subtitle2": null,
         "minimum_reads": 10,
         "read_time": 8,
-        "videoURL": null,
+        "videoURL": "c4RBp2owdYk",
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1726,14 +1494,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1767,14 +1528,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1800,14 +1554,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1837,14 +1584,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
@@ -1882,14 +1622,7 @@
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [
-          {
-            "id": 1,
-            "title": "titlu lectie similara"
-          },
-          {
-            "id": 2,
-            "title": "titlu lectie similara"
-          }
+
         ],
         "parts": [
           {
