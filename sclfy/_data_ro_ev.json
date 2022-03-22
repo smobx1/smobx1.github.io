@@ -24,7 +24,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Profesorii Schoolify recomandă următoarele:<br><br>1.Parcurge fiecare lecție de minim câte ori este recomandat. Fiecare lecție din Schoolify are un număr minim recomandat de parcurgeri pentru a putea fi stăpân pe acea lecție. Astfel, respectă numărul indicat de profesorii noștrii și mergi la examen relaxat. <br><br>2.Sesiune de învățat înainte de culcare. Este un lucru demonstrat că informațiile noi sunt memorate de creier și în timpul somnului, astfel, a învăța cu doar câteva ore înainte de culcare este o metodă eficientă de învățare.<br><br>3.Învățatul cu voce tare. Încearcă să citești lecțiile cu voce tare. Citind informația cu voce tare va ajuta creierul să rețină informația mai ușor.<br><br>4.Testează-ți cunoștințele. Pune-ți întrebări, de ce așa, de ce nu altfel? Încearcă să răspunzi singur la întrebările proprii ca mai apoi să le validezi cu informațiile din lecție.<br><br>5.Discută lecțiile cu colegii, părinții sau profesorii. Dacă reușești să faci asta, vei asimila mai ușor informațiile și îți va fi mai ușor să te raportezi la acestea în urma discuțiilor avute."
+            "body": "<b>Profesorii Schoolify recomandă următoarele:</b><br><br>1.Parcurge fiecare lecție de minim câte ori este recomandat. Fiecare lecție din Schoolify are un număr minim recomandat de parcurgeri pentru a putea fi stăpân pe acea lecție. Astfel, respectă numărul indicat de profesorii noștrii și mergi la examen relaxat. <br><br>2.Sesiune de învățat înainte de culcare. Este un lucru demonstrat că informațiile noi sunt memorate de creier și în timpul somnului, astfel, a învăța cu doar câteva ore înainte de culcare este o metodă eficientă de învățare.<br><br>3.Învățatul cu voce tare. Încearcă să citești lecțiile cu voce tare. Citind informația cu voce tare va ajuta creierul să rețină informația mai ușor.<br><br>4.Testează-ți cunoștințele. Pune-ți întrebări, de ce așa, de ce nu altfel? Încearcă să răspunzi singur la întrebările proprii ca mai apoi să le validezi cu informațiile din lecție.<br><br>5.Discută lecțiile cu colegii, părinții sau profesorii. Dacă reușești să faci asta, vei asimila mai ușor informațiile și îți va fi mai ușor să te raportezi la acestea în urma discuțiilor avute."
           }
         ]
       },
@@ -64,7 +64,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Sistemul fonetic al limbii române este constituit din 33 de sunete. <br>După modul și locul de articulare, sunetele se clasifică în: vocale, semivocale și consoane.<br>Limba română are: 7 vocale, 4 semivocale și 22 de consoane.<br><br><br><br><img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/romana/image_1.png' alt='wwwwww'>"
+            "body": "Sistemul fonetic al limbii române este constituit din 33 de sunete. <br>După modul și locul de articulare, sunetele se clasifică în: <br>- vocale<br>- semivocale<br>- consoane.<br><br>Limba română are: <br>- 7 vocale<br>- 4 semivocale <br>- 22 de consoane.<br><br><br><br><img src='https://iacademy.ro/schoolifycdn/courses/ro_ev/romana/image_1.png' alt='wwwwww'>"
           }
         ]
       },
@@ -84,11 +84,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Diftongii sunt grupuri de două sunete (o vocală și o semivocală sau o semivocală și o vocală) rostite în cadrul aceleiași silabe: aĭ (maĭ), eĭ (meĭ), ŏa (flŏa-re), oŭ (e-roŭ), ĕa (stĕa), ĭa (ĭar-bă)."
-          },
-          {
-            "title": null,
-            "body": "Diftongii pot fi:<br>a) ascendenți (sau urcători) cu semivocală pe primul loc și cu vocala pe locul al doilea: ĭa,ĭe, ĭu, ŏa (ĭar-nă, ĭe-pu-re, ĭu-te, sŏa-re, mŏa-ră);<br>b) descendenți (sau coborâtori) cu vocala pe primul loc și cu semivocala pe locul al doilea: aĭ, eĭ, oĭ, uĭ, oŭ, (craĭ, zeĭ, noĭ, gu-tuĭ, ca-doŭ).<br><br>Observație: sunetul „a”, „ă” sau „â” nu poate fi niciodată semivocala."
+            "body": "Diftongii sunt grupuri de două sunete (o vocală și o semivocală sau o semivocală și o vocală) rostite în cadrul aceleiași silabe: aĭ (maĭ), eĭ (meĭ), ŏa (flŏa-re), oŭ (e-roŭ), ĕa (stĕa), ĭa (ĭar-bă).<br><br>Diftongii pot fi:<br>a) ascendenți (sau urcători) cu semivocală pe primul loc și cu vocala pe locul al doilea: ĭa,ĭe, ĭu, ŏa (ĭar-nă, ĭe-pu-re, ĭu-te, sŏa-re, mŏa-ră);<br>b) descendenți (sau coborâtori) cu vocala pe primul loc și cu semivocala pe locul al doilea: aĭ, eĭ, oĭ, uĭ, oŭ, (craĭ, zeĭ, noĭ, gu-tuĭ, ca-doŭ).<br><br><b>Observație: sunetul „a”, „ă” sau „â” nu poate fi niciodată semivocala.</b>"
           }
         ]
       },
@@ -108,7 +104,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Triftongii sunt grupuri de trei sunete (dintre care o vocală și două semivocale) rostite în cadrul aceleiași silabe: ŏaĭ (le-ŏaĭ-că), ĭaĭ (tră-ĭaĭ), ĭŏa (i-ni-mĭŏa-ră)."
+            "body": "Triftongii sunt grupuri de <b>trei sunete</b> (dintre care o vocală și două semivocale) rostite în cadrul aceleiași silabe: ŏaĭ (le-ŏaĭ-că), ĭaĭ (tră-ĭaĭ), ĭŏa (i-ni-mĭŏa-ră)."
           }
         ]
       },
@@ -128,7 +124,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Hiatul este un grup de două vocale alăturate care fac parte din silabe diferite: a-u (a-ur), e-a (te-a-tru), i-o (bi-o-log), o-o (zo-o-log).<br><br>Observație: hiatul nu se poate forma între o vocala dintr-o silabă și o semivocala din cealaltă silabă."
+            "body": "Hiatul este un grup de <b>două vocale</b> alăturate care fac parte din silabe diferite: a-u (a-ur), e-a (te-a-tru), i-o (bi-o-log), o-o (zo-o-log).<br><br><b>Observație: hiatul nu se poate forma între o vocala dintr-o silabă și o semivocala din cealaltă silabă.</b>"
           }
         ]
       },
@@ -298,7 +294,7 @@
       },
       {
         "id": 13,
-        "category": "Cuvantul. Definitia cuvantului.",
+        "category": "Cuvântul. Definiția cuvântului.",
         "title": "Cuvântul",
         "subtitle": null,
         "left_subtitle1": null,
@@ -358,7 +354,7 @@
       },
       {
         "id": 15,
-        "category": "Relatiile dintre cuvinte si categoriile semantice",
+        "category": "Relațiile dintre cuvinte și categoriile semantice",
         "title": "Sinonimia",
         "subtitle": null,
         "left_subtitle1": null,
@@ -474,7 +470,7 @@
       },
       {
         "id": 19,
-        "category": "Structura morfologica a cuvantului",
+        "category": "Structura morfologică a cuvântului",
         "title": "Rădăcina",
         "subtitle": null,
         "left_subtitle1": null,
@@ -583,7 +579,7 @@
       {
         "id": 23,
         "category": null,
-        "title": "Tema lexicala",
+        "title": "Tema lexicală",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -603,7 +599,7 @@
       {
         "id": 24,
         "category": null,
-        "title": "Cuvant derivat",
+        "title": "Cuvânt derivat",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -714,8 +710,8 @@
       },
       {
         "id": 28,
-        "category": "Notiuni de teorie literara",
-        "title": "Notiuni de teorie literara",
+        "category": "Noțiuni de teorie literară",
+        "title": "Noțiuni de teorie literară",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -1318,7 +1314,7 @@
       },
       {
         "id": 48,
-        "category": "Parțile de propoziție",
+        "category": "Părțile de propoziție",
         "title": "Subiectul",
         "subtitle": null,
         "left_subtitle1": null,
@@ -1955,7 +1951,7 @@
       {
         "id": 64,
         "category": null,
-        "title": "Rolul semnelor de punctuatie",
+        "title": "Rolul semnelor de punctuație",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -2110,7 +2106,7 @@
       {
         "id": 5,
         "category": null,
-        "title": "Cum rezolvam?",
+        "title": "Cum rezolvăm?",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
