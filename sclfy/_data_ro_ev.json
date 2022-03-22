@@ -11,28 +11,20 @@
       {
         "id": 0,
         "category": null,
-        "title": "Cuvant inainte",
+        "title": "Cuvânt înainte",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
-        "read_time": 8,
+        "minimum_reads": 2,
+        "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
         "parts": [
           {
             "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
+            "body": "Profesorii Schoolify recomandă următoarele:<br>1.Parcurge fiecare lecție de minim câte ori este recomandat. Fiecare lecție din Schoolify are un număr minim recomandat de parcurgeri pentru a putea fi stăpân pe acea lecție. Astfel, respectă numărul indicat de profesorii noștrii și mergi la examen relaxat. <br>2.Sesiune de învățat înainte de culcare. Este un lucru demonstrat că informațiile noi sunt memorate de creier și în timpul somnului, astfel, a învăța cu doar câteva ore înainte de culcare este o metodă eficientă de învățare.<br>3.Învățatul cu voce tare. Încearcă să citești lecțiile cu voce tare. Citind informația cu voce tare va ajuta creierul să rețină informația mai ușor.<br> 4.Testează-ți cunoștințele. Pune-ți întrebări, de ce așa, de ce nu altfel? Încearcă să răspunzi singur la întrebările proprii ca mai apoi să le validezi cu informațiile din lecție.<br>5.Discută lecțiile cu colegii, părinții sau profesorii. Dacă reușești să faci asta, vei asimila mai ușor informațiile și îți va fi mai ușor să te raportezi la acestea în urma discuțiilor avute."
           }
         ]
       },
@@ -45,8 +37,8 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
-        "read_time": 8,
+        "minimum_reads": 2,
+        "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
         "parts": [
@@ -65,7 +57,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -85,7 +77,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -109,7 +101,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 4,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -129,7 +121,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -149,7 +141,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -173,7 +165,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -293,7 +285,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 8,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -313,7 +305,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 16,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -373,7 +365,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -405,7 +397,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -433,7 +425,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -461,7 +453,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -545,7 +537,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -565,7 +557,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -604,11 +596,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Tema lexicală este partea unui cuvânt alcătuită din rădăcină plus prefixul şi sufixul cu care este format."
-          },
-          {
-            "title": null,
-            "body": "Tema este comună tuturor formelor flexionare ale cuvântului. <br>Ea se stabileşte prin înlăturarea desinenţei, deci tema este forma cuvântului fără desinenţă. <br>De exemplu, tema pentru formele flexionare ale cuvântului a aduce (”aduc”, ”aduc-i”, ”aduc-e”, ”aduc-em”, ”aduc-eţi”, ”aduc”) este ”aduc-” la care s-au adăugat desinenţele de număr şi persoană."
+            "body": "Tema lexicală este partea unui cuvânt alcătuită din rădăcină plus prefixul şi sufixul cu care este format.<br><br>Tema este comună tuturor formelor flexionare ale cuvântului. <br>Ea se stabileşte prin înlăturarea desinenţei, deci tema este forma cuvântului fără desinenţă. <br>De exemplu, tema pentru formele flexionare ale cuvântului a aduce (”aduc”, ”aduc-i”, ”aduc-e”, ”aduc-em”, ”aduc-eţi”, ”aduc”) este ”aduc-” la care s-au adăugat desinenţele de număr şi persoană."
           }
         ]
       },
@@ -628,15 +616,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Cuvânt derivat este cuvântul format cu sufixe și prefixe de la un cuvânt de bază."
-          },
-          {
-            "title": null,
-            "body": "De exemplu, cuvântul pădurar este format de la cuvântul-bază ”pădure” cu ajutorul sufixului derivativ ”-ar”."
-          },
-          {
-            "title": null,
-            "body": "În același timp, verbul „a desface” e constituit din radicalul „face” la care se adaugă prefixul derivativ ”des-”. Se delimitează:<br>→ substantive derivate (”ameţ-eală”, ”fotbal-ist”, ”copil-ărie”, ”seceră-toare”, ”tiner-et”, ”învăţ-ătură”, ”voi-nţă”, ”cojoc-el”, ”cărt-icică”), <br>→ adjective derivate (”bărbăt-esc”, ”fric-os”, ”del-uros”, ”frumuş-el”, ”ardel-ean”, ”oland-ez”, ”ne-drept”), <br>→ verbe derivate (”a brăzd-a”, ”a atenţ-iona”, ”a sfăt-ui”, ”a pre-vedea”)<br>→ adverbe derivate (”prieten-eşte”, ”târ-âş”)."
+            "body": "Cuvânt derivat este cuvântul format cu sufixe și prefixe de la un cuvânt de bază.<br><br>De exemplu, cuvântul pădurar este format de la cuvântul-bază ”pădure” cu ajutorul sufixului derivativ ”-ar”.<br><br>În același timp, verbul „a desface” e constituit din radicalul „face” la care se adaugă prefixul derivativ ”des-”. Se delimitează:<br>→ substantive derivate (”ameţ-eală”, ”fotbal-ist”, ”copil-ărie”, ”seceră-toare”, ”tiner-et”, ”învăţ-ătură”, ”voi-nţă”, ”cojoc-el”, ”cărt-icică”), <br>→ adjective derivate (”bărbăt-esc”, ”fric-os”, ”del-uros”, ”frumuş-el”, ”ardel-ean”, ”oland-ez”, ”ne-drept”), <br>→ verbe derivate (”a brăzd-a”, ”a atenţ-iona”, ”a sfăt-ui”, ”a pre-vedea”)<br>→ adverbe derivate (”prieten-eşte”, ”târ-âş”)."
           }
         ]
       },
@@ -656,11 +636,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Familia de cuvinte (lexicală) constituie totalitatea cuvintelor înrudite ca sens și formate prin diverse procedee (derivare, compunere, schimbarea valorii gramaticale) de la aceeași rădăcină. De exemplu, familia cuvântului ”pădure” cuprinde următoarele unități lexicale: pădurar, pădurice, a împăduri, a despăduri, păduroi etc."
-          },
-          {
-            "title": null,
-            "body": "Toate cuvintele din cadrul unei familii au în comun aceeași rădăcină. <br>De exemplu, cuvintele care constituie familia lexicală a cuvântului ”lemn” (”lemn”, ”lemn-ar”, ”lemn-ărie”, ”lemn-os”, ”lemn-iu”, ”a în-lemn-i”) conţin aceeaşi rădăcină: ”lemn-”."
+            "body": "Familia de cuvinte (lexicală) constituie totalitatea cuvintelor înrudite ca sens și formate prin diverse procedee (derivare, compunere, schimbarea valorii gramaticale) de la aceeași rădăcină. De exemplu, familia cuvântului ”pădure” cuprinde următoarele unități lexicale: pădurar, pădurice, a împăduri, a despăduri, păduroi etc.<br><br>Toate cuvintele din cadrul unei familii au în comun aceeași rădăcină. <br>De exemplu, cuvintele care constituie familia lexicală a cuvântului ”lemn” (”lemn”, ”lemn-ar”, ”lemn-ărie”, ”lemn-os”, ”lemn-iu”, ”a în-lemn-i”) conţin aceeaşi rădăcină: ”lemn-”."
           }
         ]
       },
@@ -673,7 +649,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -745,7 +721,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 8,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -765,7 +741,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 8,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -809,7 +785,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1004,15 +980,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Genul liric:<br>a)popular: Doina <br>b)Cult: pastelul"
-          },
-          {
-            "title": null,
-            "body": "Pastelul – specie a genului liric, o poezie descriptivă, care reprezintă un peisaj, prin intermediul căruia sunt exprimate, cu discreţie, sentimentele poetului. (Mezul iernii, V. Alecsandri)."
-          },
-          {
-            "title": null,
-            "body": "Doina – specie a genului liric specifica literaturii populare, in care sunt exprimate sentimentele puternice ale eului liric, precum jalea, tristețea, dragostea, dorul, suferința etc. (Foaie verde foi de nuc)."
+            "body": "Genul liric:<br>a)popular: Doina <br>b)Cult: pastelul<br><br>Pastelul – specie a genului liric, o poezie descriptivă, care reprezintă un peisaj, prin intermediul căruia sunt exprimate, cu discreţie, sentimentele poetului. (Mezul iernii, V. Alecsandri).<br><br>Doina – specie a genului liric specifica literaturii populare, in care sunt exprimate sentimentele puternice ale eului liric, precum jalea, tristețea, dragostea, dorul, suferința etc. (Foaie verde foi de nuc)."
           }
         ]
       },
@@ -1057,7 +1025,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1101,7 +1069,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1145,7 +1113,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 15,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1169,7 +1137,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 15,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1205,7 +1173,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 15,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1233,7 +1201,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 15,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1269,7 +1237,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 15,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1357,7 +1325,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1393,7 +1361,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1437,7 +1405,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -1481,7 +1449,7 @@
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
-        "minimum_reads": 10,
+        "minimum_reads": 20,
         "read_time": 8,
         "videoURL": null,
         "related_lessons": [],
@@ -2042,28 +2010,20 @@
       {
         "id": 0,
         "category": null,
-        "title": "Cuvant inainte",
+        "title": "Cuvânt înainte",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
         "top_image": null,
         "right_subtitle2": null,
         "minimum_reads": 10,
-        "read_time": 8,
+        "read_time": 1,
         "videoURL": null,
         "related_lessons": [],
         "parts": [
           {
             "title": null,
-            "body": "wwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
-          },
-          {
-            "title": null,
-            "body": "wwwwwwwww"
+            "body": "Profesorii Schoolify recomandă următoarele:<br>1.Parcurge fiecare lecție de minim câte ori este recomandat. Fiecare lecție din Schoolify are un număr minim recomandat de parcurgeri pentru a putea fi stăpân pe acea lecție. Astfel, respectă numărul indicat de profesorii noștrii și mergi la examen relaxat. <br>2.Sesiune de învățat înainte de culcare. Este un lucru demonstrat că informațiile noi sunt memorate de creier și în timpul somnului, astfel, a învăța cu doar câteva ore înainte de culcare este o metodă eficientă de învățare.<br>3.Învățatul cu voce tare. Încearcă să citești lecțiile cu voce tare. Citind informația cu voce tare va ajuta creierul să rețină informația mai ușor.<br> 4.Testează-ți cunoștințele. Pune-ți întrebări, de ce așa, de ce nu altfel? Încearcă să răspunzi singur la întrebările proprii ca mai apoi să le validezi cu informațiile din lecție.<br>5.Discută lecțiile cu colegii, părinții sau profesorii. Dacă reușești să faci asta, vei asimila mai ușor informațiile și îți va fi mai ușor să te raportezi la acestea în urma discuțiilor avute."
           }
         ]
       },
