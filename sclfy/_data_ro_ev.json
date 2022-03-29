@@ -28,9 +28,14 @@
             "correct_answer": "Klaus Iohannis"
           },
           {
-            "question": "Cine este presedintele Romaniei?",
-            "answers": ["Klaus Iohannis", "Ion Iliescu", "Viorica Dancila", "Emil Constantinescu"],
-            "correct_answer": "Klaus Iohannis"
+            "question": "Cine este prim-ministrul Romaniei?",
+            "answers": ["Nicolae Ciuca", "John", "Viorel", "Emil"],
+            "correct_answer": "Nicolae Ciuca"
+          },
+          {
+            "question": "1+1?",
+            "answers": ["1", "2", "3", "4"],
+            "correct_answer": "2"
           }
         ],
         "parts": [
