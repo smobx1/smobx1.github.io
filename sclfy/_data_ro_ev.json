@@ -21,6 +21,18 @@
         "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
+        "quiz": [
+          {
+            "question": "Cine este presedintele Romaniei?",
+            "answers": ["Klaus Iohannis", "Ion Iliescu", "Viorica Dancila", "Emil Constantinescu"],
+            "correct_answer": "Klaus Iohannis"
+          },
+          {
+            "question": "Cine este presedintele Romaniei?",
+            "answers": ["Klaus Iohannis", "Ion Iliescu", "Viorica Dancila", "Emil Constantinescu"],
+            "correct_answer": "Klaus Iohannis"
+          }
+        ],
         "parts": [
           {
             "title": null,
@@ -41,6 +53,7 @@
         "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
+        "quiz": null,
         "parts": [
           {
             "title": null,
