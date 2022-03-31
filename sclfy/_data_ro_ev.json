@@ -38,6 +38,11 @@
             "correct_answer": ["2"]
           },
           {
+            "question": "Care sunt numere pozitive?",
+            "answers": ["0", "-2", "3", "4"],
+            "correct_answer": ["3","4"]
+          },
+          {
             "question": "E adevarat ca suntem in 2022?",
             "answers": ["Adevarat", "Fals"],
             "correct_answer": ["Adevarat"]
