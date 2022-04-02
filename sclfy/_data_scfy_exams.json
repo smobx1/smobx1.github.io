@@ -12,5 +12,19 @@
     "code": "ro_ev",
     "name": "Evaluarea Națională",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_ev.json"
+  },
+  {
+    "language_code": "tk",
+    "language": "🇹🇷 Turkish",
+    "code": "tr_bac",
+    "name": "Turkish Baccalaureate",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_tr_bac.json"
+  },
+  {
+    "language_code": "fr",
+    "language": "🇫🇷 Francais",
+    "code": "fr_bac",
+    "name": "French Baccalaureate",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
   }
 ]
