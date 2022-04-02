@@ -2,16 +2,16 @@
   {
     "id": 0,
     "code": "tr_bac_tr",
-    "title": "Bientôt disponible",
-    "full_title": "Bientôt disponible ",
-    "subtitle": "Bientôt disponible",
-    "description": "Bientôt disponible",
+    "title": "Yakında gelecek",
+    "full_title": "Yakında gelecek ",
+    "subtitle": "Yakında gelecek",
+    "description": "Yakında gelecek",
     "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
     "lessons": [
       {
         "id": 0,
         "category": null,
-        "title": "Bientôt disponible",
+        "title": "Yakında gelecek",
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
@@ -25,7 +25,7 @@
         "parts": [
           {
             "title": null,
-            "body": "Bientôt disponible"
+            "body": "Yakında gelecek"
           }
         ]
       }
