@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "code": "hi_bac_hi",
+    "title": "जल्द आ रहा है",
+    "full_title": "जल्द आ रहा है ",
+    "subtitle": "जल्द आ रहा है",
+    "description": "जल्द आ रहा है",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
+    "lessons": [
+      {
+        "id": 0,
+        "category": null,
+        "title": "जल्द आ रहा है",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "minimum_reads": 2,
+        "read_time": 2,
+        "videoURL": null,
+        "related_lessons": [],
+        "quiz": null,
+        "parts": [
+          {
+            "title": null,
+            "body": "जल्द आ रहा है"
+          }
+        ]
+      }
+    ]
+  }
+]

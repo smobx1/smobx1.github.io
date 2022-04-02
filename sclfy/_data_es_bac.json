@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "code": "es_bac_es",
+    "title": "Próximamente",
+    "full_title": "Próximamente",
+    "subtitle": "Próximamente",
+    "description": "Próximamente",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_evNat_ro.png",
+    "lessons": [
+      {
+        "id": 0,
+        "category": null,
+        "title": "Próximamente",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "minimum_reads": 2,
+        "read_time": 2,
+        "videoURL": null,
+        "related_lessons": [],
+        "quiz": null,
+        "parts": [
+          {
+            "title": null,
+            "body": "Próximamente"
+          }
+        ]
+      }
+    ]
+  }
+]
