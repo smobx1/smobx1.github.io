@@ -26,5 +26,26 @@
     "code": "fr_bac",
     "name": "French Baccalaureate",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
+  },
+  {
+    "language_code": "de",
+    "language": "🇩🇪 Deutsche",
+    "code": "de_bac",
+    "name": "Abitur",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_de_bac.json"
+  },
+  {
+    "language_code": "hi",
+    "language": "🇮🇳 हिन्दी",
+    "code": "hi_bac",
+    "name": "स्तर के",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_hi_bac.json"
+  },
+  {
+    "language_code": "es",
+    "language": "🇪🇸 Español",
+    "code": "es_bac",
+    "name": "Bachillerato",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_es_bac.json"
   }
 ]
