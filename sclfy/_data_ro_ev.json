@@ -21,33 +21,7 @@
         "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
-        "quiz": [
-          {
-            "question": "Cine este presedintele Romaniei?",
-            "answers": ["Klaus Iohannis", "Ion Iliescu", "Viorica Dancila", "Emil Constantinescu"],
-            "correct_answer": ["Klaus Iohannis"]
-          },
-          {
-            "question": "Cine este prim-ministrul Romaniei?",
-            "answers": ["Nicolae Ciuca", "John", "Viorel", "Emil"],
-            "correct_answer": ["Nicolae Ciuca"]
-          },
-          {
-            "question": "1+1?",
-            "answers": ["1", "2", "3", "4"],
-            "correct_answer": ["2"]
-          },
-          {
-            "question": "Care sunt numere pozitive?",
-            "answers": ["0", "-2", "3", "4"],
-            "correct_answer": ["3","4"]
-          },
-          {
-            "question": "E adevarat ca suntem in 2022?",
-            "answers": ["Adevarat", "Fals"],
-            "correct_answer": ["Adevarat"]
-          }
-        ],
+        "quiz": null,
         "parts": [
           {
             "title": null,
