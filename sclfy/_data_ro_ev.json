@@ -1972,33 +1972,22 @@
       },
       {
         "id": 64,
-        "category": "History of Europe",
-        "title": "Germany in 19’th century ",
+        "category": null,
+        "title": "Meditatii",
         "subtitle": null,
-        "left_subtitle1": "by Stuart Graham",
-        "left_subtitle2": "1994",
-        "top_image": "https://vlaby.com/lfm/photos/1/BLOG/images/img_3902.jpg",
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
         "right_subtitle2": null,
         "minimum_reads": 2,
         "read_time": 2,
-        "videoURL": "AuX7nPBqDts",
+        "videoURL": null,
         "related_lessons": [],
-        "quiz": [
-          {
-            "question": "Which of the following are car brands?",
-            "answers": ["BMW", "Coca Cola", "Nike", "Mercedes"],
-            "correct_answer": ["BMW", "Mercedes"]
-          },
-          {
-            "question": "What planet do we live on?",
-            "answers": ["Earth", "Mars", "Moon", "Venus"],
-            "correct_answer": ["Earth"]
-          }
-        ],
+        "quiz": null,
         "parts": [
           {
             "title": null,
-            "body": "Here goes the text."
+            "body": "In curand.."
           }
         ]
       }
