@@ -1974,6 +1974,13 @@
         "id": 64,
         "category": null,
         "title": "Meditatii",
+        "tutors": [
+          {
+            "name": "Andra Elena",
+            "image": "https://cdn.flippingheck.com/wp-content/uploads/2020/09/feat-woman-learning-online.jpg",
+            "phone_no": "+40722442344"
+          }
+        ],
         "subtitle": null,
         "left_subtitle1": null,
         "left_subtitle2": null,
