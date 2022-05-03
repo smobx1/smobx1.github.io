@@ -12,12 +12,5 @@
     "code": "ro_ev",
     "name": "Evaluarea Națională",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_ev.json"
-  },
-  {
-    "language_code": "tr",
-    "language": "🇹🇷 Türkçe",
-    "code": "tr_bac",
-    "name": "Turkish Baccalaureate",
-    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_tr_bac.json"
   }
 ]
