@@ -21,7 +21,33 @@
         "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
-        "quiz": null,
+        "quiz": [
+    {
+      "question": "What planet do we live on?",
+      "answers": ["Earth", "Mars", "Moon", "Venus"],
+      "correct_answer": ["Earth"]
+    },
+    {
+      "question": "Which of the following are car brands?",
+      "answers": ["BMW", "Coca Cola", "Nike", "Mercedes"],
+      "correct_answer": ["BMW", "Mercedes"]
+    },
+    {
+      "question": "1+1?",
+      "answers": ["1", "2", "3", "4"],
+      "correct_answer": ["2"]
+    },
+    {
+      "question": "Care sunt numere pozitive?",
+      "answers": ["0", "-2", "3", "4"],
+      "correct_answer": ["3","4"]
+    },
+    {
+      "question": "E adevarat ca suntem in 2022?",
+      "answers": ["Adevarat", "Fals"],
+      "correct_answer": ["Adevarat"]
+    }
+  ],
         "parts": [
           {
             "title": null,
