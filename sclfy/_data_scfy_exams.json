@@ -12,5 +12,12 @@
     "code": "ro_ev",
     "name": "Evaluarea Națională",
     "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_ro_ev.json"
+  },
+  {
+    "language_code": "fr",
+    "language": "🇫🇷 Français",
+    "code": "en_bac",
+    "name": "Baccalauréat",
+    "file": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/sclfy/_data_fr_bac.json"
   }
 ]
