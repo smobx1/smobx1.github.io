@@ -21,7 +21,23 @@
         "read_time": 2,
         "videoURL": null,
         "related_lessons": [],
-        "quiz": null,
+        "quiz": [
+    {
+      "question": "What is 1+1?",
+      "answers": ["1", "2", "3", "4"],
+      "correct_answer": ["2"]
+    },
+    {
+      "question": "Which of the following are water brands?",
+      "answers": ["Sprite", "Fanta", "Evian", "Coca Cola"],
+      "correct_answer": ["Evian"]
+    },
+    {
+      "question": "What year are we in?",
+      "answers": ["2022", "2023"],
+      "correct_answer": ["2023"]
+    }
+  ],
         "parts": [
           {
             "title": null,
