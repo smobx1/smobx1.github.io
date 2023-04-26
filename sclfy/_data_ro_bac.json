@@ -8171,5 +8171,36 @@
         ]
       }
     ]
+  },
+  {
+    "id": 15,
+    "code": "ro_bac_info",
+    "title": "Informatică",
+    "full_title": "Informatică",
+    "subtitle": "Informatică",
+    "description": "Informatică",
+    "img": "https://iacademy.ro/schoolifycdn/img_courses/ro_bac_info.png",
+    "lessons": [
+      {
+        "id": 0,
+        "category": "In curand",
+        "title": "In curand..",
+        "subtitle": null,
+        "left_subtitle1": null,
+        "left_subtitle2": null,
+        "top_image": null,
+        "right_subtitle2": null,
+        "minimum_reads": 10,
+        "read_time": 8,
+        "videoURL": null,
+        "related_lessons": [],
+        "parts": [
+          {
+            "title": null,
+            "body": "In curand"
+          }
+        ]
+      }
+    ]
   }
 ]
