@@ -20,6 +20,7 @@
         "minimum_reads": 2,
         "read_time": 2,
         "videoURL": null,
+        "isFree": true,
         "related_lessons": [],
         "quiz": [
     {
@@ -67,6 +68,7 @@
         "minimum_reads": 2,
         "read_time": 2,
         "videoURL": null,
+        "isFree": true,
         "related_lessons": [],
         "quiz": [
     {
@@ -104,6 +106,7 @@
         "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
+        "isFree": true,
         "related_lessons": [],
         "parts": [
           {
@@ -124,6 +127,7 @@
         "minimum_reads": 5,
         "read_time": 8,
         "videoURL": null,
+        "isFree": true,
         "related_lessons": [],
         "parts": [
           {
@@ -144,6 +148,7 @@
         "minimum_reads": 4,
         "read_time": 8,
         "videoURL": null,
+        "isFree": true,
         "related_lessons": [],
         "parts": [
           {
