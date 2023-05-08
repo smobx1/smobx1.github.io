@@ -1,11 +1,4 @@
 {
-  "general":{
-    "homeMessage":"Heey, you have 50% off today!",
-    "gameOverMessage":[
-      {"message":"Good, try another category!"},
-      {"message":"Are you drunk yet?"}
-    ]
-  },
   "languages":[
     {"languageName":"🇬🇧 English"},
     {"languageName":"🇷🇴 Romana"}
