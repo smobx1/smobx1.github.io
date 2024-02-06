@@ -59,7 +59,7 @@
     "competition_cluster": "Euro 2024",
     "home_team": "Germany",
     "away_team": "Scotland",
-    "market": "Over/under",
+    "market": "classic",
     "odds": {
       "1": 1.29,
       "2": 10.75,
@@ -70,7 +70,7 @@
     },
     "odd": 1.29,
     "start_date": "2024-02-06T16:00:00",
-    "prediction": "+2.5",
+    "prediction": "1",
     "probabilities": {
       "1": 0.76,
       "2": 0.08,
