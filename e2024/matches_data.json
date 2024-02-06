@@ -2,7 +2,7 @@
   {
     "id": 0,
     "federation": "UEFA",
-    "competition_cluster": "Group stage",
+    "competition_cluster": "Euro 2024",
     "home_team": "Germany",
     "away_team": "Scotland",
     "market": "classic",
@@ -26,7 +26,7 @@
       "X2": 0.14
     },
     "away_strength": 1.38,
-    "competition_name": "Premier League",
+    "competition_name": "Group stage",
     "distance_between_teams": 6,
     "field_length": null,
     "field_width": null,
@@ -54,9 +54,9 @@
     ]
   },
   {
-    "id": 0,
+    "id": 1,
     "federation": "UEFA",
-    "competition_cluster": "Group stage",
+    "competition_cluster": "Euro 2024",
     "home_team": "Germany",
     "away_team": "Scotland",
     "market": "classic",
@@ -80,7 +80,7 @@
       "X2": 0.14
     },
     "away_strength": 1.38,
-    "competition_name": "Premier League",
+    "competition_name": "Group Stage",
     "distance_between_teams": 6,
     "field_length": null,
     "field_width": null,
