@@ -1399,6 +1399,127 @@
     }
 
   ],
-  "winners": []
+  "winners": [
+    {
+      "name": "England",
+      "odd": 4.25,
+      "probability": 0.21
+    },
+    {
+      "name": "France",
+      "odd": 5.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Germany",
+      "odd": 6.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Portugal",
+      "odd": 9.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Spain",
+      "odd": 9.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Italy",
+      "odd": 15.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Belgium",
+      "odd": 20.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Netherlands",
+      "odd": 20.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Croatia",
+      "odd": 40.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Denmark",
+      "odd": 40.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Switzerland",
+      "odd": 50.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Turkey",
+      "odd": 60.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Hungary",
+      "odd": 75.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Serbia",
+      "odd": 100.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Austria",
+      "odd": 125.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Scotland",
+      "odd": 125.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Ukraine",
+      "odd": 125.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Czech Republic",
+      "odd": 150.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Poland",
+      "odd": 150.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Romania",
+      "odd": 150.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Georgia",
+      "odd": 250.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Slovakia",
+      "odd": 250.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Slovenia",
+      "odd": 400.00,
+      "probability": 0.00
+    },
+    {
+      "name": "Albania",
+      "odd": 500.00,
+      "probability": 0.00
+    }
+  ]
 }
 
