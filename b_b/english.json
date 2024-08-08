@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Base game",
       "subtitle": "Get ready to know more about your friends.",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
       "premium": false,
       "levels": [
         {
