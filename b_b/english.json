@@ -965,11 +965,11 @@
           "wildcards":[
             {
               "id":1,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: WRITE A SONG TITLE FOR THIS CHAPTER IN YOUR LIFE."
             },
             {
               "id":2,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: ADMIT SOMETHING."
             },
             {
               "id":3,
@@ -977,7 +977,7 @@
             },
             {
               "id":4,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: SHARE SOMETHING WITH YOUR PARTNER THAT YOU WROTE BUT NEVER SENT."
             },
             {
               "id":5,
@@ -985,7 +985,7 @@
             },
             {
               "id":6,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: LOOK UP THE DEFINITION OF YOUR NAME. DOES IT SUIT YOU?"
             },
             {
               "id":7,
@@ -993,127 +993,27 @@
             },
             {
               "id":8,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: THINK OF SOMEONE YOU ADMIRE. WHAT QUALITIES DO YOU HAVE IN COMMON WITH THEM?"
             },
             {
               "id":9,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: MAKE AN ASSUMPTION ABOUT ME."
             },
             {
               "id":10,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: IF YOU HAVE, REVEAL THE MEANING BEHIND ONE OF YOUR TATTOOS. (IF YOU DON’T HAVE ANY, DISCUSS WHAT YOU WOULD GET AND WHERE.)"
             },
             {
               "id":11,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: PICK A SONG THAT REPRESENTS OUR CONNECTION."
             },
             {
               "id":12,
-              "q":"TODOTHISQUESTION"
+              "q":"WILDCARD: WHAT DO YOU THINK MY SUPERPOWER IS?"
             },
             {
               "id":13,
               "q":"WILDCARD: WHAT DOES MY STYLE TELL YOU ABOUT ME?"
-            },
-            {
-              "id":14,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":15,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":16,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":17,
-              "q":"WILDCARD: LOOK UP THE DEFINITION OF YOUR NAME. DOES IT SUIT YOU?"
-            },
-            {
-              "id":18,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":19,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":20,
-              "q":"WILDCARD: SHARE SOMETHING WITH YOUR PARTNER THAT YOU WROTE BUT NEVER SENT."
-            },
-            {
-              "id":21,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":22,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":23,
-              "q":"WILDCARD: ADMIT SOMETHING."
-            },
-            {
-              "id":24,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":25,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":26,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":27,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":28,
-              "q":"WILDCARD: IF YOU HAVE, REVEAL THE MEANING BEHIND ONE OF YOUR TATTOOS. (IF YOU DON’T HAVE ANY, DISCUSS WHAT YOU WOULD GET AND WHERE.)"
-            },
-            {
-              "id":29,
-              "q":"WILDCARD: PICK A SONG THAT REPRESENTS OUR CONNECTION."
-            },
-            {
-              "id":30,
-              "q":"WILDCARD: WHAT DO YOU THINK MY SUPERPOWER IS?"
-            },
-            {
-              "id":31,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":32,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":33,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":34,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":35,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":36,
-              "q":"WILDCARD: THINK OF SOMEONE YOU ADMIRE. WHAT QUALITIES DO YOU HAVE IN COMMON WITH THEM?"
-            },
-            {
-              "id":37,
-              "q":"WILDCARD: MAKE AN ASSUMPTION ABOUT ME."
-            },
-            {
-              "id":38,
-              "q":"WILDCARD: WRITE A SONG TITLE FOR THIS CHAPTER IN YOUR LIFE."
             }
           ]
         },
@@ -1714,66 +1614,66 @@
               "id":49,
               "q":"WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER DEALS WITH JOY."
             },
-              {
-                "id":50,
-                "q":"BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
-              },
-              {
-                "id":51,
-                "q":"COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)"
-              },
-              {
-                "id":52,
-                "q":"PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."
-              },
-              {
-                "id":53,
-                "q":"RECOMMEND A SONG TO YOUR PARTNER THAT YOU THINK THEY’D LIKE (BOTH PLAYERS)."
-              },
-              {
-                "id":54,
-                "q":"WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."
-              },
-              {
-                "id":55,
-                "q":"TAKE A SELFIE TOGETHER."
-              },
-              {
-                "id":56,
-                "q":"CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)"
-              },
-              {
-                "id":57,
-                "q":"GIVE YOUR PARTNER A GENUINE, WARM HUG."
-              },
-              {
-                "id":58,
-                "q":"BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."
-              },
-              {
-                "id":59,
-                "q":"CREATE NICKNAMES FOR EACH OTHER."
-              },
-              {
-                "id":60,
-                "q":"REVEAL A SECRET OR PERSONAL TRUTH."
-              },
-              {
-                "id":61,
-                "q":"CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."
-              },
-              {
-                "id":62,
-                "q":"WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)"
-              },
-              {
-                "id":63,
-                "q":"SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."
-              },
-              {
-                "id":64,
-                "q":"GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
-              }
+            {
+              "id":50,
+              "q":"BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
+            },
+            {
+              "id":51,
+              "q":"COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)"
+            },
+            {
+              "id":52,
+              "q":"PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."
+            },
+            {
+              "id":53,
+              "q":"RECOMMEND A SONG TO YOUR PARTNER THAT YOU THINK THEY’D LIKE (BOTH PLAYERS)."
+            },
+            {
+              "id":54,
+              "q":"WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."
+            },
+            {
+              "id":55,
+              "q":"TAKE A SELFIE TOGETHER."
+            },
+            {
+              "id":56,
+              "q":"CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)"
+            },
+            {
+              "id":57,
+              "q":"GIVE YOUR PARTNER A GENUINE, WARM HUG."
+            },
+            {
+              "id":58,
+              "q":"BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."
+            },
+            {
+              "id":59,
+              "q":"CREATE NICKNAMES FOR EACH OTHER."
+            },
+            {
+              "id":60,
+              "q":"REVEAL A SECRET OR PERSONAL TRUTH."
+            },
+            {
+              "id":61,
+              "q":"CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."
+            },
+            {
+              "id":62,
+              "q":"WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)"
+            },
+            {
+              "id":63,
+              "q":"SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."
+            },
+            {
+              "id":64,
+              "q":"GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
+            }
           ]
         }
       ]
