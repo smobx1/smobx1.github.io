@@ -1616,63 +1616,63 @@
             },
             {
               "id":50,
-              "q":"BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
+              "q":"WILDCARD: BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
             },
             {
               "id":51,
-              "q":"COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)"
+              "q":"WILDCARD: COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)"
             },
             {
               "id":52,
-              "q":"PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."
+              "q":"WILDCARD: PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."
             },
             {
               "id":53,
-              "q":"RECOMMEND A SONG TO YOUR PARTNER THAT YOU THINK THEY’D LIKE (BOTH PLAYERS)."
+              "q":"WILDCARD: RECOMMEND A SONG TO YOUR PARTNER THAT YOU THINK THEY’D LIKE (BOTH PLAYERS)."
             },
             {
               "id":54,
-              "q":"WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."
+              "q":"WILDCARD: WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."
             },
             {
               "id":55,
-              "q":"TAKE A SELFIE TOGETHER."
+              "q":"WILDCARD: TAKE A SELFIE TOGETHER."
             },
             {
               "id":56,
-              "q":"CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)"
+              "q":"WILDCARD: CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)"
             },
             {
               "id":57,
-              "q":"GIVE YOUR PARTNER A GENUINE, WARM HUG."
+              "q":"WILDCARD: GIVE YOUR PARTNER A GENUINE, WARM HUG."
             },
             {
               "id":58,
-              "q":"BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."
+              "q":"WILDCARD: BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."
             },
             {
               "id":59,
-              "q":"CREATE NICKNAMES FOR EACH OTHER."
+              "q":"WILDCARD: CREATE NICKNAMES FOR EACH OTHER."
             },
             {
               "id":60,
-              "q":"REVEAL A SECRET OR PERSONAL TRUTH."
+              "q":"WILDCARD: REVEAL A SECRET OR PERSONAL TRUTH."
             },
             {
               "id":61,
-              "q":"CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."
+              "q":"WILDCARD: CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."
             },
             {
               "id":62,
-              "q":"WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)"
+              "q":"WILDCARD: WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)"
             },
             {
               "id":63,
-              "q":"SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."
+              "q":"WILDCARD: SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."
             },
             {
               "id":64,
-              "q":"GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
+              "q":"WILDCARD: GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
             }
           ]
         }
