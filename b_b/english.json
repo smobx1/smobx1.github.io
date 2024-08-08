@@ -2,7 +2,7 @@
   "gameCategories": [
     {
       "id": 0,
-      "name": "Base game 333",
+      "name": "Base game 444",
       "subtitle": "Get ready to know more about your friends.",
       "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
       "premium": false,
@@ -634,12 +634,24 @@
               "q":"WHAT’S YOUR EARLIEST MEMORY OF TRUE JOY?"
             },
             {
+              "id":3,
+              "q":"HAS YOUR PERSPECTIVE ON ANYTHING SHIFTED RECENTLY?"
+            },
+            {
               "id":4,
+              "q":""
+            },
+            {
+              "id":5,
               "q":"HAS YOUR PERSPECTIVE ON ANYTHING SHIFTED RECENTLY?"
             },
             {
               "id":6,
               "q":"FINISH THE STATEMENT: PEOPLE MIGHT SEE ME AS …, BUT I KNOW THAT I AM … ."
+            },
+            {
+              "id":7,
+              "q":""
             },
             {
               "id":8,
@@ -662,6 +674,10 @@
               "q":"WHEN PEOPLE ASK YOU “HOW ARE YOU?”, HOW OFTEN DO YOU GIVE A FULLY HONEST RESPONSE?"
             },
             {
+              "id":13,
+              "q":""
+            },
+            {
               "id":14,
               "q":"WHAT WOULD YOUR YOUNGER SELF FIND MOST SURPRISING ABOUT YOUR LIFE TODAY?"
             },
@@ -674,6 +690,10 @@
               "q":"WHAT IS ONE THING ABOUT YOURSELF THAT YOU WOULD PREFER TO KEEP AS IS?"
             },
             {
+              "id":17,
+              "q":""
+            },
+            {
               "id":18,
               "q":"IF YOU WERE TO TITLE THIS CURRENT CHAPTER OF YOUR LIFE, WHAT WOULD IT BE?"
             },
@@ -682,12 +702,20 @@
               "q":"WHAT IS A COMPLIMENT YOU WISH YOU RECEIVED MORE OFTEN?"
             },
             {
+              "id":20,
+              "q":""
+            },
+            {
               "id":21,
               "q":"WHAT’S THE BEST COMPLIMENT A STRANGER HAS EVER GIVEN YOU?"
             },
             {
               "id":22,
               "q":"HAS A STRANGER EVER HAD A SIGNIFICANT IMPACT ON YOUR LIFE?"
+            },
+            {
+              "id":23,
+              "q":""
             },
             {
               "id":24,
@@ -704,6 +732,18 @@
             {
               "id":27,
               "q":"WHAT ARE YOU STILL TRYING TO PROVE TO YOURSELF?"
+            },
+            {
+              "id":28,
+              "q":""
+            },
+            {
+              "id":29,
+              "q":""
+            },
+            {
+              "id":30,
+              "q":""
             },
             {
               "id":31,
@@ -724,6 +764,14 @@
             {
               "id":35,
               "q":"IF YOU COULD DEEPEN YOUR CONNECTION WITH ONE PERSON IN YOUR LIFE, WHO WOULD IT BE AND WHY?"
+            },
+            {
+              "id":36,
+              "q":""
+            },
+            {
+              "id":37,
+              "q":""
             },
             {
               "id":38,
@@ -756,6 +804,10 @@
             {
               "id":45,
               "q":"WHAT’S A LESSON THAT TOOK YOU THE LONGEST TO UNLEARN?"
+            },
+            {
+              "id":46,
+              "q":""
             },
             {
               "id":47,
@@ -912,32 +964,112 @@
           ],
           "wildcards":[
             {
+              "id":1,
+              "q":""
+            },
+            {
+              "id":2,
+              "q":""
+            },
+            {
               "id":3,
               "q":"WILDCARD: WRITE DOWN A “NOTE TO SELF.” 10 SECONDS. SHARE WHAT YOU WROTE."
+            },
+            {
+              "id":4,
+              "q":""
             },
             {
               "id":5,
               "q":"WILDCARD: LET YOUR PARTNER NAVIGATE YOUR PHONE FOR 30 SECONDS."
             },
             {
+              "id":6,
+              "q":""
+            },
+            {
               "id":7,
               "q":"WILDCARD: SEND A GRATITUDE TEXT TO SOMEONE YOU HAVEN’T SPOKEN TO IN A WHILE."
+            },
+            {
+              "id":8,
+              "q":""
+            },
+            {
+              "id":9,
+              "q":""
+            },
+            {
+              "id":10,
+              "q":""
+            },
+            {
+              "id":11,
+              "q":""
+            },
+            {
+              "id":12,
+              "q":""
             },
             {
               "id":13,
               "q":"WILDCARD: WHAT DOES MY STYLE TELL YOU ABOUT ME?"
             },
             {
+              "id":14,
+              "q":""
+            },
+            {
+              "id":15,
+              "q":""
+            },
+            {
+              "id":16,
+              "q":""
+            },
+            {
               "id":17,
               "q":"WILDCARD: LOOK UP THE DEFINITION OF YOUR NAME. DOES IT SUIT YOU?"
+            },
+            {
+              "id":18,
+              "q":""
+            },
+            {
+              "id":19,
+              "q":""
             },
             {
               "id":20,
               "q":"WILDCARD: SHARE SOMETHING WITH YOUR PARTNER THAT YOU WROTE BUT NEVER SENT."
             },
             {
+              "id":21,
+              "q":""
+            },
+            {
+              "id":22,
+              "q":""
+            },
+            {
               "id":23,
               "q":"WILDCARD: ADMIT SOMETHING."
+            },
+            {
+              "id":24,
+              "q":""
+            },
+            {
+              "id":25,
+              "q":""
+            },
+            {
+              "id":26,
+              "q":""
+            },
+            {
+              "id":27,
+              "q":""
             },
             {
               "id":28,
@@ -952,6 +1084,26 @@
               "q":"WILDCARD: WHAT DO YOU THINK MY SUPERPOWER IS?"
             },
             {
+              "id":31,
+              "q":""
+            },
+            {
+              "id":32,
+              "q":""
+            },
+            {
+              "id":33,
+              "q":""
+            },
+            {
+              "id":34,
+              "q":""
+            },
+            {
+              "id":35,
+              "q":""
+            },
+            {
               "id":36,
               "q":"WILDCARD: THINK OF SOMEONE YOU ADMIRE. WHAT QUALITIES DO YOU HAVE IN COMMON WITH THEM?"
             },
@@ -960,7 +1112,7 @@
               "q":"WILDCARD: MAKE AN ASSUMPTION ABOUT ME."
             },
             {
-              "id":46,
+              "id":38,
               "q":"WILDCARD: WRITE A SONG TITLE FOR THIS CHAPTER IN YOUR LIFE."
             }
           ]
@@ -1562,7 +1714,6 @@
               "id":49,
               "q":"WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER DEALS WITH JOY."
             },
-            [
               {
                 "id":50,
                 "q":"BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
@@ -1623,7 +1774,6 @@
                 "id":64,
                 "q":"GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
               }
-            ]
           ]
         }
       ]
