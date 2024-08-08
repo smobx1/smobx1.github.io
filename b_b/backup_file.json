@@ -1,0 +1,1679 @@
+{
+  "gameCategories": [
+    {
+      "id": 0,
+      "name": "Base game",
+      "subtitle": "Get ready to know more about your friends.",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels": [
+        {
+          "level": 1,
+          "questions":[
+            {
+              "id": 1,
+              "q": "WHAT ABOUT ME MAKES YOU CURIOUS?"
+            },
+            {
+              "id": 2,
+              "q": "IF I WERE ON A REALITY SHOW, WHICH ONE WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 3,
+              "q": "WHAT'S SOMETHING ABOUT ME THAT SEEMS UNUSUAL OR INTERESTING TO YOU?"
+            },
+            {
+              "id": 4,
+              "q": "WHAT SONG DO YOU THINK I WOULD ROCK AT KARAOKE?"
+            },
+            {
+              "id": 5,
+              "q": "FINISH THE SENTENCE: AT FIRST GLANCE, YOU SEEM..."
+            },
+            {
+              "id": 6,
+              "q": ""
+            },
+            {
+              "id": 7,
+              "q": "DO I SEEM LIKE I PREFER MORNINGS OR NIGHTS? WHY?"
+            },
+            {
+              "id": 8,
+              "q": "WOULD YOU GUESS I'M A CAT PERSON OR A DOG PERSON?"
+            },
+            {
+              "id": 9,
+              "q": "WAS I THE TYPE TO BE POPULAR IN SCHOOL? EXPLAIN."
+            },
+            {
+              "id": 10,
+              "q": "WHAT KIND OF COMPLIMENT DO YOU THINK I HEAR MOST OFTEN?"
+            },
+            {
+              "id": 11,
+              "q": "WHAT DOES MY PHONE WALLPAPER SAY ABOUT ME?"
+            },
+            {
+              "id": 12,
+              "q": "DO I REMIND YOU OF SOMEONE YOU KNOW?"
+            },
+            {
+              "id": 13,
+              "q": "WHAT DO YOU THINK I LOVE TO SPEND MONEY ON?"
+            },
+            {
+              "id": 14,
+              "q": ""
+            },
+            {
+              "id": 15,
+              "q": "WHAT DO YOU THINK MY INSTAGRAM FEED LOOKS LIKE?"
+            },
+            {
+              "id": 16,
+              "q": "IF I HAD A MYSPACE PROFILE, WHAT SONG WOULD BE MY THEME?"
+            },
+            {
+              "id": 17,
+              "q": "WHAT IS MY BODY LANGUAGE TELLING YOU RIGHT NOW?"
+            },
+            {
+              "id": 18,
+              "q": "WOULD I ENJOY CAMPING? HOW ELABORATE WOULD MY SETUP BE?"
+            },
+            {
+              "id": 19,
+              "q": "HOW MANY SPEEDING TICKETS DO YOU THINK I’VE GOTTEN?"
+            },
+            {
+              "id": 20,
+              "q": "WHAT’S THE FIRST THING YOU NOTICED ABOUT ME?"
+            },
+            {
+              "id": 21,
+              "q": "DO YOU THINK I FALL IN LOVE EASILY? WHY OR WHY NOT?"
+            },
+            {
+              "id": 22,
+              "q": ""
+            },
+            {
+              "id": 23,
+              "q": "REMINDER: LET GO OF YOUR ATTACHMENT TO THE OUTCOME."
+            },
+            {
+              "id": 24,
+              "q": ""
+            },
+            {
+              "id": 25,
+              "q": "WHO DO YOU THINK MY CELEBRITY CRUSH IS?"
+            },
+            {
+              "id": 26,
+              "q": "DO I SEEM MORE CREATIVE OR ANALYTICAL? EXPLAIN."
+            },
+            {
+              "id": 27,
+              "q": ""
+            },
+            {
+              "id": 28,
+              "q": ""
+            },
+            {
+              "id": 29,
+              "q": "DO YOU THINK I’VE EVER SNOOPED THROUGH SOMEONE’S PHONE?"
+            },
+            {
+              "id": 30,
+              "q": "IF YOU WERE TO BUY ME A GIFT BASED ONLY ON MY APPEARANCE, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 31,
+              "q": "WHAT FAST FOOD PLACE DO YOU THINK I FREQUENT MOST? WHAT’S MY ORDER?"
+            },
+            {
+              "id": 32,
+              "q": "DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"
+            },
+            {
+              "id": 33,
+              "q": ""
+            },
+            {
+              "id": 34,
+              "q": "DO YOU THINK I’VE EVER BEEN FIRED FROM A JOB? IF SO, FOR WHAT?"
+            },
+            {
+              "id": 35,
+              "q": "DO I LOOK LIKE A KIND PERSON? EXPLAIN."
+            },
+            {
+              "id": 36,
+              "q": "WHAT CHARACTER DO YOU THINK I WOULD PLAY IN A MOVIE?"
+            },
+            {
+              "id": 37,
+              "q": "WHAT SCHOOL SUBJECT DO YOU THINK I EXCELLED IN? DID I STRUGGLE WITH ANY?"
+            },
+            {
+              "id": 38,
+              "q": "ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING SPOTLESS, 10 A TOTAL DISASTER. EXPLAIN."
+            },
+            {
+              "id": 39,
+              "q": "DO YOU THINK PLANTS THRIVE OR DIE IN MY CARE? EXPLAIN."
+            },
+            {
+              "id": 40,
+              "q": ""
+            },
+            {
+              "id": 41,
+              "q": "WHAT WAS YOUR FIRST IMPRESSION OF ME?"
+            },
+            {
+              "id": 42,
+              "q": "DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED? WHY OR WHY NOT?"
+            },
+            {
+              "id": 43,
+              "q": "DO I SEEM LIKE A COFFEE OR TEA PERSON? SWEETENED OR UNSWEETENED?"
+            },
+            {
+              "id": 44,
+              "q": "AS A CHILD, WHAT DO YOU THINK I DREAMED OF BECOMING?"
+            },
+            {
+              "id": 45,
+              "q": "WHAT DO MY SHOES SAY ABOUT ME?"
+            },
+            {
+              "id": 46,
+              "q": ""
+            },
+            {
+              "id": 47,
+              "q": ""
+            },
+            {
+              "id": 48,
+              "q": "WHAT DO YOU THINK IS THE MOST CHALLENGING PART OF MY JOB?"
+            },
+            {
+              "id": 49,
+              "q": "DO YOU THINK I’M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."
+            },
+            {
+              "id": 50,
+              "q": ""
+            },
+            {
+              "id": 51,
+              "q": "WHAT ABOUT ME INTRIGUES YOU?"
+            },
+            {
+              "id": 52,
+              "q": "WHAT REALITY SHOW DO YOU THINK I'M MOST LIKELY TO BINGE WATCH? EXPLAIN."
+            },
+            {
+              "id": 53,
+              "q": "WHAT ABOUT ME IS MOST STRANGE OR UNFAMILIAR TO YOU?"
+            },
+            {
+              "id": 54,
+              "q": "WHAT DO YOU THINK MY GO TO KARAOKE SONG IS?"
+            },
+            {
+              "id": 55,
+              "q": "FINISH THE SENTENCE: JUST BY LOOKING AT YOU I'D THINK..."
+            },
+            {
+              "id": 56,
+              "q": ""
+            },
+            {
+              "id": 57,
+              "q": "DO I SEEM LIKE A MORNING PERSON OR A NIGHT OWL? WHY?"
+            },
+            {
+              "id": 58,
+              "q": "DO I SEEM LIKE A CAT OR DOG PERSON?"
+            },
+            {
+              "id": 59,
+              "q": "DO YOU THINK I WAS POPULAR IN SCHOOL? EXPLAIN"
+            },
+            {
+              "id": 60,
+              "q": "WHAT COMPLIMENT DO YOU THINK I HEAR THE MOST?"
+            },
+            {
+              "id": 61,
+              "q": "WHAT DOES MY PHONE WALLPAPER TELL YOU ABOUT ME?"
+            },
+            {
+              "id": 62,
+              "q": "DO I REMIND YOU OF ANYONE?"
+            },
+            {
+              "id": 63,
+              "q": "WHAT DO YOU THINK I'M MOST LIKELY TO SPLURGE ON?"
+            },
+            {
+              "id": 64,
+              "q": ""
+            },
+            {
+              "id": 65,
+              "q": "WHAT DOES MY INSTAGRAM TELL YOU ABOUT ME?"
+            },
+            {
+              "id": 66,
+              "q": "IF MYSPACE WERE STILL A THING, WHAT WOULD MY PROFILE SONG BE?"
+            },
+            {
+              "id": 67,
+              "q": "WHAT IS MY BODY LANGUAGE TELLING YOU RIGHT NOW?"
+            },
+            {
+              "id": 68,
+              "q": "HOW LIKELY AM I TO GO CAMPING? HOW HIGH MAINTENANCE IS MY SETUP?"
+            },
+            {
+              "id": 69,
+              "q": "HOW MANY SPEEDING TICKETS DO YOU THINK I'VE GOTTEN IN MY LIFE?"
+            },
+            {
+              "id": 70,
+              "q": "WHAT'S THE FIRST THING YOU NOTICED ABOUT ME?"
+            },
+            {
+              "id": 71,
+              "q": "DO YOU THINK I FALL IN LOVE EASILY? WHY OR WHY NOT?"
+            },
+            {
+              "id": 72,
+              "q": ""
+            },
+            {
+              "id": 73,
+              "q": "REMINDER: LET GO OF YOUR ATTACHMENT TO THE OUTCOME."
+            },
+            {
+              "id": 74,
+              "q": ""
+            },
+            {
+              "id": 75,
+              "q": "WHO DO YOU THINK MY CELEBRITY CRUSH IS?"
+            },
+            {
+              "id": 76,
+              "q": "DO I SEEM LIKE MORE OF A CREATIVE OR ANALYTICAL TYPE? EXPLAIN."
+            },
+            {
+              "id": 77,
+              "q": ""
+            },
+            {
+              "id": 78,
+              "q": ""
+            },
+            {
+              "id": 79,
+              "q": "DO YOU THINK I'VE EVER CHECKED AN EX'S PHONE FOR EVIDENCE?"
+            },
+            {
+              "id": 80,
+              "q": "IF YOU WERE TO BUY ME A PRESENT, KNOWING NOTHING ABOUT ME OTHER THAN WHAT I LOOK LIKE, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 81,
+              "q": "WHAT FAST FOOD RESTAURANT DO YOU THINK I'M MOST LIKELY TO DRIVE THROUGH? WHAT IS MY ORDER?"
+            },
+            {
+              "id": 82,
+              "q": "DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"
+            },
+            {
+              "id": 83,
+              "q": ""
+            },
+            {
+              "id": 84,
+              "q": "DO YOU THINK I'VE EVER BEEN FIRED FROM A JOB? IF SO, WHAT FOR?"
+            },
+            {
+              "id": 85,
+              "q": "DO I LOOK KIND? EXPLAIN."
+            },
+            {
+              "id": 86,
+              "q": "WHAT CHARACTER WOULD I PLAY IN A MOVIE?"
+            },
+            {
+              "id": 87,
+              "q": "WHAT SUBJECT DO YOU THINK I THRIVED IN AT SCHOOL? DID I FAIL ANY?"
+            },
+            {
+              "id": 88,
+              "q": "ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING CLEANEST, 10 A COMPLETE DISASTER. EXPLAIN"
+            },
+            {
+              "id": 89,
+              "q": "DO YOU THINK PLANTS THRIVE OR DIE IN MY CARE? EXPLAIN."
+            },
+            {
+              "id": 90,
+              "q": ""
+            },
+            {
+              "id": 91,
+              "q": "WHAT WAS YOUR FIRST IMPRESSION OF ME?"
+            },
+            {
+              "id": 92,
+              "q": "DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED ON MYSELF? WHY OR WHY NOT?"
+            },
+            {
+              "id": 93,
+              "q": "DO I SEEM LIKE A COFFEE OR TEA PERSON? SWEETENED OR UNSWEETENED?"
+            },
+            {
+              "id": 94,
+              "q": "AS A CHILD, WHAT DO YOU THINK I WANTED TO BE?"
+            },
+            {
+              "id": 95,
+              "q": "WHAT DO MY SHOES TELL YOU ABOUT ME?"
+            },
+            {
+              "id": 96,
+              "q": ""
+            },
+            {
+              "id": 97,
+              "q": ""
+            },
+            {
+              "id": 98,
+              "q": "WHAT DO YOU THINK IS THE HARDEST PART OF WHAT I DO FOR A LIVING?"
+            },
+            {
+              "id": 99,
+              "q": "DO YOU THINK I'M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."
+            },
+            {
+              "id": 100,
+              "q": ""
+            }
+
+          ],
+          "wildcards":[
+            {
+              "id": 1,
+              "q": "WILDCARD: SHARE A MEMORY ASSOCIATED WITH YOUR FAVORITE FOOD. (BOTH PLAYERS)"
+            },
+            {
+              "id": 2,
+              "q": "WILDCARD: SWAP AN ITEM FROM YOUR POCKET OR BAG AND GUESS THE STORY BEHIND IT."
+            },
+            {
+              "id": 3,
+              "q": "WILDCARD: MIMIC EACH OTHER'S LAUGH FOR 30 SECONDS."
+            },
+            {
+              "id": 4,
+              "q": "WILDCARD: DESCRIBE YOUR DAY SO FAR USING ONLY SOUND EFFECTS. (BOTH PLAYERS)"
+            },
+            {
+              "id": 5,
+              "q": "WILDCARD: WRITE DOWN YOUR FAVORITE SONG LYRIC AND GUESS WHY IT'S MEANINGFUL TO EACH OTHER. (BOTH PLAYERS)"
+            },
+            {
+              "id": 6,
+              "q": "WILDCARD: SHOW THE LAST PHOTO YOU TOOK ON YOUR PHONE AND EXPLAIN IT."
+            },
+            {
+              "id": 7,
+              "q": "WILDCARD: HUM YOUR FAVORITE SONG AND GUESS EACH OTHER'S. (BOTH PLAYERS)"
+            },
+            {
+              "id": 8,
+              "q": "WILDCARD: EXCHANGE YOUR FAVORITE QUOTES AND DISCUSS WHY THEY RESONATE WITH YOU."
+            },
+            {
+              "id": 9,
+              "q": "WILDCARD: SPIN AROUND SLOWLY AND GUESS EACH OTHER’S FAVORITE PIECE OF CLOTHING."
+            },
+            {
+              "id": 10,
+              "q": "WILDCARD: SHARE A FUNNY CHILDHOOD MEMORY IN ONE MINUTE. (BOTH PLAYERS)"
+            },
+            {
+              "id": 11,
+              "q": "WILDCARD: EXCHANGE ONE OF YOUR FAVORITE JOKES AND RATE EACH OTHER'S HUMOR."
+            },
+            {
+              "id": 12,
+              "q": "WILDCARD: ACT OUT YOUR FAVORITE ANIMAL AND HAVE THE OTHER PERSON GUESS WHAT IT IS."
+            },
+            {
+              "id": 13,
+              "q": "WILDCARD: DRAW A SYMBOL OR ICON THAT REPRESENTS YOU AND EXPLAIN IT TO EACH OTHER."
+            },
+            {
+              "id": 14,
+              "q": "WILDCARD: CREATE A HANDSHAKE OR HIGH-FIVE ROUTINE TO PERFORM TOGETHER."
+            },
+            {
+              "id": 15,
+              "q": "WILDCARD: MAKE UP A SHORT STORY USING THREE RANDOM WORDS FROM YOUR CONVERSATION."
+            },
+            {
+              "id": 16,
+              "q": "WILDCARD: DO YOUR BEST IMPRESSION OF A CELEBRITY OR CHARACTER FOR 30 SECONDS."
+            },
+            {
+              "id": 17,
+              "q": "WILDCARD: PICK A RANDOM OBJECT FROM YOUR SURROUNDINGS AND INVENT A USE FOR IT."
+            },
+            {
+              "id": 18,
+              "q": "WILDCARD: SHOW EACH OTHER A FUNNY MEME OR GIF FROM YOUR PHONE AND DISCUSS IT."
+            },
+            {
+              "id": 19,
+              "q": "WILDCARD: MAKE UP A NEW WORD AND DEFINE IT. USE IT IN A SENTENCE WITH EACH OTHER."
+            },
+            {
+              "id": 20,
+              "q": "WILDCARD: IMAGINE YOU’RE IN A COMMERCIAL. PITCH A PRODUCT AS IF YOU’RE THE SPOKESPERSON."
+            },
+            {
+              "id": 21,
+              "q": "WILDCARD: EXCHANGE THE LAST TEXT MESSAGE YOU SENT AND DISCUSS IT."
+            },
+            {
+              "id": 22,
+              "q": "WILDCARD: HUM A SONG FOR 20 SECONDS AND HAVE THE OTHER PERSON GUESS IT."
+            },
+            {
+              "id": 23,
+              "q": "WILDCARD: DRAW A QUICK MAP TO YOUR IDEAL VACATION DESTINATION AND DESCRIBE IT."
+            },
+            {
+              "id": 24,
+              "q": "WILDCARD: CREATE A MINIATURE TOWER USING ONLY PAPER OR OTHER AVAILABLE MATERIALS."
+            },
+            {
+              "id": 25,
+              "q": "WILDCARD: SHOW EACH OTHER YOUR FAVORITE PHOTO ON YOUR PHONE AND SHARE THE STORY BEHIND IT."
+            },
+            {
+              "id": 26,
+              "q": "WILDCARD: INVENT A NEW HOLIDAY AND DESCRIBE HOW PEOPLE WOULD CELEBRATE IT."
+            },
+            {
+              "id": 27,
+              "q": "WILDCARD: PERFORM A QUICK SKIT WHERE YOU BOTH PLAY DIFFERENT CHARACTERS."
+            },
+            {
+              "id": 28,
+              "q": "WILDCARD: SHARE A FUN FACT ABOUT YOURSELF THAT NOBODY ELSE KNOWS."
+            },
+            {
+              "id": 29,
+              "q": "WILDCARD: GIVE EACH OTHER A “UNIQUE SUPERPOWER” BASED ON YOUR FIRST IMPRESSION."
+            },
+            {
+              "id": 30,
+              "q": "WILDCARD: CLOSE YOUR EYES AND GUESS THE OTHER PERSON'S FAVORITE SCENT."
+            },
+            {
+              "id": 31,
+              "q": "WILDCARD: MAINTAIN EYE CONTACT FOR THIRTY SECONDS. WHAT DO YOU FEEL?"
+            },
+            {
+              "id": 32,
+              "q": "WILDCARD: THINK OF YOUR FAVORITE BREAKFAST CEREAL. ON THE COUNT OF 3, SAY YOUR ANSWER OUT LOUD! (BOTH PLAYERS)"
+            },
+            {
+              "id": 33,
+              "q": "WILDCARD: CLOSE YOUR EYES. WHAT COLOR ARE MY EYES?"
+            },
+            {
+              "id": 34,
+              "q": "WILDCARD: ASK AND ANSWER THE NEXT QUESTION IN A DIFFERENT ACCENT (BOTH PLAYERS)."
+            },
+            {
+              "id": 35,
+              "q": "WILDCARD: WRITE DOWN SOMETHING PEOPLE WOULDN’T GUESS ABOUT YOU JUST BY LOOKING AT YOU (BOTH PLAYERS). COMPARE."
+            },
+            {
+              "id": 36,
+              "q": "WILDCARD: DRAW A PORTRAIT OF EACH OTHER TO THE BEST OF YOUR ABILITY (1 MIN). EXCHANGE."
+            },
+            {
+              "id": 37,
+              "q": "WILDCARD: THINK OF YOUR FAVORITE CHILDHOOD TV SHOW. ON THE COUNT OF 3, SAY IT OUT LOUD! (BOTH PLAYERS)"
+            },
+            {
+              "id": 38,
+              "q": "WILDCARD: MAKE AN ASSUMPTION ABOUT ME (BOTH PLAYERS)."
+            },
+            {
+              "id": 39,
+              "q": "WILDCARD: RATE YOUR DANCING SKILLS ON A SCALE OF 1-10. ON THE COUNT OF 3, SAY YOUR ANSWERS OUT LOUD! (BOTH PLAYERS)."
+            },
+            {
+              "id": 40,
+              "q": "WILDCARD: DRAW A PICTURE TOGETHER (30 SECONDS)."
+            },
+            {
+              "id": 41,
+              "q": "WILDCARD: CLOSE YOUR EYES. WHAT COLOR IS MY SHIRT?"
+            },
+            {
+              "id": 42,
+              "q": "WILDCARD: MAINTAIN EYE CONTACT FOR THIRTY SECONDS. WHAT DID YOU NOTICE?"
+            },
+            {
+              "id": 43,
+              "q": "WILDCARD: THINK OF YOUR FAVORITE BRAND OF CEREAL. ON THE COUNT OF 3, SAY YOUR ANSWER OUT LOUD! (BOTH PLAYERS)"
+            },
+            {
+              "id": 44,
+              "q": "WILDCARD: CLOSE YOUR EYES. WHAT COLOR ARE MY EYES?"
+            },
+            {
+              "id": 45,
+              "q": "WILDCARD: ASK AND ANSWER THE NEXT QUESTION IN A DIFFERENT ACCENT (BOTH PLAYERS)."
+            },
+            {
+              "id": 46,
+              "q": "WILDCARD: WRITE DOWN SOMETHING OTHERS WOULD NEVER GUESS ABOUT YOU JUST BY LOOKING AT YOU (BOTH PLAYERS). COMPARE."
+            },
+            {
+              "id": 47,
+              "q": "WILDCARD: DRAW A PORTRAIT OF EACH OTHER TO THE BEST OF YOUR ABILITY (1 MIN). EXCHANGE."
+            },
+            {
+              "id": 48,
+              "q": "WILDCARD: THINK OF YOUR FAVORITE CHILDHOOD TV SHOW OF ALL TIME. ON THE COUNT OF 3, SAY IT OUT LOUD! (BOTH PLAYERS)"
+            },
+            {
+              "id": 49,
+              "q": "WILDCARD: MAKE AN ASSUMPTION ABOUT ME (BOTH PLAYERS)."
+            },
+            {
+              "id": 50,
+              "q": "WILDCARD: RATE YOUR DANCING SKILLS ON A SCALE OF 1-10. ON THE COUNT OF 3, SAY YOUR ANSWERS OUT LOUD! (BOTH PLAYERS)."
+            },
+            {
+              "id": 51,
+              "q": "WILDCARD: DRAW A PICTURE TOGETHER (30 SECONDS)."
+            },
+            {
+              "id": 52,
+              "q": "WILDCARD: CLOSE YOUR EYES. WHAT COLOR IS MY SHIRT?"
+            }
+          ]
+
+        },
+        {
+          "level": 2,
+          "questions": [
+            {
+              "id": 1,
+              "q": "WHAT’S THE MOST PRESSING QUESTION YOU’RE SEEKING ANSWERS TO RIGHT NOW?"
+            },
+            {
+              "id": 2,
+              "q": "WHAT’S YOUR EARLIEST MEMORY OF TRUE JOY?"
+            },
+            {
+              "id": 4,
+              "q": "HAS YOUR PERSPECTIVE ON ANYTHING SHIFTED RECENTLY?"
+            },
+            {
+              "id": 6,
+              "q": "FINISH THE STATEMENT: PEOPLE MIGHT SEE ME AS …, BUT I KNOW THAT I AM … ."
+            },
+            {
+              "id": 8,
+              "q": "WHAT’S THE MOST MYSTIFYING EXPERIENCE YOU’VE EVER HAD?"
+            },
+            {
+              "id": 9,
+              "q": "REMINDER: FOCUS ON UNDERSTANDING YOUR PARTNER RATHER THAN BEING UNDERSTOOD."
+            },
+            {
+              "id": 10,
+              "q": "ARE YOU MORE AFRAID OF FAILING OR SUCCEEDING? EXPLAIN WHY."
+            },
+            {
+              "id": 11,
+              "q": "IF YOU COULD DESIGN YOUR IDEAL SCENARIO, WHO WOULD YOU BE WITH, WHERE, AND WHAT WOULD YOU BE DOING?"
+            },
+            {
+              "id": 12,
+              "q": "WHEN PEOPLE ASK YOU “HOW ARE YOU?”, HOW OFTEN DO YOU GIVE A FULLY HONEST RESPONSE?"
+            },
+            {
+              "id": 14,
+              "q": "WHAT WOULD YOUR YOUNGER SELF FIND MOST SURPRISING ABOUT YOUR LIFE TODAY?"
+            },
+            {
+              "id": 15,
+              "q": "WHAT DO YOU LONG FOR MORE IN YOUR LIFE?"
+            },
+            {
+              "id": 16,
+              "q": "WHAT IS ONE THING ABOUT YOURSELF THAT YOU WOULD PREFER TO KEEP AS IS?"
+            },
+            {
+              "id": 18,
+              "q": "IF YOU WERE TO TITLE THIS CURRENT CHAPTER OF YOUR LIFE, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 19,
+              "q": "WHAT IS A COMPLIMENT YOU WISH YOU RECEIVED MORE OFTEN?"
+            },
+            {
+              "id": 21,
+              "q": "WHAT’S THE BEST COMPLIMENT A STRANGER HAS EVER GIVEN YOU?"
+            },
+            {
+              "id": 22,
+              "q": "HAS A STRANGER EVER HAD A SIGNIFICANT IMPACT ON YOUR LIFE?"
+            },
+            {
+              "id": 24,
+              "q": "HOW ARE YOU, DEEP DOWN?"
+            },
+            {
+              "id": 25,
+              "q": "WHAT’S YOUR FATHER’S NAME, AND WHAT’S ONE THING YOU ADMIRE ABOUT HIM?"
+            },
+            {
+              "id": 26,
+              "q": "WHAT IS THE LAST THING YOU CONCEALED FROM YOUR MOTHER?"
+            },
+            {
+              "id": 27,
+              "q": "WHAT ARE YOU STILL TRYING TO PROVE TO YOURSELF?"
+            },
+            {
+              "id": 31,
+              "q": "WHAT’S A DREAM YOU ONCE HAD BUT HAVE SINCE LET GO?"
+            },
+            {
+              "id": 32,
+              "q": "WHAT’S THE MOST JOYOUS MEMORY YOU’VE HAD IN THE PAST YEAR?"
+            },
+            {
+              "id": 33,
+              "q": "ARE YOU CURRENTLY MISSING ANYONE, AND DO YOU THINK THEY’RE MISSING YOU IN RETURN?"
+            },
+            {
+              "id": 34,
+              "q": "WHO WAS YOUR FIRST LOVE, AND WHAT MADE YOU FALL FOR THEM?"
+            },
+            {
+              "id": 35,
+              "q": "IF YOU COULD DEEPEN YOUR CONNECTION WITH ONE PERSON IN YOUR LIFE, WHO WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 38,
+              "q": "WHEN DID YOU FIRST REALIZE YOU WEREN’T INVINCIBLE?"
+            },
+            {
+              "id": 39,
+              "q": "IS THERE A FEELING FROM THE PAST THAT YOU WISH YOU COULD EXPERIENCE AGAIN?"
+            },
+            {
+              "id": 40,
+              "q": "ARE YOU CURRENTLY LYING TO YOURSELF ABOUT ANYTHING?"
+            },
+            {
+              "id": 41,
+              "q": "HAVE YOU EVER TOLD SOMEONE YOU LOVE THEM WITHOUT REALLY MEANING IT? IF SO, WHY?"
+            },
+            {
+              "id": 42,
+              "q": "WHAT’S YOUR MOTHER’S NAME, AND WHAT’S THE MOST BEAUTIFUL THING ABOUT HER?"
+            },
+            {
+              "id": 43,
+              "q": "DOES THE WAY YOU SEE YOURSELF ALIGN WITH HOW OTHERS PERCEIVE YOU?"
+            },
+            {
+              "id": 44,
+              "q": "HOW WOULD YOU DESCRIBE THE EXPERIENCE OF BEING IN LOVE USING JUST ONE WORD?"
+            },
+            {
+              "id": 45,
+              "q": "WHAT’S A LESSON THAT TOOK YOU THE LONGEST TO UNLEARN?"
+            },
+            {
+              "id": 47,
+              "q": "WHAT ARE THE ASPECTS OF YOUR LIFE THAT ARE WORKING WELL AND THE ONES THAT ARE CAUSING YOU PAIN?"
+            },
+            {
+              "id": 48,
+              "q": "HOW CAN YOU BECOME A BETTER VERSION OF YOURSELF?"
+            },
+            {
+              "id": 49,
+              "q": "WHAT’S THE MOST INTENSE NON-PHYSICAL PAIN YOU’VE EVER EXPERIENCED?"
+            },
+            {
+              "id": 50,
+              "q": "WHEN DID YOU LAST SURPRISE YOURSELF WITH YOUR OWN ACTIONS OR DECISIONS?"
+            },
+            {
+              "id": 51,
+              "q": "DESCRIBE YOUR IDEAL DAY FROM START TO FINISH."
+            },
+            {
+              "id": 52,
+              "q": "WHAT IS A RECENT EXPERIENCE THAT MADE YOU FEEL VULNERABLE?"
+            },
+            {
+              "id": 53,
+              "q": "HOW DO YOU HANDLE FEELINGS OF SELF-DOUBT?"
+            },
+            {
+              "id": 54,
+              "q": "IF YOU COULD HAVE A CONVERSATION WITH YOUR FUTURE SELF, WHAT WOULD YOU ASK?"
+            },
+            {
+              "id": 55,
+              "q": "WHAT'S A DECISION YOU'VE MADE THAT YOU THINK WILL DEFINE YOUR FUTURE?"
+            },
+            {
+              "id": 56,
+              "q": "WHAT IS A PASSION PROJECT OR GOAL THAT YOU HAVEN'T PURSUED YET?"
+            },
+            {
+              "id": 57,
+              "q": "HOW DO YOU DEFINE SUCCESS FOR YOURSELF?"
+            },
+            {
+              "id": 58,
+              "q": "WHAT DOES YOUR IDEAL LIFE LOOK LIKE IN FIVE YEARS?"
+            },
+            {
+              "id": 59,
+              "q": "WHAT'S THE MOST SIGNIFICANT LESSON YOU'VE LEARNED FROM A FAILURE?"
+            },
+            {
+              "id": 60,
+              "q": "IF YOU HAD TO LIVE IN A DIFFERENT ERA, WHEN WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 61,
+              "q": "WHAT'S ONE PERSONAL LIMITATION YOU'RE WORKING TO OVERCOME?"
+            },
+            {
+              "id": 62,
+              "q": "HOW DO YOU DEAL WITH REGRET?"
+            },
+            {
+              "id": 63,
+              "q": "WHAT'S ONE THING YOU WISH YOU COULD TELL YOUR TEENAGE SELF?"
+            },
+            {
+              "id": 64,
+              "q": "WHAT'S A CAUSE YOU'RE PASSIONATE ABOUT AND WHY?"
+            },
+            {
+              "id": 65,
+              "q": "WHAT ROLE DOES FORGIVENESS PLAY IN YOUR LIFE?"
+            },
+            {
+              "id": 66,
+              "q": "IF YOU COULD CHANGE ONE THING ABOUT YOUR PAST, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 67,
+              "q": "WHAT'S ONE THING YOU WISH YOU COULD HAVE LEARNED EARLIER IN LIFE?"
+            },
+            {
+              "id": 68,
+              "q": "HOW DO YOU RECHARGE AFTER A STRESSFUL DAY?"
+            },
+            {
+              "id": 69,
+              "q": "WHAT'S A MOMENT YOU’RE MOST PROUD OF IN YOUR LIFE?"
+            },
+            {
+              "id": 70,
+              "q": "HOW HAS YOUR PERCEPTION OF LOVE CHANGED OVER TIME?"
+            },
+            {
+              "id": 71,
+              "q": "WHAT'S ONE THING YOU'VE LEARNED ABOUT YOURSELF FROM YOUR CLOSEST RELATIONSHIPS?"
+            },
+            {
+              "id": 72,
+              "q": "WHAT’S ONE THING YOU’RE CURRENTLY STRUGGLING TO ACCEPT ABOUT YOURSELF?"
+            },
+            {
+              "id": 73,
+              "q": "HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
+            },
+            {
+              "id": 74,
+              "q": "WHAT’S A BELIEF YOU ONCE HAD THAT YOU NO LONGER HOLD?"
+            },
+            {
+              "id": 75,
+              "q": "WHAT'S THE MOST IMPORTANT BOUNDARY YOU'VE SET IN YOUR LIFE?"
+            },
+            {
+              "id": 76,
+              "q": "HOW DO YOU DEFINE HAPPINESS?"
+            },
+            {
+              "id": 77,
+              "q": "WHAT’S A PERSONAL HABIT YOU'D LIKE TO CHANGE?"
+            },
+            {
+              "id": 78,
+              "q": "WHAT DOES THE CONCEPT OF 'HOME' MEAN TO YOU?"
+            },
+            {
+              "id": 79,
+              "q": "HOW DO YOU NAVIGATE FEAR IN YOUR LIFE?"
+            },
+            {
+              "id": 80,
+              "q": "WHAT'S ONE WAY YOU SHOW LOVE TO THE PEOPLE CLOSEST TO YOU?"
+            },
+            {
+              "id": 81,
+              "q": "WHAT'S A RISK YOU'VE TAKEN THAT YOU'RE GLAD YOU DID?"
+            },
+            {
+              "id": 82,
+              "q": "WHAT'S A MEMORY THAT ALWAYS BRINGS A SMILE TO YOUR FACE?"
+            },
+            {
+              "id": 83,
+              "q": "HOW DO YOU STAY GROUNDED IN TIMES OF UNCERTAINTY?"
+            },
+            {
+              "id": 84,
+              "q": "WHAT'S ONE QUALITY YOU VALUE MOST IN FRIENDS?"
+            }
+          ],
+          "wildcards": [
+            {
+              "id": 3,
+              "q": "WILDCARD: WRITE DOWN A “NOTE TO SELF.” 10 SECONDS. SHARE WHAT YOU WROTE."
+            },
+            {
+              "id": 5,
+              "q": "WILDCARD: LET YOUR PARTNER NAVIGATE YOUR PHONE FOR 30 SECONDS."
+            },
+            {
+              "id": 7,
+              "q": "WILDCARD: SEND A GRATITUDE TEXT TO SOMEONE YOU HAVEN’T SPOKEN TO IN A WHILE."
+            },
+            {
+              "id": 13,
+              "q": "WILDCARD: WHAT DOES MY STYLE TELL YOU ABOUT ME?"
+            },
+            {
+              "id": 17,
+              "q": "WILDCARD: LOOK UP THE DEFINITION OF YOUR NAME. DOES IT SUIT YOU?"
+            },
+            {
+              "id": 20,
+              "q": "WILDCARD: SHARE SOMETHING WITH YOUR PARTNER THAT YOU WROTE BUT NEVER SENT."
+            },
+            {
+              "id": 23,
+              "q": "WILDCARD: ADMIT SOMETHING."
+            },
+            {
+              "id": 28,
+              "q": "WILDCARD: IF YOU HAVE, REVEAL THE MEANING BEHIND ONE OF YOUR TATTOOS. (IF YOU DON’T HAVE ANY, DISCUSS WHAT YOU WOULD GET AND WHERE.)"
+            },
+            {
+              "id": 29,
+              "q": "WILDCARD: PICK A SONG THAT REPRESENTS OUR CONNECTION."
+            },
+            {
+              "id": 30,
+              "q": "WILDCARD: WHAT DO YOU THINK MY SUPERPOWER IS?"
+            },
+            {
+              "id": 36,
+              "q": "WILDCARD: THINK OF SOMEONE YOU ADMIRE. WHAT QUALITIES DO YOU HAVE IN COMMON WITH THEM?"
+            },
+            {
+              "id": 37,
+              "q": "WILDCARD: MAKE AN ASSUMPTION ABOUT ME."
+            },
+            {
+              "id": 46,
+              "q": "WILDCARD: WRITE A SONG TITLE FOR THIS CHAPTER IN YOUR LIFE."
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "questions": [
+            {
+              "id": 1,
+              "q": "WHAT DO YOU THINK I’M MOST AFRAID OF?"
+            },
+            {
+              "id": 2,
+              "q": "AFTER THIS GAME ENDS, WHAT’S ONE THING YOU’LL REMEMBER ABOUT ME?"
+            },
+            {
+              "id": 3,
+              "q": "AT WHAT POINT IN THIS GAME DID YOU FEEL THE STRONGEST CONNECTION WITH ME?"
+            },
+            {
+              "id": 4,
+              "q": "IF WE WERE TO FORM A BAND, WHAT WOULD WE NAME IT?"
+            },
+            {
+              "id": 5,
+              "q": "HOW WOULD YOU INTRODUCE ME TO SOMEONE YOU’VE JUST MET?"
+            },
+            {
+              "id": 6,
+              "q": "IS THERE ANYTHING YOU THINK I SHOULD LET GO OF IN MY LIFE?"
+            },
+            {
+              "id": 7,
+              "q": ""
+            },
+            {
+              "id": 8,
+              "q": ""
+            },
+            {
+              "id": 9,
+              "q": "HOW DOES SOMEONE EARN YOUR TRUST AND VULNERABILITY? HAVE I EARNED YOUR TRUST? HOW CAN I BUILD ON THAT?"
+            },
+            {
+              "id": 10,
+              "q": "IS THERE ANYTHING I CAN DO TO SUPPORT YOU RIGHT NOW?"
+            },
+            {
+              "id": 11,
+              "q": "WHAT ASPECT OF ME CAUGHT YOU OFF GUARD?"
+            },
+            {
+              "id": 12,
+              "q": "USE ONE WORD TO DESCRIBE YOUR CURRENT FEELINGS."
+            },
+            {
+              "id": 13,
+              "q": ""
+            },
+            {
+              "id": 14,
+              "q": "WHICH QUESTION WERE YOU MOST HESITANT TO ANSWER?"
+            },
+            {
+              "id": 15,
+              "q": ""
+            },
+            {
+              "id": 16,
+              "q": "WHAT’S THE BIGGEST COMMONALITY BETWEEN US?"
+            },
+            {
+              "id": 17,
+              "q": "BASED ON WHAT YOU’VE LEARNED ABOUT ME, DOES MY SOCIAL MEDIA REFLECT MY TRUE SELF? WHY OR WHY NOT?"
+            },
+            {
+              "id": 18,
+              "q": "WHAT WOULD BE THE IDEAL GIFT FOR ME?"
+            },
+            {
+              "id": 19,
+              "q": ""
+            },
+            {
+              "id": 20,
+              "q": ""
+            },
+            {
+              "id": 21,
+              "q": "WHAT HAVE YOU LEARNED ABOUT YOURSELF FROM THIS CONVERSATION?"
+            },
+            {
+              "id": 22,
+              "q": "IN WHAT WAYS DO YOU SEE REFLECTIONS OF YOURSELF IN ME?"
+            },
+            {
+              "id": 23,
+              "q": ""
+            },
+            {
+              "id": 24,
+              "q": "WHAT DO YOU THINK I NEED TO HEAR RIGHT NOW?"
+            },
+            {
+              "id": 25,
+              "q": ""
+            },
+            {
+              "id": 26,
+              "q": ""
+            },
+            {
+              "id": 27,
+              "q": ""
+            },
+            {
+              "id": 28,
+              "q": "IF YOU COULD ADVISE ME TO DO ONE THING FOR THE REST OF THIS MONTH, WHAT WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 29,
+              "q": "HOW DO OUR PERSONALITIES COMPLEMENT EACH OTHER?"
+            },
+            {
+              "id": 30,
+              "q": "WHAT CAN WE BUILD OR CREATE TOGETHER?"
+            },
+            {
+              "id": 31,
+              "q": "BASED ON WHAT YOU KNOW ABOUT ME, DO YOU HAVE ANY NETFLIX SHOWS OR MOVIES TO RECOMMEND?"
+            },
+            {
+              "id": 32,
+              "q": "WHAT’S THE QUALITY ABOUT ME THAT YOU MOST ADMIRE?"
+            },
+            {
+              "id": 33,
+              "q": "IS THERE SOMETHING ABOUT MYSELF THAT YOU THINK I SHOULD BE AWARE OF BUT MAY NOT REALIZE?"
+            },
+            {
+              "id": 34,
+              "q": "WHY DO YOU THINK OUR PATHS HAVE CROSSED?"
+            },
+            {
+              "id": 35,
+              "q": ""
+            },
+            {
+              "id": 36,
+              "q": "WHAT DO YOU BELIEVE MY UNIQUE STRENGTH OR SUPERPOWER IS?"
+            },
+            {
+              "id": 37,
+              "q": "BASED ON OUR CONVERSATION, WHICH BOOK DO YOU THINK I SHOULD READ NEXT?"
+            },
+            {
+              "id": 38,
+              "q": ""
+            },
+            {
+              "id": 39,
+              "q": "WHAT DO YOU THINK IS MY MAIN WEAKNESS?"
+            },
+            {
+              "id": 40,
+              "q": "SUM UP OUR CONVERSATION IN ONE WORD."
+            },
+            {
+              "id": 41,
+              "q": ""
+            },
+            {
+              "id": 42,
+              "q": "WHAT ASPECT OF ME IS MOST DIFFICULT FOR YOU TO UNDERSTAND?"
+            },
+            {
+              "id": 43,
+              "q": "WHAT DO YOU THINK IS MY MOST DISTINCTIVE FEATURE OR CHARACTERISTIC?"
+            },
+            {
+              "id": 44,
+              "q": ""
+            },
+            {
+              "id": 45,
+              "q": "WHICH ANSWER OF MINE MADE YOU LIGHT UP THE MOST?"
+            },
+            {
+              "id": 46,
+              "q": "DO YOU BELIEVE EVERYONE HAS A CALLING? IF SO, DO YOU THINK I’VE FOUND MINE?"
+            },
+            {
+              "id": 47,
+              "q": "WHAT’S A KEY LESSON YOU’LL TAKE AWAY FROM OUR CONVERSATION?"
+            },
+            {
+              "id": 48,
+              "q": "WHAT WOULD MAKE YOU FEEL EVEN CLOSER TO ME?"
+            },
+            {
+              "id": 49,
+              "q": "WHAT IS THE AREA WHERE I AM MOST QUALIFIED TO OFFER ADVICE?"
+            },
+            {
+              "id": 50,
+              "q": ""
+            },
+            {
+              "id": 51,
+              "q": "WHAT DO YOU THINK IS MY BIGGEST DREAM?"
+            },
+            {
+              "id": 52,
+              "q": "WHAT’S ONE THING YOU’VE ALWAYS WANTED TO TELL ME BUT NEVER HAVE?"
+            },
+            {
+              "id": 53,
+              "q": "IF YOU HAD TO WRITE A BOOK ABOUT ME, WHAT WOULD THE TITLE BE?"
+            },
+            {
+              "id": 54,
+              "q": "HOW WOULD YOU DESCRIBE THE IMPACT I’VE HAD ON YOUR LIFE?"
+            },
+            {
+              "id": 55,
+              "q": "IF YOU COULD CHANGE ONE THING ABOUT THE WORLD, WHAT WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 56,
+              "q": "WHAT PART OF OUR CONVERSATION DO YOU THINK YOU’LL REFLECT ON THE MOST?"
+            },
+            {
+              "id": 57,
+              "q": "IN WHAT WAYS HAVE I HELPED YOU SEE YOURSELF DIFFERENTLY?"
+            },
+            {
+              "id": 58,
+              "q": "WHAT’S A PERSONAL ACHIEVEMENT YOU’RE PROUD OF BUT HAVE NEVER SHARED?"
+            },
+            {
+              "id": 59,
+
+
+              "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"
+            },
+            {
+              "id": 60,
+              "q": "WHAT’S THE ONE THING YOU WISH MORE PEOPLE UNDERSTOOD ABOUT YOU?"
+            },
+            {
+              "id": 61,
+              "q": "IF YOU COULD GIVE ME ONE PIECE OF ADVICE FOR THE FUTURE, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 62,
+              "q": "HOW DO YOU DEFINE SUCCESS FOR YOURSELF?"
+            },
+            {
+              "id": 63,
+              "q": "WHAT’S ONE THING YOU’D LIKE TO IMPROVE IN OUR RELATIONSHIP?"
+            },
+            {
+              "id": 64,
+              "q": "WHAT’S A LESSON YOU’VE LEARNED FROM A STRUGGLE OR FAILURE?"
+            },
+            {
+              "id": 65,
+              "q": "HOW DO YOU THINK OTHERS PERCEIVE OUR RELATIONSHIP?"
+            },
+            {
+              "id": 66,
+              "q": "WHAT’S ONE THING YOU FEEL MOST GRATEFUL FOR IN YOUR LIFE?"
+            },
+            {
+              "id": 67,
+              "q": "IF YOU COULD SPEND A DAY WITH ANYONE IN HISTORY, WHO WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 68,
+              "q": "WHAT’S ONE OF YOUR DEEPEST SECRETS THAT YOU’RE READY TO SHARE?"
+            },
+            {
+              "id": 69,
+              "q": "HOW DO YOU HANDLE FEELINGS OF INADEQUACY?"
+            },
+            {
+              "id": 70,
+              "q": "WHAT’S A PERSONAL VALUE THAT GUIDES YOUR DECISIONS?"
+            },
+            {
+              "id": 71,
+              "q": "IF YOU HAD TO LIVE IN A DIFFERENT COUNTRY FOR A YEAR, WHERE WOULD YOU GO?"
+            },
+            {
+              "id": 72,
+              "q": "WHAT’S ONE THING YOU WISH YOU COULD TELL YOUR PAST SELF?"
+            },
+            {
+              "id": 73,
+              "q": "WHAT’S THE MOST IMPACTFUL BOOK YOU’VE EVER READ?"
+            },
+            {
+              "id": 74,
+              "q": "HOW DO YOU ENCOURAGE YOURSELF WHEN YOU FEEL DOWN?"
+            },
+            {
+              "id": 75,
+              "q": "WHAT’S A DREAM YOU HAVEN’T PURSUED YET?"
+            },
+            {
+              "id": 76,
+              "q": "WHAT’S ONE THING YOU’D LIKE TO BE REMEMBERED FOR?"
+            },
+            {
+              "id": 77,
+              "q": "HOW DO YOU DEFINE TRUE FRIENDSHIP?"
+            },
+            {
+              "id": 78,
+              "q": "WHAT’S ONE CHALLENGE YOU’RE CURRENTLY FACING?"
+            },
+            {
+              "id": 79,
+              "q": "WHAT’S A PASSION OF YOURS THAT YOU’VE PUT ON HOLD?"
+            },
+            {
+              "id": 80,
+              "q": "WHAT’S ONE THING YOU WANT TO LEARN OR MASTER IN THE NEXT YEAR?"
+            },
+            {
+              "id": 81,
+              "q": "HOW DO YOU MEASURE YOUR OWN HAPPINESS?"
+            },
+            {
+              "id": 82,
+              "q": "WHAT’S ONE THING YOU’VE LEARNED ABOUT YOURSELF THROUGH OUR CONVERSATION?"
+            },
+            {
+              "id": 83,
+              "q": "WHAT’S A PERSONAL TRAIT YOU ADMIRE IN OTHERS AND STRIVE TO EMBODY?"
+            },
+            {
+              "id": 84,
+              "q": "WHAT’S ONE WAY YOU’VE GROWN IN THE PAST YEAR?"
+            },
+            {
+              "id": 85,
+              "q": "WHAT’S A TRADITION OR RITUAL THAT IS IMPORTANT TO YOU?"
+            },
+            {
+              "id": 86,
+              "q": "HOW DO YOU DEAL WITH CHANGE IN YOUR LIFE?"
+            },
+            {
+              "id": 87,
+              "q": "WHAT’S ONE THING YOU’D LIKE TO ACCOMPLISH BEFORE THE END OF THE YEAR?"
+            },
+            {
+              "id": 88,
+              "q": "WHAT’S THE MOST MEANINGFUL COMPLIMENT YOU’VE RECEIVED?"
+            },
+            {
+              "id": 89,
+              "q": "HOW DO YOU RECHARGE AND TAKE CARE OF YOURSELF?"
+            },
+            {
+              "id": 90,
+              "q": "WHAT’S A SIGNIFICANT LIFE LESSON YOU’VE LEARNED RECENTLY?"
+            },
+            {
+              "id": 91,
+              "q": "WHAT’S ONE THING YOU’D LIKE TO CHANGE ABOUT YOURSELF AND WHY?"
+            },
+            {
+              "id": 92,
+              "q": "HOW DO YOU STAY MOTIVATED DURING TOUGH TIMES?"
+            },
+            {
+              "id": 93,
+              "q": "WHAT’S ONE ADVICE YOU’D GIVE TO YOUR FUTURE SELF?"
+            },
+            {
+              "id": 94,
+              "q": "WHAT’S ONE THING YOU WISH YOU KNEW ABOUT YOURSELF SOONER?"
+            },
+            {
+              "id": 95,
+              "q": "WHAT’S A GOAL YOU’RE CURRENTLY WORKING TOWARDS?"
+            },
+            {
+              "id": 96,
+              "q": "WHAT DO YOU THINK IS THE KEY TO A FULFILLING LIFE?"
+            },
+            {
+              "id": 97,
+              "q": "HOW DO YOU CELEBRATE YOUR SUCCESSES?"
+            },
+            {
+              "id": 98,
+              "q": "WHAT’S ONE THING YOU VALUE MOST IN YOUR LIFE RIGHT NOW?"
+            },
+            {
+              "id": 99,
+              "q": "HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
+            }
+          ],
+          "wildcards": [
+            {
+              "id": 1,
+              "q": "WILDCARD: REENACT YOUR FAVORITE MOVIE SCENE TOGETHER."
+            },
+            {
+              "id": 2,
+              "q": "WILDCARD: DRAW A PICTURE OF HOW YOU SEE YOURSELF IN THE FUTURE. SHARE AND EXPLAIN."
+            },
+            {
+              "id": 3,
+              "q": "WILDCARD: CREATE A SHORT POEM ABOUT YOUR PARTNER. READ IT OUT LOUD."
+            },
+            {
+              "id": 4,
+              "q": "WILDCARD: MAKE A LIST OF THREE THINGS YOU’RE PROUD OF. COMPARE AND DISCUSS."
+            },
+            {
+              "id": 5,
+              "q": "WILDCARD: TELL EACH OTHER A JOKE OR RIDDLE. THE OTHER HAS TO GUESS THE ANSWER."
+            },
+            {
+              "id": 6,
+              "q": "WILDCARD: ACT OUT YOUR FAVORITE ANIMAL AND HAVE YOUR PARTNER GUESS WHAT IT IS."
+            },
+            {
+              "id": 7,
+              "q": "WILDCARD: BOTH PLAYERS SHARE A SONG THAT HAS SPECIAL MEANING TO THEM. EXPLAIN WHY."
+            },
+            {
+              "id": 8,
+              "q": "WILDCARD: TRY TO BALANCE AN OBJECT ON YOUR HEAD FOR ONE MINUTE. THE OTHER PLAYER MUST TIME IT."
+            },
+            {
+              "id": 9,
+              "q": "WILDCARD: EACH PLAYER DESIGNS A “PERSONAL FLAG” THAT REPRESENTS THEM. DRAW AND SHARE."
+            },
+            {
+              "id": 10,
+              "q": "WILDCARD: SWITCH ROLES AND TELL YOUR PARTNER’S LIFE STORY FROM YOUR PERSPECTIVE."
+            },
+            {
+              "id": 11,
+              "q": "WILDCARD: RECITE A FAVORITE QUOTE FROM MEMORY. DISCUSS ITS SIGNIFICANCE TO YOU."
+            },
+            {
+              "id": 12,
+              "q": "WILDCARD: BOTH PLAYERS WRITE A LETTER TO THEIR FUTURE SELVES. EXCHANGE AND READ."
+            },
+            {
+              "id": 13,
+              "q": "WILDCARD: CREATE A SHORT SKIT ABOUT YOUR PARTNER’S DREAM JOB. PERFORM IT TOGETHER."
+            },
+            {
+              "id": 14,
+              "q": "WILDCARD: SHARE THE LAST PHOTO YOU TOOK ON YOUR PHONE. EXPLAIN THE STORY BEHIND IT."
+            },
+            {
+              "id": 15,
+              "q": "WILDCARD: DRAW A SYMBOL THAT REPRESENTS YOUR PARTNER’S ESSENCE. SHARE AND EXPLAIN."
+            },
+            {
+              "id": 16,
+              "q": "WILDCARD: CREATE A NEW HANDSHAKE AND PERFORM IT WITH YOUR PARTNER."
+            },
+            {
+              "id": 17,
+              "q": "WILDCARD: EACH PLAYER MAKES A “HAPPY DANCE” AND SHOWS IT TO THE OTHER."
+            },
+            {
+              "id": 18,
+              "q": "WILDCARD: WRITE DOWN A GOAL YOU HAVE FOR THE NEXT FIVE YEARS. SHARE AND DISCUSS."
+            },
+            {
+              "id": 19,
+              "q": "WILDCARD: DESIGN A “TATTOO” FOR YOUR PARTNER THAT REPRESENTS THEIR PERSONALITY. DRAW AND SHARE."
+            },
+            {
+              "id": 20,
+              "q": "WILDCARD: RECORD A 30-SECOND VIDEO MESSAGE FOR YOURSELF TO WATCH IN A YEAR."
+            },
+            {
+              "id": 21,
+              "q": "WILDCARD: DRAW A MAP OF YOUR DREAM DESTINATION TOGETHER. EXPLAIN YOUR CHOICES."
+            },
+            {
+              "id": 22,
+              "q": "WILDCARD: SHARE A STORY FROM YOUR CHILDHOOD THAT STILL MAKES YOU LAUGH."
+            },
+            {
+              "id": 23,
+              "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER HANDLES STRESS."
+            },
+            {
+              "id": 24,
+              "q": "WILDCARD: CREATE A 30-SECOND COMMERCIAL FOR YOUR PARTNER’S LIFE. PERFORM IT TOGETHER."
+            },
+            {
+              "id": 25,
+              "q": "WILDCARD: WRITE DOWN YOUR TOP THREE LIFE VALUES. COMPARE AND DISCUSS."
+            },
+            {
+              "id": 26,
+              "q": "WILDCARD: MAKE A PAPER AIRPLANE AND WRITE A MESSAGE ON IT. THROW IT TO YOUR PARTNER."
+            },
+            {
+              "id": 27,
+              "q": "WILDCARD: SHARE A RECIPE THAT REPRESENTS YOU. DISCUSS ITS MEANING."
+            },
+            {
+              "id": 28,
+              "q": "WILDCARD: EACH PLAYER PICKS AN OBJECT IN THE ROOM AND EXPLAINS ITS IMPORTANCE TO THEM."
+            },
+            {
+              "id": 29,
+              "q": "WILDCARD: CREATE A “TIME CAPSULE” OF ITEMS THAT REPRESENT YOUR LIFE RIGHT NOW."
+            },
+            {
+              "id": 30,
+              "q": "WILDCARD: DRAW YOUR FAVORITE MEMORY TOGETHER. DISCUSS THE SIGNIFICANCE."
+            },
+            {
+              "id": 31,
+              "q": "WILDCARD: SING A PART OF A SONG THAT MAKES YOU FEEL STRONG."
+            },
+            {
+              "id": 32,
+              "q": "WILDCARD: WRITE A MINI STORY ABOUT YOUR PARTNER’S PERFECT DAY. READ IT ALOUD."
+            },
+            {
+              "id": 33,
+              "q": "WILDCARD: REVEAL A PERSONAL MANTRA OR AFFIRMATION YOU USE AND EXPLAIN ITS MEANING."
+            },
+            {
+              "id": 34,
+              "q": "WILDCARD: PERFORM A ONE-MINUTE SKETCH OF AN IMPORTANT EVENT IN YOUR LIFE."
+            },
+            {
+              "id": 35,
+              "q": "WILDCARD: EACH PLAYER SHARES A PICTURE THAT REPRESENTS THEIR FUTURE GOALS. DISCUSS."
+            },
+            {
+              "id": 36,
+              "q": "WILDCARD: CREATE A SHORT “THANK YOU” SPEECH FOR SOMETHING IN YOUR LIFE."
+            },
+            {
+              "id": 37,
+              "q": "WILDCARD: SHARE A FUN FACT ABOUT YOURSELF THAT FEW PEOPLE KNOW."
+            },
+            {
+              "id": 38,
+              "q": "WILDCARD: IMITATE YOUR FAVORITE CELEBRITY FOR 30 SECONDS. THE OTHER PLAYER MUST GUESS WHO IT IS."
+            },
+            {
+              "id": 39,
+              "q": "WILDCARD: WRITE A SHORT POEM ABOUT YOUR PARTNER’S STRENGTHS AND READ IT ALOUD."
+            },
+            {
+              "id": 40,
+              "q": "WILDCARD: DRAW A “VISION BOARD” FOR YOUR FUTURE. EXPLAIN YOUR CHOICES."
+            },
+            {
+              "id": 41,
+              "q": "WILDCARD: PERFORM A FUN DANCE MOVE AND TEACH IT TO YOUR PARTNER."
+            },
+            {
+              "id": 42,
+              "q": "WILDCARD: CREATE A NEW LANGUAGE OR CODE AND TEACH IT TO YOUR PARTNER."
+            },
+            {
+              "id": 43,
+              "q": "WILDCARD: SHARE A FUNNY OR EMBARRASSING STORY FROM YOUR PAST."
+            },
+            {
+              "id": 44,
+              "q": "WILDCARD: WRITE A MINI-ADVENTURE STORY INVOLVING BOTH PLAYERS. READ IT ALOUD."
+            },
+            {
+              "id": 45,
+              "q": "WILDCARD: MAKE A “SPOTLIGHT” ON ONE THING YOU APPRECIATE ABOUT YOUR PARTNER."
+            },
+            {
+              "id": 46,
+              "q": "WILDCARD: PERFORM A “DUBS” OF A FAMOUS MOVIE SCENE WITH YOUR PARTNER."
+            },
+            {
+              "id": 47,
+              "q": "WILDCARD: CREATE A MINI “ESCAPE ROOM” CHALLENGE WITH ITEMS IN THE ROOM."
+            },
+            {
+              "id": 48,
+              "q": "WILDCARD: SHARE A STRATEGY YOU USE TO OVERCOME PROCRASTINATION."
+            },
+            {
+              "id": 49,
+              "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER DEALS WITH JOY."
+            },
+            [
+              {
+                "id": 50,
+                "q": "BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."
+              },
+              {
+                "id": 51,
+                "q": "COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)"
+              },
+              {
+                "id": 52,
+                "q": "PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."
+              },
+              {
+                "id": 53,
+                "q": "RECOMMEND A SONG TO YOUR PARTNER THAT YOU THINK THEY’D LIKE (BOTH PLAYERS)."
+              },
+              {
+                "id": 54,
+                "q": "WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."
+              },
+              {
+                "id": 55,
+                "q": "TAKE A SELFIE TOGETHER."
+              },
+              {
+                "id": 56,
+                "q": "CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)"
+              },
+              {
+                "id": 57,
+                "q": "GIVE YOUR PARTNER A GENUINE, WARM HUG."
+              },
+              {
+                "id": 58,
+                "q": "BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."
+              },
+              {
+                "id": 59,
+                "q": "CREATE NICKNAMES FOR EACH OTHER."
+              },
+              {
+                "id": 60,
+                "q": "REVEAL A SECRET OR PERSONAL TRUTH."
+              },
+              {
+                "id": 61,
+                "q": "CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."
+              },
+              {
+                "id": 62,
+                "q": "WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)"
+              },
+              {
+                "id": 63,
+                "q": "SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."
+              },
+              {
+                "id": 64,
+                "q": "GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
+              }
+            ]
+
+          ]
+        }
+      ]
+    }
+  ],
+  "datasets":[
+    {
+      "countries":[{"name":"United States"},{"name":"China"},{"name":"India"},{"name":"Japan"},{"name":"Russia"},{"name":"Brazil"},{"name":"United Kingdom"},{"name":"Germany"},{"name":"France"},{"name":"Canada"},{"name":"Italy"},{"name":"South Korea"},{"name":"Australia"},{"name":"Spain"},{"name":"Mexico"},{"name":"Indonesia"},{"name":"Nigeria"},{"name":"Turkey"},{"name":"Iran"},{"name":"Saudi Arabia"},{"name":"Switzerland"},{"name":"Egypt"},{"name":"Poland"},{"name":"Pakistan"},{"name":"Argentina"},{"name":"Sweden"},{"name":"Netherlands"},{"name":"Thailand"},{"name":"United Arab Emirates"},{"name":"Norway"},{"name":"Malaysia"},{"name":"Venezuela"},{"name":"Ukraine"},{"name":"Philippines"},{"name":"Belgium"},{"name":"Iraq"},{"name":"Austria"},{"name":"Kazakhstan"},{"name":"Morocco"},{"name":"Peru"},{"name":"South Africa"},{"name":"Greece"},{"name":"Algeria"},{"name":"Romania"},{"name":"Colombia"},{"name":"Singapore"},{"name":"Chile"},{"name":"Israel"}],
+      "actors":[{"name":"Leonardo DiCaprio"},{"name":"Steven Seagal"},{"name":"Julia Roberts"},{"name":"Tom Hanks"},{"name":"Meryl Streep"},{"name":"Denzel Washington"},{"name":"Angelina Jolie"},{"name":"Brad Pitt"},{"name":"Will Smith"},{"name":"Robert De Niro"},{"name":"Al Pacino"},{"name":"Harrison Ford"},{"name":"Johnny Depp"},{"name":"Sandra Bullock"},{"name":"Charlize Theron"},{"name":"Matt Damon"},{"name":"Cate Blanchett"},{"name":"Kate Winslet"},{"name":"Emma Stone"},{"name":"Ryan Reynolds"},{"name":"Jennifer Lawrence"}],
+      "footballPlayers":[{"name":"Lionel Messi"},{"name":"Cristiano Ronaldo"},{"name":"Neymar Jr"},{"name":"Kylian Mbappé"},{"name":"Mohamed Salah"},{"name":"Virgil van Dijk"},{"name":"Sadio Mané"},{"name":"Kevin De Bruyne"},{"name":"Robert Lewandowski"},{"name":"Manuel Neuer"},{"name":"Sergio Ramos"},{"name":"Luka Modric"},{"name":"Kylian Mbappé"},{"name":"Antoine Griezmann"},{"name":"Harry Kane"},{"name":"Eden Hazard"},{"name":"Raheem Sterling"},{"name":"Paul Pogba"},{"name":"Gareth Bale"},{"name":"Manuel Neuer"},{"name":"Jan Oblak"},{"name":"Sergio Agüero"},{"name":"David de Gea"},{"name":"Marc-André ter Stegen"},{"name":"Son Heung-min"}],
+      "tennisPlayers":[{"name":"Roger Federer"},{"name":"Rafael Nadal"},{"name":"Novak Djokovic"},{"name":"Pete Sampras"},{"name":"Bjorn Borg"},{"name":"Andre Agassi"},{"name":"Serena Williams"},{"name":"Steffi Graf"},{"name":"Martina Navratilova"},{"name":"Monica Seles"},{"name":"Justine Henin"},{"name":"Maria Sharapova"},{"name":"Naomi Osaka"},{"name":"Simona Halep"},{"name":"Ashleigh Barty"},{"name":"Victoria Azarenka"},{"name":"Gabriela Sabatini"},{"name":"Chris Evert"},{"name":"Billie Jean King"},{"name":"Arthur Ashe"},{"name":"Boris Becker"},{"name":"John McEnroe"},{"name":"Ivan Lendl"},{"name":"Stefanos Tsitsipas"},{"name":"Andy Murray"}],
+      "carBrands":[{"name":"Toyota"},{"name":"Ford"},{"name":"Honda"},{"name":"Chevrolet"},{"name":"BMW"},{"name":"Mercedes-Benz"},{"name":"Audi"},{"name":"Volkswagen"},{"name":"Nissan"},{"name":"Tesla"},{"name":"Ferrari"},{"name":"Lamborghini"},{"name":"Porsche"},{"name":"Maserati"},{"name":"Jaguar"}],
+      "personalities":[{"name":"Beyoncé"},{"name":"Dwayne Johnson"},{"name":"Taylor Swift"},{"name":"Jennifer Lopez"},{"name":"Rihanna"},{"name":"Angelina Jolie"},{"name":"Brad Pitt"},{"name":"Leonardo DiCaprio"},{"name":"Emma Watson"},{"name":"Joe Biden"},{"name":"Tom Cruise"},{"name":"Vladimir Putin"},{"name":"Donald Trump"},{"name":"Jennifer Aniston"},{"name":"Adele"},{"name":"Kanye West"},{"name":"Justin Bieber"},{"name":"Selena Gomez"},{"name":"Dua Lipa"},{"name":"Megan Fox"},{"name":"Kit Harington"},{"name":"Millie Bobby Brown"},{"name":"Gigi Hadid"},{"name":"Kylie Jenner"},{"name":"Cristiano Ronaldo"}],
+      "singers":[{"name":"Adele"},{"name":"Beyoncé"},{"name":"Bruno Mars"},{"name":"Ed Sheeran"},{"name":"Justin Bieber"},{"name":"Lady Gaga"},{"name":"Ariana Grande"},{"name":"Katy Perry"},{"name":"Taylor Swift"},{"name":"Rihanna"},{"name":"Chris Brown"},{"name":"Michael Jackson"},{"name":"Whitney Houston"},{"name":"Mariah Carey"},{"name":"Elton John"},{"name":"John Legend"},{"name":"Shawn Mendes"},{"name":"Billie Eilish"},{"name":"Lana Del Rey"},{"name":"Rita Ora"},{"name":"Dua Lipa"},{"name":"Zara Larsson"},{"name":"Justin Timberlake"},{"name":"Adam Levine"},{"name":"Sam Smith"}],
+      "alphabet":[{"name":"A"},{"name":"B"},{"name":"C"},{"name":"D"},{"name":"E"},{"name":"F"},{"name":"G"},{"name":"H"},{"name":"I"},{"name":"J"},{"name":"K"},{"name":"L"},{"name":"M"},{"name":"N"},{"name":"O"},{"name":"P"},{"name":"Q"},{"name":"R"},{"name":"S"},{"name":"T"},{"name":"U"},{"name":"V"},{"name":"W"},{"name":"X"},{"name":"Y"},{"name":"Z"}],
+      "randomNumber10":[{"name":"1"},{"name":"2"},{"name":"3"},{"name":"4"},{"name":"5"},{"name":"6"},{"name":"7"},{"name":"8"},{"name":"9"},{"name":"10"}],
+      "footballTeams":[{"name":"Real Madrid"},{"name":"Barcelona"},{"name":"Manchester United"},{"name":"Bayern Munich"},{"name":"Liverpool"},{"name":"AC Milan"},{"name":"Juventus"},{"name":"Paris Saint-Germain"},{"name":"Chelsea"},{"name":"Arsenal"}],
+      "zodiacSigns":[{"name":"Aries"},{"name":"Taurus"},{"name":"Gemini"},{"name":"Cancer"},{"name":"Leo"},{"name":"Virgo"},{"name":"Libra"},{"name":"Scorpio"},{"name":"Sagittarius"},{"name":"Capricorn"},{"name":"Aquarius"},{"name":"Pisces"}],
+      "brands":[{"name":"Chanel"},{"name":"Louis Vuitton"},{"name":"Gucci"},{"name":"Prada"},{"name":"Hermes"},{"name":"Versace"},{"name":"Dior"},{"name":"Burberry"},{"name":"Fendi"},{"name":"Yves Saint Laurent"},{"name":"Balenciaga"},{"name":"Givenchy"},{"name":"Armani"},{"name":"Ralph Lauren"},{"name":"Valentino"},{"name":"Tom Ford"},{"name":"Alexander McQueen"},{"name":"Coach"},{"name":"Michael Kors"},{"name":"Calvin Klein"},{"name":"Hugo Boss"},{"name":"Jimmy Choo"},{"name":"Dolce & Gabbana"},{"name":"Bottega Veneta"}],
+      "movies":[{"name":"The Shawshank Redemption"},{"name":"The Godfather"},{"name":"Pulp Fiction"},{"name":"The Dark Knight"},{"name":"Forrest Gump"},{"name":"Inception"},{"name":"Schindler's List"},{"name":"The Matrix"},{"name":"Fight Club"},{"name":"The Lord of the Rings"},{"name":"The Empire Strikes Back"},{"name":"The Godfather: Part II"},{"name":"Goodfellas"},{"name":"One Flew Over the Cuckoo's Nest"},{"name":"Gladiator"},{"name":"Eternal Sunshine of the Spotless Mind"},{"name":"The Silence of the Lambs"},{"name":"The Usual Suspects"},{"name":"The Big Lebowski"}],
+      "cities":[{"name":"New York City"},{"name":"Los Angeles"},{"name":"London"},{"name":"Tokyo"},{"name":"Paris"},{"name":"Hong Kong"},{"name":"Singapore"},{"name":"Sydney"},{"name":"Rome"},{"name":"Barcelona"},{"name":"Berlin"},{"name":"Amsterdam"},{"name":"Istanbul"},{"name":"Shanghai"},{"name":"Toronto"},{"name":"Rio de Janeiro"},{"name":"Moscow"},{"name":"Mumbai"},{"name":"Cape Town"},{"name":"Dubai"}],
+      "books":[{"name":"To Kill a Mockingbird"},{"name":"Pride and Prejudice"},{"name":"1984"},{"name":"The Catcher in the Rye"},{"name":"The Great Gatsby"},{"name":"Moby-Dick"},{"name":"Crime and Punishment"},{"name":"The Lord of the Rings"},{"name":"The Hobbit"},{"name":"Harry Potter and the Philosopher's Stone"},{"name":"Brave New World"},{"name":"Jane Eyre"},{"name":"The Picture of Dorian Gray"},{"name":"Wuthering Heights"},{"name":"Animal Farm"},{"name":"The Grapes of Wrath"},{"name":"Great Expectations"},{"name":"Catch-22"},{"name":"The Chronicles of Narnia"},{"name":"The Odyssey"}],
+      "videoGames":[{"name":"The Legend of Zelda: Breath of the Wild"},{"name":"The Elder Scrolls V: Skyrim"},{"name":"The Witcher 3: Wild Hunt"},{"name":"Red Dead Redemption 2"},{"name":"Grand Theft Auto V"},{"name":"Super Mario Odyssey"},{"name":"Dark Souls"},{"name":"The Last of Us"},{"name":"BioShock"},{"name":"God of War"},{"name":"Uncharted 4: A Thief's End"},{"name":"The Legend of Zelda: Ocarina of Time"},{"name":"Bloodborne"},{"name":"Mass Effect 2"},{"name":"Half-Life 2"},{"name":"Portal 2"},{"name":"Metal Gear Solid V: The Phantom Pain"},{"name":"Shadow of the Colossus"},{"name":"Final Fantasy VII"},{"name":"Halo: Combat Evolved"}],
+      "inventions":[{"name":"Telephone"},{"name":"Printing press"},{"name":"Light bulb"},{"name":"Airplane"},{"name":"Automobile"},{"name":"Personal computer"},{"name":"Internet"},{"name":"Steam engine"},{"name":"Television"},{"name":"Camera"},{"name":"Penicillin"},{"name":"Refrigeration"},{"name":"Electricity"},{"name":"Vaccination"},{"name":"Radio"},{"name":"Microwave oven"},{"name":"World Wide Web"},{"name":"GPS"},{"name":"Smartphone"},{"name":"Email"}],
+      "companies":[{"name":"Apple"},{"name":"Microsoft"},{"name":"Google"},{"name":"Amazon"},{"name":"Facebook"},{"name":"Alibaba"},{"name":"IBM"},{"name":"Intel"},{"name":"Cisco"},{"name":"Oracle"},{"name":"Tencent"},{"name":"Twitter"},{"name":"Uber"},{"name":"Adobe"},{"name":"Netflix"},{"name":"Salesforce"},{"name":"Airbnb"},{"name":"Spotify"},{"name":"Tesla"},{"name":"Zoom"}],
+      "languages":[{"name":"Mandarin"},{"name":"Spanish"},{"name":"Hindi"},{"name":"Arabic"},{"name":"Portuguese"},{"name":"Russian"},{"name":"Japanese"},{"name":"French"},{"name":"German"},{"name":"Korean"},{"name":"Turkish"},{"name":"Italian"},{"name":"Dutch"},{"name":"Polish"},{"name":"Greek"}],
+      "historicalFigures":[{"name":"George Washington"},{"name":"Martin Luther King Jr"},{"name":"Nelson Mandela"},{"name":"Christopher Columbus"},{"name":"William Shakespeare"},{"name":"Julius Caesar"},{"name":"Cleopatra"},{"name":"Marilyn Monroe"},{"name":"Thomas Edison"},{"name":"Alexander the Great"},{"name":"Galileo Galilei"},{"name":"Charles Darwin"},{"name":"Sigmund Freud"},{"name":"Genghis Khan"},{"name":"Joan of Arc"},{"name":"Marco Polo"},{"name":"Thomas Jefferson"},{"name":"Marie Curie"},{"name":"Vincent van Gogh"},{"name":"Pablo Picasso"}],
+      "landmarks":[{"name":"Eiffel Tower"},{"name":"Statue of Liberty"},{"name":"Big Ben"},{"name":"Taj Mahal"},{"name":"Great Wall of China"},{"name":"Colosseum"},{"name":"Machu Picchu"},{"name":"Sydney Opera House"},{"name":"Christ the Redeemer"},{"name":"Petra"},{"name":"Chichen Itza"},{"name":"Grand Canyon"},{"name":"Stonehenge"},{"name":"Niagara Falls"},{"name":"Great Barrier Reef"},{"name":"Mount Everest"},{"name":"The Louvre"},{"name":"The Pyramids of Giza"},{"name":"Angkor Wat"},{"name":"Sistine Chapel"}],
+      "foods":[{"name":"Pizza"},{"name":"Sushi"},{"name":"Burger"},{"name":"Tacos"},{"name":"Pasta"},{"name":"Steak"},{"name":"Ramen"},{"name":"Fish and Chips"},{"name":"Croissant"},{"name":"Dim Sum"},{"name":"Pho"},{"name":"Paella"},{"name":"Fried Chicken"},{"name":"Gyros"},{"name":"Curry"},{"name":"Falafel"},{"name":"Bibimbap"},{"name":"Peking Duck"},{"name":"Ceviche"},{"name":"Bratwurst"}],
+      "animals":[{"name":"Elephant"},{"name":"Tiger"},{"name":"Lion"},{"name":"Giraffe"},{"name":"Penguin"},{"name":"Kangaroo"},{"name":"Panda"},{"name":"Dolphin"},{"name":"Whale"},{"name":"Gorilla"},{"name":"Zebra"},{"name":"Cheetah"},{"name":"Hippopotamus"},{"name":"Polar Bear"},{"name":"Rhino"},{"name":"Peacock"},{"name":"Wolf"},{"name":"Octopus"},{"name":"Flamingo"},{"name":"Koala"}],
+      "gadgets":[{"name":"Smartphone"},{"name":"Laptop"},{"name":"Smartwatch"},{"name":"Tablet"},{"name":"Fitness Tracker"},{"name":"Gaming Console"},{"name":"VR Headset"},{"name":"Action Camera"},{"name":"Drone"},{"name":"Robot Vacuum"},{"name":"Smart TV"},{"name":"3D Printer"},{"name":"Headphones"}]
+    }
+  ],
+  "languages":[
+    {"name":"English"},
+    {"name":"Romana"}
+  ],
+  "app_config": {
+    "name": "Beyond the surface",
+    "version": "1.0",
+    "build": "1",
+    "homeMessage":"Heey, you have 50% off today!",
+    "gameOverMessage":[
+      {"message":"Good, try another category!"},
+      {"message":"Are you drunk yet?"}
+    ]
+  }
+}
