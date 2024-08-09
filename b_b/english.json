@@ -3396,30 +3396,1208 @@
       "levels":[
         {
           "level":1,
-          "questions":[
-
-          ],
-          "wildcards":[
-
-          ]
+          "questions": [
+          {
+            "id": 1,
+            "q": "What was the first impression you had of me?"
+          },
+          {
+            "id": 2,
+            "q": "What’s one hobby or interest you think we should try together?"
+          },
+          {
+            "id": 3,
+            "q": "How would you describe our friendship to someone who doesn’t know us?"
+          },
+          {
+            "id": 4,
+            "q": "What’s a memorable moment we’ve shared that always makes you smile?"
+          },
+          {
+            "id": 5,
+            "q": "What’s one thing you think we should do more often together?"
+          },
+          {
+            "id": 6,
+            "q": "What was your first impression of me?"
+          },
+          {
+            "id": 7,
+            "q": "If we were to start a new hobby together, what would it be?"
+          },
+          {
+            "id": 8,
+            "q": "What’s a memorable experience we’ve had together that makes you smile?"
+          },
+          {
+            "id": 9,
+            "q": "How would you describe our friendship to someone who doesn’t know us?"
+          },
+          {
+            "id": 10,
+            "q": "What’s one thing you admire about our friendship?"
+          },
+          {
+            "id": 11,
+            "q": "If we could travel anywhere together, where would you want to go?"
+          },
+          {
+            "id": 12,
+            "q": "What’s a favorite shared activity or tradition we have?"
+          },
+          {
+            "id": 13,
+            "q": "What’s the funniest thing that’s happened to us?"
+          },
+          {
+            "id": 14,
+            "q": "What’s one thing you think we should try as a team?"
+          },
+          {
+            "id": 15,
+            "q": "What’s a favorite movie or TV show we both enjoy?"
+          },
+          {
+            "id": 16,
+            "q": "What’s a recent achievement of ours that you’re proud of?"
+          },
+          {
+            "id": 17,
+            "q": "If you could describe our friendship in three words, what would they be?"
+          },
+          {
+            "id": 18,
+            "q": "What’s one habit or trait of mine you find endearing?"
+          },
+          {
+            "id": 19,
+            "q": "What’s a shared goal we could work towards together?"
+          },
+          {
+            "id": 20,
+            "q": "How do you think our friendship has changed over time?"
+          },
+          {
+            "id": 21,
+            "q": "What’s a favorite memory we’ve created together?"
+          },
+          {
+            "id": 22,
+            "q": "If you could describe our friendship as a genre of music, what would it be?"
+          },
+          {
+            "id": 23,
+            "q": "What’s one thing you’re grateful for in our friendship?"
+          },
+          {
+            "id": 24,
+            "q": "What’s a book or movie that reminds you of us?"
+          },
+          {
+            "id": 25,
+            "q": "What’s the best advice you’ve ever received from me?"
+          },
+          {
+            "id": 26,
+            "q": "What’s one thing you think we should do more of to strengthen our friendship?"
+          },
+          {
+            "id": 27,
+            "q": "What’s a funny or embarrassing moment you remember from our time together?"
+          },
+          {
+            "id": 28,
+            "q": "What’s a shared dream or goal you have for us?"
+          },
+          {
+            "id": 29,
+            "q": "What’s something new you’ve learned from me?"
+          },
+          {
+            "id": 30,
+            "q": "If we were to star in a reality TV show, what would it be about?"
+          },
+          {
+            "id": 31,
+            "q": "What’s one thing you think we should definitely try in the next year?"
+          },
+          {
+            "id": 32,
+            "q": "What’s a unique tradition or habit we have that you cherish?"
+          },
+          {
+            "id": 33,
+            "q": "How do you think our friendship influences the way we see the world?"
+          },
+          {
+            "id": 34,
+            "q": "What’s one thing you’d like to teach me or learn from me?"
+          },
+          {
+            "id": 35,
+            "q": "What’s a fun or silly activity you’d like us to do together?"
+          },
+          {
+            "id": 36,
+            "q": "What’s something you find inspiring about our friendship?"
+          },
+          {
+            "id": 37,
+            "q": "What’s a place we both love to visit?"
+          },
+          {
+            "id": 38,
+            "q": "What’s a favorite shared meal or recipe?"
+          },
+          {
+            "id": 39,
+            "q": "What’s a goal or aspiration you have for our friendship?"
+          },
+          {
+            "id": 40,
+            "q": "What’s one thing you admire about how we handle challenges together?"
+          },
+          {
+            "id": 41,
+            "q": "What’s a shared experience that made you feel especially close to me?"
+          },
+          {
+            "id": 42,
+            "q": "If we could create a new holiday, what would it celebrate and how would we celebrate it?"
+          },
+          {
+            "id": 43,
+            "q": "What’s one thing you’d like us to do for each other in the future?"
+          },
+          {
+            "id": 44,
+            "q": "What’s a fun nickname or inside joke we share?"
+          },
+          {
+            "id": 45,
+            "q": "What’s a habit or routine we have that makes you smile?"
+          },
+          {
+            "id": 46,
+            "q": "What’s a favorite place we like to hang out together?"
+          },
+          {
+            "id": 47,
+            "q": "What’s something you’re looking forward to doing with me?"
+          },
+          {
+            "id": 48,
+            "q": "What’s a favorite shared memory from our childhood or past?"
+          },
+          {
+            "id": 49,
+            "q": "What’s a fun or quirky tradition we’ve started?"
+          },
+          {
+            "id": 50,
+            "q": "What’s one thing you think we should work on improving together?"
+          }
+        ],
+          "wildcards": [
+          {
+            "id": 1,
+            "q": "Rate each other’s sense of humor on a scale of 1-10. Compare and explain."
+          },
+          {
+            "id": 2,
+            "q": "Describe your ideal weekend getaway with me. What would we do?"
+          },
+          {
+            "id": 3,
+            "q": "Draw a picture of what you think our future selves will look like. Compare and explain."
+          },
+          {
+            "id": 4,
+            "q": "Create a funny nickname for each other and explain why."
+          },
+          {
+            "id": 5,
+            "q": "Share a quirky fact about yourself that I might not know."
+          },
+          {
+            "id": 6,
+            "q": "Give each other a compliment related to your friendship. What do you appreciate most?"
+          },
+          {
+            "id": 7,
+            "q": "Share a favorite song that reminds you of our friendship and why."
+          },
+          {
+            "id": 8,
+            "q": "Write down a memorable quote or inside joke we share. Read it aloud and discuss its meaning."
+          },
+          {
+            "id": 9,
+            "q": "Imitate each other’s mannerisms for 1 minute. Compare and share your impressions."
+          },
+          {
+            "id": 10,
+            "q": "If we could star in a movie together, what genre would it be and what roles would we play?"
+          },
+          {
+            "id": 11,
+            "q": "What’s one thing you think we should do more often as friends?"
+          },
+          {
+            "id": 12,
+            "q": "Describe a funny or embarrassing moment we had together."
+          },
+          {
+            "id": 13,
+            "q": "Rate each other’s fashion sense on a scale of 1-10. Compare and explain."
+          },
+          {
+            "id": 14,
+            "q": "Write a short poem about our friendship. Share and read it aloud."
+          },
+          {
+            "id": 15,
+            "q": "If you had to describe our friendship in one word, what would it be and why?"
+          },
+          {
+            "id": 16,
+            "q": "Create a playlist of songs that define our friendship. Share and discuss your choices."
+          },
+          {
+            "id": 17,
+            "q": "Describe your dream birthday celebration with me. What would it look like?"
+          },
+          {
+            "id": 18,
+            "q": "Share a time when you felt especially grateful for our friendship."
+          },
+          {
+            "id": 19,
+            "q": "Draw our favorite place to hang out together. Compare and discuss."
+          },
+          {
+            "id": 20,
+            "q": "Come up with a funny conspiracy theory about how we met. Share and discuss."
+          },
+          {
+            "id": 21,
+            "q": "What’s one thing you’ve learned from our friendship that has surprised you?"
+          },
+          {
+            "id": 22,
+            "q": "Tell a story about a time you thought our friendship might end. What happened?"
+          },
+          {
+            "id": 23,
+            "q": "Describe a hobby or interest you wish we shared. Why?"
+          },
+          {
+            "id": 24,
+            "q": "Rate each other’s cooking skills on a scale of 1-10. Compare and explain."
+          },
+          {
+            "id": 25,
+            "q": "If we were characters in a video game, what would our special abilities be?"
+          },
+          {
+            "id": 26,
+            "q": "Write down a question you wish you could ask me but haven’t yet. Share and discuss."
+          },
+          {
+            "id": 27,
+            "q": "Share a moment when we worked really well as a team. What was the situation?"
+          },
+          {
+            "id": 28,
+            "q": "If we could have any superpower together, what would it be and how would we use it?"
+          },
+          {
+            "id": 29,
+            "q": "Create a fun and silly handshake or greeting for us. Demonstrate it."
+          },
+          {
+            "id": 30,
+            "q": "Describe our friendship in the style of a news headline. What would it say?"
+          },
+          {
+            "id": 31,
+            "q": "If we could travel anywhere in the world together, where would we go and why?"
+          },
+          {
+            "id": 32,
+            "q": "Share a random act of kindness that you’ve done for someone recently."
+          },
+          {
+            "id": 33,
+            "q": "What’s one piece of advice you’d give me that you haven’t yet?"
+          },
+          {
+            "id": 34,
+            "q": "If we could design a theme park based on our friendship, what would it be like?"
+          },
+          {
+            "id": 35,
+            "q": "Create a silly or fun challenge for each other to complete. Share and compare."
+          },
+          {
+            "id": 36,
+            "q": "Describe a time when you felt like we were really on the same wavelength."
+          },
+          {
+            "id": 37,
+            "q": "What’s a movie or TV show that reminds you of our friendship?"
+          },
+          {
+            "id": 38,
+            "q": "Share a memorable prank or joke we’ve played on each other."
+          },
+          {
+            "id": 39,
+            "q": "Rate each other’s organizational skills on a scale of 1-10. Compare and explain."
+          },
+          {
+            "id": 40,
+            "q": "Describe a dream job we could do together. What would it be and why?"
+          },
+          {
+            "id": 41,
+            "q": "What’s one thing you think we should try as a team? Why?"
+          },
+          {
+            "id": 42,
+            "q": "If our friendship had a mascot, what would it be and why?"
+          },
+          {
+            "id": 43,
+            "q": "Write down a shared goal or dream for our future together. Share and discuss."
+          },
+          {
+            "id": 44,
+            "q": "Share a time when you felt particularly proud of our friendship."
+          },
+          {
+            "id": 45,
+            "q": "Rate each other’s cooking skills on a scale of 1-10. Compare and explain."
+          },
+          {
+            "id": 46,
+            "q": "Create a funny nickname for each other and explain why."
+          },
+          {
+            "id": 47,
+            "q": "Draw a picture of our ideal vacation destination. Compare and discuss."
+          },
+          {
+            "id": 48,
+            "q": "Write a short poem about our friendship and read it aloud."
+          },
+          {
+            "id": 49,
+            "q": "Describe your dream birthday celebration with me. What would it look like?"
+          },
+          {
+            "id": 50,
+            "q": "Share a quirky fact about yourself that I might not know."
+          }
+        ]
         },
         {
           "level":2,
           "questions":[
-
-          ],
-          "wildcards":[
-
-          ]
+          {
+            "id": 1,
+            "q": "What’s one challenge we’ve overcome together that made us stronger?"
+          },
+          {
+            "id": 2,
+            "q": "How do you think our friendship has changed you?"
+          },
+          {
+            "id": 3,
+            "q": "What’s something you’ve always wanted to tell me but haven’t yet?"
+          },
+          {
+            "id": 4,
+            "q": "How has our friendship impacted your life decisions?"
+          },
+          {
+            "id": 5,
+            "q": "What’s a significant lesson you’ve learned from our friendship?"
+          },
+          {
+            "id": 6,
+            "q": "What’s a time you felt particularly proud of our friendship?"
+          },
+          {
+            "id": 7,
+            "q": "What’s a shared experience that taught you something valuable?"
+          },
+          {
+            "id": 8,
+            "q": "How do you think we handle disagreements or conflicts?"
+          },
+          {
+            "id": 9,
+            "q": "What’s one way you think we’ve grown as friends?"
+          },
+          {
+            "id": 10,
+            "q": "What’s a personal goal you have that our friendship supports?"
+          },
+          {
+            "id": 11,
+            "q": "What’s something you admire about how I approach challenges?"
+          },
+          {
+            "id": 12,
+            "q": "How do you think our friendship has shaped your values?"
+          },
+          {
+            "id": 13,
+            "q": "What’s a memorable piece of advice you’ve given or received from me?"
+          },
+          {
+            "id": 14,
+            "q": "What’s a personal belief or value that you think our friendship reflects?"
+          },
+          {
+            "id": 15,
+            "q": "What’s one way you’d like us to deepen our connection?"
+          },
+          {
+            "id": 16,
+            "q": "How do you see our friendship evolving over the next few years?"
+          },
+          {
+            "id": 17,
+            "q": "What’s a challenge we faced that brought us closer together?"
+          },
+          {
+            "id": 18,
+            "q": "What’s a moment when you felt deeply understood by me?"
+          },
+          {
+            "id": 19,
+            "q": "How has our friendship influenced your outlook on life?"
+          },
+          {
+            "id": 20,
+            "q": "What’s a shared experience that was particularly meaningful to you?"
+          },
+          {
+            "id": 21,
+            "q": "How do you think our friendship helps you grow personally?"
+          },
+          {
+            "id": 22,
+            "q": "What’s a personal aspiration that you think our friendship supports?"
+          },
+          {
+            "id": 23,
+            "q": "How do you feel when we spend quality time together?"
+          },
+          {
+            "id": 24,
+            "q": "What’s a valuable lesson you’ve learned from our shared experiences?"
+          },
+          {
+            "id": 25,
+            "q": "What’s a unique aspect of our friendship that you cherish?"
+          },
+          {
+            "id": 26,
+            "q": "How do you think we complement each other’s strengths and weaknesses?"
+          },
+          {
+            "id": 27,
+            "q": "What’s a significant way our friendship has impacted your personal growth?"
+          },
+          {
+            "id": 28,
+            "q": "How do you envision us supporting each other in the future?"
+          },
+          {
+            "id": 29,
+            "q": "What’s a memorable time when we worked well together as a team?"
+          },
+          {
+            "id": 30,
+            "q": "How do you feel our friendship has influenced your approach to challenges?"
+          },
+          {
+            "id": 31,
+            "q": "What’s a personal goal you have that our friendship has helped you achieve?"
+          },
+          {
+            "id": 32,
+            "q": "What’s a time when our friendship helped you through a difficult situation?"
+          },
+          {
+            "id": 33,
+            "q": "How do you think we can continue to strengthen our bond?"
+          },
+          {
+            "id": 34,
+            "q": "What’s a shared value or principle that you think defines our friendship?"
+          },
+          {
+            "id": 35,
+            "q": "What’s a lesson you’ve learned from a disagreement or conflict we’ve had?"
+          },
+          {
+            "id": 36,
+            "q": "How do you see us supporting each other’s dreams in the future?"
+          },
+          {
+            "id": 37,
+            "q": "What’s a memorable conversation we’ve had that made a big impact on you?"
+          },
+          {
+            "id": 38,
+            "q": "How do you think our friendship has helped shape your identity?"
+          },
+          {
+            "id": 39,
+            "q": "What’s a goal or aspiration that we both share?"
+          },
+          {
+            "id": 40,
+            "q": "What’s a significant moment when you felt especially connected to me?"
+          },
+          {
+            "id": 41,
+            "q": "How do you think our friendship has influenced your personal values?"
+          },
+          {
+            "id": 42,
+            "q": "What’s a way our friendship has helped you develop new skills or interests?"
+          },
+          {
+            "id": 43,
+            "q": "How do you see us growing together as friends in the future?"
+          },
+          {
+            "id": 44,
+            "q": "What’s a shared experience that taught us both something important?"
+          },
+          {
+            "id": 45,
+            "q": "How do you feel our friendship has impacted your approach to relationships?"
+          },
+          {
+            "id": 46,
+            "q": "What’s a meaningful lesson you’ve learned from our time together?"
+          },
+          {
+            "id": 47,
+            "q": "How do you think our friendship helps us navigate life’s ups and downs?"
+          },
+          {
+            "id": 48,
+            "q": "What’s a way you think we could better support each other’s goals?"
+          },
+          {
+            "id": 49,
+            "q": "How do you envision our friendship evolving over the long term?"
+          }
+        ],
+          "wildcards": [
+          {
+            "id": 1,
+            "q": "Write a letter to your future self about our friendship. Share and discuss."
+          },
+          {
+            "id": 2,
+            "q": "If we could create a charity together, what would it focus on?"
+          },
+          {
+            "id": 3,
+            "q": "Write down a shared memory that you feel has defined our friendship. Compare and explain."
+          },
+          {
+            "id": 4,
+            "q": "Plan a spontaneous adventure for us to go on this weekend. What’s the plan?"
+          },
+          {
+            "id": 5,
+            "q": "Describe a personal challenge you’re currently facing. How can I support you?"
+          },
+          {
+            "id": 6,
+            "q": "Share a time when you were surprised by something I did for you. What was it?"
+          },
+          {
+            "id": 7,
+            "q": "Write down a list of qualities you admire in each other. Compare and discuss."
+          },
+          {
+            "id": 8,
+            "q": "If you could change one thing about our friendship, what would it be and why?"
+          },
+          {
+            "id": 9,
+            "q": "Describe a time when our friendship helped you get through a tough situation."
+          },
+          {
+            "id": 10,
+            "q": "Create a vision board for our friendship’s future. What does it include?"
+          },
+          {
+            "id": 11,
+            "q": "What’s something we could improve in our friendship? How can we address it?"
+          },
+          {
+            "id": 12,
+            "q": "Share a moment when you felt deeply connected to me. What made it special?"
+          },
+          {
+            "id": 13,
+            "q": "Write a thank you note for something specific you’re grateful for in our friendship."
+          },
+          {
+            "id": 14,
+            "q": "Describe a situation where we had a major disagreement. How did we resolve it?"
+          },
+          {
+            "id": 15,
+            "q": "If we were to start a podcast together, what would it be about?"
+          },
+          {
+            "id": 16,
+            "q": "Share an area of personal growth you’ve experienced because of our friendship."
+          },
+          {
+            "id": 17,
+            "q": "Write down your top three priorities in our friendship. Compare and discuss."
+          },
+          {
+            "id": 18,
+            "q": "What’s a habit you’ve picked up from me? How has it affected you?"
+          },
+          {
+            "id": 19,
+            "q": "Create a bucket list of things we should do together. Share and compare."
+          },
+          {
+            "id": 20,
+            "q": "Describe a time when our friendship taught you a valuable lesson."
+          },
+          {
+            "id": 21,
+            "q": "Write a poem or song about a shared experience that was meaningful to you."
+          },
+          {
+            "id": 22,
+            "q": "How do you feel we complement each other’s strengths and weaknesses?"
+          },
+          {
+            "id": 23,
+            "q": "Share a recent accomplishment of mine that you’re proud of."
+          },
+          {
+            "id": 24,
+            "q": "If we could make a documentary about our friendship, what would be the key themes?"
+          },
+          {
+            "id": 25,
+            "q": "Describe a time when you felt like we were really in sync."
+          },
+          {
+            "id": 26,
+            "q": "What’s one thing you’d like us to accomplish together in the next year?"
+          },
+          {
+            "id": 27,
+            "q": "Write down a goal you have for our friendship and how you plan to achieve it."
+          },
+          {
+            "id": 28,
+            "q": "Share a personal struggle you’ve faced and how our friendship has helped."
+          },
+          {
+            "id": 29,
+            "q": "If we were to create a new tradition together, what would it be and why?"
+          },
+          {
+            "id": 30,
+            "q": "Describe a time when you felt our friendship was tested. How did we come through?"
+          },
+          {
+            "id": 31,
+            "q": "Share a memory that has had a lasting impact on our friendship."
+          },
+          {
+            "id": 32,
+            "q": "If we could change one thing about the world together, what would it be?"
+          },
+          {
+            "id": 33,
+            "q": "Write down three ways we can strengthen our friendship. Compare and discuss."
+          },
+          {
+            "id": 34,
+            "q": "Share a personal aspiration you have and how I can support you in achieving it."
+          },
+          {
+            "id": 35,
+            "q": "What’s a lesson you’ve learned from me that you didn’t expect?"
+          },
+          {
+            "id": 36,
+            "q": "Describe a way you’d like to see our friendship evolve over the next five years."
+          },
+          {
+            "id": 37,
+            "q": "Share an experience that made you appreciate our friendship more."
+          },
+          {
+            "id": 38,
+            "q": "If we could collaborate on a creative project, what would it be?"
+          },
+          {
+            "id": 39,
+            "q": "Write down a challenge you’d like us to tackle together. How should we approach it?"
+          },
+          {
+            "id": 40,
+            "q": "Describe a way our friendship has influenced your personal growth."
+          },
+          {
+            "id": 41,
+            "q": "Write a letter to your future self about our friendship. Share and discuss."
+          },
+          {
+            "id": 42,
+            "q": "Create a vision board for our friendship’s future. What does it include?"
+          },
+          {
+            "id": 43,
+            "q": "Plan a spontaneous adventure for us to go on this weekend. What’s the plan?"
+          },
+          {
+            "id": 44,
+            "q": "Describe a personal challenge you’re currently facing. How can I support you?"
+          },
+          {
+            "id": 45,
+            "q": "Write down a list of qualities you admire in each other. Compare and discuss."
+          },
+          {
+            "id": 46,
+            "q": "Share a time when you were surprised by something I did for you. What was it?"
+          },
+          {
+            "id": 47,
+            "q": "Describe a shared goal or dream you have for our future. What is it?"
+          },
+          {
+            "id": 48,
+            "q": "Write a thank you note for something specific you’re grateful for in our friendship."
+          },
+          {
+            "id": 49,
+            "q": "Plan a spontaneous activity we could do together. What’s the plan?"
+          },
+          {
+            "id": 50,
+            "q": "Share a recent accomplishment of mine that you’re proud of."
+          },
+          {
+            "id": 51,
+            "q": "Write down a piece of advice you have for me, based on our friendship."
+          },
+          {
+            "id": 52,
+            "q": "Create a list of “bucket list” items for us as friends. What are they?"
+          }
+        ]
         },
         {
           "level":3,
           "questions":[
-
-          ],
+          {
+            "id": 1,
+            "q": "What’s a future aspiration we can work towards together?"
+          },
+          {
+            "id": 2,
+            "q": "How do you envision our friendship evolving over the next decade?"
+          },
+          {
+            "id": 3,
+            "q": "What’s the most meaningful thing you’ve learned from our friendship?"
+          },
+          {
+            "id": 4,
+            "q": "What’s a dream project or goal you’d like us to achieve together?"
+          },
+          {
+            "id": 5,
+            "q": "How do you see our friendship influencing our lives in the long term?"
+          },
+          {
+            "id": 6,
+            "q": "What’s one thing you’d like to see us accomplish as friends in the next ten years?"
+          },
+          {
+            "id": 7,
+            "q": "What’s a significant milestone you’re looking forward to celebrating with me?"
+          },
+          {
+            "id": 8,
+            "q": "How do you imagine our friendship will impact the people around us?"
+          },
+          {
+            "id": 9,
+            "q": "What’s a future event or experience you’re excited about sharing with me?"
+          },
+          {
+            "id": 10,
+            "q": "What’s a long-term goal you have for our friendship?"
+          },
+          {
+            "id": 11,
+            "q": "How do you think our friendship will evolve as we grow older?"
+          },
+          {
+            "id": 12,
+            "q": "What’s a major accomplishment you hope we achieve together?"
+          },
+          {
+            "id": 13,
+            "q": "How do you see our friendship influencing your personal and professional life?"
+          },
+          {
+            "id": 14,
+            "q": "What’s one thing you hope we continue to do together as we grow older?"
+          },
+          {
+            "id": 15,
+            "q": "What’s a shared dream or vision you have for our future?"
+          },
+          {
+            "id": 16,
+            "q": "How do you envision us supporting each other’s aspirations?"
+          },
+          {
+            "id": 17,
+            "q": "What’s a significant future milestone we should plan to celebrate together?"
+          },
+          {
+            "id": 18,
+            "q": "What’s one way you’d like our friendship to be remembered?"
+          },
+          {
+            "id": 19,
+            "q": "How do you see us impacting each other’s lives over the next decade?"
+          },
+          {
+            "id": 20,
+            "q": "What’s a future tradition you’d like us to start?"
+          },
+          {
+            "id": 21,
+            "q": "How do you envision our friendship helping us navigate life’s challenges?"
+          },
+          {
+            "id": 22,
+            "q": "What’s a major future goal we should set for ourselves?"
+          },
+          {
+            "id": 23,
+            "q": "How do you think our friendship will continue to grow and evolve?"
+          },
+          {
+            "id": 24,
+            "q": "What’s a shared vision you have for our friendship’s impact on others?"
+          },
+          {
+            "id": 25,
+            "q": "How do you see our friendship influencing our personal growth?"
+          },
+          {
+            "id": 26,
+            "q": "What’s a dream adventure you’d like us to go on together?"
+          },
+          {
+            "id": 27,
+            "q": "How do you envision us celebrating our future successes?"
+          },
+          {
+            "id": 28,
+            "q": "What’s a significant change you’d like to see in our friendship over the years?"
+          },
+          {
+            "id": 29,
+            "q": "What’s a meaningful experience you hope we share in the future?"
+          },
+          {
+            "id": 30,
+            "q": "How do you see our friendship shaping our life goals?"
+          },
+          {
+            "id": 31,
+            "q": "What’s a future event or milestone you’re excited to achieve with me?"
+          },
+          {
+            "id": 32,
+            "q": "How do you envision us supporting each other’s personal growth?"
+          },
+          {
+            "id": 33,
+            "q": "What’s a major future project you’d like us to tackle together?"
+          },
+          {
+            "id": 34,
+            "q": "How do you think our friendship will continue to evolve?"
+          },
+          {
+            "id": 35,
+            "q": "What’s a significant way you hope our friendship will impact our lives?"
+          },
+          {
+            "id": 36,
+            "q": "How do you see us celebrating each other’s achievements in the future?"
+          },
+          {
+            "id": 37,
+            "q": "What’s a future goal or dream you have for us as friends?"
+          },
+          {
+            "id": 38,
+            "q": "How do you envision our friendship influencing our long-term aspirations?"
+          },
+          {
+            "id": 39,
+            "q": "What’s a significant future event or experience you want us to plan together?"
+          },
+          {
+            "id": 40,
+            "q": "How do you see us growing and evolving as friends over the years?"
+          },
+          {
+            "id": 41,
+            "q": "What’s a major future milestone you’re looking forward to celebrating with me?"
+          },
+          {
+            "id": 42,
+            "q": "How do you envision our friendship impacting our lives in the long run?"
+          },
+          {
+            "id": 43,
+            "q": "What’s a shared dream or goal you hope we achieve together?"
+          },
+          {
+            "id": 44,
+            "q": "How do you see our friendship influencing our personal and professional paths?"
+          },
+          {
+            "id": 45,
+            "q": "What’s a future tradition you’d like us to create together?"
+          },
+          {
+            "id": 46,
+            "q": "How do you imagine our friendship supporting us as we grow older?"
+          }
+        ],
           "wildcards":[
-
-          ]
+          {
+            "id": 1,
+            "q": "Write a letter to our future selves as best friends. What do you hope for us?"
+          },
+          {
+            "id": 2,
+            "q": "Plan an ideal day for us ten years from now. What are we doing?"
+          },
+          {
+            "id": 3,
+            "q": "Create a time capsule with items or notes representing our friendship. What goes in it?"
+          },
+          {
+            "id": 4,
+            "q": "If we were to open a business together, what kind of business would it be and why?"
+          },
+          {
+            "id": 5,
+            "q": "Write down a dream project or goal you’d like us to achieve together. Share and discuss."
+          },
+          {
+            "id": 6,
+            "q": "Describe how you want our friendship to be remembered by others."
+          },
+          {
+            "id": 7,
+            "q": "If we could make a major change in the world together, what would it be and why?"
+          },
+          {
+            "id": 8,
+            "q": "Write a vision statement for our friendship. What do you want it to stand for?"
+          },
+          {
+            "id": 9,
+            "q": "Share a long-term goal you have and how our friendship can support it."
+          },
+          {
+            "id": 10,
+            "q": "Describe a future milestone you’re looking forward to achieving with me."
+          },
+          {
+            "id": 11,
+            "q": "Create a list of 'bucket list' items for our friendship. What are they?"
+          },
+          {
+            "id": 12,
+            "q": "Write down a shared dream you hope we can achieve in the next ten years."
+          },
+          {
+            "id": 13,
+            "q": "Plan a big celebration for a future accomplishment we achieve together. What’s the celebration?"
+          },
+          {
+            "id": 14,
+            "q": "Describe an ideal scenario for us growing old together as friends. What does it look like?"
+          },
+          {
+            "id": 15,
+            "q": "Write a manifesto for our friendship. What principles or values do you want to uphold?"
+          },
+          {
+            "id": 16,
+            "q": "If we could write a book about our friendship, what would be the title and main theme?"
+          },
+          {
+            "id": 17,
+            "q": "Describe a challenge we should set for ourselves to grow as friends. What is it?"
+          },
+          {
+            "id": 18,
+            "q": "Share a vision for how you hope our friendship will impact our lives in the long term."
+          },
+          {
+            "id": 19,
+            "q": "Plan a large-scale project or event we could do together in the future. What would it be?"
+          },
+          {
+            "id": 20,
+            "q": "Write a note to your future self about our friendship. What advice or hopes do you have?"
+          },
+          {
+            "id": 21,
+            "q": "Describe the legacy you hope our friendship leaves behind."
+          },
+          {
+            "id": 22,
+            "q": "If we could create a meaningful tradition or ritual, what would it be and why?"
+          },
+          {
+            "id": 23,
+            "q": "Share a future event or milestone you’re excited about achieving with me."
+          },
+          {
+            "id": 24,
+            "q": "Plan an ideal scenario for us spending our golden years together. What does it include?"
+          },
+          {
+            "id": 25,
+            "q": "Write down a personal dream you have and how you see our friendship playing a role in it."
+          },
+          {
+            "id": 26,
+            "q": "Describe a future adventure or trip you want us to take together. What’s the destination?"
+          },
+          {
+            "id": 27,
+            "q": "Create a list of values or principles you want to continue honoring in our friendship."
+          },
+          {
+            "id": 28,
+            "q": "Share a hope or wish you have for our friendship ten years from now."
+          },
+          {
+            "id": 29,
+            "q": "Plan a surprise for a major future milestone we’ll celebrate together. What’s the surprise?"
+          },
+          {
+            "id": 30,
+            "q": "Describe how you envision our friendship influencing the lives of others around us."
+          },
+          {
+            "id": 31,
+            "q": "Write a vision statement for our friendship. Share and discuss."
+          },
+          {
+            "id": 32,
+            "q": "Create a time capsule for our friendship. What goes inside?"
+          },
+          {
+            "id": 33,
+            "q": "Plan a major future celebration for an accomplishment we achieve together."
+          },
+          {
+            "id": 34,
+            "q": "Describe a meaningful tradition or ritual we could start. What is it?"
+          },
+          {
+            "id": 35,
+            "q": "Share a long-term personal goal and how you hope our friendship will support it."
+          },
+          {
+            "id": 36,
+            "q": "Write a letter to your future self about our friendship. What advice or hopes do you have?"
+          },
+          {
+            "id": 37,
+            "q": "Plan a large-scale project or event for us to work on together in the future."
+          },
+          {
+            "id": 38,
+            "q": "Describe an ideal scenario for us growing old together as friends. What does it look like?"
+          },
+          {
+            "id": 39,
+            "q": "Create a shared 'bucket list' of dreams or goals for our future. Plan the first one and hold each other accountable for the rest!"
+          },
+          {
+            "id": 40,
+            "q": "Write a manifesto for our friendship. What principles or values do you want to uphold?"
+          },
+          {
+            "id": 41,
+            "q": "Plan an ideal day for us ten years from now. What are we doing?"
+          },
+          {
+            "id": 42,
+            "q": "Describe how you want our friendship to be remembered by others."
+          },
+          {
+            "id": 43,
+            "q": "Share a vision for how you hope our friendship will impact our lives in the long term."
+          },
+          {
+            "id": 44,
+            "q": "Plan a surprise for a major future milestone we’ll celebrate together. What’s the surprise?"
+          },
+          {
+            "id": 45,
+            "q": "Write a note to your future self about our friendship. What advice or hopes do you have?"
+          },
+          {
+            "id": 46,
+            "q": "Describe the legacy you hope our friendship leaves behind."
+          },
+          {
+            "id": 47,
+            "q": "If we could make a major change in the world together, what would it be and why?"
+          },
+          {
+            "id": 48,
+            "q": "Create a vision board for our future goals as friends. What does it include?"
+          },
+          {
+            "id": 49,
+            "q": "Write down a personal dream and how you see our friendship playing a role in it."
+          }
+        ]
         }
       ]
     },
