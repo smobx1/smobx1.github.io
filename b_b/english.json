@@ -32,7 +32,7 @@
             },
             {
               "id":6,
-              "q":"TODOTHISQUESTION"
+              "q":"AS A CHILD, WHAT DO YOU THINK I WANTED TO BE?"
             },
             {
               "id":7,
@@ -64,7 +64,7 @@
             },
             {
               "id":14,
-              "q":"TODOTHISQUESTION"
+              "q":"DO I SEEM LIKE A COFFEE OR TEA PERSON? SWEETENED OR UNSWEETENED?"
             },
             {
               "id":15,
@@ -96,7 +96,7 @@
             },
             {
               "id":22,
-              "q":"TODOTHISQUESTION"
+              "q":"DO YOU THINK I'VE EVER CHECKED AN EX'S PHONE FOR EVIDENCE?"
             },
             {
               "id":23,
@@ -104,7 +104,7 @@
             },
             {
               "id":24,
-              "q":"TODOTHISQUESTION"
+              "q":"IF YOU WERE TO BUY ME A PRESENT, KNOWING NOTHING ABOUT ME OTHER THAN WHAT I LOOK LIKE, WHAT WOULD IT BE?"
             },
             {
               "id":25,
@@ -116,11 +116,11 @@
             },
             {
               "id":27,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT DO YOU THINK IS THE HARDEST PART OF WHAT I DO FOR A LIVING?"
             },
             {
               "id":28,
-              "q":"TODOTHISQUESTION"
+              "q":"DO YOU THINK I'M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."
             },
             {
               "id":29,
@@ -140,7 +140,7 @@
             },
             {
               "id":33,
-              "q":"TODOTHISQUESTION"
+              "q":"DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"
             },
             {
               "id":34,
@@ -168,7 +168,7 @@
             },
             {
               "id":40,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT FAST FOOD RESTAURANT DO YOU THINK I'M MOST LIKELY TO DRIVE THROUGH? WHAT IS MY ORDER?"
             },
             {
               "id":41,
@@ -192,11 +192,11 @@
             },
             {
               "id":46,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT DO MY SHOES TELL YOU ABOUT ME?"
             },
             {
               "id":47,
-              "q":"TODOTHISQUESTION"
+              "q":"DO YOU THINK I'VE EVER BEEN FIRED FROM A JOB? IF SO, WHAT FOR?"
             },
             {
               "id":48,
@@ -208,7 +208,7 @@
             },
             {
               "id":50,
-              "q":"TODOTHISQUESTION"
+              "q":"DO I LOOK KIND? EXPLAIN."
             },
             {
               "id":51,
@@ -232,7 +232,7 @@
             },
             {
               "id":56,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT CHARACTER WOULD I PLAY IN A MOVIE?"
             },
             {
               "id":57,
@@ -264,7 +264,7 @@
             },
             {
               "id":64,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT SUBJECT DO YOU THINK I THRIVED IN AT SCHOOL? DID I FAIL ANY?"
             },
             {
               "id":65,
@@ -296,7 +296,7 @@
             },
             {
               "id":72,
-              "q":"TODOTHISQUESTION"
+              "q":"ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING CLEANEST, 10 A COMPLETE DISASTER. EXPLAIN"
             },
             {
               "id":73,
@@ -304,7 +304,7 @@
             },
             {
               "id":74,
-              "q":"TODOTHISQUESTION"
+              "q":"DO YOU THINK PLANTS THRIVE OR DIE IN MY CARE? EXPLAIN."
             },
             {
               "id":75,
@@ -316,99 +316,11 @@
             },
             {
               "id":77,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":78,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":79,
-              "q":"DO YOU THINK I'VE EVER CHECKED AN EX'S PHONE FOR EVIDENCE?"
-            },
-            {
-              "id":80,
-              "q":"IF YOU WERE TO BUY ME A PRESENT, KNOWING NOTHING ABOUT ME OTHER THAN WHAT I LOOK LIKE, WHAT WOULD IT BE?"
-            },
-            {
-              "id":81,
-              "q":"WHAT FAST FOOD RESTAURANT DO YOU THINK I'M MOST LIKELY TO DRIVE THROUGH? WHAT IS MY ORDER?"
-            },
-            {
-              "id":82,
-              "q":"DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"
-            },
-            {
-              "id":83,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":84,
-              "q":"DO YOU THINK I'VE EVER BEEN FIRED FROM A JOB? IF SO, WHAT FOR?"
-            },
-            {
-              "id":85,
-              "q":"DO I LOOK KIND? EXPLAIN."
-            },
-            {
-              "id":86,
-              "q":"WHAT CHARACTER WOULD I PLAY IN A MOVIE?"
-            },
-            {
-              "id":87,
-              "q":"WHAT SUBJECT DO YOU THINK I THRIVED IN AT SCHOOL? DID I FAIL ANY?"
-            },
-            {
-              "id":88,
-              "q":"ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING CLEANEST, 10 A COMPLETE DISASTER. EXPLAIN"
-            },
-            {
-              "id":89,
-              "q":"DO YOU THINK PLANTS THRIVE OR DIE IN MY CARE? EXPLAIN."
-            },
-            {
-              "id":90,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":91,
               "q":"WHAT WAS YOUR FIRST IMPRESSION OF ME?"
             },
             {
-              "id":92,
+              "id":78,
               "q":"DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED ON MYSELF? WHY OR WHY NOT?"
-            },
-            {
-              "id":93,
-              "q":"DO I SEEM LIKE A COFFEE OR TEA PERSON? SWEETENED OR UNSWEETENED?"
-            },
-            {
-              "id":94,
-              "q":"AS A CHILD, WHAT DO YOU THINK I WANTED TO BE?"
-            },
-            {
-              "id":95,
-              "q":"WHAT DO MY SHOES TELL YOU ABOUT ME?"
-            },
-            {
-              "id":96,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":97,
-              "q":"TODOTHISQUESTION"
-            },
-            {
-              "id":98,
-              "q":"WHAT DO YOU THINK IS THE HARDEST PART OF WHAT I DO FOR A LIVING?"
-            },
-            {
-              "id":99,
-              "q":"DO YOU THINK I'M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."
-            },
-            {
-              "id":100,
-              "q":"TODOTHISQUESTION"
             }
           ],
           "wildcards":[
@@ -639,7 +551,7 @@
             },
             {
               "id":4,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S A PERSONAL HABIT YOU'D LIKE TO CHANGE?"
             },
             {
               "id":5,
@@ -651,7 +563,7 @@
             },
             {
               "id":7,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU DEFINE HAPPINESS?"
             },
             {
               "id":8,
@@ -675,7 +587,7 @@
             },
             {
               "id":13,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
             },
             {
               "id":14,
@@ -691,7 +603,7 @@
             },
             {
               "id":17,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S A BELIEF YOU ONCE HAD THAT YOU NO LONGER HOLD?"
             },
             {
               "id":18,
@@ -703,7 +615,7 @@
             },
             {
               "id":20,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT'S THE MOST IMPORTANT BOUNDARY YOU'VE SET IN YOUR LIFE?"
             },
             {
               "id":21,
@@ -715,7 +627,7 @@
             },
             {
               "id":23,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT DOES THE CONCEPT OF 'HOME' MEAN TO YOU?"
             },
             {
               "id":24,
@@ -735,15 +647,15 @@
             },
             {
               "id":28,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU NAVIGATE FEAR IN YOUR LIFE?"
             },
             {
               "id":29,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT'S ONE WAY YOU SHOW LOVE TO THE PEOPLE CLOSEST TO YOU?"
             },
             {
               "id":30,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT'S A RISK YOU'VE TAKEN THAT YOU'RE GLAD YOU DID?"
             },
             {
               "id":31,
@@ -767,11 +679,11 @@
             },
             {
               "id":36,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU STAY GROUNDED IN TIMES OF UNCERTAINTY?"
             },
             {
               "id":37,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT'S ONE QUALITY YOU VALUE MOST IN FRIENDS?"
             },
             {
               "id":38,
@@ -807,7 +719,7 @@
             },
             {
               "id":46,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT'S A MEMORY THAT ALWAYS BRINGS A SMILE TO YOUR FACE?"
             },
             {
               "id":47,
@@ -912,54 +824,6 @@
             {
               "id":72,
               "q":"WHAT’S ONE THING YOU’RE CURRENTLY STRUGGLING TO ACCEPT ABOUT YOURSELF?"
-            },
-            {
-              "id":73,
-              "q":"HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
-            },
-            {
-              "id":74,
-              "q":"WHAT’S A BELIEF YOU ONCE HAD THAT YOU NO LONGER HOLD?"
-            },
-            {
-              "id":75,
-              "q":"WHAT'S THE MOST IMPORTANT BOUNDARY YOU'VE SET IN YOUR LIFE?"
-            },
-            {
-              "id":76,
-              "q":"HOW DO YOU DEFINE HAPPINESS?"
-            },
-            {
-              "id":77,
-              "q":"WHAT’S A PERSONAL HABIT YOU'D LIKE TO CHANGE?"
-            },
-            {
-              "id":78,
-              "q":"WHAT DOES THE CONCEPT OF 'HOME' MEAN TO YOU?"
-            },
-            {
-              "id":79,
-              "q":"HOW DO YOU NAVIGATE FEAR IN YOUR LIFE?"
-            },
-            {
-              "id":80,
-              "q":"WHAT'S ONE WAY YOU SHOW LOVE TO THE PEOPLE CLOSEST TO YOU?"
-            },
-            {
-              "id":81,
-              "q":"WHAT'S A RISK YOU'VE TAKEN THAT YOU'RE GLAD YOU DID?"
-            },
-            {
-              "id":82,
-              "q":"WHAT'S A MEMORY THAT ALWAYS BRINGS A SMILE TO YOUR FACE?"
-            },
-            {
-              "id":83,
-              "q":"HOW DO YOU STAY GROUNDED IN TIMES OF UNCERTAINTY?"
-            },
-            {
-              "id":84,
-              "q":"WHAT'S ONE QUALITY YOU VALUE MOST IN FRIENDS?"
             }
           ],
           "wildcards":[
@@ -1046,11 +910,11 @@
             },
             {
               "id":7,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S A SIGNIFICANT LIFE LESSON YOU’VE LEARNED RECENTLY?"
             },
             {
               "id":8,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S ONE THING YOU’D LIKE TO CHANGE ABOUT YOURSELF AND WHY?"
             },
             {
               "id":9,
@@ -1070,7 +934,7 @@
             },
             {
               "id":13,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU STAY MOTIVATED DURING TOUGH TIMES?"
             },
             {
               "id":14,
@@ -1078,7 +942,7 @@
             },
             {
               "id":15,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU DEAL WITH CHANGE IN YOUR LIFE?"
             },
             {
               "id":16,
@@ -1094,11 +958,11 @@
             },
             {
               "id":19,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S ONE THING YOU WISH YOU KNEW ABOUT YOURSELF SOONER?"
             },
             {
               "id":20,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S A GOAL YOU’RE CURRENTLY WORKING TOWARDS?"
             },
             {
               "id":21,
@@ -1110,7 +974,7 @@
             },
             {
               "id":23,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S A TRADITION OR RITUAL THAT IS IMPORTANT TO YOU?"
             },
             {
               "id":24,
@@ -1118,15 +982,15 @@
             },
             {
               "id":25,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT DO YOU THINK IS THE KEY TO A FULFILLING LIFE?"
             },
             {
               "id":26,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU CELEBRATE YOUR SUCCESSES?"
             },
             {
               "id":27,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S ONE THING YOU VALUE MOST IN YOUR LIFE RIGHT NOW?"
             },
             {
               "id":28,
@@ -1158,7 +1022,7 @@
             },
             {
               "id":35,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S ONE THING YOU’D LIKE TO ACCOMPLISH BEFORE THE END OF THE YEAR?"
             },
             {
               "id":36,
@@ -1170,7 +1034,7 @@
             },
             {
               "id":38,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S THE MOST MEANINGFUL COMPLIMENT YOU’VE RECEIVED?"
             },
             {
               "id":39,
@@ -1182,7 +1046,7 @@
             },
             {
               "id":41,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU RECHARGE AND TAKE CARE OF YOURSELF?"
             },
             {
               "id":42,
@@ -1194,7 +1058,7 @@
             },
             {
               "id":44,
-              "q":"TODOTHISQUESTION"
+              "q":"WHAT’S ONE ADVICE YOU’D GIVE TO YOUR FUTURE SELF?"
             },
             {
               "id":45,
@@ -1218,7 +1082,7 @@
             },
             {
               "id":50,
-              "q":"TODOTHISQUESTION"
+              "q":"HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
             },
             {
               "id":51,
@@ -1355,66 +1219,6 @@
             {
               "id":84,
               "q":"WHAT’S ONE WAY YOU’VE GROWN IN THE PAST YEAR?"
-            },
-            {
-              "id":85,
-              "q":"WHAT’S A TRADITION OR RITUAL THAT IS IMPORTANT TO YOU?"
-            },
-            {
-              "id":86,
-              "q":"HOW DO YOU DEAL WITH CHANGE IN YOUR LIFE?"
-            },
-            {
-              "id":87,
-              "q":"WHAT’S ONE THING YOU’D LIKE TO ACCOMPLISH BEFORE THE END OF THE YEAR?"
-            },
-            {
-              "id":88,
-              "q":"WHAT’S THE MOST MEANINGFUL COMPLIMENT YOU’VE RECEIVED?"
-            },
-            {
-              "id":89,
-              "q":"HOW DO YOU RECHARGE AND TAKE CARE OF YOURSELF?"
-            },
-            {
-              "id":90,
-              "q":"WHAT’S A SIGNIFICANT LIFE LESSON YOU’VE LEARNED RECENTLY?"
-            },
-            {
-              "id":91,
-              "q":"WHAT’S ONE THING YOU’D LIKE TO CHANGE ABOUT YOURSELF AND WHY?"
-            },
-            {
-              "id":92,
-              "q":"HOW DO YOU STAY MOTIVATED DURING TOUGH TIMES?"
-            },
-            {
-              "id":93,
-              "q":"WHAT’S ONE ADVICE YOU’D GIVE TO YOUR FUTURE SELF?"
-            },
-            {
-              "id":94,
-              "q":"WHAT’S ONE THING YOU WISH YOU KNEW ABOUT YOURSELF SOONER?"
-            },
-            {
-              "id":95,
-              "q":"WHAT’S A GOAL YOU’RE CURRENTLY WORKING TOWARDS?"
-            },
-            {
-              "id":96,
-              "q":"WHAT DO YOU THINK IS THE KEY TO A FULFILLING LIFE?"
-            },
-            {
-              "id":97,
-              "q":"HOW DO YOU CELEBRATE YOUR SUCCESSES?"
-            },
-            {
-              "id":98,
-              "q":"WHAT’S ONE THING YOU VALUE MOST IN YOUR LIFE RIGHT NOW?"
-            },
-            {
-              "id":99,
-              "q":"HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
             }
           ],
           "wildcards":[
