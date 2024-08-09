@@ -4702,21 +4702,21 @@
             {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ],
           "wildcards":[
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"},
-            {"id": 1,"q": "$randomPlayer1 DINAMO?"}
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"},
+            {"id": 1,"q": "$randomCountry E O TARA?"}
           ]
         }
       ]
