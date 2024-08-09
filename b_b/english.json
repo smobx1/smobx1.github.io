@@ -1492,9 +1492,652 @@
         {
           "level":1,
           "questions":[
-
-          ],
+          {
+            "id": 1,
+            "q": "How would you sum up our first date in just one word?"
+          },
+          {
+            "id": 2,
+            "q": "What physical feature of mine first caught your attention?"
+          },
+          {
+            "id": 3,
+            "q": "How do I express that I'm upset without saying it directly?"
+          },
+          {
+            "id": 4,
+            "q": "Do you think I have any unconventional beliefs about love?"
+          },
+          {
+            "id": 5,
+            "q": "What do you think affects me the most during an argument or disagreement?"
+          },
+          {
+            "id": 6,
+            "q": "What would a perfect day of pampering me look like?"
+          },
+          {
+            "id": 7,
+            "q": "On a scale from 1 to 10, how transparent do you feel I am with you? Explain your rating."
+          },
+          {
+            "id": 8,
+            "q": "How would you describe my ideal date night in detail?"
+          },
+          {
+            "id": 9,
+            "q": "Who do you think was more nervous on our first date? Explain your thoughts."
+          },
+          {
+            "id": 10,
+            "q": "What is something I enjoy that most people find unappealing?"
+          },
+          {
+            "id": 11,
+            "q": "What do you think is the most likely reason I’d get fired from a job?"
+          },
+          {
+            "id": 12,
+            "q": "What insights did my circle of friends give you about me?"
+          },
+          {
+            "id": 13,
+            "q": "What’s my usual coffee order? Be specific."
+          },
+          {
+            "id": 14,
+            "q": "How would you summarize my attitude towards work in one word? Explain your choice."
+          },
+          {
+            "id": 15,
+            "q": "What do you think is the main way I express love?"
+          },
+          {
+            "id": 16,
+            "q": "What warning would you give yourself about me if you could go back to the beginning of our relationship?"
+          },
+          {
+            "id": 17,
+            "q": "What do you think is the biggest source of stress for me right now?"
+          },
+          {
+            "id": 18,
+            "q": "What was the hardest thing for you to understand about me early in our relationship?"
+          },
+          {
+            "id": 19,
+            "q": "What were your initial expectations of me in bed? How accurate were they?"
+          },
+          {
+            "id": 20,
+            "q": "What do you think I’m most sensitive about?"
+          },
+          {
+            "id": 21,
+            "q": "What was I wearing on our first date?"
+          },
+          {
+            "id": 22,
+            "q": "What assumption you had about me turned out to be true?"
+          },
+          {
+            "id": 23,
+            "q": "Did you look at my social media before we met? If so, what stood out to you?"
+          },
+          {
+            "id": 24,
+            "q": "How significant do you think gifts are to me? Explain."
+          },
+          {
+            "id": 25,
+            "q": "If our first kiss were a song, what would it be called?"
+          },
+          {
+            "id": 26,
+            "q": "If we weren’t together, what pick-up line would you use on me?"
+          },
+          {
+            "id": 27,
+            "q": "Which celebrity couple do you think we resemble the most?"
+          },
+          {
+            "id": 28,
+            "q": "Did you have any assumptions about me based on my age? If so, what were they?"
+          },
+          {
+            "id": 29,
+            "q": "What assumption did you make about me that turned out to be incorrect?"
+          },
+          {
+            "id": 30,
+            "q": "What was the first non-physical thing you noticed about me?"
+          },
+          {
+            "id": 31,
+            "q": "If our relationship were a Netflix series, what would its title be? What episode are we on?"
+          },
+          {
+            "id": 32,
+            "q": "How important do you think birthdays and holidays are to me? Explain."
+          },
+          {
+            "id": 33,
+            "q": "What do I dislike that most people enjoy?"
+          },
+          {
+            "id": 34,
+            "q": "Describe the first time we met from your perspective in detail."
+          },
+          {
+            "id": 35,
+            "q": "What did you think my “type” was before we started dating?"
+          },
+          {
+            "id": 36,
+            "q": "What’s your favorite thing for me to wear? (Note: 'nothing' doesn’t count!)"
+          },
+          {
+            "id": 37,
+            "q": "What’s my biggest pet peeve? Explain why."
+          },
+          {
+            "id": 38,
+            "q": "What do you think my main goal for this year is?"
+          },
+          {
+            "id": 39,
+            "q": "What intimidated you most about me early on, if anything?"
+          },
+          {
+            "id": 40,
+            "q": "What intrigued you most about me before we started dating?"
+          },
+          {
+            "id": 41,
+            "q": "How do you think I view marriage? Explain your thoughts."
+          },
+          {
+            "id": 42,
+            "q": "What’s something you think I’d enjoy doing more frequently with you?"
+          },
+          {
+            "id": 43,
+            "q": "What did your friends think about me when we first started dating?"
+          },
+          {
+            "id": 44,
+            "q": "How important do you think physical affection is to me? Explain."
+          },
+          {
+            "id": 45,
+            "q": "What’s my go-to delivery order right now?"
+          },
+          {
+            "id": 46,
+            "q": "What was your first impression of me?"
+          },
+          {
+            "id": 47,
+            "q": "What's your favorite memory of us together?"
+          },
+          {
+            "id": 48,
+            "q": "What is one thing you always wanted to do as a couple?"
+          },
+          {
+            "id": 49,
+            "q": "What do you think our first date says about our relationship?"
+          },
+          {
+            "id": 50,
+            "q": "What's your favorite way to spend time together?"
+          },
+          {
+            "id": 51,
+            "q": "What's the most romantic thing I've ever done for you?"
+          },
+          {
+            "id": 52,
+            "q": "Do you remember what I was wearing when we first met?"
+          },
+          {
+            "id": 53,
+            "q": "What song reminds you of our relationship?"
+          },
+          {
+            "id": 54,
+            "q": "What is your favorite physical feature of mine?"
+          },
+          {
+            "id": 55,
+            "q": "What is your favorite activity that we do together?"
+          },
+          {
+            "id": 56,
+            "q": "Do you think we complement each other? How?"
+          },
+          {
+            "id": 57,
+            "q": "What is one thing you think we should do more often?"
+          },
+          {
+            "id": 58,
+            "q": "What was the first thing that attracted you to me?"
+          },
+          {
+            "id": 59,
+            "q": "What is your favorite nickname to call me?"
+          },
+          {
+            "id": 60,
+            "q": "If we could go anywhere for a weekend getaway, where would it be?"
+          },
+          {
+            "id": 61,
+            "q": "What was the best surprise you ever planned for me?"
+          },
+          {
+            "id": 62,
+            "q": "What do you think is our strongest shared interest?"
+          },
+          {
+            "id": 63,
+            "q": "What's your favorite meal we've cooked together?"
+          },
+          {
+            "id": 64,
+            "q": "What is one thing you admire about me?"
+          },
+          {
+            "id": 65,
+            "q": "Do you prefer spontaneous or planned dates? Why?"
+          },
+          {
+            "id": 66,
+            "q": "What's your favorite inside joke we share?"
+          },
+          {
+            "id": 67,
+            "q": "What do you think is the key to our relationship?"
+          },
+          {
+            "id": 68,
+            "q": "What do you enjoy most about our daily routine?"
+          },
+          {
+            "id": 69,
+            "q": "What is one thing you learned about me that surprised you?"
+          },
+          {
+            "id": 70,
+            "q": "What quality do you think I bring to our relationship?"
+          },
+          {
+            "id": 71,
+            "q": "What's the first thing you noticed about me that wasn't physical?"
+          },
+          {
+            "id": 72,
+            "q": "If you could choose one word to describe our relationship, what would it be?"
+          },
+          {
+            "id": 73,
+            "q": "What’s a small habit of mine that you find endearing?"
+          },
+          {
+            "id": 74,
+            "q": "What’s your favorite compliment I've ever given you?"
+          },
+          {
+            "id": 75,
+            "q": "How do you feel when we hold hands in public?"
+          },
+          {
+            "id": 76,
+            "q": "What’s a simple activity we do together that you love?"
+          },
+          {
+            "id": 77,
+            "q": "What’s your favorite thing to do with me on a lazy Sunday?"
+          },
+          {
+            "id": 78,
+            "q": "What’s a fun fact about you that you think I might not know?"
+          },
+          {
+            "id": 79,
+            "q": "What’s your favorite nickname you have for me?"
+          },
+          {
+            "id": 80,
+            "q": "What’s the best meal we've had together?"
+          },
+          {
+            "id": 81,
+            "q": "What’s a song that always makes you think of me?"
+          },
+          {
+            "id": 82,
+            "q": "What’s one thing you thought about me that turned out to be untrue?"
+          },
+          {
+            "id": 83,
+            "q": "What’s your favorite shared hobby or interest?"
+          },
+          {
+            "id": 84,
+            "q": "What’s a new hobby you’d like to try together?"
+          },
+          {
+            "id": 85,
+            "q": "What’s the most thoughtful gift I've given you?"
+          },
+          {
+            "id": 86,
+            "q": "What’s your favorite way for us to spend a day off?"
+          },
+          {
+            "id": 87,
+            "q": "What’s one of your favorite pictures of us together?"
+          },
+          {
+            "id": 88,
+            "q": "What’s a place you want to travel to with me?"
+          },
+          {
+            "id": 89,
+            "q": "What’s a movie or TV show that reminds you of us?"
+          },
+          {
+            "id": 90,
+            "q": "What’s your favorite way to be comforted by me?"
+          },
+          {
+            "id": 91,
+            "q": "What’s one thing you appreciate about our relationship that you haven't told me before?"
+          },
+          {
+            "id": 92,
+            "q": "What’s your favorite way to celebrate special occasions with me?"
+          },
+          {
+            "id": 93,
+            "q": "What’s a little thing I do that makes your day better?"
+          },
+          {
+            "id": 94,
+            "q": "What’s one quality you admire in me?"
+          },
+          {
+            "id": 95,
+            "q": "What’s a shared goal you have for us?"
+          },
+          {
+            "id": 96,
+            "q": "What's your favorite way to spend a rainy day with me?"
+          },
+          {
+            "id": 97,
+            "q": "What’s a quirky habit you’ve noticed about me that you love?"
+          },
+          {
+            "id": 98,
+            "q": "What’s a favorite memory of ours from the past month?"
+          },
+          {
+            "id": 99,
+            "q": "What’s something you look forward to doing together in the future?"
+          }
+        ],
           "wildcards":[
+            {
+              "id": 1,
+              "q": "WILDCARD: On a scale from 1 to 10, rate each other’s cuddling skills. Discuss your ratings."
+            },
+            {
+              "id": 2,
+              "q": "WILDCARD: Draw a portrait of your partner in one minute. Compare the results."
+            },
+            {
+              "id": 3,
+              "q": "WILDCARD: Rate how well you know your partner on a scale of 1 to 10. Compare and explain."
+            },
+            {
+              "id": 4,
+              "q": "WILDCARD: Guess how many times a week your partner would ideally like to have sex. Compare your guesses."
+            },
+            {
+              "id": 5,
+              "q": "WILDCARD: Rate each other’s cooking skills on a scale of 1 to 10. Compare and explain."
+            },
+            {
+              "id": 6,
+              "q": "WILDCARD: Maintain eye contact with each other for 30 seconds. What did you notice?"
+            },
+            {
+              "id": 7,
+              "q": "WILDCARD: Decide who is most likely to make you both late for an event. Write down your answer and compare."
+            },
+            {
+              "id": 8,
+              "q": "WILDCARD: Rate how well you think your partner knows you on a scale of 1 to 10. Compare and explain."
+            },
+            {
+              "id": 9,
+              "q": "WILDCARD: Share a secret fantasy (not necessarily sexual)."
+            },
+            {
+              "id": 10,
+              "q": "WILDCARD: Take a selfie together."
+            },
+            {
+              "id": 11,
+              "q": "WILDCARD: Draw a quick sketch of each other (30 seconds). Compare."
+            },
+            {
+              "id": 12,
+              "q": "WILDCARD: Give each other a compliment you don’t often hear."
+            },
+            {
+              "id": 13,
+              "q": "WILDCARD: Write a short love note to each other. Exchange and read silently."
+            },
+            {
+              "id": 14,
+              "q": "WILDCARD: Draw a doodle of a favorite memory together. Compare and explain."
+            },
+            {
+              "id": 15,
+              "q": "WILDCARD: Write down your favorite inside joke. Share and laugh together."
+            },
+            {
+              "id": 16,
+              "q": "WILDCARD: Plan a surprise date for each other within the next month. Reveal your plans."
+            },
+            {
+              "id": 17,
+              "q": "WILDCARD: Swap phones and find the funniest photo you have of each other. Share."
+            },
+            {
+              "id": 18,
+              "q": "WILDCARD: Describe each other in three words. Compare and explain."
+            },
+            {
+              "id": 19,
+              "q": "WILDCARD: Share your favorite childhood memory. Both players. Compare and explain."
+            },
+            {
+              "id": 20,
+              "q": "WILDCARD: Write a short story together, one sentence at a time. Take turns."
+            },
+            {
+              "id": 21,
+              "q": "WILDCARD: Give each other a compliment you haven’t said before."
+            },
+            {
+              "id": 22,
+              "q": "WILDCARD: Swap a piece of clothing and take a funny photo together."
+            },
+            {
+              "id": 23,
+              "q": "WILDCARD: Create a playlist of songs that remind you of each other."
+            },
+            {
+              "id": 24,
+              "q": "WILDCARD: Share your favorite joke. Both players."
+            },
+            {
+              "id": 25,
+              "q": "WILDCARD: Draw a quick sketch of your partner's smile."
+            },
+            {
+              "id": 26,
+              "q": "WILDCARD: Share a fun fact you know. Both players."
+            },
+            {
+              "id": 27,
+              "q": "WILDCARD: Write down your partner’s best dance move. Show it off!"
+            },
+            {
+              "id": 28,
+              "q": "WILDCARD: Describe your partner’s personality in three emojis."
+            },
+            {
+              "id": 29,
+              "q": "WILDCARD: Plan your dream vacation together."
+            },
+            {
+              "id": 30,
+              "q": "WILDCARD: Make up a handshake unique to just the two of you."
+            },
+            {
+              "id": 31,
+              "q": "WILDCARD: Share your favorite thing about each other’s family."
+            },
+            {
+              "id": 32,
+              "q": "WILDCARD: Share the first thing that comes to mind when you hear your partner’s name."
+            },
+            {
+              "id": 33,
+              "q": "WILDCARD: Share your favorite season and why. Both players."
+            },
+            {
+              "id": 34,
+              "q": "WILDCARD: Share a funny or embarrassing story from your childhood."
+            },
+            {
+              "id": 35,
+              "q": "WILDCARD: Share a personal goal and how your partner can help you achieve it."
+            },
+            {
+              "id": 36,
+              "q": "WILDCARD: Describe a dream you’ve had recently."
+            },
+            {
+              "id": 37,
+              "q": "WILDCARD: Share your favorite smell and why it’s special to you."
+            },
+            {
+              "id": 38,
+              "q": "WILDCARD: Take turns impersonating a famous person and guess who it is."
+            },
+            {
+              "id": 39,
+              "q": "WILDCARD: Share the last thing that made you laugh really hard."
+            },
+            {
+              "id": 40,
+              "q": "WILDCARD: Share something you’re grateful for today."
+            },
+            {
+              "id": 41,
+              "q": "WILDCARD: Write down a secret wish you have. Exchange and read."
+            },
+            {
+              "id": 42,
+              "q": "WILDCARD: Share your favorite way to relax. Both players."
+            },
+            {
+              "id": 43,
+              "q": "WILDCARD: Describe your perfect day from start to finish."
+            },
+            {
+              "id": 44,
+              "q": "WILDCARD: Share your favorite book and why it’s special to you."
+            },
+            {
+              "id": 45,
+              "q": "WILDCARD: Share a skill you wish you could learn."
+            },
+            {
+              "id": 46,
+              "q": "WILDCARD: Share your favorite holiday and why."
+            },
+            {
+              "id": 47,
+              "q": "WILDCARD: Describe your partner’s laugh in one word."
+            },
+            {
+              "id": 48,
+              "q": "WILDCARD: Share your favorite way to spend a weekend."
+            },
+            {
+              "id": 49,
+              "q": "WILDCARD: Share a song that always makes you happy."
+            },
+            {
+              "id": 50,
+              "q": "WILDCARD: Write a note to your partner that they can find later."
+            },
+            {
+              "id": 51,
+              "q": "WILDCARD: Share a fear you’ve overcome."
+            },
+            {
+              "id": 52,
+              "q": "WILDCARD: Describe your partner’s eyes in three words."
+            },
+            {
+              "id": 53,
+              "q": "WILDCARD: Share your favorite ice cream flavor and why."
+            },
+            {
+              "id": 54,
+              "q": "WILDCARD: Share a funny nickname you’ve had."
+            },
+            {
+              "id": 55,
+              "q": "WILDCARD: Share your favorite way to stay active."
+            },
+            {
+              "id": 56,
+              "q": "WILDCARD: Share a hidden talent you have."
+            },
+            {
+              "id": 57,
+              "q": "WILDCARD: Share your favorite animal and why."
+            },
+            {
+              "id": 58,
+              "q": "WILDCARD: Describe your partner’s style in three words."
+            },
+            {
+              "id": 59,
+              "q": "WILDCARD: Share a dream job you had as a child."
+            },
+            {
+              "id": 60,
+              "q": "WILDCARD: Share your favorite place to visit and why."
+            },
+            {
+              "id": 61,
+              "q": "WILDCARD: Write down a wish for your partner. Exchange and read."
+            },
+            {
+              "id": 62,
+              "q": "WILDCARD: Share your favorite thing to cook or bake."
+            }
 
           ]
         },
