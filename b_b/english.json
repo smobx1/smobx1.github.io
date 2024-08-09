@@ -4611,28 +4611,112 @@
         {
           "level":1,
           "questions":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ],
           "wildcards":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ]
         },
         {
           "level":2,
           "questions":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ],
           "wildcards":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ]
         },
         {
           "level":3,
           "questions":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ],
           "wildcards":[
-
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"},
+            {"id": 1,"q": "$randomPlayer1 ask $randomPlayer2 what s his name?"}
           ]
         }
       ]
