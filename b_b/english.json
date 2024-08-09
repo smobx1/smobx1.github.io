@@ -2,7 +2,7 @@
   "gameCategories": [
     {
       "id": 0,
-      "name": "Base game 01 last",
+      "name": "Base game",
       "subtitle": "Get ready to know more about your friends.",
       "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
       "premium": false,
@@ -1478,6 +1478,186 @@
               "id":64,
               "q":"WILDCARD: GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."
             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Couples game",
+      "subtitle": "Couples game description",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels":[
+        {
+          "level":1,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":2,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":3,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Best friends",
+      "subtitle": "Best friends game description",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels":[
+        {
+          "level":1,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":2,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":3,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Family",
+      "subtitle": "Family game description",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels":[
+        {
+          "level":1,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":2,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":3,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "XXX",
+      "subtitle": "XXX game description",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels":[
+        {
+          "level":1,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":2,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":3,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Work",
+      "subtitle": "Work game description",
+      "image": "https://cdn-icons-png.flaticon.com/512/1587/1587077.png",
+      "premium": false,
+      "levels":[
+        {
+          "level":1,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":2,
+          "questions":[
+
+          ],
+          "wildcards":[
+
+          ]
+        },
+        {
+          "level":3,
+          "questions":[
+
+          ],
+          "wildcards":[
+
           ]
         }
       ]
