@@ -4835,6 +4835,10 @@
     "gameOverMessage":[
       {"message":"Good, try another category!"},
       {"message":"Are you drunk yet?"}
+    ],
+    "gameStartMessages":[
+      {"message":"Welcome! Enjoy our game"},
+      {"message":"Good luck today!"}
     ]
   }
 }
