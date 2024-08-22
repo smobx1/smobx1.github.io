@@ -4833,8 +4833,9 @@
     "build": "1",
     "homeMessage":"Heey, you have 50% off today!",
     "gameOverMessage":[
-      {"message":"Good, try another category!"},
-      {"message":"Are you drunk yet?"}
+      {"message":"Noiceeee, now try another category! It will be fun"},
+      {"message":"EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+      {"message":"EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
     ],
     "gameStartMessages":[
       {"message":"Welcome! Enjoy our game"},
