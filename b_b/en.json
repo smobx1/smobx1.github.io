@@ -1487,7 +1487,7 @@
       "name": "Couples game",
       "subtitle": "Couples game description",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
-      "premium": false,
+      "premium": true,
       "levels":[
         {
           "level":1,
@@ -3392,7 +3392,7 @@
       "name": "Best friends",
       "subtitle": "Best friends game description",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
-      "premium": false,
+      "premium": true,
       "levels":[
         {
           "level":1,
@@ -4606,7 +4606,7 @@
       "name": "Family",
       "subtitle": "Family game description",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
-      "premium": false,
+      "premium": true,
       "levels":[
         {
           "level":1,
@@ -4727,7 +4727,7 @@
       "name": "XXX",
       "subtitle": "XXX game description",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
-      "premium": false,
+      "premium": true,
       "levels":[
         {
           "level":1,
@@ -4763,7 +4763,7 @@
       "name": "Work",
       "subtitle": "Work game description",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
-      "premium": false,
+      "premium": true,
       "levels":[
         {
           "level":1,
