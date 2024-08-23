@@ -2,8 +2,8 @@
   "gameCategories": [
     {
       "id": 0,
-      "name": "Base game",
-      "subtitle": "Dive deep into meaningful conversations and discover new layers of understanding with those around you. Perfect for breaking the ice and building connections, one question at a time.",
+      "name": "Beyond bonds",
+      "subtitle": "Dive deep into meaningful conversations and discover new layers of understanding with those around you.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/base.png",
       "premium": false,
       "levels":[
@@ -1484,8 +1484,8 @@
     },
     {
       "id": 1,
-      "name": "Couples game",
-      "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer. Explore the depths of your relationship and uncover new insights about each other.",
+      "name": "Beyond couples",
+      "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": true,
       "levels":[
@@ -3389,7 +3389,7 @@
     },
     {
       "id": 2,
-      "name": "Best friends",
+      "name": "Beyond best friends",
       "subtitle": "Celebrate your unique friendship with fun and thought-provoking questions. Whether you're lifelong pals or new friends, this game helps you learn even more about each other.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": true,
@@ -4603,8 +4603,8 @@
     },
     {
       "id": 3,
-      "name": "Family",
-      "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions. Ideal for family gatherings, this game helps you explore your shared history and future together.",
+      "name": "Beyond family",
+      "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": true,
       "levels":[
@@ -4724,8 +4724,8 @@
     },
     {
       "id": 4,
-      "name": "Love",
-      "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level. Designed for couples looking to explore their desires and fantasies together.",
+      "name": "Beyond love",
+      "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": true,
       "levels":[
@@ -4760,8 +4760,8 @@
     },
     {
       "id": 5,
-      "name": "Work",
-      "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections. Perfect for creating a positive and collaborative work environment.",
+      "name": "Beyond work",
+      "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": true,
       "levels":[
