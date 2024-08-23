@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Base game",
-      "subtitle": "Get ready to know more about your friends.",
+      "subtitle": "Dive deep into meaningful conversations and discover new layers of understanding with those around you. Perfect for breaking the ice and building connections, one question at a time.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/base.png",
       "premium": false,
       "levels":[
@@ -1485,7 +1485,7 @@
     {
       "id": 1,
       "name": "Couples game",
-      "subtitle": "This category is great for couples",
+      "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer. Explore the depths of your relationship and uncover new insights about each other.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": true,
       "levels":[
@@ -3390,7 +3390,7 @@
     {
       "id": 2,
       "name": "Best friends",
-      "subtitle": "Discover your best friend’s secrets",
+      "subtitle": "Celebrate your unique friendship with fun and thought-provoking questions. Whether you're lifelong pals or new friends, this game helps you learn even more about each other.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": true,
       "levels":[
@@ -4604,7 +4604,7 @@
     {
       "id": 3,
       "name": "Family",
-      "subtitle": "Questions to strengthen family bonds",
+      "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions. Ideal for family gatherings, this game helps you explore your shared history and future together.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": true,
       "levels":[
@@ -4725,7 +4725,7 @@
     {
       "id": 4,
       "name": "Love",
-      "subtitle": "Romantic game & more",
+      "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level. Designed for couples looking to explore their desires and fantasies together.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": true,
       "levels":[
@@ -4761,7 +4761,7 @@
     {
       "id": 5,
       "name": "Work",
-      "subtitle": "Discover your colleagues personality",
+      "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections. Perfect for creating a positive and collaborative work environment.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": true,
       "levels":[
