@@ -7,9 +7,13 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/base.png",
       "premium": false,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED. "},
+        {"message":"\"EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT.\""},
+        {"message":"\"EACH PLAYER WRITE A NOTE OF GRATITUDE TO THE OTHER. FOLD & EXCHANGE. OPEN WHEN YOU WANT \nTO FEEL APPRECIATED. \""},
+        {"message":"\"EACH PLAYER WRITE DOWN A MEANINGFUL LESSON YOU'VE LEARNED FROM THE OTHER. FOLD & EXCHANGE. OPEN WHEN \nYOU SEEK INSPIRATION.\n\""},
+        {"message":"Each player write a word of encouragement for the other. Fold and exchange. Open when you need a boost."},
+        {"message":"Each player write what you believe the other’s superpower is. Fold and exchange. Open when you need to feel empowered."},
+        {"message":"Each player write a promise to the other. Fold and exchange. Open when you need reassurance."}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -409,9 +413,13 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": true,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"\"Each player writes a heartfelt message to the other, expressing their hopes and dreams for the future. \nExchange and read them aloud, then keep them as a reminder of your bond.\""},
+        {"message":"Discuss your biggest dreams and aspirations for your relationship. Make a plan to achieve them together."},
+        {"message":"Write a heartfelt letter to each other reflecting on your journey together. Exchange and read aloud."},
+        {"message":"\"Create a time capsule together with items that represent your relationship. \nDecide when to open it in the future.\""},
+        {"message":"Plan a significant future milestone celebration. Discuss the details and make it a goal."},
+        {"message":"\"Share your most cherished memories from your relationship. \nReflect on how far you’ve come together.\""},
+        {"message":"Write a love letter to each other to be read in ten years. Exchange and seal."}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -916,9 +924,16 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": true,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"\"Each write a heartfelt letter to the other expressing your appreciation and share them. \nOpen when not together anymore.\n\n\""},
+        {"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
+        {"message":"Each person shares their favorite quality about the other and why it’s important to them."},
+        {"message":"Describe your favorite memory together and why it stands out. Compare and discuss."},
+        {"message":"Share what you value most in your friendship and why."},
+        {"message":"Reflect on the game: what’s one thing you learned about your friend that you didn’t know before?"},
+        {"message":"List three things you’ve learned from each other and how they’ve impacted your life."},
+        {"message":"Describe how your friendship has grown since you first met."},
+        {"message":"Write down one goal you want to achieve together in the next year. Share and make a plan."},
+        {"message":"Share one way you think your friendship will evolve in the future."}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -1251,9 +1266,17 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": true,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"\"“Take a moment to reflect on your favorite memory from today’s game. (Everyone)\n Share it with the group and explain why it stands out to you.”\""},
+        {"message":"\"Create a time capsule with small notes or items representing each family member’s current \ndreams or achievements. Decide on a date to open it in the future.”\""},
+        {"message":"\"Take a family photo together to capture the moment. \nDiscuss what you’d like to remember about this day and the game.”\""},
+        {"message":"\"“Create a vision board as a family. Discuss and list out one big goal or dream each of you has for the \nfamily’s future. You can draw, write, or make a collage.”\""},
+        {"message":"\"“Discuss and decide on a new tradition or activity that you would like to start as a family. \nShare why it’s meaningful to you.”\""},
+        {"message":"\"“Each person writes a letter to their future self, describing their current life and what they hope for the future. \nSeal the letters and set a date to open them together.”\""},
+        {"message":"\"“Each person expresses one thing they are grateful for about another family member. \nMake sure to specify why it matters to you.”\""},
+        {"message":"\"“Write a short letter to each family member, sharing what you admire about them or a \nspecial memory you have with them. Exchange the letters.”\""},
+        {"message":"\" “Each person performs a short talent or shares a special skill they have. \nCelebrate and appreciate each other’s unique abilities.”\""},
+        {"message":"\"“Write down a favorite family memory or something you’ve learned about another family member \ntoday. Put it in a jar to revisit during future family gatherings.”\""},
+        {"message":"\" “Agree on a fun family challenge or goal to achieve together within the next month. \nIt could be a fitness challenge, a creative project, or a learning goal.”\""}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -1590,9 +1613,7 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": true,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"Noiceeee, now try another category! It will be fun"}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -1929,9 +1950,7 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": true,
       "gameOverMessage":[
-        {"message":"Noiceeee, now try another category! It will be fun"},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
-        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+        {"message":"How do you maintain strong relationships with colleagues, even when working remotely?"}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
