@@ -6,6 +6,15 @@
       "subtitle": "Dive deep into meaningful conversations and discover new layers of understanding with those around you.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/base.png",
       "premium": false,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
@@ -399,6 +408,15 @@
       "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": true,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
@@ -897,6 +915,15 @@
       "subtitle": "Celebrate your unique friendship with fun and thought-provoking questions. Whether you're lifelong pals or new friends, this game helps you learn even more about each other.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": true,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
@@ -1223,6 +1250,15 @@
       "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": true,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
@@ -1553,6 +1589,15 @@
       "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": true,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
@@ -1883,6 +1928,15 @@
       "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": true,
+      "gameOverMessage":[
+        {"message":"Noiceeee, now try another category! It will be fun"},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED."},
+        {"message":"FINAL CARD: EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."}
+      ],
+      "gameStartMessages":[
+        {"message":"Welcome! Enjoy our game"},
+        {"message":"Good luck today!"}
+      ],
       "levels":[
         {
           "level":1,
