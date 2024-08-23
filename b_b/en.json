@@ -1485,7 +1485,7 @@
     {
       "id": 1,
       "name": "Couples game",
-      "subtitle": "Couples game description",
+      "subtitle": "This category is great for couples",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": true,
       "levels":[
@@ -3390,7 +3390,7 @@
     {
       "id": 2,
       "name": "Best friends",
-      "subtitle": "Best friends game description",
+      "subtitle": "Discover your best friend’s secrets",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": true,
       "levels":[
@@ -4604,7 +4604,7 @@
     {
       "id": 3,
       "name": "Family",
-      "subtitle": "Family game description",
+      "subtitle": "Questions to strengthen family bonds",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": true,
       "levels":[
@@ -4724,8 +4724,8 @@
     },
     {
       "id": 4,
-      "name": "XXX",
-      "subtitle": "XXX game description",
+      "name": "Love",
+      "subtitle": "Romantic game & more",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": true,
       "levels":[
@@ -4761,7 +4761,7 @@
     {
       "id": 5,
       "name": "Work",
-      "subtitle": "Work game description",
+      "subtitle": "Discover your colleagues personality",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": true,
       "levels":[
