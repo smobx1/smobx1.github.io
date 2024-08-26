@@ -13,22 +13,20 @@
         {"message":"wwww TODO"}
       ],
       "questions":[
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"},
-        {"category":"Normal","q":"randomPlayer1, kiss randomPlayer2 or get 2 penalties!"}
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"},
+        {"category":"Normal","q":"$randomPlayer1, kiss $randomPlayer2 or get 2 penalties!"}
       ]
     },
     {
