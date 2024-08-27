@@ -7,10 +7,10 @@
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/base.png",
       "premium": false,
       "gameOverMessage":[
-        {"message":"wwww TODO"}
+        {"message":"Hope you had fun!"}
       ],
       "gameStartMessages":[
-        {"message":"wwww TODO"}
+        {"message":"Welcome! Enjoy the game."}
       ],
       "questions":[
         {"type":"Normal","q":"$randomPlayer1, take 3 penalties if you ever left a cafe/restaurant without paying"},
