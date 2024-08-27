@@ -16,8 +16,8 @@
         {"message":"Each player write a promise to the other. Fold and exchange. Open when you need reassurance."}
       ],
       "gameStartMessages":[
-        {"message":"Welcome! Enjoy our game"},
-        {"message":"Good luck today!"}
+        {"message":"Welcome! Enjoy our game.\nRules: you should pass the phone every question."},
+        {"message":"Good luck today!\nRules: you should pass the phone every question."}
       ],
       "levels":[
         {
