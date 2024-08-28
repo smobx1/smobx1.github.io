@@ -1943,7 +1943,7 @@
       "name": "Beyond work",
       "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
-      "premium": true,
+      "premium": false,
       "gameOverMessage":[
         {"message":"How do you maintain strong relationships with colleagues, even when working remotely?"}
       ],
