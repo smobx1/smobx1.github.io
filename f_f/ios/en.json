@@ -2,8 +2,8 @@
   "gameCategories": [
     {
       "id": 0,
-      "name": "Fiesta night iOS",
-      "subtitle": "Get ready to cheer up your night!",
+      "name": "Fiesta night",
+      "subtitle": "Get ready to kick off the ultimate party! This category brings fun challenges, outrageous dares, and hilarious questions to keep the good vibes rolling all night long.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/base.png",
       "premium": false,
       "gameOverMessage":[
@@ -242,7 +242,7 @@
     {
       "id": 1,
       "name": "4 couples",
-      "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer.",
+      "subtitle": "Perfect for double dates and couples’ hangouts! Test how well you know each other with playful questions, fun tasks, and a sprinkle of romance to spice up the evening.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/couple.png",
       "premium": true,
       "gameOverMessage":[
@@ -280,7 +280,7 @@
     {
       "id": 2,
       "name": "BFFs",
-      "subtitle": "Celebrate your unique friendship with fun and thought-provoking questions. Whether you're lifelong pals or new friends, this game helps you learn even more about each other.",
+      "subtitle": "The ultimate test of friendship! Dive into challenges that will have you laughing, confessing secrets, and maybe even learning something new about your besties.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/best_friends.png",
       "premium": true,
       "gameOverMessage":[
@@ -321,7 +321,7 @@
     {
       "id": 3,
       "name": "Inside family",
-      "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions.",
+      "subtitle": "Gather the whole family for some lighthearted fun! This category is filled with activities and questions suitable for all ages, making sure everyone gets involved and enjoys the game.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/family.png",
       "premium": true,
       "gameOverMessage":[
@@ -350,7 +350,7 @@
     {
       "id": 4,
       "name": "First date?!",
-      "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level.",
+      "subtitle": "Break the ice with this perfect first date companion! This category offers fun, light-hearted prompts designed to get the conversation flowing and help you get to know each other better.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/first_date.png",
       "premium": true,
       "gameOverMessage":[
@@ -382,7 +382,7 @@
     {
       "id": 5,
       "name": "Team-buildings..",
-      "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections.",
+      "subtitle": "Bring your team closer together with this mix of challenges and questions designed to build trust, encourage collaboration, and, most importantly, have a great time! Perfect for work events or group activities.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/work.png",
       "premium": true,
       "gameOverMessage":[
