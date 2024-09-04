@@ -6,6 +6,7 @@
       "subtitle": "Get ready to kick off the ultimate party! This category brings fun challenges, outrageous dares, and hilarious questions to keep the good vibes rolling all night long.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/base.png",
       "premium": false,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Hope you had fun!"}
       ],
@@ -220,6 +221,7 @@
       "subtitle": "Perfect for double dates and couples’ hangouts! Test how well you know each other with playful questions, fun tasks, and a sprinkle of romance to spice up the evening.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/couple.png",
       "premium": true,
+      "isTrending": true,
       "gameOverMessage":[
         {"message":"Each player writes a heartfelt message to the other, expressing their hopes and dreams for the future. \nExchange and read them aloud, then keep them as a reminder of your bond."},
         {"message":"Discuss your biggest dreams and aspirations for your relationship. Make a plan to achieve them together."},
@@ -294,6 +296,7 @@
       "subtitle": "The ultimate test of friendship! Dive into challenges that will have you laughing, confessing secrets, and maybe even learning something new about your besties.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/best_friends.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Each write a heartfelt letter to the other expressing your appreciation and share them. \nOpen when not together anymore.\n\n"},
         {"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
@@ -369,8 +372,15 @@
       "subtitle": "Gather the whole family for some lighthearted fun! This category is filled with activities and questions suitable for all ages, making sure everyone gets involved and enjoys the game.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/family.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
-
+        {"message":"Each player writes a heartfelt message to the other, expressing their hopes and dreams for the future. \nExchange and read them aloud, then keep them as a reminder of your bond."},
+        {"message":"Discuss your biggest dreams and aspirations for your relationship. Make a plan to achieve them together."},
+        {"message":"Write a heartfelt letter to each other reflecting on your journey together. Exchange and read aloud."},
+        {"message":"Create a time capsule together with items that represent your relationship. \nDecide when to open it in the future."},
+        {"message":"Plan a significant future milestone celebration. Discuss the details and make it a goal."},
+        {"message":"Share your most cherished memories from your relationship. \nReflect on how far you’ve come together."},
+        {"message":"Write a love letter to each other to be read in ten years. Exchange and seal."}
       ],
       "gameStartMessages":[
         {"message":"Welcome! Enjoy our game"},
@@ -436,6 +446,7 @@
       "subtitle": "Break the ice with this perfect first date companion! This category offers fun, light-hearted prompts designed to get the conversation flowing and help you get to know each other better.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/first_date.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Noiceeee, now try another category! It will be fun"}
       ],
@@ -503,6 +514,7 @@
       "subtitle": "Bring your team closer together with this mix of challenges and questions designed to build trust, encourage collaboration, and, most importantly, have a great time! Perfect for work events or group activities.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/work.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"How do you maintain strong relationships with colleagues, even when working remotely?"}
       ],
