@@ -6,6 +6,7 @@
       "subtitle": "Incepe seara cu jocul de baza.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/base.png",
       "premium": false,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Hope you had fun!"}
       ],
@@ -220,6 +221,7 @@
       "subtitle": "Perfect pentru a adauga niste spice-uri unei seri obisnuite.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/couple.png",
       "premium": true,
+      "isTrending": true,
       "gameOverMessage":[
         {"message":"Each player writes a heartfelt message to the other, expressing their hopes and dreams for the future. \nExchange and read them aloud, then keep them as a reminder of your bond."},
         {"message":"Discuss your biggest dreams and aspirations for your relationship. Make a plan to achieve them together."},
@@ -294,6 +296,7 @@
       "subtitle": "Pentru cei mai buni prieteni..",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/best_friends.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Each write a heartfelt letter to the other expressing your appreciation and share them. \nOpen when not together anymore.\n\n"},
         {"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
@@ -369,6 +372,7 @@
       "subtitle": "Joaca cu familia ta",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/family.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
 
       ],
@@ -436,6 +440,7 @@
       "subtitle": "Sparge gheata cum trebuie!",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/first_date.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"Noiceeee, now try another category! It will be fun"}
       ],
@@ -503,6 +508,7 @@
       "subtitle": "Joaca cu echipa si cunoaste-ti colegii mai bine!",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/f_f/assets/work.png",
       "premium": true,
+      "isTrending": false,
       "gameOverMessage":[
         {"message":"How do you maintain strong relationships with colleagues, even when working remotely?"}
       ],
