@@ -126,7 +126,7 @@
         {"type":"Normal","q":"$randomPlayer1, show everyone a nude pic (received by you) from your phone or take 2 points"},
         {"type":"Normal","q":"$randomPlayer1 and $randomPlayer2. Who touches first a chair wins. The loser take 4 points. Pay attention next time hehe!"},
         {"type":"Normal","q":"$randomPlayer1, if your shoes cost more thank 150$, give out 3 points. If not, take them!"},
-        {"type":"Normal","q":"$randomPlayer1, if you own a $randomFashionBrand item, hand out 3 points. If not, take them"},
+        {"type":"Normal","q":"$randomPlayer1, if you own a $randomBrand item, hand out 3 points. If not, take them"},
         {"type":"Normal","q":"$randomPlayer1, take 2 points if you've never been on a Golf Course. Hand them if you've been"},
         {"type":"Normal","q":"Everyone take 2 points!"},
         {"type":"Normal","q":"Everyone take 1 point!"},
