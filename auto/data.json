@@ -43,16 +43,60 @@
       "questions": []
     }
   },
-  "signs": [
+  "indicators": [
     {
       "name": "Indicatoare de avertizare",
-      "items": [
+      "indicators": [
         {
           "name": "Curba la stanga",
-          "about": "Este amplasat la cel mult 200m de o curba la stanga.",
+          "about": "Este amplasat la cel mult 200 m de o curba la stanga. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa, toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise.",
+          "image": "image_url"
+        },
+        {
+          "name": "Curba la dreapta",
+          "about": "Este amplasate la cel mult 200 m de o curba la dreapta. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa, toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise.",
+          "image": "image_url"
+        },
+        {
+          "name": "Curba dubla sau o succesiune de mai multe curbe, prima la stanga",
+          "about": "Este amplasate la cel mult 200 m de o curba dubla sau o succesiune de mai multe curbe. Conducatorul trebuie sa circule cu viteza redusa in curbe, iar daca vizibilitatea este redusa, toate manevrele (depasirea, oprirea, stationarea, mersul inapoi, intoarcerea) sunt interzise.",
           "image": "image_url"
         }
       ]
+    },
+    {
+      "name": "Indicatoare de prioritate",
+      "indicators": [
+        {
+          "name": "Example Sign Name",
+          "about": "Description of the sign goes here.",
+          "image": "image_url"
+        }
+      ]
+    },
+    {
+      "name": "Indicatoare de interzicere sau restrictie",
+      "indicators": []
+    },
+    {
+      "name": "Indicatoare de obligare",
+      "indicators": []
+    },
+    {
+      "name": "Indicatoare de orientare",
+      "indicators": []
+    },
+    {
+      "name": "Indicatoare de informare",
+      "indicators": []
+    },
+    {
+      "name": "Indicatoare de informare turistica",
+      "indicators": []
+    },
+    {
+      "name": "Panouri aditionale",
+      "indicators": []
     }
   ],
   "legislation": [
