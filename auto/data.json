@@ -1,0 +1,64 @@
+{
+  "question_bank": {
+    "category_a": {
+      "description": "Questions for category A vehicles",
+      "total_questions": 786,
+      "questions": [
+        {
+          "id": "a0",
+          "question": "Aveți posibilitatea de a trece pe sensul opus de mers, la întâlnirea unui astfel de marcaj rutier?",
+          "answers": [
+            {"option": "a", "text": "da"},
+            {"option": "b", "text": "nu"},
+            {"option": "c", "text": "legal, nu este stabilit acest aspect"}
+          ],
+          "correct": ["b"],
+          "image": null
+        }
+      ]
+    },
+    "category_b": {
+      "description": "Questions for category B vehicles",
+      "total_questions": 2366,
+      "questions": []
+    },
+    "category_c": {
+      "description": "Questions for category C vehicles",
+      "total_questions": 1026,
+      "questions": []
+    },
+    "category_d": {
+      "description": "Questions for category D vehicles",
+      "total_questions": 926,
+      "questions": []
+    },
+    "category_e": {
+      "description": "Questions for category E vehicles",
+      "total_questions": 136,
+      "questions": []
+    },
+    "category_tr": {
+      "description": "Questions for category Tr vehicles",
+      "total_questions": 1526,
+      "questions": []
+    }
+  },
+  "signs": [
+    {
+      "name": "Indicatoare de avertizare",
+      "items": [
+        {
+          "name": "Curba la stanga",
+          "about": "Este amplasat la cel mult 200m de o curba la stanga.",
+          "image": "image_url"
+        }
+      ]
+    }
+  ],
+  "legislation": [
+    {
+      "chapter_name": "CAP 1: Dispozitii generale",
+      "html_content": "<p><b>html content here</b></p>"
+    }
+  ]
+}
