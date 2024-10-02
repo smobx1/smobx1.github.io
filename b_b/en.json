@@ -6,6 +6,7 @@
       "subtitle": "Dive deep into meaningful conversations and discover new layers of understanding with those around you.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/base.png",
       "premium": false,
+      "suggested_for": null,
       "gameOverMessage":[
         {"message":"EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED. "},
         {"message":"EACH PLAYER WRITE A REFLECTION ABOUT YOUR TIME TOGETHER. FOLD & EXCHANGE. OPEN WHEN YOU NEED A REMINDER OF \nTHIS MOMENT."},
@@ -411,6 +412,7 @@
       "subtitle": "Strengthen your bond with intimate and revealing questions designed to bring you and your partner closer.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/couple.png",
       "premium": false,
+      "suggested_for": "Ideal for 2",
       "gameOverMessage":[
         {"message":"Each player writes a heartfelt message to the other, expressing their hopes and dreams for the future. \nExchange and read them aloud, then keep them as a reminder of your bond."},
         {"message":"Discuss your biggest dreams and aspirations for your relationship. Make a plan to achieve them together."},
@@ -921,6 +923,7 @@
       "subtitle": "Celebrate your unique friendship with fun and thought-provoking questions. Whether you're lifelong pals or new friends, this game helps you learn even more about each other.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/best_friends.png",
       "premium": false,
+      "suggested_for": "Ideal for 2-4",
       "gameOverMessage":[
         {"message":"Each write a heartfelt letter to the other expressing your appreciation and share them. \nOpen when not together anymore.\n\n"},
         {"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
@@ -1262,6 +1265,7 @@
       "subtitle": "Bring your family closer with questions that spark laughter, nostalgia, and heartfelt discussions.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/family.png",
       "premium": false,
+      "suggested_for": null,
       "gameOverMessage":[
         {"message":"“Take a moment to reflect on your favorite memory from today’s game. (Everyone)\n Share it with the group and explain why it stands out to you.”"},
         {"message":"Create a time capsule with small notes or items representing each family member’s current \ndreams or achievements. Decide on a date to open it in the future.”"},
@@ -1608,6 +1612,7 @@
       "subtitle": "Turn up the heat with daring and provocative questions that take your relationship to a whole new level.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/xxx.png",
       "premium": false,
+      "suggested_for": "Ideal for 2",
       "gameOverMessage":[
         {"message":"Noiceeee, now try another category! It will be fun"}
       ],
@@ -1944,6 +1949,7 @@
       "subtitle": "Foster team-building and strengthen professional relationships with questions that encourage honest conversations and deeper connections.",
       "image": "https://raw.githubusercontent.com/smobx1/smobx1.github.io/master/b_b/assets/work.png",
       "premium": false,
+      "suggested_for": null,
       "gameOverMessage":[
         {"message":"How do you maintain strong relationships with colleagues, even when working remotely?"}
       ],
