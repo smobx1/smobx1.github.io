@@ -17,7 +17,7 @@
         {"message":"Each player write a promise to the other. Fold and exchange. Open when you need reassurance."}
       ],
       "gameStartMessages":[
-        {"message": "Two Ways to Play:\nPass the Phone: After your turn, pass the phone to the next player.\nAppoint a Host: One player reads all the questions and wildcards."}
+        {"message": "Two Ways to Play\n\n1. Pass the phone: After your turn, pass the phone to the next player.\n2. Appoint a Host: One player reads all the questions and wildcards."}
       ],
       "levels":[
         {
