@@ -17,7 +17,7 @@
         {"message":"Each player write a promise to the other. Fold and exchange. Open when you need reassurance."}
       ],
       "gameStartMessages":[
-        {"message": "How to Play:\n\n1. Two Ways to Play:\nPass the Phone: After your turn, pass the phone to the next player.\nAppoint a Host: One player reads all the questions and wildcards.\n\n2. Levels & Wildcards:\nEach level has 15 questions, getting deeper as you go.\nWildcards may require actions or reflections—follow the prompts!\n\n3. Be Prepared:\nKeep pen and paper handy for certain wildcards.\n\nReady to connect, share, and have fun? Let’s play!"}
+        {"message": "1. Two Ways to Play:\nPass the Phone: After your turn, pass the phone to the next player.\nAppoint a Host: One player reads all the questions and wildcards.\n\n2. Levels & Wildcards:\nEach level has 15 questions, getting deeper as you go.\nWildcards may require actions or reflections—follow the prompts!"}
       ],
       "levels":[
         {
