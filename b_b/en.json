@@ -1989,7 +1989,6 @@
         {
           "level":1,
           "questions":[
-            {"id": 0, "q": "New question"},
             {"id": 1, "q": "What was your first-ever job, and what did you learn from it?"},
             {"id": 2, "q": "If you could switch roles with anyone in the company for a day, who would it be and why?"},
             {"id": 3, "q": "What’s one skill you bring to the team that you’re most proud of?"},
@@ -2184,7 +2183,6 @@
             {"id": 39, "q": "Share a recent moment when you felt particularly productive."},
             {"id": 40, "q": "Write down one thing that helps you stay motivated. Compare answers."},
             {"id": 41, "q": "Share a time when you received constructive feedback and how you handled it."},
-            {"id": 42, "q": "Discuss a recent project that challenged you."},
             {"id": 42, "q": "Discuss a recent project that challenged you."},
             {"id": 43, "q": "Write down one word that describes your work style. Compare answers."},
             {"id": 44, "q": "Share a time when you helped a colleague achieve something."}
