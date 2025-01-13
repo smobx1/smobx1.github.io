@@ -22,84 +22,80 @@
         {
           "level":1,
           "questions":[
-            [
-    {"id":1, "q":"WHAT ABOUT ME MAKES YOU CURIOUS?"},
-    {"id":2, "q":"WHAT'S SOMETHING ABOUT ME THAT SEEMS UNUSUAL OR INTERESTING TO YOU?"},
-    {"id":3, "q":"WHAT SONG DO YOU THINK I WOULD ROCK AT KARAOKE?"},
-    {"id":4, "q":"FINISH THE SENTENCE: AT FIRST GLANCE, YOU SEEM..."},
-    {"id":5, "q":"DO I SEEM LIKE I PREFER MORNINGS OR NIGHTS? WHY?"},
-    {"id":6, "q":"WOULD YOU GUESS I'M A CAT PERSON OR A DOG PERSON?"},
-    {"id":7, "q":"WAS I THE TYPE TO BE POPULAR IN SCHOOL? EXPLAIN."},
-    {"id":8, "q":"WHAT KIND OF COMPLIMENT DO YOU THINK I HEAR MOST OFTEN?"},
-    {"id":9, "q":"WHAT DOES MY PHONE WALLPAPER SAY ABOUT ME?"},
-    {"id":10, "q":"DO I REMIND YOU OF SOMEONE YOU KNOW?"},
-    {"id":11, "q":"WHAT DO YOU THINK I LOVE TO SPEND MONEY ON?"},
-    {"id":12, "q":"WHAT DO YOU THINK MY INSTAGRAM FEED LOOKS LIKE?"},
-    {"id":13, "q":"WHAT WAS YOUR MOST COMMON YAHOO MESSENGER STATUS IF YOU HAD ONE?"},
-    {"id":14, "q":"WHAT IS MY BODY LANGUAGE TELLING YOU RIGHT NOW?"},
-    {"id":15, "q":"WOULD I ENJOY CAMPING? HOW ELABORATE WOULD MY SETUP BE?"},
-    {"id":16, "q":"HOW MANY SPEEDING TICKETS DO YOU THINK I’VE GOTTEN?"},
-    {"id":17, "q":"WHAT’S THE FIRST THING YOU NOTICED ABOUT ME?"},
-    {"id":18, "q":"DO YOU THINK I FALL IN LOVE EASILY? WHY OR WHY NOT?"},
-    {"id":19, "q":"WHO DO YOU THINK MY CELEBRITY CRUSH IS?"},
-    {"id":20, "q":"DO I SEEM MORE CREATIVE OR ANALYTICAL? EXPLAIN."},
-    {"id":21, "q":"DO YOU THINK I’VE EVER SNOOPED THROUGH SOMEONE’S PHONE?"},
-    {"id":22, "q":"WHAT FAST FOOD PLACE DO YOU THINK I FREQUENT MOST? WHAT’S MY ORDER?"},
-    {"id":23, "q":"DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"},
-    {"id":24, "q":"DO YOU THINK I’VE EVER BEEN FIRED FROM A JOB? IF SO, FOR WHAT?"},
-    {"id":25, "q":"DO I LOOK LIKE A KIND PERSON? EXPLAIN."},
-    {"id":26, "q":"IF I WERE TO PLAY IN A MOVIE, WHAT ROLE DO YOU THINK I WOULD HAVE?"},
-    {"id":27, "q":"WHAT SCHOOL SUBJECT DO YOU THINK I EXCELLED IN? DID I STRUGGLE WITH ANY?"},
-    {"id":28, "q":"ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING SPOTLESS, 10 A TOTAL DISASTER. EXPLAIN."},
-    {"id":29, "q":"WHAT WAS YOUR FIRST IMPRESSION OF ME?"},
-    {"id":30, "q":"DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED? WHY OR WHY NOT?"},
-    {"id":31, "q":"AS A CHILD, WHAT DO YOU THINK I DREAMED OF BECOMING?"},
-    {"id":32, "q":"WHAT DO MY SHOES SAY ABOUT ME?"},
-    {"id":33, "q":"WHAT DO YOU THINK IS THE MOST CHALLENGING PART OF MY JOB?"},
-    {"id":34, "q":"DO YOU THINK I’M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."},
-    {"id":35, "q":"DESCRIBE YOUR FAVORITE HOBBY AND WHAT IT MEANS TO YOU."},
-    {"id":36, "q":"IF I WERE A FLAVOR, WHAT WOULD I BE?"},
-    {"id":37, "q":"WHAT TYPE OF MOVIE GENRE DO YOU THINK I ENJOY MOST?"},
-    {"id":38, "q":"IF I WERE TO HOST A PODCAST, WHAT WOULD IT BE ABOUT?"},
-    {"id":39, "q":"WHAT'S ONE WORD YOU THINK BEST DESCRIBES ME?"},
-    {"id":40, "q":"IF I WERE AN ANIMAL, WHICH ONE DO YOU THINK I'D BE?"},
-    {"id":41, "q":"WHAT KIND OF VACATION DESTINATION DO YOU THINK I PREFER? BEACH, MOUNTAINS, CITY, OR COUNTRYSIDE?"},
-    {"id":42, "q":"WHAT BOARD GAME OR VIDEO GAME DO YOU THINK I’D BE REALLY GOOD AT?"},
-    {"id":43, "q":"WHAT'S A JOB YOU THINK I WOULD NEVER DO?"},
-    {"id":44, "q":"IF I WERE A SEASON, WHICH ONE WOULD I BE AND WHY?"},
-    {"id":45, "q":"WHICH FICTIONAL CHARACTER DO YOU THINK I RELATE TO THE MOST?"},
-    {"id":46, "q":"WHAT KIND OF CUISINE DO YOU THINK I ENJOY THE MOST?"},
-    {"id":47, "q":"IF I WERE TO PLAN A PARTY, WHAT THEME DO YOU THINK IT WOULD HAVE?"},
-    {"id":48, "q":"DO YOU THINK I PREFER SUNRISES OR SUNSETS? WHY?"},
-    {"id":49, "q":"WHAT DO YOU THINK MY FAVORITE TIME OF DAY IS? MORNING, AFTERNOON, EVENING, OR NIGHT? DISCUSS."},
-    {"id":50, "q":"WHAT KIND OF CLOTHING STYLE DO YOU THINK I PREFER?"},
-    {"id":51, "q":"WHAT’S SOMETHING UNCOMMON OR STRANGE THAT YOU OFTEN CARRY AROUND?"},
-    {"id":52, "q":"WHAT MUSIC FESTIVAL WOULD YOU LOVE TO ATTEND AND WHY?"},
-    {"id":53, "q":"WHAT'S ONE ITEM YOU THINK I COULD NEVER LIVE WITHOUT?"},
-    {"id":54, "q":"IF I COULD HAVE ANY PET, REAL OR IMAGINARY, WHAT WOULD IT BE?"},
-    {"id":55, "q":"WHAT TV SHOW DO YOU THINK I COULD BINGE-WATCH ALL WEEKEND?"},
-    {"id":56, "q":"WHAT DO YOU THINK MY IDEAL WEEKEND LOOKS LIKE?"},
-    {"id":57, "q":"WHAT IS ONE THING YOU THINK I LOVE TO TALK ABOUT?"},
-    {"id":58, "q":"IF YOU HAD TO EAT THE SAME MEAL EVERY DAY FOR A MONTH, WHAT WOULD IT BE?"},
-    {"id":59, "q":"WHAT’S A CELEBRITY OR HISTORICAL FIGURE YOU THINK I’D GET ALONG WITH AND WHY?"},
-    {"id":60, "q":"WHAT TYPE OF BOOKS OR MOVIES DO YOU THINK I’M MOST DRAWN TO?"},
-    {"id":61, "q":"IF I WERE TO WIN AN AWARD, WHAT DO YOU THINK IT WOULD BE FOR?"},
-    {"id":62, "q":"WHAT DO YOU THINK MY FAVORITE HOLIDAY OR CELEBRATION IS?"},
-    {"id":63, "q":"WHAT’S ONE THING YOU THINK I WOULD DO IF I HAD A WHOLE DAY TO MYSELF?"},
-    {"id":64, "q":"IF I WERE TO START A BUSINESS, WHAT KIND OF BUSINESS DO YOU THINK IT WOULD BE?"},
-    {"id":65, "q":"WHAT'S ONE THING YOU THINK I WOULD CHANGE ABOUT THE WORLD?"},
-    {"id":66, "q":"IF YOU COULD RECOMMEND A HOBBY FOR ME, WHAT WOULD IT BE?"},
-    {"id":67, "q":"WHAT'S THE FIRST THING YOU NOTICE ABOUT PEOPLE?"},
-    {"id":68, "q":"WHAT KIND OF GADGET OR TOOL DO YOU THINK I WOULD FIND MOST USEFUL?"},
-    {"id":69, "q":"IF I WERE TO WRITE A BOOK, WHAT GENRE WOULD IT BE?"},
-    {"id":70, "q":"WHAT’S ONE SKILL YOU THINK I’D BE NATURALLY GOOD AT?"},
-    {"id":71, "q":"WHAT’S A FUN FACT YOU THINK I SHOULD KNOW ABOUT YOU?"},
-    {"id":72, "q":"WHAT DO YOU THINK IS THE MOST INTRIGUING THING ABOUT ME SO FAR?"}
-]
-
+            {"id":1, "q":"WHAT ABOUT ME MAKES YOU CURIOUS?"},
+            {"id":2, "q":"WHAT'S SOMETHING ABOUT ME THAT SEEMS UNUSUAL OR INTERESTING TO YOU?"},
+            {"id":3, "q":"WHAT SONG DO YOU THINK I WOULD ROCK AT KARAOKE?"},
+            {"id":4, "q":"FINISH THE SENTENCE: AT FIRST GLANCE, YOU SEEM..."},
+            {"id":5, "q":"DO I SEEM LIKE I PREFER MORNINGS OR NIGHTS? WHY?"},
+            {"id":6, "q":"WOULD YOU GUESS I'M A CAT PERSON OR A DOG PERSON?"},
+            {"id":7, "q":"WAS I THE TYPE TO BE POPULAR IN SCHOOL? EXPLAIN."},
+            {"id":8, "q":"WHAT KIND OF COMPLIMENT DO YOU THINK I HEAR MOST OFTEN?"},
+            {"id":9, "q":"WHAT DOES MY PHONE WALLPAPER SAY ABOUT ME?"},
+            {"id":10, "q":"DO I REMIND YOU OF SOMEONE YOU KNOW?"},
+            {"id":11, "q":"WHAT DO YOU THINK I LOVE TO SPEND MONEY ON?"},
+            {"id":12, "q":"WHAT DO YOU THINK MY INSTAGRAM FEED LOOKS LIKE?"},
+            {"id":13, "q":"WHAT WAS YOUR MOST COMMON YAHOO MESSENGER STATUS IF YOU HAD ONE?"},
+            {"id":14, "q":"WHAT IS MY BODY LANGUAGE TELLING YOU RIGHT NOW?"},
+            {"id":15, "q":"WOULD I ENJOY CAMPING? HOW ELABORATE WOULD MY SETUP BE?"},
+            {"id":16, "q":"HOW MANY SPEEDING TICKETS DO YOU THINK I’VE GOTTEN?"},
+            {"id":17, "q":"WHAT’S THE FIRST THING YOU NOTICED ABOUT ME?"},
+            {"id":18, "q":"DO YOU THINK I FALL IN LOVE EASILY? WHY OR WHY NOT?"},
+            {"id":19, "q":"WHO DO YOU THINK MY CELEBRITY CRUSH IS?"},
+            {"id":20, "q":"DO I SEEM MORE CREATIVE OR ANALYTICAL? EXPLAIN."},
+            {"id":21, "q":"DO YOU THINK I’VE EVER SNOOPED THROUGH SOMEONE’S PHONE?"},
+            {"id":22, "q":"WHAT FAST FOOD PLACE DO YOU THINK I FREQUENT MOST? WHAT’S MY ORDER?"},
+            {"id":23, "q":"DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?"},
+            {"id":24, "q":"DO YOU THINK I’VE EVER BEEN FIRED FROM A JOB? IF SO, FOR WHAT?"},
+            {"id":25, "q":"DO I LOOK LIKE A KIND PERSON? EXPLAIN."},
+            {"id":26, "q":"IF I WERE TO PLAY IN A MOVIE, WHAT ROLE DO YOU THINK I WOULD HAVE?"},
+            {"id":27, "q":"WHAT SCHOOL SUBJECT DO YOU THINK I EXCELLED IN? DID I STRUGGLE WITH ANY?"},
+            {"id":28, "q":"ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING SPOTLESS, 10 A TOTAL DISASTER. EXPLAIN."},
+            {"id":29, "q":"WHAT WAS YOUR FIRST IMPRESSION OF ME?"},
+            {"id":30, "q":"DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED? WHY OR WHY NOT?"},
+            {"id":31, "q":"AS A CHILD, WHAT DO YOU THINK I DREAMED OF BECOMING?"},
+            {"id":32, "q":"WHAT DO MY SHOES SAY ABOUT ME?"},
+            {"id":33, "q":"WHAT DO YOU THINK IS THE MOST CHALLENGING PART OF MY JOB?"},
+            {"id":34, "q":"DO YOU THINK I’M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN."},
+            {"id":35, "q":"DESCRIBE YOUR FAVORITE HOBBY AND WHAT IT MEANS TO YOU."},
+            {"id":36, "q":"IF I WERE A FLAVOR, WHAT WOULD I BE?"},
+            {"id":37, "q":"WHAT TYPE OF MOVIE GENRE DO YOU THINK I ENJOY MOST?"},
+            {"id":38, "q":"IF I WERE TO HOST A PODCAST, WHAT WOULD IT BE ABOUT?"},
+            {"id":39, "q":"WHAT'S ONE WORD YOU THINK BEST DESCRIBES ME?"},
+            {"id":40, "q":"IF I WERE AN ANIMAL, WHICH ONE DO YOU THINK I'D BE?"},
+            {"id":41, "q":"WHAT KIND OF VACATION DESTINATION DO YOU THINK I PREFER? BEACH, MOUNTAINS, CITY, OR COUNTRYSIDE?"},
+            {"id":42, "q":"WHAT BOARD GAME OR VIDEO GAME DO YOU THINK I’D BE REALLY GOOD AT?"},
+            {"id":43, "q":"WHAT'S A JOB YOU THINK I WOULD NEVER DO?"},
+            {"id":44, "q":"IF I WERE A SEASON, WHICH ONE WOULD I BE AND WHY?"},
+            {"id":45, "q":"WHICH FICTIONAL CHARACTER DO YOU THINK I RELATE TO THE MOST?"},
+            {"id":46, "q":"WHAT KIND OF CUISINE DO YOU THINK I ENJOY THE MOST?"},
+            {"id":47, "q":"IF I WERE TO PLAN A PARTY, WHAT THEME DO YOU THINK IT WOULD HAVE?"},
+            {"id":48, "q":"DO YOU THINK I PREFER SUNRISES OR SUNSETS? WHY?"},
+            {"id":49, "q":"WHAT DO YOU THINK MY FAVORITE TIME OF DAY IS? MORNING, AFTERNOON, EVENING, OR NIGHT? DISCUSS."},
+            {"id":50, "q":"WHAT KIND OF CLOTHING STYLE DO YOU THINK I PREFER?"},
+            {"id":51, "q":"WHAT’S SOMETHING UNCOMMON OR STRANGE THAT YOU OFTEN CARRY AROUND?"},
+            {"id":52, "q":"WHAT MUSIC FESTIVAL WOULD YOU LOVE TO ATTEND AND WHY?"},
+            {"id":53, "q":"WHAT'S ONE ITEM YOU THINK I COULD NEVER LIVE WITHOUT?"},
+            {"id":54, "q":"IF I COULD HAVE ANY PET, REAL OR IMAGINARY, WHAT WOULD IT BE?"},
+            {"id":55, "q":"WHAT TV SHOW DO YOU THINK I COULD BINGE-WATCH ALL WEEKEND?"},
+            {"id":56, "q":"WHAT DO YOU THINK MY IDEAL WEEKEND LOOKS LIKE?"},
+            {"id":57, "q":"WHAT IS ONE THING YOU THINK I LOVE TO TALK ABOUT?"},
+            {"id":58, "q":"IF YOU HAD TO EAT THE SAME MEAL EVERY DAY FOR A MONTH, WHAT WOULD IT BE?"},
+            {"id":59, "q":"WHAT’S A CELEBRITY OR HISTORICAL FIGURE YOU THINK I’D GET ALONG WITH AND WHY?"},
+            {"id":60, "q":"WHAT TYPE OF BOOKS OR MOVIES DO YOU THINK I’M MOST DRAWN TO?"},
+            {"id":61, "q":"IF I WERE TO WIN AN AWARD, WHAT DO YOU THINK IT WOULD BE FOR?"},
+            {"id":62, "q":"WHAT DO YOU THINK MY FAVORITE HOLIDAY OR CELEBRATION IS?"},
+            {"id":63, "q":"WHAT’S ONE THING YOU THINK I WOULD DO IF I HAD A WHOLE DAY TO MYSELF?"},
+            {"id":64, "q":"IF I WERE TO START A BUSINESS, WHAT KIND OF BUSINESS DO YOU THINK IT WOULD BE?"},
+            {"id":65, "q":"WHAT'S ONE THING YOU THINK I WOULD CHANGE ABOUT THE WORLD?"},
+            {"id":66, "q":"IF YOU COULD RECOMMEND A HOBBY FOR ME, WHAT WOULD IT BE?"},
+            {"id":67, "q":"WHAT'S THE FIRST THING YOU NOTICE ABOUT PEOPLE?"},
+            {"id":68, "q":"WHAT KIND OF GADGET OR TOOL DO YOU THINK I WOULD FIND MOST USEFUL?"},
+            {"id":69, "q":"IF I WERE TO WRITE A BOOK, WHAT GENRE WOULD IT BE?"},
+            {"id":70, "q":"WHAT’S ONE SKILL YOU THINK I’D BE NATURALLY GOOD AT?"},
+            {"id":71, "q":"WHAT’S A FUN FACT YOU THINK I SHOULD KNOW ABOUT YOU?"},
+            {"id":72, "q":"WHAT DO YOU THINK IS THE MOST INTRIGUING THING ABOUT ME SO FAR?"}
           ],
           "wildcards":[
-          [
     {"id":1, "q":"WILDCARD: MAINTAIN EYE CONTACT FOR THIRTY SECONDS. WHAT DO YOU FEEL?"},
     {"id":2, "q":"WILDCARD: THINK OF YOUR FAVORITE BREAKFAST CEREAL. ON THE COUNT OF 3, SAY YOUR ANSWER OUT LOUD! (BOTH PLAYERS)"},
     {"id":3, "q":"WILDCARD: CLOSE YOUR EYES. WHAT COLOR ARE MY EYES?"},
@@ -128,279 +124,666 @@
     {"id":26, "q":"WILDCARD: SHARE A FUN FACT ABOUT YOURSELF THAT NOBODY ELSE KNOWS."},
     {"id":27, "q":"WILDCARD: GIVE EACH OTHER A “UNIQUE SUPERPOWER” BASED ON YOUR FIRST IMPRESSION."}
 ]
-
-          ]
         },
         {
-          "level":2,
-          "questions":[
-           [
-    {"id":1, "q":"WHAT’S THE MOST PRESSING QUESTION YOU’RE SEEKING ANSWERS TO RIGHT NOW?"},
-    {"id":2, "q":"WHAT’S YOUR EARLIEST MEMORY OF TRUE JOY?"},
-    {"id":3, "q":"HAS YOUR PERSPECTIVE ON ANYTHING SHIFTED RECENTLY?"},
-    {"id":4, "q":"FINISH THE STATEMENT: PEOPLE MIGHT SEE ME AS …, BUT I KNOW THAT I AM … ."},
-    {"id":5, "q":"WHAT’S THE MOST MYSTIFYING EXPERIENCE YOU’VE EVER HAD?"},
-    {"id":6, "q":"ARE YOU MORE AFRAID OF FAILING OR SUCCEEDING? EXPLAIN WHY."},
-    {"id":7, "q":"IF YOU COULD DESIGN YOUR IDEAL SCENARIO, WHO WOULD YOU BE WITH, WHERE, AND WHAT WOULD YOU BE DOING?"},
-    {"id":8, "q":"WHEN PEOPLE ASK YOU 'HOW ARE YOU?', HOW OFTEN DO YOU GIVE A FULLY HONEST RESPONSE?"},
-    {"id":9, "q":"WHAT WOULD YOUR YOUNGER SELF FIND MOST SURPRISING ABOUT YOUR LIFE TODAY?"},
-    {"id":10, "q":"WHAT DO YOU LONG FOR MORE IN YOUR LIFE?"},
-    {"id":11, "q":"WHAT IS ONE THING ABOUT YOURSELF THAT YOU WOULD PREFER TO KEEP AS IS?"},
-    {"id":12, "q":"IF YOU WERE TO TITLE THIS CURRENT CHAPTER OF YOUR LIFE, WHAT WOULD IT BE?"},
-    {"id":13, "q":"WHAT IS A COMPLIMENT YOU WISH YOU RECEIVED MORE OFTEN?"},
-    {"id":14, "q":"WHAT’S THE BEST COMPLIMENT A STRANGER HAS EVER GIVEN YOU?"},
-    {"id":15, "q":"HAS A STRANGER EVER HAD A SIGNIFICANT IMPACT ON YOUR LIFE?"},
-    {"id":16, "q":"HOW ARE YOU, DEEP DOWN?"},
-    {"id":17, "q":"WHAT’S YOUR FATHER’S NAME, AND WHAT’S ONE THING YOU ADMIRE ABOUT HIM?"},
-    {"id":18, "q":"WHAT IS THE LAST THING YOU CONCEALED FROM YOUR MOTHER?"},
-    {"id":19, "q":"WHAT ARE YOU STILL TRYING TO PROVE TO YOURSELF?"},
-    {"id":20, "q":"WHAT’S A DREAM YOU ONCE HAD BUT HAVE SINCE LET GO?"},
-    {"id":21, "q":"WHAT’S THE MOST JOYOUS MEMORY YOU’VE HAD IN THE PAST YEAR?"},
-    {"id":22, "q":"ARE YOU CURRENTLY MISSING ANYONE, AND DO YOU THINK THEY’RE MISSING YOU IN RETURN?"},
-    {"id":23, "q":"WHO WAS YOUR FIRST LOVE, AND WHAT MADE YOU FALL FOR THEM?"},
-    {"id":24, "q":"IF YOU COULD DEEPEN YOUR CONNECTION WITH ONE PERSON IN YOUR LIFE, WHO WOULD IT BE AND WHY?"},
-    {"id":25, "q":"LOOKING BACK, WHEN DID YOU FIRST FEEL TRULY CHALLENGED, AND WHAT HAS THAT TAUGHT YOU ABOUT YOURSELF?"},
-    {"id":26, "q":"IS THERE A FEELING FROM THE PAST THAT YOU WISH YOU COULD EXPERIENCE AGAIN?"},
-    {"id":27, "q":"ARE YOU CURRENTLY LYING TO YOURSELF ABOUT ANYTHING?"},
-    {"id":28, "q":"HAVE YOU EVER TOLD SOMEONE YOU LOVE THEM WITHOUT REALLY MEANING IT? IF SO, WHY?"},
-    {"id":29, "q":"WHAT’S YOUR MOTHER’S NAME, AND WHAT’S THE MOST BEAUTIFUL THING ABOUT HER?"},
-    {"id":30, "q":"DOES THE WAY YOU SEE YOURSELF ALIGN WITH HOW OTHERS PERCEIVE YOU?"},
-    {"id":31, "q":"HOW WOULD YOU DESCRIBE THE EXPERIENCE OF BEING IN LOVE USING JUST ONE WORD?"},
-    {"id":32, "q":"WHAT’S A LESSON THAT TOOK YOU THE LONGEST TO UNLEARN?"},
-    {"id":33, "q":"WHAT ARE THE ASPECTS OF YOUR LIFE THAT ARE WORKING WELL AND THE ONES THAT ARE CAUSING YOU PAIN?"},
-    {"id":34, "q":"HOW CAN YOU BECOME A BETTER VERSION OF YOURSELF?"},
-    {"id":35, "q":"WHAT’S THE MOST INTENSE NON-PHYSICAL PAIN YOU’VE EVER EXPERIENCED?"},
-    {"id":36, "q":"WHEN DID YOU LAST SURPRISE YOURSELF WITH YOUR OWN ACTIONS OR DECISIONS?"},
-    {"id":37, "q":"DESCRIBE YOUR IDEAL DAY FROM START TO FINISH."},
-    {"id":38, "q":"WHAT IS A RECENT EXPERIENCE THAT MADE YOU FEEL VULNERABLE?"},
-    {"id":39, "q":"HOW DO YOU HANDLE FEELINGS OF SELF-DOUBT?"},
-    {"id":40, "q":"IF YOU COULD HAVE A CONVERSATION WITH YOUR FUTURE SELF, WHAT WOULD YOU ASK?"},
-    {"id":41, "q":"WHAT'S A DECISION YOU'VE MADE THAT YOU THINK WILL DEFINE YOUR FUTURE?"},
-    {"id":42, "q":"WHAT IS A PASSION PROJECT OR GOAL THAT YOU HAVEN'T PURSUED YET?"},
-    {"id":43, "q":"HOW DO YOU DEFINE SUCCESS FOR YOURSELF?"},
-    {"id":44, "q":"WHAT DOES YOUR IDEAL LIFE LOOK LIKE IN FIVE YEARS?"},
-    {"id":45, "q":"WHAT'S THE MOST SIGNIFICANT LESSON YOU'VE LEARNED FROM A FAILURE?"},
-    {"id":46, "q":"IF YOU HAD TO LIVE IN A DIFFERENT ERA, WHEN WOULD IT BE AND WHY?"},
-    {"id":47, "q":"WHAT'S ONE PERSONAL LIMITATION YOU'RE WORKING TO OVERCOME?"},
-    {"id":48, "q":"HOW DO YOU DEAL WITH REGRET?"},
-    {"id":49, "q":"WHAT'S ONE THING YOU WISH YOU COULD TELL YOUR TEENAGE SELF?"},
-    {"id":50, "q":"WHAT'S A CAUSE YOU'RE PASSIONATE ABOUT AND WHY?"},
-    {"id":51, "q":"WHAT ROLE DOES FORGIVENESS PLAY IN YOUR LIFE?"},
-    {"id":52, "q":"IF YOU COULD CHANGE ONE THING ABOUT YOUR PAST, WHAT WOULD IT BE?"},
-    {"id":53, "q":"WHAT'S ONE THING YOU WISH YOU COULD HAVE LEARNED EARLIER IN LIFE?"},
-    {"id":54, "q":"HOW DO YOU RECHARGE AFTER A STRESSFUL DAY?"},
-    {"id":55, "q":"WHAT'S A MOMENT YOU’RE MOST PROUD OF IN YOUR LIFE?"},
-    {"id":56, "q":"HOW HAS YOUR PERCEPTION OF LOVE CHANGED OVER TIME?"},
-    {"id":57, "q":"WHAT'S ONE THING YOU'VE LEARNED ABOUT YOURSELF FROM YOUR CLOSEST RELATIONSHIPS?"},
-    {"id":58, "q":"WHAT’S ONE THING YOU’RE CURRENTLY STRUGGLING TO ACCEPT ABOUT YOURSELF?"},
-    {"id":59, "q":"HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"},
-    {"id":60, "q":"WHAT’S A BELIEF YOU ONCE HAD THAT YOU NO LONGER HOLD?"},
-    {"id":61, "q":"WHAT DOES YOUR IDEAL VERSION OF HAPPINESS LOOK LIKE?"},
-    {"id":62, "q":"IF YOU COULD RELIVE ONE MOMENT IN YOUR LIFE, WHAT WOULD IT BE AND WHY?"},
-    {"id":63, "q":"WHAT’S A CHALLENGE YOU’RE CURRENTLY WORKING TO OVERCOME?"},
-    {"id":64, "q":"WHAT’S ONE WAY YOU’VE GROWN IN THE PAST YEAR?"},
-    {"id":65, "q":"HOW DO YOU DEFINE TRUE FRIENDSHIP?"},
-    {"id":66, "q":"WHAT DO YOU THINK IS YOUR LIFE’S PURPOSE?"},
-    {"id":67, "q":"HOW DO YOU DEAL WITH UNCERTAINTY?"},
-    {"id":68, "q":"WHAT’S A PASSION OR INTEREST THAT YOU’D LIKE TO PURSUE MORE SERIOUSLY?"},
-    {"id":69, "q":"WHAT’S ONE THING YOU WISH YOU UNDERSTOOD BETTER?"},
-    {"id":70, "q":"WHAT EMOTION DO YOU FIND MOST DIFFICULT TO EXPRESS?"},
-    {"id":71, "q":"HOW DO YOU HANDLE CRITICISM FROM OTHERS?"},
-    {"id":72, "q":"WHAT’S ONE FEAR YOU’RE TRYING TO CONFRONT?"},
-    {"id":73, "q":"WHAT DO YOU NEED MORE OF IN YOUR LIFE RIGHT NOW?"},
-    {"id":74, "q":"WHAT DO YOU THINK YOUR LIFE WILL LOOK LIKE IN TEN YEARS?"},
-    {"id":75, "q":"WHAT’S ONE THING YOU HOPE TO LEARN IN THE NEXT YEAR?"},
-    {"id":76, "q":"WHAT’S A PERSONAL VALUE THAT GUIDES YOUR DECISIONS?"},
-    {"id":77, "q":"HOW DO YOU SHOW COMPASSION TO YOURSELF?"},
-    {"id":78, "q":"WHAT’S ONE WAY YOU LIKE TO CHALLENGE YOURSELF?"},
-    {"id":79, "q":"WHAT’S THE MOST SIGNIFICANT CHANGE YOU’VE MADE IN YOUR LIFE RECENTLY?"},
-    {"id":80, "q":"HOW DO YOU KNOW WHEN YOU NEED TO TAKE A BREAK?"},
-    {"id":81, "q":"WHAT’S ONE THING YOU’RE GRATEFUL FOR RIGHT NOW?"},
-    {"id":82, "q":"WHAT’S A HABIT YOU’RE TRYING TO DEVELOP OR BREAK?"},
-    {"id":83, "q":"WHAT’S THE MOST IMPORTANT THING YOU’VE LEARNED ABOUT RELATIONSHIPS?"},
-    {"id":84, "q":"WHAT’S ONE DREAM YOU STILL WANT TO ACHIEVE?"},
-    {"id":85, "q":"HOW DO YOU CELEBRATE YOUR SUCCESS?"},
-    {"id":86, "q":"WHAT’S ONE THING YOU WOULD TELL YOUR PAST SELF TO DO DIFFERENTLY?"},
-    {"id":87, "q":"HOW DO YOU DEAL WITH FEELINGS OF ISOLATION?"},
-    {"id":88, "q":"WHAT’S ONE THING YOU’D LIKE TO TEACH OTHERS ABOUT YOURSELF?"},
-    {"id":89, "q":"HOW DO YOU STAY MOTIVATED WHEN THINGS GET TOUGH?"}
+          "level": 2,
+          "questions": [
+            {
+              "id": 1,
+              "q": "WHAT’S THE MOST PRESSING QUESTION YOU’RE SEEKING ANSWERS TO RIGHT NOW?"
+            },
+            {
+              "id": 2,
+              "q": "WHAT’S YOUR EARLIEST MEMORY OF TRUE JOY?"
+            },
+            {
+              "id": 3,
+              "q": "HAS YOUR PERSPECTIVE ON ANYTHING SHIFTED RECENTLY?"
+            },
+            {
+              "id": 4,
+              "q": "FINISH THE STATEMENT: PEOPLE MIGHT SEE ME AS …, BUT I KNOW THAT I AM … ."
+            },
+            {
+              "id": 5,
+              "q": "WHAT’S THE MOST MYSTIFYING EXPERIENCE YOU’VE EVER HAD?"
+            },
+            {
+              "id": 6,
+              "q": "ARE YOU MORE AFRAID OF FAILING OR SUCCEEDING? EXPLAIN WHY."
+            },
+            {
+              "id": 7,
+              "q": "IF YOU COULD DESIGN YOUR IDEAL SCENARIO, WHO WOULD YOU BE WITH, WHERE, AND WHAT WOULD YOU BE DOING?"
+            },
+            {
+              "id": 8,
+              "q": "WHEN PEOPLE ASK YOU 'HOW ARE YOU?', HOW OFTEN DO YOU GIVE A FULLY HONEST RESPONSE?"
+            },
+            {
+              "id": 9,
+              "q": "WHAT WOULD YOUR YOUNGER SELF FIND MOST SURPRISING ABOUT YOUR LIFE TODAY?"
+            },
+            {
+              "id": 10,
+              "q": "WHAT DO YOU LONG FOR MORE IN YOUR LIFE?"
+            },
+            {
+              "id": 11,
+              "q": "WHAT IS ONE THING ABOUT YOURSELF THAT YOU WOULD PREFER TO KEEP AS IS?"
+            },
+            {
+              "id": 12,
+              "q": "IF YOU WERE TO TITLE THIS CURRENT CHAPTER OF YOUR LIFE, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 13,
+              "q": "WHAT IS A COMPLIMENT YOU WISH YOU RECEIVED MORE OFTEN?"
+            },
+            {
+              "id": 14,
+              "q": "WHAT’S THE BEST COMPLIMENT A STRANGER HAS EVER GIVEN YOU?"
+            },
+            {
+              "id": 15,
+              "q": "HAS A STRANGER EVER HAD A SIGNIFICANT IMPACT ON YOUR LIFE?"
+            },
+            {
+              "id": 16,
+              "q": "HOW ARE YOU, DEEP DOWN?"
+            },
+            {
+              "id": 17,
+              "q": "WHAT’S YOUR FATHER’S NAME, AND WHAT’S ONE THING YOU ADMIRE ABOUT HIM?"
+            },
+            {
+              "id": 18,
+              "q": "WHAT IS THE LAST THING YOU CONCEALED FROM YOUR MOTHER?"
+            },
+            {
+              "id": 19,
+              "q": "WHAT ARE YOU STILL TRYING TO PROVE TO YOURSELF?"
+            },
+            {
+              "id": 20,
+              "q": "WHAT’S A DREAM YOU ONCE HAD BUT HAVE SINCE LET GO?"
+            },
+            {
+              "id": 21,
+              "q": "WHAT’S THE MOST JOYOUS MEMORY YOU’VE HAD IN THE PAST YEAR?"
+            },
+            {
+              "id": 22,
+              "q": "ARE YOU CURRENTLY MISSING ANYONE, AND DO YOU THINK THEY’RE MISSING YOU IN RETURN?"
+            },
+            {
+              "id": 23,
+              "q": "WHO WAS YOUR FIRST LOVE, AND WHAT MADE YOU FALL FOR THEM?"
+            },
+            {
+              "id": 24,
+              "q": "IF YOU COULD DEEPEN YOUR CONNECTION WITH ONE PERSON IN YOUR LIFE, WHO WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 25,
+              "q": "LOOKING BACK, WHEN DID YOU FIRST FEEL TRULY CHALLENGED, AND WHAT HAS THAT TAUGHT YOU ABOUT YOURSELF?"
+            },
+            {
+              "id": 26,
+              "q": "IS THERE A FEELING FROM THE PAST THAT YOU WISH YOU COULD EXPERIENCE AGAIN?"
+            },
+            {
+              "id": 27,
+              "q": "ARE YOU CURRENTLY LYING TO YOURSELF ABOUT ANYTHING?"
+            },
+            {
+              "id": 28,
+              "q": "HAVE YOU EVER TOLD SOMEONE YOU LOVE THEM WITHOUT REALLY MEANING IT? IF SO, WHY?"
+            },
+            {
+              "id": 29,
+              "q": "WHAT’S YOUR MOTHER’S NAME, AND WHAT’S THE MOST BEAUTIFUL THING ABOUT HER?"
+            },
+            {
+              "id": 30,
+              "q": "DOES THE WAY YOU SEE YOURSELF ALIGN WITH HOW OTHERS PERCEIVE YOU?"
+            },
+            {
+              "id": 31,
+              "q": "HOW WOULD YOU DESCRIBE THE EXPERIENCE OF BEING IN LOVE USING JUST ONE WORD?"
+            },
+            {
+              "id": 32,
+              "q": "WHAT’S A LESSON THAT TOOK YOU THE LONGEST TO UNLEARN?"
+            },
+            {
+              "id": 33,
+              "q": "WHAT ARE THE ASPECTS OF YOUR LIFE THAT ARE WORKING WELL AND THE ONES THAT ARE CAUSING YOU PAIN?"
+            },
+            {
+              "id": 34,
+              "q": "HOW CAN YOU BECOME A BETTER VERSION OF YOURSELF?"
+            },
+            {
+              "id": 35,
+              "q": "WHAT’S THE MOST INTENSE NON-PHYSICAL PAIN YOU’VE EVER EXPERIENCED?"
+            },
+            {
+              "id": 36,
+              "q": "WHEN DID YOU LAST SURPRISE YOURSELF WITH YOUR OWN ACTIONS OR DECISIONS?"
+            },
+            {
+              "id": 37,
+              "q": "DESCRIBE YOUR IDEAL DAY FROM START TO FINISH."
+            },
+            {
+              "id": 38,
+              "q": "WHAT IS A RECENT EXPERIENCE THAT MADE YOU FEEL VULNERABLE?"
+            },
+            {
+              "id": 39,
+              "q": "HOW DO YOU HANDLE FEELINGS OF SELF-DOUBT?"
+            },
+            {
+              "id": 40,
+              "q": "IF YOU COULD HAVE A CONVERSATION WITH YOUR FUTURE SELF, WHAT WOULD YOU ASK?"
+            },
+            {
+              "id": 41,
+              "q": "WHAT'S A DECISION YOU'VE MADE THAT YOU THINK WILL DEFINE YOUR FUTURE?"
+            },
+            {
+              "id": 42,
+              "q": "WHAT IS A PASSION PROJECT OR GOAL THAT YOU HAVEN'T PURSUED YET?"
+            },
+            {
+              "id": 43,
+              "q": "HOW DO YOU DEFINE SUCCESS FOR YOURSELF?"
+            },
+            {
+              "id": 44,
+              "q": "WHAT DOES YOUR IDEAL LIFE LOOK LIKE IN FIVE YEARS?"
+            },
+            {
+              "id": 45,
+              "q": "WHAT'S THE MOST SIGNIFICANT LESSON YOU'VE LEARNED FROM A FAILURE?"
+            },
+            {
+              "id": 46,
+              "q": "IF YOU HAD TO LIVE IN A DIFFERENT ERA, WHEN WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 47,
+              "q": "WHAT'S ONE PERSONAL LIMITATION YOU'RE WORKING TO OVERCOME?"
+            },
+            {
+              "id": 48,
+              "q": "HOW DO YOU DEAL WITH REGRET?"
+            },
+            {
+              "id": 49,
+              "q": "WHAT'S ONE THING YOU WISH YOU COULD TELL YOUR TEENAGE SELF?"
+            },
+            {
+              "id": 50,
+              "q": "WHAT'S A CAUSE YOU'RE PASSIONATE ABOUT AND WHY?"
+            },
+            {
+              "id": 51,
+              "q": "WHAT ROLE DOES FORGIVENESS PLAY IN YOUR LIFE?"
+            },
+            {
+              "id": 52,
+              "q": "IF YOU COULD CHANGE ONE THING ABOUT YOUR PAST, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 53,
+              "q": "WHAT'S ONE THING YOU WISH YOU COULD HAVE LEARNED EARLIER IN LIFE?"
+            },
+            {
+              "id": 54,
+              "q": "HOW DO YOU RECHARGE AFTER A STRESSFUL DAY?"
+            },
+            {
+              "id": 55,
+              "q": "WHAT'S A MOMENT YOU’RE MOST PROUD OF IN YOUR LIFE?"
+            },
+            {
+              "id": 56,
+              "q": "HOW HAS YOUR PERCEPTION OF LOVE CHANGED OVER TIME?"
+            },
+            {
+              "id": 57,
+              "q": "WHAT'S ONE THING YOU'VE LEARNED ABOUT YOURSELF FROM YOUR CLOSEST RELATIONSHIPS?"
+            },
+            {
+              "id": 58,
+              "q": "WHAT’S ONE THING YOU’RE CURRENTLY STRUGGLING TO ACCEPT ABOUT YOURSELF?"
+            },
+            {
+              "id": 59,
+              "q": "HOW DO YOU BALANCE YOUR PERSONAL AND PROFESSIONAL LIFE?"
+            },
+            {
+              "id": 60,
+              "q": "WHAT’S A BELIEF YOU ONCE HAD THAT YOU NO LONGER HOLD?"
+            },
+            {
+              "id": 61,
+              "q": "WHAT DOES YOUR IDEAL VERSION OF HAPPINESS LOOK LIKE?"
+            },
+            {
+              "id": 62,
+              "q": "IF YOU COULD RELIVE ONE MOMENT IN YOUR LIFE, WHAT WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 63,
+              "q": "WHAT’S A CHALLENGE YOU’RE CURRENTLY WORKING TO OVERCOME?"
+            },
+            {
+              "id": 64,
+              "q": "WHAT’S ONE WAY YOU’VE GROWN IN THE PAST YEAR?"
+            },
+            {
+              "id": 65,
+              "q": "HOW DO YOU DEFINE TRUE FRIENDSHIP?"
+            },
+            {
+              "id": 66,
+              "q": "WHAT DO YOU THINK IS YOUR LIFE’S PURPOSE?"
+            },
+            {
+              "id": 67,
+              "q": "HOW DO YOU DEAL WITH UNCERTAINTY?"
+            },
+            {
+              "id": 68,
+              "q": "WHAT’S A PASSION OR INTEREST THAT YOU’D LIKE TO PURSUE MORE SERIOUSLY?"
+            },
+            {
+              "id": 69,
+              "q": "WHAT’S ONE THING YOU WISH YOU UNDERSTOOD BETTER?"
+            },
+            {
+              "id": 70,
+              "q": "WHAT EMOTION DO YOU FIND MOST DIFFICULT TO EXPRESS?"
+            },
+            {
+              "id": 71,
+              "q": "HOW DO YOU HANDLE CRITICISM FROM OTHERS?"
+            },
+            {
+              "id": 72,
+              "q": "WHAT’S ONE FEAR YOU’RE TRYING TO CONFRONT?"
+            },
+            {
+              "id": 73,
+              "q": "WHAT DO YOU NEED MORE OF IN YOUR LIFE RIGHT NOW?"
+            },
+            {
+              "id": 74,
+              "q": "WHAT DO YOU THINK YOUR LIFE WILL LOOK LIKE IN TEN YEARS?"
+            },
+            {
+              "id": 75,
+              "q": "WHAT’S ONE THING YOU HOPE TO LEARN IN THE NEXT YEAR?"
+            },
+            {
+              "id": 76,
+              "q": "WHAT’S A PERSONAL VALUE THAT GUIDES YOUR DECISIONS?"
+            },
+            {
+              "id": 77,
+              "q": "HOW DO YOU SHOW COMPASSION TO YOURSELF?"
+            },
+            {
+              "id": 78,
+              "q": "WHAT’S ONE WAY YOU LIKE TO CHALLENGE YOURSELF?"
+            },
+            {
+              "id": 79,
+              "q": "WHAT’S THE MOST SIGNIFICANT CHANGE YOU’VE MADE IN YOUR LIFE RECENTLY?"
+            },
+            {
+              "id": 80,
+              "q": "HOW DO YOU KNOW WHEN YOU NEED TO TAKE A BREAK?"
+            },
+            {
+              "id": 81,
+              "q": "WHAT’S ONE THING YOU’RE GRATEFUL FOR RIGHT NOW?"
+            },
+            {
+              "id": 82,
+              "q": "WHAT’S A HABIT YOU’RE TRYING TO DEVELOP OR BREAK?"
+            },
+            {
+              "id": 83,
+              "q": "WHAT’S THE MOST IMPORTANT THING YOU’VE LEARNED ABOUT RELATIONSHIPS?"
+            },
+            {
+              "id": 84,
+              "q": "WHAT’S ONE DREAM YOU STILL WANT TO ACHIEVE?"
+            },
+            {
+              "id": 85,
+              "q": "HOW DO YOU CELEBRATE YOUR SUCCESS?"
+            },
+            {
+              "id": 86,
+              "q": "WHAT’S ONE THING YOU WOULD TELL YOUR PAST SELF TO DO DIFFERENTLY?"
+            },
+            {
+              "id": 87,
+              "q": "HOW DO YOU DEAL WITH FEELINGS OF ISOLATION?"
+            },
+            {
+              "id": 88,
+              "q": "WHAT’S ONE THING YOU’D LIKE TO TEACH OTHERS ABOUT YOURSELF?"
+            },
+            {
+              "id": 89,
+              "q": "HOW DO YOU STAY MOTIVATED WHEN THINGS GET TOUGH?"
+            }
           ],
-          "wildcards":[
-            [
-    {"id": 1, "q": "WILDCARD: HAVE A STARE-OFF. THE FIRST TO BLINK MUST SHARE A PERSONAL CHALLENGE AND ASK FOR YOUR PARTNER’S ADVICE ON HOW TO HANDLE IT."},
-    {"id": 2, "q": "WILDCARD: BOTH OF YOU WRITE DOWN AN EMBARRASSING FACT ABOUT YOURSELVES. PLAY ROCK, PAPER, SCISSORS; LOSER REVEALS THEIR FACT."},
-    {"id": 3, "q": "WILDCARD: BOTH OF YOU WRITE DOWN YOUR THREE TOP PRIORITIES IN LIFE (30 SECONDS). THEN COMPARE AND DISCUSS."},
-    {"id": 4, "q": "WILDCARD: PLAY SHUFFLE ON YOUR MUSIC LIBRARY. DESCRIBE THE FIRST SONG THAT PLAYS AND WHAT IT MEANS TO YOU OR WHY YOU LIKE IT."},
-    {"id": 5, "q": "WILDCARD: DRAW A PICTURE THAT REPRESENTS YOUR CURRENT MOOD (BOTH PLAYERS). THEN COMPARE YOUR DRAWINGS."},
-    {"id": 6, "q": "WILDCARD: SHARE A SECRET OR CONFESSION WITH EACH OTHER."},
-    {"id": 7, "q": "WILDCARD: THINK OF A POPULAR ENJOYMENT THAT YOU STRONGLY DISLIKE. ON THE COUNT OF THREE, REVEAL IT OUT LOUD!"},
-    {"id": 8, "q": "WILDCARD: SHOW THE FIRST PHOTO IN YOUR CAMERA ROLL AND TELL THE STORY BEHIND IT."},
-    {"id": 9, "q": "WILDCARD: REVEAL A PERSONAL DREAM OR GOAL YOU HAVEN’T SHARED WITH MANY PEOPLE."},
-    {"id": 10, "q": "WILDCARD: CREATE A VISUAL MAP OF YOUR EMOTIONAL JOURNEY IN THE PAST YEAR."},
-    {"id": 11, "q": "WILDCARD: PERFORM A MONOLOGUE ABOUT A CHALLENGE YOU'RE CURRENTLY FACING."},
-    {"id": 12, "q": "WILDCARD: WRITE A LETTER TO YOUR FUTURE SELF AND READ IT ALOUD (OPTIONAL)."},
-    {"id": 13, "q": "WILDCARD: IMAGINE YOU’RE WRITING A BOOK ABOUT YOUR LIFE. WHAT WOULD THE TITLE BE?"},
-    {"id": 14, "q": "WILDCARD: SHARE THE THIRD MOST RECENT NOTE FROM YOUR PHONE AND TELL ME THE STORY BEHIND IT."},
-    {"id": 15, "q": "WILDCARD: DRAW A SELF-PORTRAIT REPRESENTING YOUR CURRENT MOOD OR STATE OF MIND."},
-    {"id": 16, "q": "WILDCARD: REVEAL A SECRET TALENT OR HOBBY YOU HAVEN’T SHARED BEFORE."},
-    {"id": 17, "q": "WILDCARD: EXPLAIN THE MOST MEANINGFUL PIECE OF ADVICE YOU’VE EVER RECEIVED."},
-    {"id": 18, "q": "WILDCARD: CLOSE YOUR EYES AND DESCRIBE THE SOUND OF YOUR PERFECT SCENERY."},
-    {"id": 19, "q": "WILDCARD: SHARE A RECURRING DREAM YOU’VE HAD AND INTERPRET IT TOGETHER."},
-    {"id": 20, "q": "WILDCARD: DESCRIBE YOUR PERCEPTION OF AN IDEAL LIFE PARTNER."},
-    {"id": 21, "q": "WILDCARD: REVEAL THE MOST IMPACTFUL BOOK YOU’VE READ AND WHY IT RESONATED WITH YOU."},
-    {"id": 22, "q": "WILDCARD: PERFORM A 30-SECOND MONOLOGUE ABOUT A TIME YOU LEARNED A VALUABLE LESSON."},
-    {"id": 23, "q": "WILDCARD: DESCRIBE YOUR PERFECT RELAXATION ROUTINE."},
-    {"id": 24, "q": "WILDCARD: SHARE A PERSONAL CHALLENGE YOU’RE CURRENTLY WORKING THROUGH AND ASK FOR ADVICE."},
-    {"id": 25, "q": "WILDCARD: MAKE UP A NEW HOBBY OR ACTIVITY AND EXPLAIN HOW IT WOULD IMPROVE YOUR LIFE."},
-    {"id": 26, "q": "WILDCARD: CREATE A MINDFULNESS EXERCISE OR MEDITATION AND GUIDE EACH OTHER THROUGH IT."},
-    {"id": 27, "q": "WILDCARD: DESCRIBE A SCENARIO WHERE YOU'VE FELT ANXIETY AND HOW YOU CONFRONTED IT."},
-    {"id": 28, "q": "WILDCARD: TALK ABOUT YOUR IDEAL SELF AND WHAT YOU WOULD NEED TO DO TO REACH IT."},
-    {"id": 29, "q": "WILDCARD: DESCRIBE, IN A FEW SENTENCES, A PERSONAL STORY YOU THINK IS IMPORTANT TO SHARE."},
-    {"id": 30, "q": "WILDCARD: DESCRIBE A MOMENT IN YOUR LIFE THAT MADE YOU FEEL THE MOST ALIVE."},
-    {"id": 31, "q": "WILDCARD: CREATE A QUICK SONG ABOUT YOUR DAY SO FAR."},
-    {"id": 32, "q": "WILDCARD: SHARE THE MOST IMPORTANT LESSON YOU’VE LEARNED ABOUT LOVE."},
-    {"id": 33, "q": "WILDCARD: WRITE DOWN A COMPLIMENT YOU’VE ALWAYS WANTED TO HEAR AND READ IT ALOUD."},
-    {"id": 34, "q": "WILDCARD: DESCRIBE HOW YOU FEEL ABOUT YOUR CURRENT LIFE CHANGES."},
-    {"id": 35, "q": "WILDCARD: MAKE A PLAN TO CREATE VISION BOARDS TOGETHER AND ACT UPON IT WITHIN A WEEK."},
-    {"id": 36, "q": "WILDCARD: SHARE A MEANINGFUL LIFE LESSON AND DISCUSS HOW IT APPLIES TO YOUR LIFE."},
-    {"id": 37, "q": "WILDCARD: DESCRIBE A SITUATION THAT CHALLENGED YOUR VALUES AND HOW YOU RESPONDED."},
-    {"id": 38, "q": "WILDCARD: CREATE A LIST OF THREE WISHES FOR YOUR FUTURE AND DISCUSS."},
-    {"id": 39, "q": "WILDCARD: SHARE THE MOST INSPIRING LESSON YOU’VE LEARNED FROM A MENTOR."},
-    {"id": 40, "q": "WILDCARD: DESCRIBE A TOPIC OF CONVERSATION YOU’D LIKE TO HAVE WITH SOMEONE YOU ADMIRE."},
-    {"id": 41, "q": "WILDCARD: MAKE A LIST OF YOUR TOP THREE PERSONAL STRENGTHS AND DISCUSS THEM."},
-    {"id": 42, "q": "WILDCARD: DRAW A 'ROADMAP' OF YOUR PERSONAL GROWTH OVER THE PAST YEAR."},
-    {"id": 43, "q": "WILDCARD: SHARE A PERSONAL REVELATION YOU’VE HAD RECENTLY AND HOW IT’S CHANGING YOUR PERSPECTIVE."},
-    {"id": 44, "q": "WILDCARD: SHARE AN EXPERIENCE THAT CHANGED YOUR LIFE FOREVER."}
-]
-
+          "wildcards": [
+            {
+              "id": 1,
+              "q": "WILDCARD: HAVE A STARE-OFF. THE FIRST TO BLINK MUST SHARE A PERSONAL CHALLENGE AND ASK FOR YOUR PARTNER’S ADVICE ON HOW TO HANDLE IT."
+            },
+            {
+              "id": 2,
+              "q": "WILDCARD: BOTH OF YOU WRITE DOWN AN EMBARRASSING FACT ABOUT YOURSELVES. PLAY ROCK, PAPER, SCISSORS; LOSER REVEALS THEIR FACT."
+            },
+            {
+              "id": 3,
+              "q": "WILDCARD: BOTH OF YOU WRITE DOWN YOUR THREE TOP PRIORITIES IN LIFE (30 SECONDS). THEN COMPARE AND DISCUSS."
+            },
+            {
+              "id": 4,
+              "q": "WILDCARD: PLAY SHUFFLE ON YOUR MUSIC LIBRARY. DESCRIBE THE FIRST SONG THAT PLAYS AND WHAT IT MEANS TO YOU OR WHY YOU LIKE IT."
+            },
+            {
+              "id": 5,
+              "q": "WILDCARD: DRAW A PICTURE THAT REPRESENTS YOUR CURRENT MOOD (BOTH PLAYERS). THEN COMPARE YOUR DRAWINGS."
+            },
+            {
+              "id": 6,
+              "q": "WILDCARD: SHARE A SECRET OR CONFESSION WITH EACH OTHER."
+            },
+            {
+              "id": 7,
+              "q": "WILDCARD: THINK OF A POPULAR ENJOYMENT THAT YOU STRONGLY DISLIKE. ON THE COUNT OF THREE, REVEAL IT OUT LOUD!"
+            },
+            {
+              "id": 8,
+              "q": "WILDCARD: SHOW THE FIRST PHOTO IN YOUR CAMERA ROLL AND TELL THE STORY BEHIND IT."
+            },
+            {
+              "id": 9,
+              "q": "WILDCARD: REVEAL A PERSONAL DREAM OR GOAL YOU HAVEN’T SHARED WITH MANY PEOPLE."
+            },
+            {
+              "id": 10,
+              "q": "WILDCARD: CREATE A VISUAL MAP OF YOUR EMOTIONAL JOURNEY IN THE PAST YEAR."
+            },
+            {
+              "id": 11,
+              "q": "WILDCARD: PERFORM A MONOLOGUE ABOUT A CHALLENGE YOU'RE CURRENTLY FACING."
+            },
+            {
+              "id": 12,
+              "q": "WILDCARD: WRITE A LETTER TO YOUR FUTURE SELF AND READ IT ALOUD (OPTIONAL)."
+            },
+            {
+              "id": 13,
+              "q": "WILDCARD: IMAGINE YOU’RE WRITING A BOOK ABOUT YOUR LIFE. WHAT WOULD THE TITLE BE?"
+            },
+            {
+              "id": 14,
+              "q": "WILDCARD: SHARE THE THIRD MOST RECENT NOTE FROM YOUR PHONE AND TELL ME THE STORY BEHIND IT."
+            },
+            {
+              "id": 15,
+              "q": "WILDCARD: DRAW A SELF-PORTRAIT REPRESENTING YOUR CURRENT MOOD OR STATE OF MIND."
+            },
+            {
+              "id": 16,
+              "q": "WILDCARD: REVEAL A SECRET TALENT OR HOBBY YOU HAVEN’T SHARED BEFORE."
+            },
+            {
+              "id": 17,
+              "q": "WILDCARD: EXPLAIN THE MOST MEANINGFUL PIECE OF ADVICE YOU’VE EVER RECEIVED."
+            },
+            {
+              "id": 18,
+              "q": "WILDCARD: CLOSE YOUR EYES AND DESCRIBE THE SOUND OF YOUR PERFECT SCENERY."
+            },
+            {
+              "id": 19,
+              "q": "WILDCARD: SHARE A RECURRING DREAM YOU’VE HAD AND INTERPRET IT TOGETHER."
+            },
+            {
+              "id": 20,
+              "q": "WILDCARD: DESCRIBE YOUR PERCEPTION OF AN IDEAL LIFE PARTNER."
+            },
+            {
+              "id": 21,
+              "q": "WILDCARD: REVEAL THE MOST IMPACTFUL BOOK YOU’VE READ AND WHY IT RESONATED WITH YOU."
+            },
+            {
+              "id": 22,
+              "q": "WILDCARD: PERFORM A 30-SECOND MONOLOGUE ABOUT A TIME YOU LEARNED A VALUABLE LESSON."
+            },
+            {
+              "id": 23,
+              "q": "WILDCARD: DESCRIBE YOUR PERFECT RELAXATION ROUTINE."
+            },
+            {
+              "id": 24,
+              "q": "WILDCARD: SHARE A PERSONAL CHALLENGE YOU’RE CURRENTLY WORKING THROUGH AND ASK FOR ADVICE."
+            },
+            {
+              "id": 25,
+              "q": "WILDCARD: MAKE UP A NEW HOBBY OR ACTIVITY AND EXPLAIN HOW IT WOULD IMPROVE YOUR LIFE."
+            },
+            {
+              "id": 26,
+              "q": "WILDCARD: CREATE A MINDFULNESS EXERCISE OR MEDITATION AND GUIDE EACH OTHER THROUGH IT."
+            },
+            {
+              "id": 27,
+              "q": "WILDCARD: DESCRIBE A SCENARIO WHERE YOU'VE FELT ANXIETY AND HOW YOU CONFRONTED IT."
+            },
+            {
+              "id": 28,
+              "q": "WILDCARD: TALK ABOUT YOUR IDEAL SELF AND WHAT YOU WOULD NEED TO DO TO REACH IT."
+            },
+            {
+              "id": 29,
+              "q": "WILDCARD: DESCRIBE, IN A FEW SENTENCES, A PERSONAL STORY YOU THINK IS IMPORTANT TO SHARE."
+            },
+            {
+              "id": 30,
+              "q": "WILDCARD: DESCRIBE A MOMENT IN YOUR LIFE THAT MADE YOU FEEL THE MOST ALIVE."
+            },
+            {
+              "id": 31,
+              "q": "WILDCARD: CREATE A QUICK SONG ABOUT YOUR DAY SO FAR."
+            },
+            {
+              "id": 32,
+              "q": "WILDCARD: SHARE THE MOST IMPORTANT LESSON YOU’VE LEARNED ABOUT LOVE."
+            },
+            {
+              "id": 33,
+              "q": "WILDCARD: WRITE DOWN A COMPLIMENT YOU’VE ALWAYS WANTED TO HEAR AND READ IT ALOUD."
+            },
+            {
+              "id": 34,
+              "q": "WILDCARD: DESCRIBE HOW YOU FEEL ABOUT YOUR CURRENT LIFE CHANGES."
+            },
+            {
+              "id": 35,
+              "q": "WILDCARD: MAKE A PLAN TO CREATE VISION BOARDS TOGETHER AND ACT UPON IT WITHIN A WEEK."
+            },
+            {
+              "id": 36,
+              "q": "WILDCARD: SHARE A MEANINGFUL LIFE LESSON AND DISCUSS HOW IT APPLIES TO YOUR LIFE."
+            },
+            {
+              "id": 37,
+              "q": "WILDCARD: DESCRIBE A SITUATION THAT CHALLENGED YOUR VALUES AND HOW YOU RESPONDED."
+            },
+            {
+              "id": 38,
+              "q": "WILDCARD: CREATE A LIST OF THREE WISHES FOR YOUR FUTURE AND DISCUSS."
+            },
+            {
+              "id": 39,
+              "q": "WILDCARD: SHARE THE MOST INSPIRING LESSON YOU’VE LEARNED FROM A MENTOR."
+            },
+            {
+              "id": 40,
+              "q": "WILDCARD: DESCRIBE A TOPIC OF CONVERSATION YOU’D LIKE TO HAVE WITH SOMEONE YOU ADMIRE."
+            },
+            {
+              "id": 41,
+              "q": "WILDCARD: MAKE A LIST OF YOUR TOP THREE PERSONAL STRENGTHS AND DISCUSS THEM."
+            },
+            {
+              "id": 42,
+              "q": "WILDCARD: DRAW A 'ROADMAP' OF YOUR PERSONAL GROWTH OVER THE PAST YEAR."
+            },
+            {
+              "id": 43,
+              "q": "WILDCARD: SHARE A PERSONAL REVELATION YOU’VE HAD RECENTLY AND HOW IT’S CHANGING YOUR PERSPECTIVE."
+            },
+            {
+              "id": 44,
+              "q": "WILDCARD: SHARE AN EXPERIENCE THAT CHANGED YOUR LIFE FOREVER."
+            }
           ]
         },
         {
           "level":3,
           "questions":[
-           [
-    {"id": 1, "q": "WHAT DO YOU THINK I’M MOST AFRAID OF?"},
-    {"id": 2, "q": "AFTER THIS GAME ENDS, WHAT’S ONE THING YOU’LL REMEMBER ABOUT ME?"},
-    {"id": 3, "q": "AT WHAT POINT IN THIS GAME DID YOU FEEL THE STRONGEST CONNECTION WITH ME?"},
-    {"id": 4, "q": "IS THERE ANYTHING YOU THINK I SHOULD LET GO OF IN MY LIFE?"},
-    {"id": 5, "q": "HOW DOES SOMEONE EARN YOUR TRUST AND VULNERABILITY? HAVE I EARNED YOUR TRUST? HOW CAN I BUILD ON THAT?"},
-    {"id": 6, "q": "IS THERE ANYTHING I CAN DO TO SUPPORT YOU RIGHT NOW?"},
-    {"id": 7, "q": "WHAT ASPECT OF ME CAUGHT YOU OFF GUARD?"},
-    {"id": 8, "q": "USE ONE WORD TO DESCRIBE YOUR CURRENT FEELINGS."},
-    {"id": 9, "q": "WHICH QUESTION WERE YOU MOST HESITANT TO ANSWER?"},
-    {"id": 10, "q": "WHAT’S THE BIGGEST COMMONALITY BETWEEN US?"},
-    {"id": 11, "q": "BASED ON WHAT YOU’VE LEARNED ABOUT ME, DOES MY SOCIAL MEDIA REFLECT MY TRUE SELF? WHY OR WHY NOT?"},
-    {"id": 12, "q": "WHAT WOULD BE THE IDEAL GIFT FOR ME?"},
-    {"id": 13, "q": "WHAT HAVE YOU LEARNED ABOUT YOURSELF FROM THIS CONVERSATION?"},
-    {"id": 14, "q": "IN WHAT WAYS DO YOU SEE REFLECTIONS OF YOURSELF IN ME?"},
-    {"id": 15, "q": "WHAT DO YOU THINK I NEED TO HEAR RIGHT NOW?"},
-    {"id": 16, "q": "IF YOU COULD ADVISE ME TO DO ONE THING FOR THE REST OF THIS MONTH, WHAT WOULD IT BE AND WHY?"},
-    {"id": 17, "q": "HOW DO OUR PERSONALITIES COMPLEMENT EACH OTHER?"},
-    {"id": 18, "q": "WHAT CAN WE BUILD OR CREATE TOGETHER?"},
-    {"id": 19, "q": "BASED ON WHAT YOU KNOW ABOUT ME, DO YOU HAVE ANY NETFLIX SHOWS OR MOVIES TO RECOMMEND?"},
-    {"id": 20, "q": "WHAT’S THE QUALITY ABOUT ME THAT YOU MOST ADMIRE?"},
-    {"id": 21, "q": "IS THERE SOMETHING ABOUT MYSELF THAT YOU THINK I SHOULD BE AWARE OF BUT MAY NOT REALIZE?"},
-    {"id": 22, "q": "WHY DO YOU THINK OUR PATHS HAVE CROSSED?"},
-    {"id": 23, "q": "WHAT DO YOU BELIEVE MY UNIQUE STRENGTH OR SUPERPOWER IS?"},
-    {"id": 24, "q": "WHAT DO YOU THINK IS MY MAIN WEAKNESS?"},
-    {"id": 25, "q": "WHAT ASPECT OF ME IS MOST DIFFICULT FOR YOU TO UNDERSTAND?"},
-    {"id": 26, "q": "WHAT DO YOU THINK IS MY MOST DISTINCTIVE FEATURE OR CHARACTERISTIC?"},
-    {"id": 27, "q": "WHICH ANSWER OF MINE MADE YOU LIGHT UP THE MOST?"},
-    {"id": 28, "q": "WHAT’S A KEY LESSON YOU’LL TAKE AWAY FROM OUR CONVERSATION?"},
-    {"id": 29, "q": "WHAT WOULD MAKE YOU FEEL EVEN CLOSER TO ME?"},
-    {"id": 30, "q": "WHAT IS THE AREA WHERE I AM MOST QUALIFIED TO OFFER ADVICE?"},
-    {"id": 31, "q": "DO YOU BELIEVE EVERYONE HAS A CALLING? IF SO, DO YOU THINK I’VE FOUND MINE?"},
-    {"id": 32, "q": "WHAT IS YOUR BIGGEST DREAM?"},
-    {"id": 33, "q": "WHAT’S ONE THING YOU’VE ALWAYS WANTED TO TELL ME BUT NEVER HAVE?"},
-    {"id": 34, "q": "IF YOU HAD TO WRITE A BOOK ABOUT ME, WHAT WOULD THE TITLE BE?"},
-    {"id": 35, "q": "HOW WOULD YOU DESCRIBE THE IMPACT I’VE HAD ON YOUR LIFE?"},
-    {"id": 36, "q": "IF YOU COULD CHANGE ONE THING ABOUT THE WORLD, WHAT WOULD IT BE AND WHY?"},
-    {"id": 37, "q": "WHAT PART OF OUR CONVERSATION DO YOU THINK YOU’LL REFLECT ON THE MOST?"},
-    {"id": 38, "q": "IN WHAT WAYS HAVE I HELPED YOU SEE YOURSELF DIFFERENTLY?"},
-    {"id": 39, "q": "WHAT’S A PERSONAL ACHIEVEMENT YOU’RE PROUD OF BUT HAVE NEVER SHARED?"},
-    {"id": 40, "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"},
-    {"id": 41, "q": "WHAT’S THE ONE THING YOU WISH MORE PEOPLE UNDERSTOOD ABOUT YOU?"},
-    {"id": 42, "q": "IF YOU COULD GIVE ME ONE PIECE OF ADVICE FOR THE FUTURE, WHAT WOULD IT BE?"},
-    {"id": 43, "q": "WHAT’S ONE THING YOU’D LIKE TO IMPROVE IN OUR RELATIONSHIP?"},
-    {"id": 44, "q": "HOW DO YOU THINK OTHERS PERCEIVE OUR RELATIONSHIP?"},
-    {"id": 45, "q": "IF YOU COULD SPEND A DAY WITH ANYONE IN HISTORY, WHO WOULD IT BE AND WHY?"},
-    {"id": 46, "q": "WHAT’S ONE OF YOUR DEEPEST SECRETS THAT YOU’RE READY TO SHARE?"},
-    {"id": 47, "q": "HOW DO YOU DEAL WITH IMPOSTOR SYNDROME?"},
-    {"id": 48, "q": "IF YOU HAD TO LIVE IN A DIFFERENT COUNTRY FOR A YEAR, WHERE WOULD YOU GO?"},
-    {"id": 49, "q": "WHAT’S ONE THING YOU WISH YOU COULD TELL YOUR PAST SELF?"},
-    {"id": 50, "q": "WHAT’S THE MOST IMPACTFUL BOOK YOU’VE EVER READ?"},
-    {"id": 51, "q": "HOW DO YOU ENCOURAGE YOURSELF WHEN YOU FEEL DOWN?"},
-    {"id": 52, "q": "WHAT’S A DREAM YOU HAVEN’T PURSUED YET?"},
-    {"id": 53, "q": "WHAT’S ONE THING YOU’D LIKE TO BE REMEMBERED FOR?"},
-    {"id": 54, "q": "WHAT’S ONE CHALLENGE YOU’RE CURRENTLY FACING?"},
-    {"id": 55, "q": "WHAT’S A PASSION OF YOURS THAT YOU’VE PUT ON HOLD?"},
-    {"id": 56, "q": "HOW DO YOU MEASURE YOUR OWN HAPPINESS?"},
-    {"id": 57, "q": "WHAT’S ONE THING YOU’VE LEARNED ABOUT YOURSELF THROUGH OUR CONVERSATION?"},
-    {"id": 58, "q": "WHAT’S A PERSONAL TRAIT YOU ADMIRE IN OTHERS AND STRIVE TO EMBODY?"},
-    {"id": 59, "q": "WHAT’S A TRADITION OR RITUAL THAT IS IMPORTANT TO YOU?"},
-    {"id": 60, "q": "HOW DO YOU DEAL WITH CHANGE IN YOUR LIFE?"},
-    {"id": 61, "q": "WHAT’S ONE THING YOU’D LIKE TO ACCOMPLISH BEFORE THE END OF THE YEAR?"},
-    {"id": 62, "q": "WHAT’S THE MOST MEANINGFUL COMPLIMENT YOU’VE RECEIVED?"},
-    {"id": 63, "q": "HOW DO YOU RECHARGE AND TAKE CARE OF YOURSELF?"},
-    {"id": 64, "q": "WHAT’S A SIGNIFICANT LIFE LESSON YOU’VE LEARNED RECENTLY?"},
-    {"id": 65, "q": "WHAT’S ONE THING YOU’D LIKE TO CHANGE ABOUT YOURSELF AND WHY?"},
-    {"id": 66, "q": "HOW DO YOU STAY MOTIVATED DURING TOUGH TIMES?"},
-    {"id": 67, "q": "WHAT’S ONE ADVICE YOU’D GIVE TO YOUR FUTURE SELF?"},
-    {"id": 68, "q": "WHAT’S ONE THING YOU WISH YOU KNEW ABOUT YOURSELF SOONER?"},
-    {"id": 69, "q": "WHAT’S A GOAL YOU’RE CURRENTLY WORKING TOWARDS?"},
-    {"id": 70, "q": "WHAT DO YOU THINK IS THE KEY TO A FULFILLING LIFE?"},
-    {"id": 71, "q": "WHAT’S ONE THING YOU VALUE MOST IN YOUR LIFE RIGHT NOW?"}
-]
-
+            {"id": 1, "q": "WHAT DO YOU THINK I’M MOST AFRAID OF?"},
+            {"id": 2, "q": "AFTER THIS GAME ENDS, WHAT’S ONE THING YOU’LL REMEMBER ABOUT ME?"},
+            {"id": 3, "q": "AT WHAT POINT IN THIS GAME DID YOU FEEL THE STRONGEST CONNECTION WITH ME?"},
+            {"id": 4, "q": "IS THERE ANYTHING YOU THINK I SHOULD LET GO OF IN MY LIFE?"},
+            {"id": 5, "q": "HOW DOES SOMEONE EARN YOUR TRUST AND VULNERABILITY? HAVE I EARNED YOUR TRUST? HOW CAN I BUILD ON THAT?"},
+            {"id": 6, "q": "IS THERE ANYTHING I CAN DO TO SUPPORT YOU RIGHT NOW?"},
+            {"id": 7, "q": "WHAT ASPECT OF ME CAUGHT YOU OFF GUARD?"},
+            {"id": 8, "q": "USE ONE WORD TO DESCRIBE YOUR CURRENT FEELINGS."},
+            {"id": 9, "q": "WHICH QUESTION WERE YOU MOST HESITANT TO ANSWER?"},
+            {"id": 10, "q": "WHAT’S THE BIGGEST COMMONALITY BETWEEN US?"},
+            {"id": 11, "q": "BASED ON WHAT YOU’VE LEARNED ABOUT ME, DOES MY SOCIAL MEDIA REFLECT MY TRUE SELF? WHY OR WHY NOT?"},
+            {"id": 12, "q": "WHAT WOULD BE THE IDEAL GIFT FOR ME?"},
+            {"id": 13, "q": "WHAT HAVE YOU LEARNED ABOUT YOURSELF FROM THIS CONVERSATION?"},
+            {"id": 14, "q": "IN WHAT WAYS DO YOU SEE REFLECTIONS OF YOURSELF IN ME?"},
+            {"id": 15, "q": "WHAT DO YOU THINK I NEED TO HEAR RIGHT NOW?"},
+            {"id": 16, "q": "IF YOU COULD ADVISE ME TO DO ONE THING FOR THE REST OF THIS MONTH, WHAT WOULD IT BE AND WHY?"},
+            {"id": 17, "q": "HOW DO OUR PERSONALITIES COMPLEMENT EACH OTHER?"},
+            {"id": 18, "q": "WHAT CAN WE BUILD OR CREATE TOGETHER?"},
+            {"id": 19, "q": "BASED ON WHAT YOU KNOW ABOUT ME, DO YOU HAVE ANY NETFLIX SHOWS OR MOVIES TO RECOMMEND?"},
+            {"id": 20, "q": "WHAT’S THE QUALITY ABOUT ME THAT YOU MOST ADMIRE?"},
+            {"id": 21, "q": "IS THERE SOMETHING ABOUT MYSELF THAT YOU THINK I SHOULD BE AWARE OF BUT MAY NOT REALIZE?"},
+            {"id": 22, "q": "WHY DO YOU THINK OUR PATHS HAVE CROSSED?"},
+            {"id": 23, "q": "WHAT DO YOU BELIEVE MY UNIQUE STRENGTH OR SUPERPOWER IS?"},
+            {"id": 24, "q": "WHAT DO YOU THINK IS MY MAIN WEAKNESS?"},
+            {"id": 25, "q": "WHAT ASPECT OF ME IS MOST DIFFICULT FOR YOU TO UNDERSTAND?"},
+            {"id": 26, "q": "WHAT DO YOU THINK IS MY MOST DISTINCTIVE FEATURE OR CHARACTERISTIC?"},
+            {"id": 27, "q": "WHICH ANSWER OF MINE MADE YOU LIGHT UP THE MOST?"},
+            {"id": 28, "q": "WHAT’S A KEY LESSON YOU’LL TAKE AWAY FROM OUR CONVERSATION?"},
+            {"id": 29, "q": "WHAT WOULD MAKE YOU FEEL EVEN CLOSER TO ME?"},
+            {"id": 30, "q": "WHAT IS THE AREA WHERE I AM MOST QUALIFIED TO OFFER ADVICE?"},
+            {"id": 31, "q": "DO YOU BELIEVE EVERYONE HAS A CALLING? IF SO, DO YOU THINK I’VE FOUND MINE?"},
+            {"id": 32, "q": "WHAT IS YOUR BIGGEST DREAM?"},
+            {"id": 33, "q": "WHAT’S ONE THING YOU’VE ALWAYS WANTED TO TELL ME BUT NEVER HAVE?"},
+            {"id": 34, "q": "IF YOU HAD TO WRITE A BOOK ABOUT ME, WHAT WOULD THE TITLE BE?"},
+            {"id": 35, "q": "HOW WOULD YOU DESCRIBE THE IMPACT I’VE HAD ON YOUR LIFE?"},
+            {"id": 36, "q": "IF YOU COULD CHANGE ONE THING ABOUT THE WORLD, WHAT WOULD IT BE AND WHY?"},
+            {"id": 37, "q": "WHAT PART OF OUR CONVERSATION DO YOU THINK YOU’LL REFLECT ON THE MOST?"},
+            {"id": 38, "q": "IN WHAT WAYS HAVE I HELPED YOU SEE YOURSELF DIFFERENTLY?"},
+            {"id": 39, "q": "WHAT’S A PERSONAL ACHIEVEMENT YOU’RE PROUD OF BUT HAVE NEVER SHARED?"},
+            {"id": 40, "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"},
+            {"id": 41, "q": "WHAT’S THE ONE THING YOU WISH MORE PEOPLE UNDERSTOOD ABOUT YOU?"},
+            {"id": 42, "q": "IF YOU COULD GIVE ME ONE PIECE OF ADVICE FOR THE FUTURE, WHAT WOULD IT BE?"},
+            {"id": 43, "q": "WHAT’S ONE THING YOU’D LIKE TO IMPROVE IN OUR RELATIONSHIP?"},
+            {"id": 44, "q": "HOW DO YOU THINK OTHERS PERCEIVE OUR RELATIONSHIP?"},
+            {"id": 45, "q": "IF YOU COULD SPEND A DAY WITH ANYONE IN HISTORY, WHO WOULD IT BE AND WHY?"},
+            {"id": 46, "q": "WHAT’S ONE OF YOUR DEEPEST SECRETS THAT YOU’RE READY TO SHARE?"},
+            {"id": 47, "q": "HOW DO YOU DEAL WITH IMPOSTOR SYNDROME?"},
+            {"id": 48, "q": "IF YOU HAD TO LIVE IN A DIFFERENT COUNTRY FOR A YEAR, WHERE WOULD YOU GO?"},
+            {"id": 49, "q": "WHAT’S ONE THING YOU WISH YOU COULD TELL YOUR PAST SELF?"},
+            {"id": 50, "q": "WHAT’S THE MOST IMPACTFUL BOOK YOU’VE EVER READ?"},
+            {"id": 51, "q": "HOW DO YOU ENCOURAGE YOURSELF WHEN YOU FEEL DOWN?"},
+            {"id": 52, "q": "WHAT’S A DREAM YOU HAVEN’T PURSUED YET?"},
+            {"id": 53, "q": "WHAT’S ONE THING YOU’D LIKE TO BE REMEMBERED FOR?"},
+            {"id": 54, "q": "WHAT’S ONE CHALLENGE YOU’RE CURRENTLY FACING?"},
+            {"id": 55, "q": "WHAT’S A PASSION OF YOURS THAT YOU’VE PUT ON HOLD?"},
+            {"id": 56, "q": "HOW DO YOU MEASURE YOUR OWN HAPPINESS?"},
+            {"id": 57, "q": "WHAT’S ONE THING YOU’VE LEARNED ABOUT YOURSELF THROUGH OUR CONVERSATION?"},
+            {"id": 58, "q": "WHAT’S A PERSONAL TRAIT YOU ADMIRE IN OTHERS AND STRIVE TO EMBODY?"},
+            {"id": 59, "q": "WHAT’S A TRADITION OR RITUAL THAT IS IMPORTANT TO YOU?"},
+            {"id": 60, "q": "HOW DO YOU DEAL WITH CHANGE IN YOUR LIFE?"},
+            {"id": 61, "q": "WHAT’S ONE THING YOU’D LIKE TO ACCOMPLISH BEFORE THE END OF THE YEAR?"},
+            {"id": 62, "q": "WHAT’S THE MOST MEANINGFUL COMPLIMENT YOU’VE RECEIVED?"},
+            {"id": 63, "q": "HOW DO YOU RECHARGE AND TAKE CARE OF YOURSELF?"},
+            {"id": 64, "q": "WHAT’S A SIGNIFICANT LIFE LESSON YOU’VE LEARNED RECENTLY?"},
+            {"id": 65, "q": "WHAT’S ONE THING YOU’D LIKE TO CHANGE ABOUT YOURSELF AND WHY?"},
+            {"id": 66, "q": "HOW DO YOU STAY MOTIVATED DURING TOUGH TIMES?"},
+            {"id": 67, "q": "WHAT’S ONE ADVICE YOU’D GIVE TO YOUR FUTURE SELF?"},
+            {"id": 68, "q": "WHAT’S ONE THING YOU WISH YOU KNEW ABOUT YOURSELF SOONER?"},
+            {"id": 69, "q": "WHAT’S A GOAL YOU’RE CURRENTLY WORKING TOWARDS?"},
+            {"id": 70, "q": "WHAT DO YOU THINK IS THE KEY TO A FULFILLING LIFE?"},
+            {"id": 71, "q": "WHAT’S ONE THING YOU VALUE MOST IN YOUR LIFE RIGHT NOW?"}
           ],
           "wildcards":[
-           [
-    {"id": 1, "q": "WILDCARD: CREATE A SHORT POEM ABOUT YOUR PARTNER. READ IT OUT LOUD."},
-    {"id": 2, "q": "WILDCARD: MAKE A LIST OF THREE THINGS YOU’RE PROUD OF. COMPARE AND DISCUSS."},
-    {"id": 3, "q": "WILDCARD: BOTH PLAYERS SHARE A SONG THAT HAS SPECIAL MEANING TO THEM. EXPLAIN WHY."},
-    {"id": 4, "q": "WILDCARD: EACH PLAYER DESIGNS A “PERSONAL FLAG” THAT REPRESENTS THEM. DRAW AND SHARE."},
-    {"id": 5, "q": "WILDCARD: SWITCH ROLES AND TELL YOUR PARTNER’S LIFE STORY FROM YOUR PERSPECTIVE."},
-    {"id": 6, "q": "WILDCARD: WRITE A SHORT STORY ABOUT YOUR PARTNER’S DREAM JOB. SHARE AND DISCUSS."},
-    {"id": 7, "q": "WILDCARD: THINK OF A WORD THAT REPRESENTS YOUR PARTNER’S ESSENCE. SHARE AND EXPLAIN."},
-    {"id": 8, "q": "WILDCARD: WRITE DOWN A GOAL YOU HAVE FOR THE NEXT FIVE YEARS. SHARE AND DISCUSS."},
-    {"id": 9, "q": "WILDCARD: DESIGN A “TATTOO” FOR YOUR PARTNER THAT REPRESENTS THEIR PERSONALITY. DRAW AND SHARE."},
-    {"id": 10, "q": "WILDCARD: RECORD A 30-SECOND VIDEO MESSAGE FOR YOURSELF TO WATCH IN A YEAR."},
-    {"id": 11, "q": "WILDCARD: SHARE A STORY FROM YOUR CHILDHOOD THAT STILL MAKES YOU LAUGH."},
-    {"id": 12, "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER HANDLES STRESS."},
-    {"id": 13, "q": "WILDCARD: CREATE A 30-SECOND SPEECH PROMOTING YOUR PARTNER TO SOMEONE ELSE."},
-    {"id": 14, "q": "WILDCARD: WRITE DOWN YOUR TOP THREE LIFE VALUES. COMPARE AND DISCUSS."},
-    {"id": 15, "q": "WILDCARD: SHARE A RECIPE THAT REPRESENTS YOU. DISCUSS ITS MEANING."},
-    {"id": 16, "q": "WILDCARD: CREATE A “TIME CAPSULE” OF ITEMS THAT REPRESENT YOUR LIFE RIGHT NOW. SEAL IT TIGHT AND HIDE IT SOMEWHERE SAFE. SET A REMINDER TO OPEN IT TOGETHER IN AT LEAST 5 YEARS."},
-    {"id": 17, "q": "WILDCARD: DRAW YOUR FAVORITE MEMORY TOGETHER. DISCUSS THE SIGNIFICANCE."},
-    {"id": 18, "q": "WILDCARD: SHARE A SONG THAT MAKES YOU FEEL STRONG."},
-    {"id": 19, "q": "WILDCARD: WRITE A MINI STORY ABOUT YOUR PARTNER’S PERFECT DAY. READ IT ALOUD."},
-    {"id": 20, "q": "WILDCARD: REVEAL A PERSONAL MANTRA OR AFFIRMATION YOU USE AND EXPLAIN ITS MEANING."},
-    {"id": 21, "q": "WILDCARD: EACH PLAYER SHARES A PICTURE THAT REPRESENTS THEIR FUTURE GOALS. DISCUSS."},
-    {"id": 22, "q": "WILDCARD: CREATE A SHORT “THANK YOU” SPEECH FOR SOMETHING IN YOUR LIFE."},
-    {"id": 23, "q": "WILDCARD: SHARE A FUN FACT ABOUT YOURSELF THAT FEW PEOPLE KNOW."},
-    {"id": 24, "q": "WILDCARD: IMITATE YOUR FAVORITE CELEBRITY FOR 30 SECONDS. THE OTHER PLAYER MUST GUESS WHO IT IS."},
-    {"id": 25, "q": "WILDCARD: DESCRIBE YOUR PARTNER'S THREE BIGGEST STRENGTHS AND WHY THEY'RE IMPORTANT TO YOU."},
-    {"id": 26, "q": "WILDCARD: CREATE A SECRET LANGUAGE TOGETHER TO USE IN WEIRD SITUATIONS."},
-    {"id": 27, "q": "WILDCARD: SHARE A FUNNY OR EMBARRASSING STORY FROM YOUR PAST."},
-    {"id": 28, "q": "WILDCARD: PLAN A MINI-ADVENTURE INVOLVING BOTH PLAYERS. YOU HAVE 1 MONTH TO ACT UPON IT."},
-    {"id": 29, "q": "WILDCARD: MAKE A “SPOTLIGHT” ON ONE THING YOU APPRECIATE ABOUT YOUR PARTNER."},
-    {"id": 30, "q": "WILDCARD: SHARE A STRATEGY YOU USE TO OVERCOME PROCRASTINATION."},
-    {"id": 31, "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER DEALS WITH JOY."},
-    {"id": 32, "q": "WILDCARD: BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."},
-    {"id": 33, "q": "WILDCARD: COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)."},
-    {"id": 34, "q": "WILDCARD: PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."},
-    {"id": 35, "q": "WILDCARD: WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."},
-    {"id": 36, "q": "WILDCARD: LET'S CAPTURE THIS GAME IN YOUR LIFE'S STORY, TAKE A SELFIE TOGETHER."},
-    {"id": 37, "q": "WILDCARD: CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)."},
-    {"id": 38, "q": "WILDCARD: GIVE YOUR PARTNER A GENUINE, WARM HUG."},
-    {"id": 39, "q": "WILDCARD: BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."},
-    {"id": 40, "q": "WILDCARD: REVEAL A SECRET OR PERSONAL TRUTH."},
-    {"id": 41, "q": "WILDCARD: CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."},
-    {"id": 42, "q": "WILDCARD: WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)."},
-    {"id": 43, "q": "WILDCARD: SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."},
-    {"id": 44, "q": "WILDCARD: GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."}
-]
-
+            {"id": 1, "q": "WILDCARD: CREATE A SHORT POEM ABOUT YOUR PARTNER. READ IT OUT LOUD."},
+            {"id": 2, "q": "WILDCARD: MAKE A LIST OF THREE THINGS YOU’RE PROUD OF. COMPARE AND DISCUSS."},
+            {"id": 3, "q": "WILDCARD: BOTH PLAYERS SHARE A SONG THAT HAS SPECIAL MEANING TO THEM. EXPLAIN WHY."},
+            {"id": 4, "q": "WILDCARD: EACH PLAYER DESIGNS A “PERSONAL FLAG” THAT REPRESENTS THEM. DRAW AND SHARE."},
+            {"id": 5, "q": "WILDCARD: SWITCH ROLES AND TELL YOUR PARTNER’S LIFE STORY FROM YOUR PERSPECTIVE."},
+            {"id": 6, "q": "WILDCARD: WRITE A SHORT STORY ABOUT YOUR PARTNER’S DREAM JOB. SHARE AND DISCUSS."},
+            {"id": 7, "q": "WILDCARD: THINK OF A WORD THAT REPRESENTS YOUR PARTNER’S ESSENCE. SHARE AND EXPLAIN."},
+            {"id": 8, "q": "WILDCARD: WRITE DOWN A GOAL YOU HAVE FOR THE NEXT FIVE YEARS. SHARE AND DISCUSS."},
+            {"id": 9, "q": "WILDCARD: DESIGN A “TATTOO” FOR YOUR PARTNER THAT REPRESENTS THEIR PERSONALITY. DRAW AND SHARE."},
+            {"id": 10, "q": "WILDCARD: RECORD A 30-SECOND VIDEO MESSAGE FOR YOURSELF TO WATCH IN A YEAR."},
+            {"id": 11, "q": "WILDCARD: SHARE A STORY FROM YOUR CHILDHOOD THAT STILL MAKES YOU LAUGH."},
+            {"id": 12, "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER HANDLES STRESS."},
+            {"id": 13, "q": "WILDCARD: CREATE A 30-SECOND SPEECH PROMOTING YOUR PARTNER TO SOMEONE ELSE."},
+            {"id": 14, "q": "WILDCARD: WRITE DOWN YOUR TOP THREE LIFE VALUES. COMPARE AND DISCUSS."},
+            {"id": 15, "q": "WILDCARD: SHARE A RECIPE THAT REPRESENTS YOU. DISCUSS ITS MEANING."},
+            {"id": 16, "q": "WILDCARD: CREATE A “TIME CAPSULE” OF ITEMS THAT REPRESENT YOUR LIFE RIGHT NOW. SEAL IT TIGHT AND HIDE IT SOMEWHERE SAFE. SET A REMINDER TO OPEN IT TOGETHER IN AT LEAST 5 YEARS."},
+            {"id": 17, "q": "WILDCARD: DRAW YOUR FAVORITE MEMORY TOGETHER. DISCUSS THE SIGNIFICANCE."},
+            {"id": 18, "q": "WILDCARD: SHARE A SONG THAT MAKES YOU FEEL STRONG."},
+            {"id": 19, "q": "WILDCARD: WRITE A MINI STORY ABOUT YOUR PARTNER’S PERFECT DAY. READ IT ALOUD."},
+            {"id": 20, "q": "WILDCARD: REVEAL A PERSONAL MANTRA OR AFFIRMATION YOU USE AND EXPLAIN ITS MEANING."},
+            {"id": 21, "q": "WILDCARD: EACH PLAYER SHARES A PICTURE THAT REPRESENTS THEIR FUTURE GOALS. DISCUSS."},
+            {"id": 22, "q": "WILDCARD: CREATE A SHORT “THANK YOU” SPEECH FOR SOMETHING IN YOUR LIFE."},
+            {"id": 23, "q": "WILDCARD: SHARE A FUN FACT ABOUT YOURSELF THAT FEW PEOPLE KNOW."},
+            {"id": 24, "q": "WILDCARD: IMITATE YOUR FAVORITE CELEBRITY FOR 30 SECONDS. THE OTHER PLAYER MUST GUESS WHO IT IS."},
+            {"id": 25, "q": "WILDCARD: DESCRIBE YOUR PARTNER'S THREE BIGGEST STRENGTHS AND WHY THEY'RE IMPORTANT TO YOU."},
+            {"id": 26, "q": "WILDCARD: CREATE A SECRET LANGUAGE TOGETHER TO USE IN WEIRD SITUATIONS."},
+            {"id": 27, "q": "WILDCARD: SHARE A FUNNY OR EMBARRASSING STORY FROM YOUR PAST."},
+            {"id": 28, "q": "WILDCARD: PLAN A MINI-ADVENTURE INVOLVING BOTH PLAYERS. YOU HAVE 1 MONTH TO ACT UPON IT."},
+            {"id": 29, "q": "WILDCARD: MAKE A “SPOTLIGHT” ON ONE THING YOU APPRECIATE ABOUT YOUR PARTNER."},
+            {"id": 30, "q": "WILDCARD: SHARE A STRATEGY YOU USE TO OVERCOME PROCRASTINATION."},
+            {"id": 31, "q": "WILDCARD: ACT OUT HOW YOU THINK YOUR PARTNER DEALS WITH JOY."},
+            {"id": 32, "q": "WILDCARD: BOTH OF YOU SHARE SOMETHING YOU’RE CURRENTLY GRATEFUL FOR."},
+            {"id": 33, "q": "WILDCARD: COMPOSE A SHORT SONG ABOUT YOUR PARTNER (30 SEC). THEN PERFORM IT WITH ENERGY! (BOTH PLAYERS)."},
+            {"id": 34, "q": "WILDCARD: PLAY ROCK, PAPER, SCISSORS. THE WINNER GETS TO ASK ANY QUESTION, AND THE LOSER MUST ANSWER IT."},
+            {"id": 35, "q": "WILDCARD: WRITE DOWN A GOAL FOR THE YEAR. EXCHANGE NOTES AND COMMIT TO SUPPORTING EACH OTHER (BOTH PLAYERS)."},
+            {"id": 36, "q": "WILDCARD: LET'S CAPTURE THIS GAME IN YOUR LIFE'S STORY, TAKE A SELFIE TOGETHER."},
+            {"id": 37, "q": "WILDCARD: CHALLENGE EACH OTHER TO STEP OUT OF YOUR COMFORT ZONE IN THE NEXT WEEK. (BOTH PLAYERS)."},
+            {"id": 38, "q": "WILDCARD: GIVE YOUR PARTNER A GENUINE, WARM HUG."},
+            {"id": 39, "q": "WILDCARD: BOTH OF YOU WRITE A LETTER TO YOUR YOUNGER SELVES (1 MIN). OPTIONALLY, COMPARE LETTERS."},
+            {"id": 40, "q": "WILDCARD: REVEAL A SECRET OR PERSONAL TRUTH."},
+            {"id": 41, "q": "WILDCARD: CREATE A QUESTION THAT YOU THINK IS MEANINGFUL AND INSIGHTFUL. MAKE IT COUNT."},
+            {"id": 42, "q": "WILDCARD: WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ IT ALOUD, THEN TEAR IT UP TOGETHER. (BOTH PLAYERS)."},
+            {"id": 43, "q": "WILDCARD: SCROLL THROUGH EACH OTHER’S INSTAGRAM PROFILES. PICK THE PHOTO THAT BEST CAPTURES YOUR PARTNER’S ESSENCE AND EXPLAIN YOUR CHOICE."},
+            {"id": 44, "q": "WILDCARD: GIVE YOUR PARTNER A COMPLIMENT THAT YOU DON’T THINK THEY HEAR OFTEN ENOUGH."}
           ]
         }
       ],
@@ -414,13 +797,11 @@
       "premium": false,
       "suggested_for": "Ideal for 2",
       "gameOverMessage":[
-        [
-{"message":"Write a heartfelt letter to each other reflecting on your journey together. Exchange and read aloud."},
-{"message":"Create a time capsule together with items that represent your relationship. Decide when to open it in the future."},
-{"message":"Share your most cherished memories from your relationship. Reflect on how far you’ve come together."},
-{"message":"Write a letter to your partner to be read on your 10th anniversary. Exchange and seal."}
-]
-,
+        {"message":"Write a heartfelt letter to each other reflecting on your journey together. Exchange and read aloud."},
+        {"message":"Create a time capsule together with items that represent your relationship. Decide when to open it in the future."},
+        {"message":"Share your most cherished memories from your relationship. Reflect on how far you’ve come together."},
+        {"message":"Write a letter to your partner to be read on your 10th anniversary. Exchange and seal."}
+      ],
       "gameStartMessages":[
         {"message": "How to Play:\n\n1. Two Ways to Play:\nPass the Phone: After your turn, pass the phone to the next player.\nAppoint a Host: One player reads all the questions and wildcards.\n\n2. Levels & Wildcards:\nEach level has 15 questions, getting deeper as you go.\nWildcards may require actions or reflections—follow the prompts!\n\n3. Be Prepared:\nKeep pen and paper handy for certain wildcards.\n\nReady to connect, share, and have fun? Let’s play!"}
       ],
@@ -428,445 +809,723 @@
         {
           "level":1,
           "questions":[
-            [
-    {"id":1, "q":"HOW WOULD YOU SUM UP OUR FIRST DATE IN JUST ONE WORD?"},
-    {"id":2, "q":"WHAT PHYSICAL FEATURE OF MINE FIRST CAUGHT YOUR ATTENTION?"},
-    {"id":3, "q":"HOW DO I EXPRESS THAT I'M UPSET WITHOUT SAYING IT DIRECTLY?"},
-    {"id":4, "q":"DO YOU THINK I HAVE ANY UNCONVENTIONAL BELIEFS ABOUT LOVE?"},
-    {"id":5, "q":"WHAT DO YOU THINK AFFECTS ME THE MOST DURING AN ARGUMENT OR DISAGREEMENT?"},
-    {"id":6, "q":"WHAT WOULD A PERFECT DAY OF PAMPERING LOOK LIKE TO YOU?"},
-    {"id":7, "q":"ON A SCALE FROM 1 TO 10, HOW TRANSPARENT DO YOU FEEL I AM WITH YOU? EXPLAIN YOUR RATING."},
-    {"id":8, "q":"DESCRIBE YOUR IDEAL DATE NIGHT IN DETAIL."},
-    {"id":9, "q":"WHO DO YOU THINK WAS MORE NERVOUS ON OUR FIRST DATE? EXPLAIN YOUR THOUGHTS."},
-    {"id":10, "q":"WHAT IS SOMETHING I ENJOY THAT MOST PEOPLE FIND UNAPPEALING?"},
-    {"id":11, "q":"WHAT DO YOU THINK IS THE MOST LIKELY REASON I’D GET FIRED FROM A JOB?"},
-    {"id":12, "q":"WHAT INSIGHTS DID MY CIRCLE OF FRIENDS GIVE YOU ABOUT ME?"},
-    {"id":13, "q":"WHAT’S MY USUAL COFFEE ORDER? BE SPECIFIC."},
-    {"id":14, "q":"HOW WOULD YOU SUMMARIZE MY ATTITUDE TOWARDS WORK IN ONE WORD? EXPLAIN YOUR CHOICE."},
-    {"id":15, "q":"WHAT DO YOU THINK IS THE MAIN WAY I EXPRESS LOVE?"},
-    {"id":16, "q":"WHAT WARNING WOULD YOU GIVE YOURSELF ABOUT ME IF YOU COULD GO BACK TO THE BEGINNING OF OUR RELATIONSHIP?"},
-    {"id":17, "q":"WHAT DO YOU THINK IS THE BIGGEST SOURCE OF STRESS FOR ME RIGHT NOW?"},
-    {"id":18, "q":"WHAT WAS THE HARDEST THING FOR YOU TO UNDERSTAND ABOUT ME EARLY IN OUR RELATIONSHIP?"},
-    {"id":19, "q":"WHAT WERE YOUR INITIAL EXPECTATIONS OF ME IN BED? HOW ACCURATE WERE THEY?"},
-    {"id":20, "q":"WHAT DO YOU THINK I’M MOST SENSITIVE ABOUT?"},
-    {"id":21, "q":"WHAT WAS I WEARING ON OUR FIRST DATE?"},
-    {"id":22, "q":"WHAT ASSUMPTION THAT YOU FIRST MADE ABOUT ME TURNED OUT TO BE TRUE?"},
-    {"id":23, "q":"DID YOU LOOK AT MY SOCIAL MEDIA BEFORE WE MET? IF SO, WHAT STOOD OUT TO YOU?"},
-    {"id":24, "q":"HOW SIGNIFICANT DO YOU THINK GIFTS ARE TO ME? EXPLAIN."},
-    {"id":25, "q":"IF OUR FIRST KISS WERE A SONG, WHAT WOULD IT BE CALLED?"},
-    {"id":26, "q":"IF WE WEREN’T TOGETHER, WHAT PICK-UP LINE WOULD YOU USE ON ME?"},
-    {"id":27, "q":"WHICH CELEBRITY COUPLE DO YOU THINK WE RESEMBLE THE MOST?"},
-    {"id":28, "q":"DID YOU HAVE ANY ASSUMPTIONS ABOUT ME BASED ON MY AGE? IF SO, WHAT WERE THEY?"},
-    {"id":29, "q":"WHAT ASSUMPTION DID YOU MAKE ABOUT ME THAT TURNED OUT TO BE INCORRECT?"},
-    {"id":30, "q":"WHAT WAS THE FIRST NON-PHYSICAL THING YOU NOTICED ABOUT ME?"},
-    {"id":31, "q":"IF OUR RELATIONSHIP WERE A TV SHOW, WHAT WOULD ITS TITLE BE? WHAT EPISODE ARE WE ON?"},
-    {"id":32, "q":"HOW IMPORTANT DO YOU THINK BIRTHDAYS AND HOLIDAYS ARE TO ME? EXPLAIN."},
-    {"id":33, "q":"WHAT DO I DISLIKE THAT MOST PEOPLE ENJOY?"},
-    {"id":34, "q":"DESCRIBE THE FIRST TIME WE MET FROM YOUR PERSPECTIVE IN DETAIL."},
-    {"id":35, "q":"WHAT DID YOU THINK MY “TYPE” WAS BEFORE WE STARTED DATING?"},
-    {"id":36, "q":"WHAT’S YOUR FAVORITE THING FOR ME TO WEAR?"},
-    {"id":37, "q":"WHAT’S MY BIGGEST PET PEEVE? EXPLAIN WHY."},
-    {"id":38, "q":"WHAT DO YOU THINK MY MAIN GOAL FOR THIS YEAR IS?"},
-    {"id":39, "q":"WHAT INTIMIDATED YOU MOST ABOUT ME EARLY ON, IF ANYTHING?"},
-    {"id":40, "q":"WHAT INTRIGUED YOU MOST ABOUT ME BEFORE WE STARTED DATING?"},
-    {"id":41, "q":"HOW DO YOU THINK I VIEW MARRIAGE? EXPLAIN YOUR THOUGHTS."},
-    {"id":42, "q":"WHAT’S SOMETHING YOU THINK I’D ENJOY DOING MORE FREQUENTLY WITH YOU?"},
-    {"id":43, "q":"WHAT DID YOUR FRIENDS THINK ABOUT ME WHEN WE FIRST STARTED DATING?"},
-    {"id":44, "q":"HOW IMPORTANT DO YOU THINK PHYSICAL AFFECTION IS TO ME? EXPLAIN."},
-    {"id":45, "q":"WHAT’S MY GO-TO DELIVERY ORDER RIGHT NOW?"},
-    {"id":46, "q":"WHAT WAS YOUR FIRST IMPRESSION OF ME?"},
-    {"id":47, "q":"WHAT'S YOUR FAVORITE MEMORY OF US TOGETHER?"},
-    {"id":48, "q":"WHAT IS ONE THING YOU ALWAYS WANTED TO DO AS A COUPLE?"},
-    {"id":49, "q":"WHAT'S YOUR FAVORITE WAY TO SPEND TIME TOGETHER?"},
-    {"id":50, "q":"WHAT'S THE MOST ROMANTIC THING I'VE EVER DONE FOR YOU?"},
-    {"id":51, "q":"WHAT SONG REMINDS YOU OF OUR RELATIONSHIP?"},
-    {"id":52, "q":"WHAT IS YOUR FAVORITE PHYSICAL FEATURE OF MINE?"},
-    {"id":53, "q":"WHAT IS YOUR FAVORITE ACTIVITY THAT WE DO TOGETHER?"},
-    {"id":54, "q":"DO YOU THINK WE COMPLEMENT EACH OTHER? HOW?"},
-    {"id":55, "q":"WHAT IS ONE THING YOU THINK WE SHOULD DO MORE OFTEN?"},
-    {"id":56, "q":"WHAT WAS THE FIRST THING THAT ATTRACTED YOU TO ME?"},
-    {"id":57, "q":"WHAT IS YOUR FAVORITE NICKNAME FOR ME TO CALL YOU?"},
-    {"id":58, "q":"IF WE COULD GO ANYWHERE FOR A WEEKEND GETAWAY, WHERE WOULD IT BE?"},
-    {"id":59, "q":"WHAT WAS THE BEST SURPRISE I EVER PLANNED FOR YOU?"},
-    {"id":60, "q":"WHAT DO YOU THINK IS OUR STRONGEST SHARED INTEREST?"},
-    {"id":61, "q":"WHAT'S YOUR FAVORITE MEAL WE'VE COOKED TOGETHER?"},
-    {"id":62, "q":"WHAT IS ONE THING YOU ADMIRE ABOUT ME?"},
-    {"id":63, "q":"DO YOU PREFER SPONTANEOUS OR PLANNED DATES? WHY?"},
-    {"id":64, "q":"WHAT'S YOUR FAVORITE INSIDE JOKE WE SHARE?"},
-    {"id":65, "q":"WHAT DO YOU THINK IS THE KEY TO OUR RELATIONSHIP?"},
-    {"id":66, "q":"WHAT DO YOU ENJOY MOST ABOUT OUR DAILY ROUTINE?"},
-    {"id":67, "q":"WHAT IS ONE THING YOU LEARNED ABOUT ME THAT SURPRISED YOU?"},
-    {"id":68, "q":"WHAT QUALITY DO YOU THINK I BRING TO OUR RELATIONSHIP?"},
-    {"id":69, "q":"WHAT'S THE FIRST THING YOU NOTICED ABOUT ME THAT WASN'T PHYSICAL?"},
-    {"id":70, "q":"IF YOU HAD TO CHOOSE ONE WORD TO DESCRIBE OUR RELATIONSHIP, WHAT WOULD IT BE?"},
-    {"id":71, "q":"WHAT’S A SMALL HABIT OF MINE THAT YOU FIND ENDEARING?"},
-    {"id":72, "q":"WHAT’S YOUR FAVORITE COMPLIMENT I'VE EVER GIVEN YOU?"},
-    {"id":73, "q":"HOW DO YOU FEEL WHEN WE HOLD HANDS IN PUBLIC?"},
-    {"id":74, "q":"WHAT’S A SIMPLE ACTIVITY WE DO TOGETHER THAT YOU LOVE?"},
-    {"id":75, "q":"WHAT’S YOUR FAVORITE THING TO DO WITH ME ON A LAZY SUNDAY?"},
-    {"id":76, "q":"WHAT’S A FUN FACT ABOUT YOU THAT YOU THINK I MIGHT NOT KNOW?"},
-    {"id":77, "q":"WHAT’S THE BEST MEAL WE'VE HAD TOGETHER?"},
-    {"id":78, "q":"WHAT’S A SONG THAT ALWAYS MAKES YOU THINK OF ME?"},
-    {"id":79, "q":"WHAT’S ONE THING YOU THOUGHT ABOUT ME THAT TURNED OUT TO BE UNTRUE?"},
-    {"id":80, "q":"WHAT’S YOUR FAVORITE SHARED HOBBY OR INTEREST?"},
-    {"id":81, "q":"WHAT’S A NEW HOBBY YOU’D LIKE TO TRY TOGETHER?"},
-    {"id":82, "q":"WHAT’S THE MOST THOUGHTFUL GIFT I'VE GIVEN YOU?"},
-    {"id":83, "q":"WHAT’S YOUR FAVORITE WAY FOR US TO SPEND A DAY OFF?"},
-    {"id":84, "q":"WHAT’S ONE OF YOUR FAVORITE PICTURES OF US TOGETHER?"},
-    {"id":85, "q":"WHAT’S A PLACE YOU WANT TO TRAVEL TO WITH ME?"},
-    {"id":86, "q":"WHAT’S A MOVIE OR TV SHOW THAT REMINDS YOU OF US?"},
-    {"id":87, "q":"WHAT’S YOUR FAVORITE WAY TO BE COMFORTED BY ME?"},
-    {"id":88, "q":"WHAT’S ONE THING YOU APPRECIATE ABOUT OUR RELATIONSHIP THAT YOU HAVEN'T TOLD ME BEFORE?"},
-    {"id":89, "q":"WHAT’S YOUR FAVORITE WAY TO CELEBRATE SPECIAL OCCASIONS WITH ME?"},
-    {"id":90, "q":"WHAT’S A LITTLE THING I DO THAT MAKES YOUR DAY BETTER?"},
-    {"id":91, "q":"WHAT’S ONE QUALITY YOU ADMIRE IN ME?"},
-    {"id":92, "q":"WHAT’S A SHARED GOAL YOU HAVE FOR US?"},
-    {"id":93, "q":"WHAT'S YOUR FAVORITE WAY TO SPEND A RAINY DAY WITH ME?"},
-    {"id":94, "q":"WHAT’S AN UNUSUAL HABIT YOU’VE NOTICED ABOUT ME THAT YOU LOVE?"},
-    {"id":95, "q":"WHAT’S A FAVORITE MEMORY OF OURS FROM THE PAST MONTH?"},
-    {"id":96, "q":"WHAT’S SOMETHING YOU LOOK FORWARD TO DOING TOGETHER IN THE FUTURE?"}
-]
-
-
+            {"id":1, "q":"HOW WOULD YOU SUM UP OUR FIRST DATE IN JUST ONE WORD?"},
+            {"id":2, "q":"WHAT PHYSICAL FEATURE OF MINE FIRST CAUGHT YOUR ATTENTION?"},
+            {"id":3, "q":"HOW DO I EXPRESS THAT I'M UPSET WITHOUT SAYING IT DIRECTLY?"},
+            {"id":4, "q":"DO YOU THINK I HAVE ANY UNCONVENTIONAL BELIEFS ABOUT LOVE?"},
+            {"id":5, "q":"WHAT DO YOU THINK AFFECTS ME THE MOST DURING AN ARGUMENT OR DISAGREEMENT?"},
+            {"id":6, "q":"WHAT WOULD A PERFECT DAY OF PAMPERING LOOK LIKE TO YOU?"},
+            {"id":7, "q":"ON A SCALE FROM 1 TO 10, HOW TRANSPARENT DO YOU FEEL I AM WITH YOU? EXPLAIN YOUR RATING."},
+            {"id":8, "q":"DESCRIBE YOUR IDEAL DATE NIGHT IN DETAIL."},
+            {"id":9, "q":"WHO DO YOU THINK WAS MORE NERVOUS ON OUR FIRST DATE? EXPLAIN YOUR THOUGHTS."},
+            {"id":10, "q":"WHAT IS SOMETHING I ENJOY THAT MOST PEOPLE FIND UNAPPEALING?"},
+            {"id":11, "q":"WHAT DO YOU THINK IS THE MOST LIKELY REASON I’D GET FIRED FROM A JOB?"},
+            {"id":12, "q":"WHAT INSIGHTS DID MY CIRCLE OF FRIENDS GIVE YOU ABOUT ME?"},
+            {"id":13, "q":"WHAT’S MY USUAL COFFEE ORDER? BE SPECIFIC."},
+            {"id":14, "q":"HOW WOULD YOU SUMMARIZE MY ATTITUDE TOWARDS WORK IN ONE WORD? EXPLAIN YOUR CHOICE."},
+            {"id":15, "q":"WHAT DO YOU THINK IS THE MAIN WAY I EXPRESS LOVE?"},
+            {"id":16, "q":"WHAT WARNING WOULD YOU GIVE YOURSELF ABOUT ME IF YOU COULD GO BACK TO THE BEGINNING OF OUR RELATIONSHIP?"},
+            {"id":17, "q":"WHAT DO YOU THINK IS THE BIGGEST SOURCE OF STRESS FOR ME RIGHT NOW?"},
+            {"id":18, "q":"WHAT WAS THE HARDEST THING FOR YOU TO UNDERSTAND ABOUT ME EARLY IN OUR RELATIONSHIP?"},
+            {"id":19, "q":"WHAT WERE YOUR INITIAL EXPECTATIONS OF ME IN BED? HOW ACCURATE WERE THEY?"},
+            {"id":20, "q":"WHAT DO YOU THINK I’M MOST SENSITIVE ABOUT?"},
+            {"id":21, "q":"WHAT WAS I WEARING ON OUR FIRST DATE?"},
+            {"id":22, "q":"WHAT ASSUMPTION THAT YOU FIRST MADE ABOUT ME TURNED OUT TO BE TRUE?"},
+            {"id":23, "q":"DID YOU LOOK AT MY SOCIAL MEDIA BEFORE WE MET? IF SO, WHAT STOOD OUT TO YOU?"},
+            {"id":24, "q":"HOW SIGNIFICANT DO YOU THINK GIFTS ARE TO ME? EXPLAIN."},
+            {"id":25, "q":"IF OUR FIRST KISS WERE A SONG, WHAT WOULD IT BE CALLED?"},
+            {"id":26, "q":"IF WE WEREN’T TOGETHER, WHAT PICK-UP LINE WOULD YOU USE ON ME?"},
+            {"id":27, "q":"WHICH CELEBRITY COUPLE DO YOU THINK WE RESEMBLE THE MOST?"},
+            {"id":28, "q":"DID YOU HAVE ANY ASSUMPTIONS ABOUT ME BASED ON MY AGE? IF SO, WHAT WERE THEY?"},
+            {"id":29, "q":"WHAT ASSUMPTION DID YOU MAKE ABOUT ME THAT TURNED OUT TO BE INCORRECT?"},
+            {"id":30, "q":"WHAT WAS THE FIRST NON-PHYSICAL THING YOU NOTICED ABOUT ME?"},
+            {"id":31, "q":"IF OUR RELATIONSHIP WERE A TV SHOW, WHAT WOULD ITS TITLE BE? WHAT EPISODE ARE WE ON?"},
+            {"id":32, "q":"HOW IMPORTANT DO YOU THINK BIRTHDAYS AND HOLIDAYS ARE TO ME? EXPLAIN."},
+            {"id":33, "q":"WHAT DO I DISLIKE THAT MOST PEOPLE ENJOY?"},
+            {"id":34, "q":"DESCRIBE THE FIRST TIME WE MET FROM YOUR PERSPECTIVE IN DETAIL."},
+            {"id":35, "q":"WHAT DID YOU THINK MY “TYPE” WAS BEFORE WE STARTED DATING?"},
+            {"id":36, "q":"WHAT’S YOUR FAVORITE THING FOR ME TO WEAR?"},
+            {"id":37, "q":"WHAT’S MY BIGGEST PET PEEVE? EXPLAIN WHY."},
+            {"id":38, "q":"WHAT DO YOU THINK MY MAIN GOAL FOR THIS YEAR IS?"},
+            {"id":39, "q":"WHAT INTIMIDATED YOU MOST ABOUT ME EARLY ON, IF ANYTHING?"},
+            {"id":40, "q":"WHAT INTRIGUED YOU MOST ABOUT ME BEFORE WE STARTED DATING?"},
+            {"id":41, "q":"HOW DO YOU THINK I VIEW MARRIAGE? EXPLAIN YOUR THOUGHTS."},
+            {"id":42, "q":"WHAT’S SOMETHING YOU THINK I’D ENJOY DOING MORE FREQUENTLY WITH YOU?"},
+            {"id":43, "q":"WHAT DID YOUR FRIENDS THINK ABOUT ME WHEN WE FIRST STARTED DATING?"},
+            {"id":44, "q":"HOW IMPORTANT DO YOU THINK PHYSICAL AFFECTION IS TO ME? EXPLAIN."},
+            {"id":45, "q":"WHAT’S MY GO-TO DELIVERY ORDER RIGHT NOW?"},
+            {"id":46, "q":"WHAT WAS YOUR FIRST IMPRESSION OF ME?"},
+            {"id":47, "q":"WHAT'S YOUR FAVORITE MEMORY OF US TOGETHER?"},
+            {"id":48, "q":"WHAT IS ONE THING YOU ALWAYS WANTED TO DO AS A COUPLE?"},
+            {"id":49, "q":"WHAT'S YOUR FAVORITE WAY TO SPEND TIME TOGETHER?"},
+            {"id":50, "q":"WHAT'S THE MOST ROMANTIC THING I'VE EVER DONE FOR YOU?"},
+            {"id":51, "q":"WHAT SONG REMINDS YOU OF OUR RELATIONSHIP?"},
+            {"id":52, "q":"WHAT IS YOUR FAVORITE PHYSICAL FEATURE OF MINE?"},
+            {"id":53, "q":"WHAT IS YOUR FAVORITE ACTIVITY THAT WE DO TOGETHER?"},
+            {"id":54, "q":"DO YOU THINK WE COMPLEMENT EACH OTHER? HOW?"},
+            {"id":55, "q":"WHAT IS ONE THING YOU THINK WE SHOULD DO MORE OFTEN?"},
+            {"id":56, "q":"WHAT WAS THE FIRST THING THAT ATTRACTED YOU TO ME?"},
+            {"id":57, "q":"WHAT IS YOUR FAVORITE NICKNAME FOR ME TO CALL YOU?"},
+            {"id":58, "q":"IF WE COULD GO ANYWHERE FOR A WEEKEND GETAWAY, WHERE WOULD IT BE?"},
+            {"id":59, "q":"WHAT WAS THE BEST SURPRISE I EVER PLANNED FOR YOU?"},
+            {"id":60, "q":"WHAT DO YOU THINK IS OUR STRONGEST SHARED INTEREST?"},
+            {"id":61, "q":"WHAT'S YOUR FAVORITE MEAL WE'VE COOKED TOGETHER?"},
+            {"id":62, "q":"WHAT IS ONE THING YOU ADMIRE ABOUT ME?"},
+            {"id":63, "q":"DO YOU PREFER SPONTANEOUS OR PLANNED DATES? WHY?"},
+            {"id":64, "q":"WHAT'S YOUR FAVORITE INSIDE JOKE WE SHARE?"},
+            {"id":65, "q":"WHAT DO YOU THINK IS THE KEY TO OUR RELATIONSHIP?"},
+            {"id":66, "q":"WHAT DO YOU ENJOY MOST ABOUT OUR DAILY ROUTINE?"},
+            {"id":67, "q":"WHAT IS ONE THING YOU LEARNED ABOUT ME THAT SURPRISED YOU?"},
+            {"id":68, "q":"WHAT QUALITY DO YOU THINK I BRING TO OUR RELATIONSHIP?"},
+            {"id":69, "q":"WHAT'S THE FIRST THING YOU NOTICED ABOUT ME THAT WASN'T PHYSICAL?"},
+            {"id":70, "q":"IF YOU HAD TO CHOOSE ONE WORD TO DESCRIBE OUR RELATIONSHIP, WHAT WOULD IT BE?"},
+            {"id":71, "q":"WHAT’S A SMALL HABIT OF MINE THAT YOU FIND ENDEARING?"},
+            {"id":72, "q":"WHAT’S YOUR FAVORITE COMPLIMENT I'VE EVER GIVEN YOU?"},
+            {"id":73, "q":"HOW DO YOU FEEL WHEN WE HOLD HANDS IN PUBLIC?"},
+            {"id":74, "q":"WHAT’S A SIMPLE ACTIVITY WE DO TOGETHER THAT YOU LOVE?"},
+            {"id":75, "q":"WHAT’S YOUR FAVORITE THING TO DO WITH ME ON A LAZY SUNDAY?"},
+            {"id":76, "q":"WHAT’S A FUN FACT ABOUT YOU THAT YOU THINK I MIGHT NOT KNOW?"},
+            {"id":77, "q":"WHAT’S THE BEST MEAL WE'VE HAD TOGETHER?"},
+            {"id":78, "q":"WHAT’S A SONG THAT ALWAYS MAKES YOU THINK OF ME?"},
+            {"id":79, "q":"WHAT’S ONE THING YOU THOUGHT ABOUT ME THAT TURNED OUT TO BE UNTRUE?"},
+            {"id":80, "q":"WHAT’S YOUR FAVORITE SHARED HOBBY OR INTEREST?"},
+            {"id":81, "q":"WHAT’S A NEW HOBBY YOU’D LIKE TO TRY TOGETHER?"},
+            {"id":82, "q":"WHAT’S THE MOST THOUGHTFUL GIFT I'VE GIVEN YOU?"},
+            {"id":83, "q":"WHAT’S YOUR FAVORITE WAY FOR US TO SPEND A DAY OFF?"},
+            {"id":84, "q":"WHAT’S ONE OF YOUR FAVORITE PICTURES OF US TOGETHER?"},
+            {"id":85, "q":"WHAT’S A PLACE YOU WANT TO TRAVEL TO WITH ME?"},
+            {"id":86, "q":"WHAT’S A MOVIE OR TV SHOW THAT REMINDS YOU OF US?"},
+            {"id":87, "q":"WHAT’S YOUR FAVORITE WAY TO BE COMFORTED BY ME?"},
+            {"id":88, "q":"WHAT’S ONE THING YOU APPRECIATE ABOUT OUR RELATIONSHIP THAT YOU HAVEN'T TOLD ME BEFORE?"},
+            {"id":89, "q":"WHAT’S YOUR FAVORITE WAY TO CELEBRATE SPECIAL OCCASIONS WITH ME?"},
+            {"id":90, "q":"WHAT’S A LITTLE THING I DO THAT MAKES YOUR DAY BETTER?"},
+            {"id":91, "q":"WHAT’S ONE QUALITY YOU ADMIRE IN ME?"},
+            {"id":92, "q":"WHAT’S A SHARED GOAL YOU HAVE FOR US?"},
+            {"id":93, "q":"WHAT'S YOUR FAVORITE WAY TO SPEND A RAINY DAY WITH ME?"},
+            {"id":94, "q":"WHAT’S AN UNUSUAL HABIT YOU’VE NOTICED ABOUT ME THAT YOU LOVE?"},
+            {"id":95, "q":"WHAT’S A FAVORITE MEMORY OF OURS FROM THE PAST MONTH?"},
+            {"id":96, "q":"WHAT’S SOMETHING YOU LOOK FORWARD TO DOING TOGETHER IN THE FUTURE?"}
           ],
           "wildcards":[
-            [
-    {"id":1, "q":"WILDCARD: SHARE A SECRET FANTASY (NOT NECESSARILY SEXUAL)."},
-    {"id":2, "q":"WILDCARD: TAKE A SELFIE TOGETHER."},
-    {"id":3, "q":"WILDCARD: DRAW A QUICK SKETCH OF EACH OTHER (30 SECONDS). COMPARE."},
-    {"id":4, "q":"WILDCARD: GIVE EACH OTHER A COMPLIMENT YOU DON’T OFTEN HEAR."},
-    {"id":5, "q":"WILDCARD: WRITE A SHORT LOVE NOTE TO EACH OTHER. EXCHANGE AND READ SILENTLY."},
-    {"id":6, "q":"WILDCARD: DRAW A DOODLE OF A FAVORITE MEMORY TOGETHER. COMPARE AND EXPLAIN."},
-    {"id":7, "q":"WILDCARD: WRITE DOWN YOUR FAVORITE INSIDE JOKE. SHARE AND LAUGH TOGETHER."},
-    {"id":8, "q":"WILDCARD: PLAN A SURPRISE DATE FOR EACH OTHER WITHIN THE NEXT MONTH. REVEAL YOUR PLANS."},
-    {"id":9, "q":"WILDCARD: SWAP PHONES AND FIND THE FUNNIEST PHOTO YOU HAVE OF EACH OTHER. SHARE."},
-    {"id":10, "q":"WILDCARD: DESCRIBE EACH OTHER IN THREE WORDS. COMPARE AND EXPLAIN."},
-    {"id":11, "q":"WILDCARD: SHARE YOUR FAVORITE CHILDHOOD MEMORY. BOTH PLAYERS. COMPARE AND EXPLAIN."},
-    {"id":12, "q":"WILDCARD: WRITE A SHORT STORY TOGETHER, ONE SENTENCE AT A TIME. TAKE TURNS."},
-    {"id":13, "q":"WILDCARD: GIVE EACH OTHER A COMPLIMENT YOU HAVEN’T SAID BEFORE."},
-    {"id":14, "q":"WILDCARD: SWAP A PIECE OF CLOTHING AND TAKE A FUNNY PHOTO TOGETHER."},
-    {"id":15, "q":"WILDCARD: CREATE A PLAYLIST OF SONGS THAT REMIND YOU OF EACH OTHER."},
-    {"id":16, "q":"WILDCARD: DRAW A QUICK SKETCH OF YOUR PARTNER'S SMILE."},
-    {"id":17, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S PERSONALITY IN THREE EMOJIS."},
-    {"id":18, "q":"WILDCARD: PLAN YOUR DREAM VACATION TOGETHER."},
-    {"id":19, "q":"WILDCARD: SHARE YOUR FAVORITE THING ABOUT EACH OTHER’S FAMILY."},
-    {"id":20, "q":"WILDCARD: SHARE THE FIRST THING THAT COMES TO MIND WHEN YOU HEAR YOUR PARTNER’S NAME."},
-    {"id":21, "q":"WILDCARD: SHARE YOUR FAVORITE SEASON AND WHY. BOTH PLAYERS."},
-    {"id":22, "q":"WILDCARD: SHARE A FUNNY OR EMBARRASSING STORY FROM YOUR CHILDHOOD."},
-    {"id":23, "q":"WILDCARD: DESCRIBE A DREAM YOU’VE HAD RECENTLY."},
-    {"id":24, "q":"WILDCARD: SHARE YOUR FAVORITE SMELL AND WHY IT’S SPECIAL TO YOU."},
-    {"id":25, "q":"WILDCARD: TAKE TURNS IMPERSONATING A FAMOUS PERSON AND GUESS WHO IT IS."},
-    {"id":26, "q":"WILDCARD: SHARE THE LAST THING THAT MADE YOU LAUGH REALLY HARD."},
-    {"id":27, "q":"WILDCARD: SHARE SOMETHING YOU’RE GRATEFUL FOR TODAY."},
-    {"id":28, "q":"WILDCARD: WRITE DOWN A SECRET WISH YOU HAVE. EXCHANGE AND READ."},
-    {"id":29, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO RELAX. BOTH PLAYERS."},
-    {"id":30, "q":"WILDCARD: DESCRIBE YOUR PERFECT DAY FROM START TO FINISH."},
-    {"id":31, "q":"WILDCARD: SHARE YOUR FAVORITE BOOK AND WHY IT’S SPECIAL TO YOU."},
-    {"id":32, "q":"WILDCARD: SHARE A SKILL YOU WISH YOU COULD LEARN."},
-    {"id":33, "q":"WILDCARD: SHARE YOUR FAVORITE HOLIDAY AND WHY."},
-    {"id":34, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S LAUGH IN ONE WORD."},
-    {"id":35, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO SPEND A WEEKEND."},
-    {"id":36, "q":"WILDCARD: SHARE A SONG THAT ALWAYS MAKES YOU HAPPY."},
-    {"id":37, "q":"WILDCARD: WRITE A NOTE TO YOUR PARTNER AND HIDE IT IN A PLACE WHERE THEY WILL FIND IT LATER."},
-    {"id":38, "q":"WILDCARD: SHARE A FEAR YOU’VE OVERCOME."},
-    {"id":39, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S EYES IN THREE WORDS."},
-    {"id":40, "q":"WILDCARD: SHARE A FUNNY NICKNAME YOU’VE HAD."},
-    {"id":41, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO STAY ACTIVE."},
-    {"id":42, "q":"WILDCARD: SHARE A HIDDEN TALENT YOU HAVE."},
-    {"id":43, "q":"WILDCARD: SHARE YOUR FAVORITE ANIMAL AND WHY."},
-    {"id":44, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S STYLE IN THREE WORDS."},
-    {"id":45, "q":"WILDCARD: SHARE A DREAM JOB YOU HAD AS A CHILD."},
-    {"id":46, "q":"WILDCARD: SHARE YOUR FAVORITE PLACE TO VISIT AND WHY."},
-    {"id":47, "q":"WILDCARD: WRITE DOWN A WISH FOR YOUR PARTNER. EXCHANGE AND READ."},
-    {"id":48, "q":"WILDCARD: SHARE YOUR FAVORITE THING TO COOK OR BAKE."},
-    {"id":49, "q":"WILDCARD: ON A SCALE FROM 1 TO 10, RATE EACH OTHER’S COMMUNICATION SKILLS. DISCUSS YOUR RATINGS."},
-    {"id":50, "q":"WILDCARD: DRAW A PORTRAIT OF YOUR PARTNER IN ONE MINUTE. COMPARE THE RESULTS."},
-    {"id":51, "q":"WILDCARD: RATE HOW WELL YOU KNOW YOUR PARTNER ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."},
-    {"id":52, "q":"WILDCARD: GUESS HOW MANY TIMES A WEEK YOUR PARTNER WOULD IDEALLY LIKE TO HAVE SEX. COMPARE YOUR GUESSES."},
-    {"id":53, "q":"WILDCARD: RATE EACH OTHER’S COOKING SKILLS ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."},
-    {"id":54, "q":"WILDCARD: TRY TO IMPERSONATE EACH OTHER. HAVE FUN WITH IT!"},
-    {"id":55, "q":"WILDCARD: MAINTAIN EYE CONTACT WITH EACH OTHER FOR 30 SECONDS. WHAT DID YOU NOTICE?"},
-    {"id":56, "q":"WILDCARD: DECIDE WHO IS MOST LIKELY TO MAKE YOU BOTH LATE FOR AN EVENT. WRITE DOWN YOUR ANSWER AND COMPARE."},
-    {"id":57, "q":"WILDCARD: RATE HOW WELL YOU THINK YOUR PARTNER KNOWS YOU ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."}
-]
-
+            {"id":1, "q":"WILDCARD: SHARE A SECRET FANTASY (NOT NECESSARILY SEXUAL)."},
+            {"id":2, "q":"WILDCARD: TAKE A SELFIE TOGETHER."},
+            {"id":3, "q":"WILDCARD: DRAW A QUICK SKETCH OF EACH OTHER (30 SECONDS). COMPARE."},
+            {"id":4, "q":"WILDCARD: GIVE EACH OTHER A COMPLIMENT YOU DON’T OFTEN HEAR."},
+            {"id":5, "q":"WILDCARD: WRITE A SHORT LOVE NOTE TO EACH OTHER. EXCHANGE AND READ SILENTLY."},
+            {"id":6, "q":"WILDCARD: DRAW A DOODLE OF A FAVORITE MEMORY TOGETHER. COMPARE AND EXPLAIN."},
+            {"id":7, "q":"WILDCARD: WRITE DOWN YOUR FAVORITE INSIDE JOKE. SHARE AND LAUGH TOGETHER."},
+            {"id":8, "q":"WILDCARD: PLAN A SURPRISE DATE FOR EACH OTHER WITHIN THE NEXT MONTH. REVEAL YOUR PLANS."},
+            {"id":9, "q":"WILDCARD: SWAP PHONES AND FIND THE FUNNIEST PHOTO YOU HAVE OF EACH OTHER. SHARE."},
+            {"id":10, "q":"WILDCARD: DESCRIBE EACH OTHER IN THREE WORDS. COMPARE AND EXPLAIN."},
+            {"id":11, "q":"WILDCARD: SHARE YOUR FAVORITE CHILDHOOD MEMORY. BOTH PLAYERS. COMPARE AND EXPLAIN."},
+            {"id":12, "q":"WILDCARD: WRITE A SHORT STORY TOGETHER, ONE SENTENCE AT A TIME. TAKE TURNS."},
+            {"id":13, "q":"WILDCARD: GIVE EACH OTHER A COMPLIMENT YOU HAVEN’T SAID BEFORE."},
+            {"id":14, "q":"WILDCARD: SWAP A PIECE OF CLOTHING AND TAKE A FUNNY PHOTO TOGETHER."},
+            {"id":15, "q":"WILDCARD: CREATE A PLAYLIST OF SONGS THAT REMIND YOU OF EACH OTHER."},
+            {"id":16, "q":"WILDCARD: DRAW A QUICK SKETCH OF YOUR PARTNER'S SMILE."},
+            {"id":17, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S PERSONALITY IN THREE EMOJIS."},
+            {"id":18, "q":"WILDCARD: PLAN YOUR DREAM VACATION TOGETHER."},
+            {"id":19, "q":"WILDCARD: SHARE YOUR FAVORITE THING ABOUT EACH OTHER’S FAMILY."},
+            {"id":20, "q":"WILDCARD: SHARE THE FIRST THING THAT COMES TO MIND WHEN YOU HEAR YOUR PARTNER’S NAME."},
+            {"id":21, "q":"WILDCARD: SHARE YOUR FAVORITE SEASON AND WHY. BOTH PLAYERS."},
+            {"id":22, "q":"WILDCARD: SHARE A FUNNY OR EMBARRASSING STORY FROM YOUR CHILDHOOD."},
+            {"id":23, "q":"WILDCARD: DESCRIBE A DREAM YOU’VE HAD RECENTLY."},
+            {"id":24, "q":"WILDCARD: SHARE YOUR FAVORITE SMELL AND WHY IT’S SPECIAL TO YOU."},
+            {"id":25, "q":"WILDCARD: TAKE TURNS IMPERSONATING A FAMOUS PERSON AND GUESS WHO IT IS."},
+            {"id":26, "q":"WILDCARD: SHARE THE LAST THING THAT MADE YOU LAUGH REALLY HARD."},
+            {"id":27, "q":"WILDCARD: SHARE SOMETHING YOU’RE GRATEFUL FOR TODAY."},
+            {"id":28, "q":"WILDCARD: WRITE DOWN A SECRET WISH YOU HAVE. EXCHANGE AND READ."},
+            {"id":29, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO RELAX. BOTH PLAYERS."},
+            {"id":30, "q":"WILDCARD: DESCRIBE YOUR PERFECT DAY FROM START TO FINISH."},
+            {"id":31, "q":"WILDCARD: SHARE YOUR FAVORITE BOOK AND WHY IT’S SPECIAL TO YOU."},
+            {"id":32, "q":"WILDCARD: SHARE A SKILL YOU WISH YOU COULD LEARN."},
+            {"id":33, "q":"WILDCARD: SHARE YOUR FAVORITE HOLIDAY AND WHY."},
+            {"id":34, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S LAUGH IN ONE WORD."},
+            {"id":35, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO SPEND A WEEKEND."},
+            {"id":36, "q":"WILDCARD: SHARE A SONG THAT ALWAYS MAKES YOU HAPPY."},
+            {"id":37, "q":"WILDCARD: WRITE A NOTE TO YOUR PARTNER AND HIDE IT IN A PLACE WHERE THEY WILL FIND IT LATER."},
+            {"id":38, "q":"WILDCARD: SHARE A FEAR YOU’VE OVERCOME."},
+            {"id":39, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S EYES IN THREE WORDS."},
+            {"id":40, "q":"WILDCARD: SHARE A FUNNY NICKNAME YOU’VE HAD."},
+            {"id":41, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO STAY ACTIVE."},
+            {"id":42, "q":"WILDCARD: SHARE A HIDDEN TALENT YOU HAVE."},
+            {"id":43, "q":"WILDCARD: SHARE YOUR FAVORITE ANIMAL AND WHY."},
+            {"id":44, "q":"WILDCARD: DESCRIBE YOUR PARTNER’S STYLE IN THREE WORDS."},
+            {"id":45, "q":"WILDCARD: SHARE A DREAM JOB YOU HAD AS A CHILD."},
+            {"id":46, "q":"WILDCARD: SHARE YOUR FAVORITE PLACE TO VISIT AND WHY."},
+            {"id":47, "q":"WILDCARD: WRITE DOWN A WISH FOR YOUR PARTNER. EXCHANGE AND READ."},
+            {"id":48, "q":"WILDCARD: SHARE YOUR FAVORITE THING TO COOK OR BAKE."},
+            {"id":49, "q":"WILDCARD: ON A SCALE FROM 1 TO 10, RATE EACH OTHER’S COMMUNICATION SKILLS. DISCUSS YOUR RATINGS."},
+            {"id":50, "q":"WILDCARD: DRAW A PORTRAIT OF YOUR PARTNER IN ONE MINUTE. COMPARE THE RESULTS."},
+            {"id":51, "q":"WILDCARD: RATE HOW WELL YOU KNOW YOUR PARTNER ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."},
+            {"id":52, "q":"WILDCARD: GUESS HOW MANY TIMES A WEEK YOUR PARTNER WOULD IDEALLY LIKE TO HAVE SEX. COMPARE YOUR GUESSES."},
+            {"id":53, "q":"WILDCARD: RATE EACH OTHER’S COOKING SKILLS ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."},
+            {"id":54, "q":"WILDCARD: TRY TO IMPERSONATE EACH OTHER. HAVE FUN WITH IT!"},
+            {"id":55, "q":"WILDCARD: MAINTAIN EYE CONTACT WITH EACH OTHER FOR 30 SECONDS. WHAT DID YOU NOTICE?"},
+            {"id":56, "q":"WILDCARD: DECIDE WHO IS MOST LIKELY TO MAKE YOU BOTH LATE FOR AN EVENT. WRITE DOWN YOUR ANSWER AND COMPARE."},
+            {"id":57, "q":"WILDCARD: RATE HOW WELL YOU THINK YOUR PARTNER KNOWS YOU ON A SCALE OF 1 TO 10. COMPARE AND EXPLAIN."}
           ]
         },
         {
           "level":2,
           "questions":[
-            [
-    {"id":1, "q":"WHAT’S A SMALL GESTURE I MAKE THAT REVEALS A LOT ABOUT ME?"},
-    {"id":2, "q":"WHICH OF OUR ARGUMENTS WAS THE TOUGHEST FOR YOU? WHAT MADE IT PARTICULARLY CHALLENGING?"},
-    {"id":3, "q":"IF YOU HAD TO NAME OUR SEX LIFE AFTER A BOOK OR FILM, WHAT WOULD YOU NAME IT AND WHY?"},
-    {"id":4, "q":"IN WHAT WAYS IS THIS RELATIONSHIP DIFFERENT FROM ANY OTHER YOU’VE HAD BEFORE?"},
-    {"id":5, "q":"WHAT’S ONE WAY OUR RELATIONSHIP HAS IMPROVED OVER TIME?"},
-    {"id":6, "q":"WHAT’S SOMETHING WE DID EARLY ON IN OUR RELATIONSHIP THAT YOU MISS THE MOST?"},
-    {"id":7, "q":"WHAT’S THE TOUGHEST COMPROMISE YOU’VE HAD TO MAKE IN OUR RELATIONSHIP?"},
-    {"id":8, "q":"HOW HAVE I POSITIVELY INFLUENCED YOU?"},
-    {"id":9, "q":"HOW HAS YOUR UNDERSTANDING OF LOVE EVOLVED OVER TIME, IF AT ALL?"},
-    {"id":10, "q":"WHAT’S A COMPROMISE YOU’VE SEEN ME MAKE THAT YOU’RE ESPECIALLY THANKFUL FOR?"},
-    {"id":11, "q":"WHAT’S SOMETHING SEXY THAT I DO WITHOUT REALIZING IT?"},
-    {"id":12, "q":"WHEN WAS THE LAST TIME SOMEONE BROKE YOUR TRUST? HOW HAS IT AFFECTED YOUR ABILITY TO TRUST NOW?"},
-    {"id":13, "q":"COMPLETE THE SENTENCES: I KNEW I REALLY LIKED YOU WHEN... . I KNEW I LOVED YOU WHEN... ."},
-    {"id":14, "q":"WHAT’S SOMETHING YOU’VE LEARNED NOT TO TAKE PERSONALLY WITH ME?"},
-    {"id":15, "q":"WHAT DO YOU FIND YOURSELF OVERTHINKING IN OUR RELATIONSHIP, IF ANYTHING?"},
-    {"id":16, "q":"WHAT’S SOMETHING WE CAN LAUGH ABOUT NOW THAT ONCE FELT OVERWHELMING?"},
-    {"id":17, "q":"WHAT WAS THE HARDEST THING FOR YOU TO REVEAL TO ME ABOUT YOURSELF?"},
-    {"id":18, "q":"HOW HAS THIS RELATIONSHIP TAUGHT YOU MORE ABOUT YOURSELF?"},
-    {"id":19, "q":"WHAT’S THE MOST ROMANTIC THING I’VE DONE FOR YOU RECENTLY?"},
-    {"id":20, "q":"HOW DID OUR MOST INTENSE ARGUMENT AFFECT YOU?"},
-    {"id":21, "q":"HOW DO YOU THINK MY JOB IMPACTS OUR RELATIONSHIP?"},
-    {"id":22, "q":"WHAT ARE YOU CURRENTLY DEALING WITH THAT I MIGHT NOT BE AWARE OF?"},
-    {"id":23, "q":"WHAT HAVE YOU BEEN FEELING EXTRA SENSITIVE ABOUT LATELY?"},
-    {"id":24, "q":"WHAT EMOTIONS ARE CHALLENGING FOR YOU TO EXPRESS TO ME? HOW CAN I HELP MAKE IT EASIER?"},
-    {"id":25, "q":"WHAT INITIALLY ATTRACTED YOU TO ME? WHAT DREW YOU CLOSER OVER TIME?"},
-    {"id":26, "q":"WHAT’S THE BEST GIFT I’VE GIVEN YOU, BOTH MATERIAL AND IMMATERIAL?"},
-    {"id":27, "q":"WHAT ASPECT OF YOURSELF FEELS HARDEST FOR YOU TO LOVE?"},
-    {"id":28, "q":"WHAT DID YOU LEARN FROM YOUR PARENTS’ RELATIONSHIP THAT YOU WANT TO APPLY OR AVOID IN OURS?"},
-    {"id":29, "q":"WHEN WAS THE LAST TIME I MADE YOU FEEL LOVED WHEN YOU DIDN’T FEEL LOVABLE?"},
-    {"id":30, "q":"WHAT SMALL THING HAS HAD A BIG IMPACT ON OUR RELATIONSHIP?"},
-    {"id":31, "q":"HOW DOES OUR AGE DIFFERENCE, OR LACK THEREOF, INFLUENCE US, IF AT ALL?"},
-    {"id":32, "q":"WHEN WAS THE LAST TIME I UNINTENTIONALLY HURT YOU?"},
-    {"id":33, "q":"HOW DO OUR STRENGTHS AND WEAKNESSES COMPLEMENT EACH OTHER?"},
-    {"id":34, "q":"WHAT RECENT EVENT MADE YOU FEEL CLOSER TO ME?"},
-    {"id":35, "q":"WHAT’S THE MOST VALUABLE LESSON YOU’VE LEARNED FROM A PAST RELATIONSHIP THAT YOU’VE APPLIED TO OURS?"},
-    {"id":36, "q":"ARE THERE ANY INSECURITIES FROM PREVIOUS RELATIONSHIPS THAT YOU BROUGHT INTO THIS ONE? IF SO, WHAT ARE THEY?"},
-    {"id":37, "q":"HOW HAVE I HELPED YOU APPRECIATE ASPECTS OF YOURSELF?"},
-    {"id":38, "q":"HOW DO I DEMONSTRATE MY LOVE FOR YOU WITHOUT SPEAKING IT?"},
-    {"id":39, "q":"HOW HAVE YOU SEEN ME GROW DURING OUR TIME TOGETHER?"},
-    {"id":40, "q":"HAS MY PRESENCE CHANGED YOUR WORLDVIEW IN ANY WAY, BIG OR SMALL?"},
-    {"id":41, "q":"WHAT’S ONE SMALL CHANGE THAT COULD ENHANCE OUR SEX LIFE?"},
-    {"id":42, "q":"HOW DO YOU DEFINE CHEATING?"},
-    {"id":43, "q":"HOW DOES SOCIAL MEDIA IMPACT MY DAILY LIFE AND OUR RELATIONSHIP?"},
-    {"id":44, "q":"HAVE I EVER BETRAYED YOUR TRUST IN ANY WAY, BIG OR SMALL? WHAT COULD HELP RESTORE THAT TRUST?"},
-    {"id":45, "q":"WHAT IS SOMETHING YOU APPRECIATE ABOUT OUR RELATIONSHIP?"},
-    {"id":46, "q":"WHAT IS YOUR FAVORITE MEMORY OF US OVERCOMING A CHALLENGE TOGETHER?"},
-    {"id":47, "q":"WHAT IS SOMETHING YOU THINK WE UNDERSTAND ABOUT EACH OTHER THAT OTHER COUPLES MIGHT NOT?"},
-    {"id":48, "q":"HOW DO YOU THINK WE’VE GROWN TOGETHER AS A COUPLE?"},
-    {"id":49, "q":"WHAT'S ONE THING YOU THINK WE SHOULD WORK ON IN OUR RELATIONSHIP?"},
-    {"id":50, "q":"WHAT DO YOU THINK MAKES OUR RELATIONSHIP UNIQUE?"},
-    {"id":51, "q":"WHAT HAS BEEN THE MOST MEMORABLE TRIP WE’VE TAKEN TOGETHER?"},
-    {"id":52, "q":"WHAT'S A DREAM YOU HAVE FOR OUR FUTURE?"},
-    {"id":53, "q":"HOW DO YOU FEEL WHEN WE'RE APART?"},
-    {"id":54, "q":"WHAT'S ONE THING YOU'VE LEARNED FROM BEING IN A RELATIONSHIP WITH ME?"},
-    {"id":55, "q":"WHAT DO YOU THINK IS OUR BIGGEST STRENGTH AS A COUPLE?"},
-    {"id":56, "q":"HOW DO YOU THINK WE HANDLE DISAGREEMENTS?"}
-    {"id":57, "q":"WHAT IS ONE THING YOU WANT TO EXPERIENCE TOGETHER IN THE NEXT YEAR?"},
-    {"id":58, "q":"WHAT DO YOU THINK IS THE MOST IMPORTANT THING FOR US TO REMEMBER DURING TOUGH TIMES?"},
-    {"id":59, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR FUTURE?"},
-    {"id":60, "q":"WHAT'S YOUR FAVORITE WAY TO SHOW LOVE TO ME?"},
-    {"id":61, "q":"WHAT'S ONE WAY WE COULD IMPROVE OUR COMMUNICATION?"},
-    {"id":62, "q":"WHAT DO YOU THINK WE DO BETTER THAN OTHER COUPLES?"},
-    {"id":63, "q":"WHAT'S ONE THING YOU'VE ALWAYS WANTED TO TELL ME BUT HAVEN'T?"},
-    {"id":64, "q":"HOW DO YOU FEEL WE'VE CHANGED SINCE WE FIRST MET?"},
-    {"id":65, "q":"WHAT DO YOU THINK IS THE MOST IMPORTANT PART OF OUR RELATIONSHIP?"},
-    {"id":66, "q":"WHAT'S A CHALLENGE YOU THINK WE COULD FACE TOGETHER IN THE FUTURE?"},
-    {"id":67, "q":"WHAT DO YOU THINK IS THE BEST PART OF BEING IN A RELATIONSHIP WITH ME?"},
-    {"id":68, "q":"WHAT'S ONE THING YOU WANT TO KEEP DOING IN OUR RELATIONSHIP?"},
-    {"id":69, "q":"WHAT'S A MEMORY YOU THINK WE'LL ALWAYS CHERISH?"},
-    {"id":70, "q":"WHAT’S ONE WAY YOU THINK OUR RELATIONSHIP HAS GROWN STRONGER OVER TIME?"},
-    {"id":71, "q":"WHAT’S A CHALLENGE WE'VE OVERCOME TOGETHER THAT MADE US STRONGER?"},
-    {"id":72, "q":"HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"},
-    {"id":73, "q":"WHAT’S A LESSON ABOUT LOVE THAT YOU'VE LEARNED FROM OUR RELATIONSHIP?"},
-    {"id":74, "q":"WHAT’S SOMETHING YOU’VE LEARNED ABOUT YOURSELF SINCE WE'VE BEEN TOGETHER?"},
-    {"id":75, "q":"WHAT’S ONE WAY WE CAN CONTINUE TO GROW TOGETHER?"},
-    {"id":76, "q":"WHAT’S A MEMORABLE MOMENT WHEN YOU FELT DEEPLY CONNECTED TO ME?"},
-    {"id":77, "q":"WHAT’S A COMPROMISE YOU'VE MADE THAT YOU’RE PROUD OF?"},
-    {"id":78, "q":"HOW DO YOU FEEL WHEN WE RESOLVE CONFLICTS?"},
-    {"id":79, "q":"WHAT’S SOMETHING YOU ADMIRE ABOUT HOW WE HANDLE TOUGH TIMES?"},
-    {"id":80, "q":"WHAT’S A NEW TRADITION YOU’D LIKE TO START TOGETHER?"},
-    {"id":81, "q":"WHAT’S ONE THING WE DO THAT HELPS KEEP OUR RELATIONSHIP STRONG?"},
-    {"id":82, "q":"HOW DO YOU THINK WE BALANCE EACH OTHER OUT?"},
-    {"id":83, "q":"WHAT’S A GOAL YOU HAVE FOR US AS A COUPLE IN THE NEXT YEAR?"},
-    {"id":84, "q":"WHAT’S A FAVORITE WAY WE SUPPORT EACH OTHER?"},
-    {"id":85, "q":"WHAT’S ONE THING YOU’VE LEARNED TO APPRECIATE MORE BECAUSE OF OUR RELATIONSHIP?"},
-    {"id":86, "q":"HOW DO YOU FEEL WHEN WE TRY NEW THINGS TOGETHER?"},
-    {"id":87, "q":"WHAT’S ONE THING YOU WISH WE COULD DO MORE OFTEN?"},
-    {"id":88, "q":"WHAT’S A SMALL GESTURE THAT MEANS A LOT TO YOU?"},
-    {"id":89, "q":"HOW DO YOU THINK OUR RELATIONSHIP WILL EVOLVE IN THE NEXT FIVE YEARS?"},
-    {"id":90, "q":"WHAT’S ONE THING YOU THINK WE SHOULD WORK ON TO IMPROVE OUR RELATIONSHIP?"},
-    {"id":91, "q":"WHAT’S A MEMORABLE EXPERIENCE THAT BROUGHT US CLOSER?"},
-    {"id":92, "q":"HOW DO YOU FEEL ABOUT THE WAY WE COMMUNICATE?"},
-    {"id":93, "q":"WHAT’S ONE WAY WE CAN BETTER SUPPORT EACH OTHER’S DREAMS?"},
-    {"id":94, "q":"WHAT’S A QUALITY YOU’VE SEEN GROW IN ME SINCE WE STARTED OUR RELATIONSHIP?"},
-    {"id":95, "q":"WHAT’S A SKILL OR TALENT YOU HAVE THAT YOU HAVEN’T SHARED MUCH ABOUT?"},
-    {"id":96, "q":"WHAT’S A PERSONAL CHALLENGE YOU’VE OVERCOME SINCE WE’VE BEEN TOGETHER?"},
-    {"id":97, "q":"HOW DO YOU FEEL WHEN WE ACHIEVE SOMETHING TOGETHER?"},
-    {"id":98, "q":"WHAT IS SOMETHING YOU APPRECIATE ABOUT OUR RELATIONSHIP?"}
-]
+            {"id":1, "q":"WHAT’S A SMALL GESTURE I MAKE THAT REVEALS A LOT ABOUT ME?"},
+            {"id":2, "q":"WHICH OF OUR ARGUMENTS WAS THE TOUGHEST FOR YOU? WHAT MADE IT PARTICULARLY CHALLENGING?"},
+            {"id":3, "q":"IF YOU HAD TO NAME OUR SEX LIFE AFTER A BOOK OR FILM, WHAT WOULD YOU NAME IT AND WHY?"},
+            {"id":4, "q":"IN WHAT WAYS IS THIS RELATIONSHIP DIFFERENT FROM ANY OTHER YOU’VE HAD BEFORE?"},
+            {"id":5, "q":"WHAT’S ONE WAY OUR RELATIONSHIP HAS IMPROVED OVER TIME?"},
+            {"id":6, "q":"WHAT’S SOMETHING WE DID EARLY ON IN OUR RELATIONSHIP THAT YOU MISS THE MOST?"},
+            {"id":7, "q":"WHAT’S THE TOUGHEST COMPROMISE YOU’VE HAD TO MAKE IN OUR RELATIONSHIP?"},
+            {"id":8, "q":"HOW HAVE I POSITIVELY INFLUENCED YOU?"},
+            {"id":9, "q":"HOW HAS YOUR UNDERSTANDING OF LOVE EVOLVED OVER TIME, IF AT ALL?"},
+            {"id":10, "q":"WHAT’S A COMPROMISE YOU’VE SEEN ME MAKE THAT YOU’RE ESPECIALLY THANKFUL FOR?"},
+            {"id":11, "q":"WHAT’S SOMETHING SEXY THAT I DO WITHOUT REALIZING IT?"},
+            {"id":12, "q":"WHEN WAS THE LAST TIME SOMEONE BROKE YOUR TRUST? HOW HAS IT AFFECTED YOUR ABILITY TO TRUST NOW?"},
+            {"id":13, "q":"COMPLETE THE SENTENCES: I KNEW I REALLY LIKED YOU WHEN... . I KNEW I LOVED YOU WHEN... ."},
+            {"id":14, "q":"WHAT’S SOMETHING YOU’VE LEARNED NOT TO TAKE PERSONALLY WITH ME?"},
+            {"id":15, "q":"WHAT DO YOU FIND YOURSELF OVERTHINKING IN OUR RELATIONSHIP, IF ANYTHING?"},
+            {"id":16, "q":"WHAT’S SOMETHING WE CAN LAUGH ABOUT NOW THAT ONCE FELT OVERWHELMING?"},
+            {"id":17, "q":"WHAT WAS THE HARDEST THING FOR YOU TO REVEAL TO ME ABOUT YOURSELF?"},
+            {"id":18, "q":"HOW HAS THIS RELATIONSHIP TAUGHT YOU MORE ABOUT YOURSELF?"},
+            {"id":19, "q":"WHAT’S THE MOST ROMANTIC THING I’VE DONE FOR YOU RECENTLY?"},
+            {"id":20, "q":"HOW DID OUR MOST INTENSE ARGUMENT AFFECT YOU?"},
+            {"id":21, "q":"HOW DO YOU THINK MY JOB IMPACTS OUR RELATIONSHIP?"},
+            {"id":22, "q":"WHAT ARE YOU CURRENTLY DEALING WITH THAT I MIGHT NOT BE AWARE OF?"},
+            {"id":23, "q":"WHAT HAVE YOU BEEN FEELING EXTRA SENSITIVE ABOUT LATELY?"},
+            {"id":24, "q":"WHAT EMOTIONS ARE CHALLENGING FOR YOU TO EXPRESS TO ME? HOW CAN I HELP MAKE IT EASIER?"},
+            {"id":25, "q":"WHAT INITIALLY ATTRACTED YOU TO ME? WHAT DREW YOU CLOSER OVER TIME?"},
+            {"id":26, "q":"WHAT’S THE BEST GIFT I’VE GIVEN YOU, BOTH MATERIAL AND IMMATERIAL?"},
+            {"id":27, "q":"WHAT ASPECT OF YOURSELF FEELS HARDEST FOR YOU TO LOVE?"},
+            {"id":28, "q":"WHAT DID YOU LEARN FROM YOUR PARENTS’ RELATIONSHIP THAT YOU WANT TO APPLY OR AVOID IN OURS?"},
+            {"id":29, "q":"WHEN WAS THE LAST TIME I MADE YOU FEEL LOVED WHEN YOU DIDN’T FEEL LOVABLE?"},
+            {"id":30, "q":"WHAT SMALL THING HAS HAD A BIG IMPACT ON OUR RELATIONSHIP?"},
+            {"id":31, "q":"HOW DOES OUR AGE DIFFERENCE, OR LACK THEREOF, INFLUENCE US, IF AT ALL?"},
+            {"id":32, "q":"WHEN WAS THE LAST TIME I UNINTENTIONALLY HURT YOU?"},
+            {"id":33, "q":"HOW DO OUR STRENGTHS AND WEAKNESSES COMPLEMENT EACH OTHER?"},
+            {"id":34, "q":"WHAT RECENT EVENT MADE YOU FEEL CLOSER TO ME?"},
+            {"id":35, "q":"WHAT’S THE MOST VALUABLE LESSON YOU’VE LEARNED FROM A PAST RELATIONSHIP THAT YOU’VE APPLIED TO OURS?"},
+            {"id":36, "q":"ARE THERE ANY INSECURITIES FROM PREVIOUS RELATIONSHIPS THAT YOU BROUGHT INTO THIS ONE? IF SO, WHAT ARE THEY?"},
+            {"id":37, "q":"HOW HAVE I HELPED YOU APPRECIATE ASPECTS OF YOURSELF?"},
+            {"id":38, "q":"HOW DO I DEMONSTRATE MY LOVE FOR YOU WITHOUT SPEAKING IT?"},
+            {"id":39, "q":"HOW HAVE YOU SEEN ME GROW DURING OUR TIME TOGETHER?"},
+            {"id":40, "q":"HAS MY PRESENCE CHANGED YOUR WORLDVIEW IN ANY WAY, BIG OR SMALL?"},
+            {"id":41, "q":"WHAT’S ONE SMALL CHANGE THAT COULD ENHANCE OUR SEX LIFE?"},
+            {"id":42, "q":"HOW DO YOU DEFINE CHEATING?"},
+            {"id":43, "q":"HOW DOES SOCIAL MEDIA IMPACT MY DAILY LIFE AND OUR RELATIONSHIP?"},
+            {"id":44, "q":"HAVE I EVER BETRAYED YOUR TRUST IN ANY WAY, BIG OR SMALL? WHAT COULD HELP RESTORE THAT TRUST?"},
+            {"id":45, "q":"WHAT IS SOMETHING YOU APPRECIATE ABOUT OUR RELATIONSHIP?"},
+            {"id":46, "q":"WHAT IS YOUR FAVORITE MEMORY OF US OVERCOMING A CHALLENGE TOGETHER?"},
+            {"id":47, "q":"WHAT IS SOMETHING YOU THINK WE UNDERSTAND ABOUT EACH OTHER THAT OTHER COUPLES MIGHT NOT?"},
+            {"id":48, "q":"HOW DO YOU THINK WE’VE GROWN TOGETHER AS A COUPLE?"},
+            {"id":49, "q":"WHAT'S ONE THING YOU THINK WE SHOULD WORK ON IN OUR RELATIONSHIP?"},
+            {"id":50, "q":"WHAT DO YOU THINK MAKES OUR RELATIONSHIP UNIQUE?"},
+            {"id":51, "q":"WHAT HAS BEEN THE MOST MEMORABLE TRIP WE’VE TAKEN TOGETHER?"},
+            {"id":52, "q":"WHAT'S A DREAM YOU HAVE FOR OUR FUTURE?"},
+            {"id":53, "q":"HOW DO YOU FEEL WHEN WE'RE APART?"},
+            {"id":54, "q":"WHAT'S ONE THING YOU'VE LEARNED FROM BEING IN A RELATIONSHIP WITH ME?"},
+            {"id":55, "q":"WHAT DO YOU THINK IS OUR BIGGEST STRENGTH AS A COUPLE?"},
+            {"id":56, "q":"HOW DO YOU THINK WE HANDLE DISAGREEMENTS?"},
+            {"id":57, "q":"WHAT IS ONE THING YOU WANT TO EXPERIENCE TOGETHER IN THE NEXT YEAR?"},
+            {"id":58, "q":"WHAT DO YOU THINK IS THE MOST IMPORTANT THING FOR US TO REMEMBER DURING TOUGH TIMES?"},
+            {"id":59, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR FUTURE?"},
+            {"id":60, "q":"WHAT'S YOUR FAVORITE WAY TO SHOW LOVE TO ME?"},
+            {"id":61, "q":"WHAT'S ONE WAY WE COULD IMPROVE OUR COMMUNICATION?"},
+            {"id":62, "q":"WHAT DO YOU THINK WE DO BETTER THAN OTHER COUPLES?"},
+            {"id":63, "q":"WHAT'S ONE THING YOU'VE ALWAYS WANTED TO TELL ME BUT HAVEN'T?"},
+            {"id":64, "q":"HOW DO YOU FEEL WE'VE CHANGED SINCE WE FIRST MET?"},
+            {"id":65, "q":"WHAT DO YOU THINK IS THE MOST IMPORTANT PART OF OUR RELATIONSHIP?"},
+            {"id":66, "q":"WHAT'S A CHALLENGE YOU THINK WE COULD FACE TOGETHER IN THE FUTURE?"},
+            {"id":67, "q":"WHAT DO YOU THINK IS THE BEST PART OF BEING IN A RELATIONSHIP WITH ME?"},
+            {"id":68, "q":"WHAT'S ONE THING YOU WANT TO KEEP DOING IN OUR RELATIONSHIP?"},
+            {"id":69, "q":"WHAT'S A MEMORY YOU THINK WE'LL ALWAYS CHERISH?"},
+            {"id":70, "q":"WHAT’S ONE WAY YOU THINK OUR RELATIONSHIP HAS GROWN STRONGER OVER TIME?"},
+            {"id":71, "q":"WHAT’S A CHALLENGE WE'VE OVERCOME TOGETHER THAT MADE US STRONGER?"},
+            {"id":72, "q":"HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"},
+            {"id":73, "q":"WHAT’S A LESSON ABOUT LOVE THAT YOU'VE LEARNED FROM OUR RELATIONSHIP?"},
+            {"id":74, "q":"WHAT’S SOMETHING YOU’VE LEARNED ABOUT YOURSELF SINCE WE'VE BEEN TOGETHER?"},
+            {"id":75, "q":"WHAT’S ONE WAY WE CAN CONTINUE TO GROW TOGETHER?"},
+            {"id":76, "q":"WHAT’S A MEMORABLE MOMENT WHEN YOU FELT DEEPLY CONNECTED TO ME?"},
+            {"id":77, "q":"WHAT’S A COMPROMISE YOU'VE MADE THAT YOU’RE PROUD OF?"},
+            {"id":78, "q":"HOW DO YOU FEEL WHEN WE RESOLVE CONFLICTS?"},
+            {"id":79, "q":"WHAT’S SOMETHING YOU ADMIRE ABOUT HOW WE HANDLE TOUGH TIMES?"},
+            {"id":80, "q":"WHAT’S A NEW TRADITION YOU’D LIKE TO START TOGETHER?"},
+            {"id":81, "q":"WHAT’S ONE THING WE DO THAT HELPS KEEP OUR RELATIONSHIP STRONG?"},
+            {"id":82, "q":"HOW DO YOU THINK WE BALANCE EACH OTHER OUT?"},
+            {"id":83, "q":"WHAT’S A GOAL YOU HAVE FOR US AS A COUPLE IN THE NEXT YEAR?"},
+            {"id":84, "q":"WHAT’S A FAVORITE WAY WE SUPPORT EACH OTHER?"},
+            {"id":85, "q":"WHAT’S ONE THING YOU’VE LEARNED TO APPRECIATE MORE BECAUSE OF OUR RELATIONSHIP?"},
+            {"id":86, "q":"HOW DO YOU FEEL WHEN WE TRY NEW THINGS TOGETHER?"},
+            {"id":87, "q":"WHAT’S ONE THING YOU WISH WE COULD DO MORE OFTEN?"},
+            {"id":88, "q":"WHAT’S A SMALL GESTURE THAT MEANS A LOT TO YOU?"},
+            {"id":89, "q":"HOW DO YOU THINK OUR RELATIONSHIP WILL EVOLVE IN THE NEXT FIVE YEARS?"},
+            {"id":90, "q":"WHAT’S ONE THING YOU THINK WE SHOULD WORK ON TO IMPROVE OUR RELATIONSHIP?"},
+            {"id":91, "q":"WHAT’S A MEMORABLE EXPERIENCE THAT BROUGHT US CLOSER?"},
+            {"id":92, "q":"HOW DO YOU FEEL ABOUT THE WAY WE COMMUNICATE?"},
+            {"id":93, "q":"WHAT’S ONE WAY WE CAN BETTER SUPPORT EACH OTHER’S DREAMS?"},
+            {"id":94, "q":"WHAT’S A QUALITY YOU’VE SEEN GROW IN ME SINCE WE STARTED OUR RELATIONSHIP?"},
+            {"id":95, "q":"WHAT’S A SKILL OR TALENT YOU HAVE THAT YOU HAVEN’T SHARED MUCH ABOUT?"},
+            {"id":96, "q":"WHAT’S A PERSONAL CHALLENGE YOU’VE OVERCOME SINCE WE’VE BEEN TOGETHER?"},
+            {"id":97, "q":"HOW DO YOU FEEL WHEN WE ACHIEVE SOMETHING TOGETHER?"},
+            {"id":98, "q":"WHAT IS SOMETHING YOU APPRECIATE ABOUT OUR RELATIONSHIP?"}
           ],
           "wildcards":[
-            [
-    {"id":1, "q":"WILDCARD: WRITE DOWN ONE THING YOU’RE GRATEFUL FOR IN YOUR PARTNER. EXCHANGE."},
-    {"id":2, "q":"WILDCARD: SHARE A GOAL YOU HAVE FOR US AS A COUPLE."},
-    {"id":3, "q":"WILDCARD: PLAY ROCK, PAPER, SCISSORS. LOSER HAS TO GIVE THE WINNER A 1-MINUTE BACK MASSAGE."},
-    {"id":4, "q":"WILDCARD: PLAN A DATE NIGHT FOR THE NEAR FUTURE. DISCUSS IDEAS."},
-    {"id":5, "q":"WILDCARD: SHARE A FAVORITE PHOTO OF US TOGETHER AND EXPLAIN WHY IT'S MEANINGFUL."},
-    {"id":6, "q":"WILDCARD: WRITE A SHORT POEM ABOUT YOUR PARTNER. SHARE AND DISCUSS."},
-    {"id":7, "q":"WILDCARD: SHARE A PERSONAL GOAL YOU HAVE AND DISCUSS HOW YOUR PARTNER CAN SUPPORT YOU."},
-    {"id":8, "q":"WILDCARD: SPEND A MINUTE EXPRESSING GRATITUDE FOR EACH OTHER. TAKE TURNS."},
-    {"id":9, "q":"WILDCARD: WRITE A LETTER TO YOUR FUTURE SELVES AS A COUPLE. EXCHANGE AND READ SILENTLY."},
-    {"id":10, "q":"WILDCARD: PLAN A MEANINGFUL ACTIVITY TO DO TOGETHER THIS WEEK. DISCUSS WHY IT’S IMPORTANT."},
-    {"id":11, "q":"WILDCARD: WRITE DOWN A FAVORITE MEMORY YOU’VE CREATED TOGETHER. EXCHANGE AND READ."},
-    {"id":12, "q":"WILDCARD: SHARE A LESSON YOU’VE LEARNED FROM YOUR PARTNER."},
-    {"id":13, "q":"WILDCARD: WRITE A SHORT THANK YOU NOTE TO YOUR PARTNER. EXCHANGE AND READ."},
-    {"id":14, "q":"WILDCARD: PLAN A WEEKEND GETAWAY TOGETHER. DISCUSS THE DETAILS."},
-    {"id":15, "q":"WILDCARD: SHARE A TIME YOU FELT MOST SUPPORTED BY YOUR PARTNER."},
-    {"id":16, "q":"WILDCARD: WRITE DOWN A GOAL FOR YOUR RELATIONSHIP IN THE NEXT SIX MONTHS. COMPARE AND DISCUSS."},
-    {"id":17, "q":"WILDCARD: SHARE A FEAR ABOUT YOUR RELATIONSHIP AND HOW YOU CAN ADDRESS IT TOGETHER."},
-    {"id":18, "q":"WILDCARD: WRITE A LETTER TO YOUR PARTNER’S YOUNGER SELF. SHARE AND DISCUSS."},
-    {"id":19, "q":"WILDCARD: DESCRIBE HOW YOU FELT THE FIRST TIME YOU SAID, 'I LOVE YOU.'"},
-    {"id":20, "q":"WILDCARD: SHARE A DREAM YOU’VE HAD ABOUT YOUR FUTURE TOGETHER."},
-    {"id":21, "q":"WILDCARD: WRITE DOWN WHAT YOU APPRECIATE MOST ABOUT YOUR PARTNER’S PERSONALITY. EXCHANGE AND READ."},
-    {"id":22, "q":"WILDCARD: SHARE A MOMENT WHEN YOU FELT PROUD OF YOUR PARTNER."},
-    {"id":23, "q":"WILDCARD: WRITE DOWN A CHALLENGE YOU WANT TO TACKLE TOGETHER. COMPARE AND DISCUSS."},
-    {"id":24, "q":"WILDCARD: SHARE A STORY ABOUT YOUR PARTNER THAT YOU LOVE TO TELL OTHERS."},
-    {"id":25, "q":"WILDCARD: WRITE A POEM ABOUT YOUR RELATIONSHIP. SHARE AND DISCUSS."},
-    {"id":26, "q":"WILDCARD: DESCRIBE A PERFECT EVENING TOGETHER. PLAN HOW TO MAKE IT HAPPEN."},
-    {"id":27, "q":"WILDCARD: WRITE A LOVE LETTER TO YOUR PARTNER. EXCHANGE AND READ ALOUD."},
-    {"id":28, "q":"WILDCARD: SHARE A PERSONAL MOTTO OR MANTRA THAT HELPS YOU IN TOUGH TIMES."},
-    {"id":29, "q":"WILDCARD: WRITE DOWN THREE THINGS YOU’RE GRATEFUL FOR IN YOUR RELATIONSHIP. COMPARE AND DISCUSS."},
-    {"id":30, "q":"WILDCARD: SHARE A PIECE OF ADVICE YOU’VE RECEIVED ABOUT RELATIONSHIPS THAT YOU VALUE."},
-    {"id":31, "q":"WILDCARD: DESCRIBE HOW YOUR PARTNER HAS CHANGED YOUR LIFE FOR THE BETTER."},
-    {"id":32, "q":"WILDCARD: WRITE DOWN A PROMISE TO YOUR PARTNER. EXCHANGE AND DISCUSS."},
-    {"id":33, "q":"WILDCARD: SHARE A CHALLENGE YOU’VE FACED TOGETHER AND HOW YOU OVERCAME IT."},
-    {"id":34, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO SPEND QUALITY TIME TOGETHER."},
-    {"id":35, "q":"WILDCARD: DESCRIBE A FAVORITE MOMENT FROM YOUR RELATIONSHIP SO FAR."},
-    {"id":36, "q":"WILDCARD: SHARE A TIME WHEN YOUR PARTNER MADE YOU FEEL APPRECIATED."},
-    {"id":37, "q":"WILDCARD: WRITE DOWN A GOAL YOU HAVE FOR YOUR PERSONAL GROWTH. SHARE HOW YOUR PARTNER CAN SUPPORT YOU."},
-    {"id":38, "q":"WILDCARD: DESCRIBE A WAY YOU’VE GROWN TOGETHER AS A COUPLE."},
-    {"id":39, "q":"WILDCARD: WRITE A LETTER TO YOUR FUTURE SELVES. EXCHANGE AND READ SILENTLY THEN PUT AWAY SAFELY AND READ AT THE PLANNED DATE."},
-    {"id":40, "q":"WILDCARD: SHARE A FUNNY MEMORY FROM YOUR RELATIONSHIP. BOTH PLAYERS."},
-    {"id":41, "q":"WILDCARD: WRITE DOWN A CHALLENGE YOU’RE FACING AND DISCUSS HOW YOUR PARTNER CAN HELP."},
-    {"id":42, "q":"WILDCARD: SHARE YOUR FAVORITE PHYSICAL FEATURE OF YOUR PARTNER."},
-    {"id":43, "q":"WILDCARD: PLAN A DREAM VACATION TOGETHER. DISCUSS THE DETAILS."},
-    {"id":44, "q":"WILDCARD: WRITE A LETTER TO EACH OTHER TO BE OPENED IN ONE YEAR. EXCHANGE AND SEAL."},
-    {"id":45, "q":"WILDCARD: DESCRIBE HOW YOU FELT WHEN YOU FIRST MET YOUR PARTNER."},
-    {"id":46, "q":"WILDCARD: SHARE A FAVORITE DATE NIGHT MEMORY. BOTH PLAYERS."},
-    {"id":47, "q":"WILDCARD: WRITE DOWN A WAY YOU CAN IMPROVE IN THE RELATIONSHIP. SHARE AND DISCUSS."},
-    {"id":48, "q":"WILDCARD: SHARE A FAVORITE HOLIDAY MEMORY TOGETHER. BOTH PLAYERS."},
-    {"id":49, "q":"WILDCARD: WRITE A SHORT STORY ABOUT YOUR RELATIONSHIP FROM YOUR PARTNER’S PERSPECTIVE. EXCHANGE AND READ."},
-    {"id":50, "q":"WILDCARD: BETWEEN THE TWO OF US, WHO IS MORE LIKELY TO APOLOGIZE FIRST AFTER A DISAGREEMENT? WRITE DOWN YOUR ANSWER AND COMPARE."},
-    {"id":51, "q":"WILDCARD: LIST THREE THINGS YOU LOVE MOST ABOUT YOUR PARTNER IN ONE MINUTE. COMPARE YOUR LISTS."},
-    {"id":52, "q":"WILDCARD: COMPLETE THE SENTENCE: I’M SORRY FOR... . WRITE IT DOWN AND SHARE IT WITH EACH OTHER."},
-    {"id":53, "q":"WILDCARD: WRITE DOWN ONE SMALL WAY YOU CAN IMPROVE IN THIS RELATIONSHIP. COMPARE AND DISCUSS."},
-    {"id":54, "q":"WILDCARD: ON A SCALE FROM 1 TO 10, RATE THE IMPORTANCE OF HAVING CHILDREN TO YOU. COMPARE AND EXPLAIN."},
-    {"id":55, "q":"WILDCARD: DRAW ONE OF YOUR FAVORITE MEMORIES FROM OUR RELATIONSHIP IN 30 SECONDS. COMPARE AND DISCUSS."},
-    {"id":56, "q":"WILDCARD: YOU HAVE 30 SECONDS TO WRITE A SHORT GUIDE ON HOW TO LOVE YOUR PARTNER WELL. COMPARE AND DISCUSS."}
-]
+            {"id":1, "q":"WILDCARD: WRITE DOWN ONE THING YOU’RE GRATEFUL FOR IN YOUR PARTNER. EXCHANGE."},
+            {"id":2, "q":"WILDCARD: SHARE A GOAL YOU HAVE FOR US AS A COUPLE."},
+            {"id":3, "q":"WILDCARD: PLAY ROCK, PAPER, SCISSORS. LOSER HAS TO GIVE THE WINNER A 1-MINUTE BACK MASSAGE."},
+            {"id":4, "q":"WILDCARD: PLAN A DATE NIGHT FOR THE NEAR FUTURE. DISCUSS IDEAS."},
+            {"id":5, "q":"WILDCARD: SHARE A FAVORITE PHOTO OF US TOGETHER AND EXPLAIN WHY IT'S MEANINGFUL."},
+            {"id":6, "q":"WILDCARD: WRITE A SHORT POEM ABOUT YOUR PARTNER. SHARE AND DISCUSS."},
+            {"id":7, "q":"WILDCARD: SHARE A PERSONAL GOAL YOU HAVE AND DISCUSS HOW YOUR PARTNER CAN SUPPORT YOU."},
+            {"id":8, "q":"WILDCARD: SPEND A MINUTE EXPRESSING GRATITUDE FOR EACH OTHER. TAKE TURNS."},
+            {"id":9, "q":"WILDCARD: WRITE A LETTER TO YOUR FUTURE SELVES AS A COUPLE. EXCHANGE AND READ SILENTLY."},
+            {"id":10, "q":"WILDCARD: PLAN A MEANINGFUL ACTIVITY TO DO TOGETHER THIS WEEK. DISCUSS WHY IT’S IMPORTANT."},
+            {"id":11, "q":"WILDCARD: WRITE DOWN A FAVORITE MEMORY YOU’VE CREATED TOGETHER. EXCHANGE AND READ."},
+            {"id":12, "q":"WILDCARD: SHARE A LESSON YOU’VE LEARNED FROM YOUR PARTNER."},
+            {"id":13, "q":"WILDCARD: WRITE A SHORT THANK YOU NOTE TO YOUR PARTNER. EXCHANGE AND READ."},
+            {"id":14, "q":"WILDCARD: PLAN A WEEKEND GETAWAY TOGETHER. DISCUSS THE DETAILS."},
+            {"id":15, "q":"WILDCARD: SHARE A TIME YOU FELT MOST SUPPORTED BY YOUR PARTNER."},
+            {"id":16, "q":"WILDCARD: WRITE DOWN A GOAL FOR YOUR RELATIONSHIP IN THE NEXT SIX MONTHS. COMPARE AND DISCUSS."},
+            {"id":17, "q":"WILDCARD: SHARE A FEAR ABOUT YOUR RELATIONSHIP AND HOW YOU CAN ADDRESS IT TOGETHER."},
+            {"id":18, "q":"WILDCARD: WRITE A LETTER TO YOUR PARTNER’S YOUNGER SELF. SHARE AND DISCUSS."},
+            {"id":19, "q":"WILDCARD: DESCRIBE HOW YOU FELT THE FIRST TIME YOU SAID, 'I LOVE YOU.'"},
+            {"id":20, "q":"WILDCARD: SHARE A DREAM YOU’VE HAD ABOUT YOUR FUTURE TOGETHER."},
+            {"id":21, "q":"WILDCARD: WRITE DOWN WHAT YOU APPRECIATE MOST ABOUT YOUR PARTNER’S PERSONALITY. EXCHANGE AND READ."},
+            {"id":22, "q":"WILDCARD: SHARE A MOMENT WHEN YOU FELT PROUD OF YOUR PARTNER."},
+            {"id":23, "q":"WILDCARD: WRITE DOWN A CHALLENGE YOU WANT TO TACKLE TOGETHER. COMPARE AND DISCUSS."},
+            {"id":24, "q":"WILDCARD: SHARE A STORY ABOUT YOUR PARTNER THAT YOU LOVE TO TELL OTHERS."},
+            {"id":25, "q":"WILDCARD: WRITE A POEM ABOUT YOUR RELATIONSHIP. SHARE AND DISCUSS."},
+            {"id":26, "q":"WILDCARD: DESCRIBE A PERFECT EVENING TOGETHER. PLAN HOW TO MAKE IT HAPPEN."},
+            {"id":27, "q":"WILDCARD: WRITE A LOVE LETTER TO YOUR PARTNER. EXCHANGE AND READ ALOUD."},
+            {"id":28, "q":"WILDCARD: SHARE A PERSONAL MOTTO OR MANTRA THAT HELPS YOU IN TOUGH TIMES."},
+            {"id":29, "q":"WILDCARD: WRITE DOWN THREE THINGS YOU’RE GRATEFUL FOR IN YOUR RELATIONSHIP. COMPARE AND DISCUSS."},
+            {"id":30, "q":"WILDCARD: SHARE A PIECE OF ADVICE YOU’VE RECEIVED ABOUT RELATIONSHIPS THAT YOU VALUE."},
+            {"id":31, "q":"WILDCARD: DESCRIBE HOW YOUR PARTNER HAS CHANGED YOUR LIFE FOR THE BETTER."},
+            {"id":32, "q":"WILDCARD: WRITE DOWN A PROMISE TO YOUR PARTNER. EXCHANGE AND DISCUSS."},
+            {"id":33, "q":"WILDCARD: SHARE A CHALLENGE YOU’VE FACED TOGETHER AND HOW YOU OVERCAME IT."},
+            {"id":34, "q":"WILDCARD: SHARE YOUR FAVORITE WAY TO SPEND QUALITY TIME TOGETHER."},
+            {"id":35, "q":"WILDCARD: DESCRIBE A FAVORITE MOMENT FROM YOUR RELATIONSHIP SO FAR."},
+            {"id":36, "q":"WILDCARD: SHARE A TIME WHEN YOUR PARTNER MADE YOU FEEL APPRECIATED."},
+            {"id":37, "q":"WILDCARD: WRITE DOWN A GOAL YOU HAVE FOR YOUR PERSONAL GROWTH. SHARE HOW YOUR PARTNER CAN SUPPORT YOU."},
+            {"id":38, "q":"WILDCARD: DESCRIBE A WAY YOU’VE GROWN TOGETHER AS A COUPLE."},
+            {"id":39, "q":"WILDCARD: WRITE A LETTER TO YOUR FUTURE SELVES. EXCHANGE AND READ SILENTLY THEN PUT AWAY SAFELY AND READ AT THE PLANNED DATE."},
+            {"id":40, "q":"WILDCARD: SHARE A FUNNY MEMORY FROM YOUR RELATIONSHIP. BOTH PLAYERS."},
+            {"id":41, "q":"WILDCARD: WRITE DOWN A CHALLENGE YOU’RE FACING AND DISCUSS HOW YOUR PARTNER CAN HELP."},
+            {"id":42, "q":"WILDCARD: SHARE YOUR FAVORITE PHYSICAL FEATURE OF YOUR PARTNER."},
+            {"id":43, "q":"WILDCARD: PLAN A DREAM VACATION TOGETHER. DISCUSS THE DETAILS."},
+            {"id":44, "q":"WILDCARD: WRITE A LETTER TO EACH OTHER TO BE OPENED IN ONE YEAR. EXCHANGE AND SEAL."},
+            {"id":45, "q":"WILDCARD: DESCRIBE HOW YOU FELT WHEN YOU FIRST MET YOUR PARTNER."},
+            {"id":46, "q":"WILDCARD: SHARE A FAVORITE DATE NIGHT MEMORY. BOTH PLAYERS."},
+            {"id":47, "q":"WILDCARD: WRITE DOWN A WAY YOU CAN IMPROVE IN THE RELATIONSHIP. SHARE AND DISCUSS."},
+            {"id":48, "q":"WILDCARD: SHARE A FAVORITE HOLIDAY MEMORY TOGETHER. BOTH PLAYERS."},
+            {"id":49, "q":"WILDCARD: WRITE A SHORT STORY ABOUT YOUR RELATIONSHIP FROM YOUR PARTNER’S PERSPECTIVE. EXCHANGE AND READ."},
+            {"id":50, "q":"WILDCARD: BETWEEN THE TWO OF US, WHO IS MORE LIKELY TO APOLOGIZE FIRST AFTER A DISAGREEMENT? WRITE DOWN YOUR ANSWER AND COMPARE."},
+            {"id":51, "q":"WILDCARD: LIST THREE THINGS YOU LOVE MOST ABOUT YOUR PARTNER IN ONE MINUTE. COMPARE YOUR LISTS."},
+            {"id":52, "q":"WILDCARD: COMPLETE THE SENTENCE: I’M SORRY FOR... . WRITE IT DOWN AND SHARE IT WITH EACH OTHER."},
+            {"id":53, "q":"WILDCARD: WRITE DOWN ONE SMALL WAY YOU CAN IMPROVE IN THIS RELATIONSHIP. COMPARE AND DISCUSS."},
+            {"id":54, "q":"WILDCARD: ON A SCALE FROM 1 TO 10, RATE THE IMPORTANCE OF HAVING CHILDREN TO YOU. COMPARE AND EXPLAIN."},
+            {"id":55, "q":"WILDCARD: DRAW ONE OF YOUR FAVORITE MEMORIES FROM OUR RELATIONSHIP IN 30 SECONDS. COMPARE AND DISCUSS."},
+            {"id":56, "q":"WILDCARD: YOU HAVE 30 SECONDS TO WRITE A SHORT GUIDE ON HOW TO LOVE YOUR PARTNER WELL. COMPARE AND DISCUSS."}
           ]
         },
         {
-          "level":3,
-          "questions":[
-            [
-    {"id":1, "q":"WHAT’S A UNIQUE TALENT OF MINE THAT YOU THINK I MAY NOT EVEN REALIZE I HAVE?"},
-    {"id":2, "q":"HOW HAVE I CONTRIBUTED TO YOUR PERSONAL GROWTH?"},
-    {"id":3, "q":"WHAT’S YOUR FAVORITE RITUAL THAT WE HAVE TOGETHER? IS THERE A NEW RITUAL YOU’D LIKE TO CREATE FOR US?"},
-    {"id":4, "q":"WHAT DO YOU THINK I’M MOST SUITED TO OFFER RELATIONSHIP ADVICE ABOUT?"},
-    {"id":5, "q":"IF WE STARTED A BUSINESS TOGETHER, WHAT WOULD IT BE?"},
-    {"id":6, "q":"IN YOUR VIEW, WHERE DO YOU THINK I’M MOST HOLDING MYSELF BACK?"},
-    {"id":7, "q":"WHAT ADVICE WOULD YOU GIVE YOURSELF ON OUR FIRST DATE IF YOU COULD?"},
-    {"id":8, "q":"WHAT DO YOU BELIEVE IS OUR DEFINING TRAIT AS A COUPLE?"},
-    {"id":9, "q":"FINISH THIS SENTENCE: I’M MOST PROUD OF YOU FOR..."},
-    {"id":10, "q":"WHEN WAS THE LAST TIME YOU FELT TRULY LUCKY TO BE WITH ME? BE SPECIFIC."},
-    {"id":11, "q":"WHAT CAN OTHER COUPLES LEARN FROM OUR RELATIONSHIP?"},
-    {"id":12, "q":"WHAT’S ONE THING YOU’D NEVER WANT TO CHANGE ABOUT OUR RELATIONSHIP?"},
-    {"id":13, "q":"WHAT’S SOMETHING WE HAVE IN OUR RELATIONSHIP THAT YOU DIDN’T THINK WAS POSSIBLE?"},
-    {"id":14, "q":"WHAT EXCITES YOU MOST ABOUT OUR FUTURE TOGETHER?"},
-    {"id":15, "q":"WRITE A ONE-MINUTE STAND-UP COMEDY ROUTINE ABOUT OUR RELATIONSHIP AND PERFORM IT FOR EACH OTHER."},
-    {"id":16, "q":"FINISH THIS SENTENCE: THANK YOU FOR ACCEPTING... ABOUT ME."},
-    {"id":17, "q":"WHAT DO YOU THINK I FIND DIFFICULT TO OPEN UP ABOUT IN OUR RELATIONSHIP?"},
-    {"id":18, "q":"WHAT’S ONE THING YOU’LL DO DIFFERENTLY THE NEXT TIME WE ARGUE?"},
-    {"id":19, "q":"WHAT PART OF MY HEART DO YOU WISH YOU COULD HEAL?"},
-    {"id":20, "q":"HOW WOULD YOU DESCRIBE THE WAY I LOVE YOU TO YOUR CLOSEST FRIENDS OR FAMILY?"},
-    {"id":21, "q":"WHAT’S ONE DIFFERENCE BETWEEN US THAT YOU FIND ENDEARING?"},
-    {"id":22, "q":"WHAT’S ONE SIMILARITY BETWEEN US THAT YOU CHERISH?"},
-    {"id":23, "q":"ON A SCALE OF 1 TO 10, HOW VULNERABLE DO YOU THINK I’VE BEEN DURING THIS GAME? EXPLAIN."},
-    {"id":24, "q":"HOW HAVE I CHANGED SINCE WE FIRST MET? WHAT HAS REMAINED THE SAME?"},
-    {"id":25, "q":"WHAT’S SOMETHING I’M TOO CRITICAL OF MYSELF ABOUT?"},
-    {"id":26, "q":"WHAT WEAKNESS OF YOURS DO YOU THINK I HELP COMPLEMENT THE MOST?"},
-    {"id":27, "q":"WHAT’S SOMETHING YOU WISH WE DID MORE OFTEN TOGETHER?"},
-    {"id":28, "q":"WHAT’S ONE THING YOU FIND DIFFICULT TO SHARE WITH ME, IF ANYTHING?"},
-    {"id":29, "q":"WHAT GOAL WOULD BE THE MOST FULFILLING FOR YOU TO ACHIEVE THIS YEAR? HOW CAN I SUPPORT YOU IN REACHING IT?"},
-    {"id":30, "q":"WHAT DO YOU THINK I DON’T GIVE MYSELF ENOUGH CREDIT FOR?"},
-    {"id":31, "q":"WHAT ASPECT OF OUR RELATIONSHIP ARE YOU MOST PROUD OF?"},
-    {"id":32, "q":"WHAT DID THIS CONVERSATION REVEAL TO YOU ABOUT OUR RELATIONSHIP AND YOURSELF?"},
-    {"id":33, "q":"THANK YOU FOR HELPING ME REALIZE... ABOUT MYSELF."},
-    {"id":34, "q":"WHAT’S A LESSON ABOUT LOVE THAT YOU’LL TAKE AWAY FROM THIS GAME?"},
-    {"id":35, "q":"WHICH QUESTION FELT THE MOST VULNERABLE FOR YOU TO ANSWER?"},
-    {"id":36, "q":"WHICH QUESTION FELT THE MOST VULNERABLE FOR YOU TO ASK? EXPLAIN WHY."},
-    {"id":37, "q":"WHICH OF MY ANSWERS WILL YOU STILL BE REFLECTING ON AFTER THIS GAME?"},
-    {"id":38, "q":"IS THERE ANYTHING YOU STILL DON’T KNOW ABOUT ME THAT YOU WISH YOU DID?"},
-    {"id":39, "q":"IF YOU COULD PRESCRIBE ONE THING FOR OUR RELATIONSHIP, WHAT WOULD IT BE AND WHY?"},
-    {"id":40, "q":"WHAT’S THE MOST SURPRISING ANSWER I GAVE YOU DURING THIS GAME?"},
-    {"id":41, "q":"WHEN DID YOU FEEL THE MOST CONNECTED TO ME DURING THIS GAME?"},
-    {"id":42, "q":"WHAT DO YOU THINK IS THE BIGGEST LESSON WE'VE LEARNED TOGETHER?"},
-    {"id":43, "q":"HOW DO YOU THINK OUR RELATIONSHIP HAS SHAPED WHO WE ARE TODAY?"},
-    {"id":44, "q":"WHAT'S ONE THING YOU WISH FOR OUR FUTURE?"},
-    {"id":45, "q":"WHAT DO YOU THINK WE NEED TO DO TO KEEP OUR LOVE STRONG?"},
-    {"id":46, "q":"WHAT'S A FEAR YOU HAVE ABOUT OUR RELATIONSHIP?"},
-    {"id":47, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT GROWING OLD TOGETHER?"},
-    {"id":48, "q":"WHAT'S ONE THING YOU THINK WE SHOULD ALWAYS MAKE TIME FOR?"},
-    {"id":49, "q":"HOW DO YOU THINK WE'VE INFLUENCED EACH OTHER'S LIVES?"},
-    {"id":50, "q":"WHAT'S A PROMISE YOU WANT TO MAKE TO ME?"}
-    [
-    {"id":51, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT THE MOST DIFFICULT TIMES WE'VE FACED TOGETHER?"},
-    {"id":52, "q":"WHAT DO YOU THINK IS THE MOST IMPORTANT THING WE'VE TAUGHT EACH OTHER?"},
-    {"id":53, "q":"HOW DO YOU THINK WE CAN SUPPORT EACH OTHER BETTER?"},
-    {"id":54, "q":"WHAT'S ONE THING YOU THINK WE NEED TO BE MORE MINDFUL OF?"},
-    {"id":55, "q":"WHAT DO YOU THINK IS THE MOST BEAUTIFUL PART OF OUR RELATIONSHIP?"},
-    {"id":56, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR JOURNEY TOGETHER?"},
-    {"id":57, "q":"WHAT'S ONE THING YOU THINK WE SHOULD NEVER STOP DOING?"},
-    {"id":58, "q":"HOW DO YOU ENVISION OUR FUTURE TOGETHER?"},
-    {"id":59, "q":"WHAT'S ONE THING YOU WANT TO MAKE SURE WE DO IN THE NEXT YEAR?"},
-    {"id":60, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR PAST?"},
-    {"id":61, "q":"WHAT'S ONE THING YOU WANT TO WORK ON FOR OUR FUTURE?"},
-    {"id":62, "q":"HOW DO YOU THINK WE CAN KEEP OUR LOVE ALIVE AND EXCITING?"},
-    {"id":63, "q":"WHAT'S ONE THING YOU WANT TO ALWAYS REMEMBER ABOUT OUR RELATIONSHIP?"},
-    {"id":64, "q":"HOW DO YOU FEEL ABOUT OUR LONG-TERM GOALS?"},
-    {"id":65, "q":"WHAT'S ONE THING YOU THINK WE NEED TO FOCUS ON MORE?"},
-    {"id":66, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR COMMITMENT TO EACH OTHER?"},
-    {"id":67, "q":"WHAT’S A LONG-TERM DREAM YOU HAVE FOR OUR RELATIONSHIP?"},
-    {"id":68, "q":"HOW DO YOU THINK OUR RELATIONSHIP HAS SHAPED OUR FUTURE TOGETHER?"},
-    {"id":69, "q":"WHAT’S ONE THING YOU WANT TO PRIORITIZE IN OUR RELATIONSHIP MOVING FORWARD?"},
-    {"id":70, "q":"WHAT’S A PROMISE YOU WANT TO MAKE TO ME FOR THE FUTURE?"},
-    {"id":71, "q":"HOW DO YOU ENVISION US IN TEN YEARS?"},
-    {"id":72, "q":"WHAT’S SOMETHING YOU’VE ALWAYS WANTED TO TELL ME BUT HAVEN'T?"},
-    {"id":73, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR JOURNEY TOGETHER?"},
-    {"id":74, "q":"WHAT’S ONE THING YOU THINK WE SHOULD ALWAYS REMEMBER ABOUT OUR RELATIONSHIP?"},
-    {"id":75, "q":"HOW DO YOU FEEL ABOUT OUR SHARED VALUES AND GOALS?"},
-    {"id":76, "q":"WHAT’S A FEAR YOU HAVE ABOUT OUR FUTURE AND HOW CAN WE ADDRESS IT TOGETHER?"},
-    {"id":77, "q":"WHAT DO YOU THINK IS OUR GREATEST STRENGTH AS A COUPLE?"},
-    {"id":78, "q":"HOW DO YOU FEEL WE COMPLEMENT EACH OTHER’S WEAKNESSES?"},
-    {"id":79, "q":"WHAT’S A KEY LESSON OUR RELATIONSHIP HAS TAUGHT YOU?"},
-    {"id":80, "q":"HOW DO YOU THINK WE CAN KEEP OUR LOVE VIBRANT AND EXCITING?"},
-    {"id":81, "q":"WHAT’S A SIGNIFICANT MILESTONE YOU LOOK FORWARD TO CELEBRATING WITH ME?"},
-    {"id":82, "q":"HOW DO YOU FEEL ABOUT THE WAY WE HANDLE LIFE’S CHALLENGES TOGETHER?"},
-    {"id":83, "q":"WHAT’S ONE THING YOU WANT TO MAKE SURE WE ACHIEVE TOGETHER?"},
-    {"id":84, "q":"HOW DO YOU FEEL ABOUT OUR ABILITY TO SUPPORT EACH OTHER’S DREAMS?"},
-    {"id":85, "q":"WHAT’S ONE THING YOU HOPE WE NEVER STOP DOING TOGETHER?"},
-    {"id":86, "q":"HOW DO YOU THINK WE CAN BETTER NURTURE OUR RELATIONSHIP?"},
-    {"id":87, "q":"WHAT’S A RITUAL OR TRADITION YOU WANT TO KEEP IN OUR RELATIONSHIP?"},
-    {"id":88, "q":"HOW DO YOU FEEL ABOUT THE SACRIFICES WE MAKE FOR EACH OTHER?"},
-    {"id":89, "q":"WHAT’S ONE THING YOU’RE MOST PROUD OF IN OUR RELATIONSHIP?"},
-    {"id":90, "q":"HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR COMMITMENT TO EACH OTHER?"},
-    {"id":91, "q":"WHAT’S ONE THING YOU WANT TO IMPROVE IN OUR RELATIONSHIP FOR THE FUTURE?"},
-    {"id":92, "q":"WHAT’S ONE WAY YOU THINK OUR RELATIONSHIP HAS GROWN STRONGER OVER TIME?"},
-    {"id":93, "q":"WHAT’S A CHALLENGE WE’VE OVERCOME TOGETHER THAT MADE US STRONGER?"},
-    {"id":94, "q":"HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"},
-    {"id":95, "q":"WHAT’S A LESSON ABOUT LOVE THAT YOU’VE LEARNED FROM OUR RELATIONSHIP?"},
-    {"id":96, "q":"WHAT’S SOMETHING YOU’VE LEARNED ABOUT YOURSELF SINCE WE'VE BEEN TOGETHER?"},
-    {"id":97, "q":"WHAT’S ONE WAY WE CAN CONTINUE TO GROW TOGETHER?"},
-    {"id":98, "q":"WHAT’S A MEMORABLE MOMENT WHEN YOU FELT DEEPLY CONNECTED TO ME?"}
-]
-
-]
-
-          ],
-          "wildcards":[
-            [
+          "level": 3,
+          "questions": [
+            {
+              "id": 1,
+              "q": "WHAT’S A UNIQUE TALENT OF MINE THAT YOU THINK I MAY NOT EVEN REALIZE I HAVE?"
+            },
+            {
+              "id": 2,
+              "q": "HOW HAVE I CONTRIBUTED TO YOUR PERSONAL GROWTH?"
+            },
+            {
+              "id": 3,
+              "q": "WHAT’S YOUR FAVORITE RITUAL THAT WE HAVE TOGETHER? IS THERE A NEW RITUAL YOU’D LIKE TO CREATE FOR US?"
+            },
+            {
+              "id": 4,
+              "q": "WHAT DO YOU THINK I’M MOST SUITED TO OFFER RELATIONSHIP ADVICE ABOUT?"
+            },
+            {
+              "id": 5,
+              "q": "IF WE STARTED A BUSINESS TOGETHER, WHAT WOULD IT BE?"
+            },
+            {
+              "id": 6,
+              "q": "IN YOUR VIEW, WHERE DO YOU THINK I’M MOST HOLDING MYSELF BACK?"
+            },
+            {
+              "id": 7,
+              "q": "WHAT ADVICE WOULD YOU GIVE YOURSELF ON OUR FIRST DATE IF YOU COULD?"
+            },
+            {
+              "id": 8,
+              "q": "WHAT DO YOU BELIEVE IS OUR DEFINING TRAIT AS A COUPLE?"
+            },
+            {
+              "id": 9,
+              "q": "FINISH THIS SENTENCE: I’M MOST PROUD OF YOU FOR..."
+            },
+            {
+              "id": 10,
+              "q": "WHEN WAS THE LAST TIME YOU FELT TRULY LUCKY TO BE WITH ME? BE SPECIFIC."
+            },
+            {
+              "id": 11,
+              "q": "WHAT CAN OTHER COUPLES LEARN FROM OUR RELATIONSHIP?"
+            },
+            {
+              "id": 12,
+              "q": "WHAT’S ONE THING YOU’D NEVER WANT TO CHANGE ABOUT OUR RELATIONSHIP?"
+            },
+            {
+              "id": 13,
+              "q": "WHAT’S SOMETHING WE HAVE IN OUR RELATIONSHIP THAT YOU DIDN’T THINK WAS POSSIBLE?"
+            },
+            {
+              "id": 14,
+              "q": "WHAT EXCITES YOU MOST ABOUT OUR FUTURE TOGETHER?"
+            },
+            {
+              "id": 15,
+              "q": "WRITE A ONE-MINUTE STAND-UP COMEDY ROUTINE ABOUT OUR RELATIONSHIP AND PERFORM IT FOR EACH OTHER."
+            },
+            {
+              "id": 16,
+              "q": "FINISH THIS SENTENCE: THANK YOU FOR ACCEPTING... ABOUT ME."
+            },
+            {
+              "id": 17,
+              "q": "WHAT DO YOU THINK I FIND DIFFICULT TO OPEN UP ABOUT IN OUR RELATIONSHIP?"
+            },
+            {
+              "id": 18,
+              "q": "WHAT’S ONE THING YOU’LL DO DIFFERENTLY THE NEXT TIME WE ARGUE?"
+            },
+            {
+              "id": 19,
+              "q": "WHAT PART OF MY HEART DO YOU WISH YOU COULD HEAL?"
+            },
+            {
+              "id": 20,
+              "q": "HOW WOULD YOU DESCRIBE THE WAY I LOVE YOU TO YOUR CLOSEST FRIENDS OR FAMILY?"
+            },
+            {
+              "id": 21,
+              "q": "WHAT’S ONE DIFFERENCE BETWEEN US THAT YOU FIND ENDEARING?"
+            },
+            {
+              "id": 22,
+              "q": "WHAT’S ONE SIMILARITY BETWEEN US THAT YOU CHERISH?"
+            },
+            {
+              "id": 23,
+              "q": "ON A SCALE OF 1 TO 10, HOW VULNERABLE DO YOU THINK I’VE BEEN DURING THIS GAME? EXPLAIN."
+            },
+            {
+              "id": 24,
+              "q": "HOW HAVE I CHANGED SINCE WE FIRST MET? WHAT HAS REMAINED THE SAME?"
+            },
+            {
+              "id": 25,
+              "q": "WHAT’S SOMETHING I’M TOO CRITICAL OF MYSELF ABOUT?"
+            },
+            {
+              "id": 26,
+              "q": "WHAT WEAKNESS OF YOURS DO YOU THINK I HELP COMPLEMENT THE MOST?"
+            },
+            {
+              "id": 27,
+              "q": "WHAT’S SOMETHING YOU WISH WE DID MORE OFTEN TOGETHER?"
+            },
+            {
+              "id": 28,
+              "q": "WHAT’S ONE THING YOU FIND DIFFICULT TO SHARE WITH ME, IF ANYTHING?"
+            },
+            {
+              "id": 29,
+              "q": "WHAT GOAL WOULD BE THE MOST FULFILLING FOR YOU TO ACHIEVE THIS YEAR? HOW CAN I SUPPORT YOU IN REACHING IT?"
+            },
+            {
+              "id": 30,
+              "q": "WHAT DO YOU THINK I DON’T GIVE MYSELF ENOUGH CREDIT FOR?"
+            },
+            {
+              "id": 31,
+              "q": "WHAT ASPECT OF OUR RELATIONSHIP ARE YOU MOST PROUD OF?"
+            },
+            {
+              "id": 32,
+              "q": "WHAT DID THIS CONVERSATION REVEAL TO YOU ABOUT OUR RELATIONSHIP AND YOURSELF?"
+            },
+            {
+              "id": 33,
+              "q": "THANK YOU FOR HELPING ME REALIZE... ABOUT MYSELF."
+            },
+            {
+              "id": 34,
+              "q": "WHAT’S A LESSON ABOUT LOVE THAT YOU’LL TAKE AWAY FROM THIS GAME?"
+            },
+            {
+              "id": 35,
+              "q": "WHICH QUESTION FELT THE MOST VULNERABLE FOR YOU TO ANSWER?"
+            },
+            {
+              "id": 36,
+              "q": "WHICH QUESTION FELT THE MOST VULNERABLE FOR YOU TO ASK? EXPLAIN WHY."
+            },
+            {
+              "id": 37,
+              "q": "WHICH OF MY ANSWERS WILL YOU STILL BE REFLECTING ON AFTER THIS GAME?"
+            },
+            {
+              "id": 38,
+              "q": "IS THERE ANYTHING YOU STILL DON’T KNOW ABOUT ME THAT YOU WISH YOU DID?"
+            },
+            {
+              "id": 39,
+              "q": "IF YOU COULD PRESCRIBE ONE THING FOR OUR RELATIONSHIP, WHAT WOULD IT BE AND WHY?"
+            },
+            {
+              "id": 40,
+              "q": "WHAT’S THE MOST SURPRISING ANSWER I GAVE YOU DURING THIS GAME?"
+            },
+            {
+              "id": 41,
+              "q": "WHEN DID YOU FEEL THE MOST CONNECTED TO ME DURING THIS GAME?"
+            },
+            {
+              "id": 42,
+              "q": "WHAT DO YOU THINK IS THE BIGGEST LESSON WE'VE LEARNED TOGETHER?"
+            },
+            {
+              "id": 43,
+              "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS SHAPED WHO WE ARE TODAY?"
+            },
+            {
+              "id": 44,
+              "q": "WHAT'S ONE THING YOU WISH FOR OUR FUTURE?"
+            },
+            {
+              "id": 45,
+              "q": "WHAT DO YOU THINK WE NEED TO DO TO KEEP OUR LOVE STRONG?"
+            },
+            {
+              "id": 46,
+              "q": "WHAT'S A FEAR YOU HAVE ABOUT OUR RELATIONSHIP?"
+            },
+            {
+              "id": 47,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT GROWING OLD TOGETHER?"
+            },
+            {
+              "id": 48,
+              "q": "WHAT'S ONE THING YOU THINK WE SHOULD ALWAYS MAKE TIME FOR?"
+            },
+            {
+              "id": 49,
+              "q": "HOW DO YOU THINK WE'VE INFLUENCED EACH OTHER'S LIVES?"
+            },
+            {
+              "id": 50,
+              "q": "WHAT'S A PROMISE YOU WANT TO MAKE TO ME?"
+            },
+            {
+              "id": 51,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT THE MOST DIFFICULT TIMES WE'VE FACED TOGETHER?"
+            },
+            {
+              "id": 52,
+              "q": "WHAT DO YOU THINK IS THE MOST IMPORTANT THING WE'VE TAUGHT EACH OTHER?"
+            },
+            {
+              "id": 53,
+              "q": "HOW DO YOU THINK WE CAN SUPPORT EACH OTHER BETTER?"
+            },
+            {
+              "id": 54,
+              "q": "WHAT'S ONE THING YOU THINK WE NEED TO BE MORE MINDFUL OF?"
+            },
+            {
+              "id": 55,
+              "q": "WHAT DO YOU THINK IS THE MOST BEAUTIFUL PART OF OUR RELATIONSHIP?"
+            },
+            {
+              "id": 56,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR JOURNEY TOGETHER?"
+            },
+            {
+              "id": 57,
+              "q": "WHAT'S ONE THING YOU THINK WE SHOULD NEVER STOP DOING?"
+            },
+            {
+              "id": 58,
+              "q": "HOW DO YOU ENVISION OUR FUTURE TOGETHER?"
+            },
+            {
+              "id": 59,
+              "q": "WHAT'S ONE THING YOU WANT TO MAKE SURE WE DO IN THE NEXT YEAR?"
+            },
+            {
+              "id": 60,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR PAST?"
+            },
+            {
+              "id": 61,
+              "q": "WHAT'S ONE THING YOU WANT TO WORK ON FOR OUR FUTURE?"
+            },
+            {
+              "id": 62,
+              "q": "HOW DO YOU THINK WE CAN KEEP OUR LOVE ALIVE AND EXCITING?"
+            },
+            {
+              "id": 63,
+              "q": "WHAT'S ONE THING YOU WANT TO ALWAYS REMEMBER ABOUT OUR RELATIONSHIP?"
+            },
+            {
+              "id": 64,
+              "q": "HOW DO YOU FEEL ABOUT OUR LONG-TERM GOALS?"
+            },
+            {
+              "id": 65,
+              "q": "WHAT'S ONE THING YOU THINK WE NEED TO FOCUS ON MORE?"
+            },
+            {
+              "id": 66,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR COMMITMENT TO EACH OTHER?"
+            },
+            {
+              "id": 67,
+              "q": "WHAT’S A LONG-TERM DREAM YOU HAVE FOR OUR RELATIONSHIP?"
+            },
+            {
+              "id": 68,
+              "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS SHAPED OUR FUTURE TOGETHER?"
+            },
+            {
+              "id": 69,
+              "q": "WHAT’S ONE THING YOU WANT TO PRIORITIZE IN OUR RELATIONSHIP MOVING FORWARD?"
+            },
+            {
+              "id": 70,
+              "q": "WHAT’S A PROMISE YOU WANT TO MAKE TO ME FOR THE FUTURE?"
+            },
+            {
+              "id": 71,
+              "q": "HOW DO YOU ENVISION US IN TEN YEARS?"
+            },
+            {
+              "id": 72,
+              "q": "WHAT’S SOMETHING YOU’VE ALWAYS WANTED TO TELL ME BUT HAVEN'T?"
+            },
+            {
+              "id": 73,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR JOURNEY TOGETHER?"
+            },
+            {
+              "id": 74,
+              "q": "WHAT’S ONE THING YOU THINK WE SHOULD ALWAYS REMEMBER ABOUT OUR RELATIONSHIP?"
+            },
+            {
+              "id": 75,
+              "q": "HOW DO YOU FEEL ABOUT OUR SHARED VALUES AND GOALS?"
+            },
+            {
+              "id": 76,
+              "q": "WHAT’S A FEAR YOU HAVE ABOUT OUR FUTURE AND HOW CAN WE ADDRESS IT TOGETHER?"
+            },
+            {
+              "id": 77,
+              "q": "WHAT DO YOU THINK IS OUR GREATEST STRENGTH AS A COUPLE?"
+            },
+            {
+              "id": 78,
+              "q": "HOW DO YOU FEEL WE COMPLEMENT EACH OTHER’S WEAKNESSES?"
+            },
+            {
+              "id": 79,
+              "q": "WHAT’S A KEY LESSON OUR RELATIONSHIP HAS TAUGHT YOU?"
+            },
+            {
+              "id": 80,
+              "q": "HOW DO YOU THINK WE CAN KEEP OUR LOVE VIBRANT AND EXCITING?"
+            },
+            {
+              "id": 81,
+              "q": "WHAT’S A SIGNIFICANT MILESTONE YOU LOOK FORWARD TO CELEBRATING WITH ME?"
+            },
+            {
+              "id": 82,
+              "q": "HOW DO YOU FEEL ABOUT THE WAY WE HANDLE LIFE’S CHALLENGES TOGETHER?"
+            },
+            {
+              "id": 83,
+              "q": "WHAT’S ONE THING YOU WANT TO MAKE SURE WE ACHIEVE TOGETHER?"
+            },
+            {
+              "id": 84,
+              "q": "HOW DO YOU FEEL ABOUT OUR ABILITY TO SUPPORT EACH OTHER’S DREAMS?"
+            },
+            {
+              "id": 85,
+              "q": "WHAT’S ONE THING YOU HOPE WE NEVER STOP DOING TOGETHER?"
+            },
+            {
+              "id": 86,
+              "q": "HOW DO YOU THINK WE CAN BETTER NURTURE OUR RELATIONSHIP?"
+            },
+            {
+              "id": 87,
+              "q": "WHAT’S A RITUAL OR TRADITION YOU WANT TO KEEP IN OUR RELATIONSHIP?"
+            },
+            {
+              "id": 88,
+              "q": "HOW DO YOU FEEL ABOUT THE SACRIFICES WE MAKE FOR EACH OTHER?"
+            },
+            {
+              "id": 89,
+              "q": "WHAT’S ONE THING YOU’RE MOST PROUD OF IN OUR RELATIONSHIP?"
+            },
+            {
+              "id": 90,
+              "q": "HOW DO YOU FEEL WHEN YOU THINK ABOUT OUR COMMITMENT TO EACH OTHER?"
+            },
+            {
+              "id": 91,
+              "q": "WHAT’S ONE THING YOU WANT TO IMPROVE IN OUR RELATIONSHIP FOR THE FUTURE?"
+            },
+            {
+              "id": 92,
+              "q": "WHAT’S ONE WAY YOU THINK OUR RELATIONSHIP HAS GROWN STRONGER OVER TIME?"
+            },
+            {
+              "id": 93,
+              "q": "WHAT’S A CHALLENGE WE’VE OVERCOME TOGETHER THAT MADE US STRONGER?"
+            },
+            {
+              "id": 94,
+              "q": "HOW DO YOU THINK OUR RELATIONSHIP HAS CHANGED YOU?"
+            },
+            {
+              "id": 95,
+              "q": "WHAT’S A LESSON ABOUT LOVE THAT YOU’VE LEARNED FROM OUR RELATIONSHIP?"
+            },
+            {
+              "id": 96,
+              "q": "WHAT’S SOMETHING YOU’VE LEARNED ABOUT YOURSELF SINCE WE'VE BEEN TOGETHER?"
+            },
+            {
+              "id": 97,
+              "q": "WHAT’S ONE WAY WE CAN CONTINUE TO GROW TOGETHER?"
+            },
+            {
+              "id": 98,
+              "q": "WHAT’S A MEMORABLE MOMENT WHEN YOU FELT DEEPLY CONNECTED TO ME?"
+            }
+          ]
+        },
+        {
+          "wildcards": [
     {"id":1, "q":"WILDCARD: MAKE A PROMISE TO EACH OTHER TO BE KEPT IN THE FUTURE. SHARE AND DISCUSS."},
     {"id":2, "q":"WILDCARD: PLAY A ROUND OF ROCK-PAPER-SCISSORS. LOSER MUST DO ANYTHING THEIR PARTNER REQUESTS."},
     {"id":3, "q":"WILDCARD: IDENTIFY ONE THING WE CAN DO THIS WEEK TO STRENGTHEN OUR RELATIONSHIP. SCHEDULE IT NOW."},
@@ -913,19 +1572,14 @@
     {"id":44, "q":"WILDCARD: WRITE A LETTER TO YOUR PARTNER ABOUT YOUR DREAMS FOR YOUR FUTURE FAMILY. EXCHANGE AND READ."},
     {"id":45, "q":"WILDCARD: DESCRIBE A PERFECT FUTURE DAY TOGETHER. PLAN HOW TO MAKE IT HAPPEN."}
 ]
-
-          ]
         }
       ],
       "top_questions": [
-        [
-    {"id": 1, "q": "What warning would you give yourself about me if you could go back to the beginning of our relationship?"},
-    {"id": 2, "q": "How do you see our relationship influencing the people around us?"},
-    {"id": 3, "q": "How do you envision us growing together over the next 10 years?"},
-    {"id": 4, "q": "Write a letter to your partner’s younger self. Share and discuss."},
-    {"id": 5, "q": "Take turns sharing what this experience has taught you about your partner, your relationship, and yourself."}
-]
-
+        {"id": 1, "q": "What warning would you give yourself about me if you could go back to the beginning of our relationship?"},
+        {"id": 2, "q": "How do you see our relationship influencing the people around us?"},
+        {"id": 3, "q": "How do you envision us growing together over the next 10 years?"},
+        {"id": 4, "q": "Write a letter to your partner’s younger self. Share and discuss."},
+        {"id": 5, "q": "Take turns sharing what this experience has taught you about your partner, your relationship, and yourself."}
       ]
     },
     {
