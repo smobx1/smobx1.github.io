@@ -1590,16 +1590,13 @@
       "premium": false,
       "suggested_for": "Ideal for 2-4",
       "gameOverMessage":[
-        [
-{"message":"Each write a heartfelt letter to the other expressing your appreciation and share them. Open when not together anymore."},
-{"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
-{"message":"Each person shares their favorite quality about the other and why it’s important to them."},
-{"message":"Describe your favorite memory together and why it stands out. Compare and discuss."},
-{"message":"Share what you value most in your friendship and why."},
-{"message":"Reflect on the game: what’s one thing you learned about your friend that you didn’t know before?"},
-{"message":"List three things you’ve learned from each other and how they’ve impacted your life."}
-]
-
+        {"message":"Each write a heartfelt letter to the other expressing your appreciation and share them. Open when not together anymore."},
+        {"message":"Take turns sharing something you’ve always wanted to tell the other but haven’t."},
+        {"message":"Each person shares their favorite quality about the other and why it’s important to them."},
+        {"message":"Describe your favorite memory together and why it stands out. Compare and discuss."},
+        {"message":"Share what you value most in your friendship and why."},
+        {"message":"Reflect on the game: what’s one thing you learned about your friend that you didn’t know before?"},
+        {"message":"List three things you’ve learned from each other and how they’ve impacted your life."}
       ],
       "gameStartMessages":[
         {"message": "How to Play:\n\n1. Two Ways to Play:\nPass the Phone: After your turn, pass the phone to the next player.\nAppoint a Host: One player reads all the questions and wildcards.\n\n2. Levels & Wildcards:\nEach level has 15 questions, getting deeper as you go.\nWildcards may require actions or reflections—follow the prompts!\n\n3. Be Prepared:\nKeep pen and paper handy for certain wildcards.\n\nReady to connect, share, and have fun? Let’s play!"}
